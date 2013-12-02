@@ -1,0 +1,17 @@
+<?php $_config_vars = array (
+  'title' => 'ابزارهای X!',
+  'source' => 'نمایش مبدا',
+  'language' => 'یک زبان را انتخاب کنید',
+  'submit' => 'اجرا',
+  'nowiki' => '$1یک ویکی ثبت شده نیست',
+  'wiki' => 'ویکی',
+  'mysqlerror' => 'خطای پایگاه‌داده!, لطفا گزارش کنید به X! using <a href=\'http://en.wikipedia.org/wiki/User:X!/Bugs\'>the bug reporter.</a> Be sure to report the following SQL error when reporting:<br /><pre>$1</pre>',
+  'highreplag' => 'احتیاط: <a href=\'https://wiki.toolserver.org/view/Replag\'>Replication lag</a> is high, changes newer than $1 may not be shown.',
+  'executed' => 'اجرا شده در $1 ثانیه',
+  'translatelink' => 'ترجمه',
+  'w' => 'هفته',
+  'd' => 'روز',
+  'h' => 'ساعت',
+  'm' => 'ماه',
+  's' => 'ثانیه',
+); ?>

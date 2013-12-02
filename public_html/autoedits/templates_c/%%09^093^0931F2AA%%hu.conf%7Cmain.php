@@ -1,0 +1,17 @@
+<?php $_config_vars = array (
+  'title' => 'X! eszközök',
+  'source' => 'Forrás megtekintése',
+  'language' => 'Válassz nyelvet',
+  'submit' => 'Mehet',
+  'nowiki' => '$1 is not a valid wiki',
+  'wiki' => 'Wiki',
+  'mysqlerror' => 'MySQL hiba, jelentsd az X! felé  <a href=\'http://en.wikipedia.org/wiki/User:X!/Bugs\'>Hiba beküldő.</a> Be sure to report the following SQL error when reporting:<br /><pre>$1</pre>',
+  'highreplag' => 'Figyelmeztetés: <a href=\'https://wiki.toolserver.org/view/Replag\'>Replication lag</a> is high, changes newer than $1 may not be shown.',
+  'executed' => 'Futási idő $1 másodperc',
+  'translatelink' => 'fordítás',
+  'w' => 'hét',
+  'd' => 'nap',
+  'h' => 'óra',
+  'm' => 'perc',
+  's' => 'másodperc',
+); ?>

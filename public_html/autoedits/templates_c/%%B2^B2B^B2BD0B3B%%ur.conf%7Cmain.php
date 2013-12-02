@@ -1,0 +1,17 @@
+<?php $_config_vars = array (
+  'title' => 'X!\'s tools',
+  'source' => 'مآخذ دیکھئے',
+  'language' => 'زبان کا انتخاب',
+  'submit' => 'محفوظ',
+  'nowiki' => '$1 غیر صحیح ویکی',
+  'wiki' => 'ویکی',
+  'mysqlerror' => 'MySQL غلطی، براہ مہربانی</a> بگ رپورٹر <a href=\'http://en.wikipedia.org/wiki/User:X!/Bugs\'> کا استعمال کرتے ہوئے X! کو مطلع فرمائیے۔ مطلع کرتے ہوئے MySQKL پیش آنے والی مشکل کا حوالہ ضرور دیجئے۔<br /><pre>$1</pre> ',
+  'highreplag' => 'احتیاط: <a href=\'https://wiki.toolserver.org/view/Replag\'>Replication lag</a> is high, changes newer than $1 may not be shown.',
+  'executed' => '$1 سیکنڈز میں اجراء کیا گیا',
+  'translatelink' => 'ترجمہ',
+  'w' => 'ہفتے',
+  'd' => 'دن',
+  'h' => 'گھنٹے',
+  'm' => 'منٹ',
+  's' => 'سیکنڈ',
+); ?>

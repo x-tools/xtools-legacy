@@ -1,0 +1,77 @@
+****************************************************************
+CHANGELOG 2.3.0 to 2.3.3
+****************************************************************
+
+Requested new features:
+=======================
+CR#450 - Add option to specify window target for CSIM
+CR#453 - Add additional style option for plot lines
+CR#464 - Automatically adjust label precision
+CR#465 - Add option for vertical text in graphic tables
+CR#000 - Added flags for Bangladesh and Republic of Serbia
+CR#000 - Added Example combgraphex1.php to 2.x tree
+
+Reported Defect fixes:
+======================
+PR#250 - Off by one - rounding error for filled gradients
+PR#445 - Example code: Image::SetAntiAliasing() expects boolean
+PR#448 - Workaround for bug in PHP 4.4.7 (Affects Pie)
+PR#449 - Adding text to rotated graphs gets wrong angle for box
+PR#454 - Localized error message can only be shown once
+PR#455 - Startangle is ignored if only one slice in a Pie is !=0
+PR#456 - German locale problem with punctuation
+PR#457 - Array with non-consequtive indexes are not handled as 
+         URL argument for CSIM
+PR#458 - Add additional error check for accumulated line plot
+PR#459 - UPCA with first digit != 0 will be encoded wrongly
+PR#461 - Windroses does not handle title correctly 
+PR#463 - Wrong handling of small slices
+PR#466 - Further wrong handling of small slices in Pie
+PR#000 - Typo in jpgraph_table.php ',' instead of ';'
+PR#000 - Initialize output parameters to headers_sent() method call
+
+Performance enhancements:
+=========================
+* Remove one uneccessary call to StrokeDataVal for markers 
+  on linegraphs
+* Modified Wu-algorithm for better handling of start-end points
+* Refactored Image class and added error check for use of 
+  anti-alias together with dashed styled lines
+
+****************************************************************
+CHANGELOG 2.2.0 to 2.3.0
+****************************************************************
+Requested new features:
+=======================
+CR#443 - Add support for russian LED characters
+CR#431 - Make it possible to add an alternate text to linear barcodes
+CR#427 - Feature request to add trademark symbol to SymChar class 
+CR#433 - Make it possible to add images to tables without constrains
+CR#450 - Add option to specify window target for CSIM
+
+Reported Defect fixes:
+======================
+PR#430 - Wrong scope for protected variable in PHP5 version of PDF417
+PR#432 - Unquoted % sign in error message 22001
+PR#438 - v2.x does not handle line weight==0 properly
+PR#441 - Wrong HTML for circle CSIM in v2.x
+PR#442 - Fixed possible undefined sval for CSIM when no alt titles are given
+PR#444 - Divide by zero in certain date scale ranges
+PR#445 - Example code: Image::SetAntiAliasing() expects boolean
+PR#250 - Off by one - rounding error for filled gradients
+PR#448 - Workaround for bug imagefilledarc() (Affects Pie)
+PR#449 - Adding text to rotated graphs gets wrong angle for box
+PR#451 - Various code cleanup for 2.x branch 
+
+Additional code fixes:
+======================
+* Make minimum automatic margin smaller
+* Added support for XPM image format
+* Add error check to see if imageantialias() GD function exists
+* Added flags for Bangladesh and Republic of Serbia
+* Wrong unicode value for TM
+* Corrected wrong error message and uninitialized variable
+* Potential divide by zero case for tick positioning
+* Removed deprecated call to AdjBackgroundImage() in Example
+* Updated CSIM examples to not include the filename in the StrokeCSIM() call 
+* Added Example combgraphex1.php to 2.x tree

@@ -1,0 +1,17 @@
+<?php $_config_vars = array (
+  'title' => 'nástroje X!',
+  'source' => 'Zobrazit zdroj',
+  'language' => 'Vybrat jazyk',
+  'submit' => 'Pokračovat',
+  'nowiki' => '$1 není platná wiki',
+  'wiki' => 'Wiki',
+  'mysqlerror' => 'Chyba v MySQL, prosím kontaktujte X! přes <a href=\'http://en.wikipedia.org/wiki/User:X!/Bugs\'>chybovou zprávu.</a> Be sure to report the following SQL error when reporting:<br /><pre>$1</pre>',
+  'highreplag' => 'Varování: <a href=\'https://wiki.toolserver.org/view/Replag\'>Zpoždění replikace</a> je vysoké, změny novější než $1 nejspíše nebudou zobrazeny.',
+  'executed' => 'Zobrazeno za $1 s',
+  'translatelink' => 'přeložit',
+  'w' => 'týdny',
+  'd' => 'dny',
+  'h' => 'hodiny',
+  'm' => 'minuty',
+  's' => 'vteřiny',
+); ?>
