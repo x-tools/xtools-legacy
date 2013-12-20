@@ -207,7 +207,7 @@ class HTTP {
         foreach( $x['query']['pages'] as $page ) {
             if( !isset( $page['revisions'] ) ) {
                 
-                $x = unserialize( $this->get( '//meta.wikimedia.org/w/api.php?action=query&prop=revisions&titles=User:'.urlencode($user).'/EditCounterGlobalOptIn.js&rvprop=content&format=php' ) );
+                $x = unserialize( $this->get( 'http://meta.wikimedia.org/w/api.php?action=query&prop=revisions&titles=User:'.urlencode($user).'/EditCounterGlobalOptIn.js&rvprop=content&format=php' ) );
                 foreach( $x['query']['pages'] as $page ) {
                     if( !isset( $page['revisions'] ) ) {
                         $x = unserialize( $this->get( $this->baseurl . 'api.php?action=query&prop=revisions&titles=User:'.urlencode($user).'/Editcounter&rvprop=content&format=php' ) );

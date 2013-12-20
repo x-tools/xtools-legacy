@@ -1,5 +1,4 @@
 <?php
-
 $final_array = array();
 
 error_reporting(E_ALL);
@@ -18,7 +17,7 @@ include( '/data/project/xtools/stats.php' );
 $tool = 'ECAPI';
 $surl = "//tools.wmflabs.org".$_SERVER['REQUEST_URI'];
 if (isset($_GET['name'])) {
-	addStat( $tool, $surl, @$_SERVER['HTTP_REFERER'], $_SERVER['HTTP_USER_AGENT'] );//Stat checking
+    addStat( $tool, $surl, @$_SERVER['HTTP_REFERER'], $_SERVER['HTTP_USER_AGENT'] );//Stat checking
 }
 unset($tool, $surl);
 
@@ -35,13 +34,13 @@ $wgDBPass = $toolserver_password;
 $fnc = new Functions;
 
 if( !isset( $_GET['name'] ) ) {
-	toDie( "No username given", "missingusername" );
+    toDie( "No username given", "missingusername" );
 }
 if( !isset( $_GET['lang'] ) ) {
-	toDie( "No language given", "missinglanguage" );
+    toDie( "No language given", "missinglanguage" );
 }
 if( !isset( $_GET['wiki'] ) ) {
-	toDie( "No wiki given", "missingwiki" );
+    toDie( "No wiki given", "missingwiki" );
 }
 
 $name = ucfirst( ltrim( rtrim( str_replace( array('&#39;','%20'), array('\'',' '), $_GET['name'] ) ) ) );
@@ -53,21 +52,21 @@ $lang = $_GET['lang'];
 $lang = str_replace('/', '', $lang);
 $wiki = str_replace('/', '', $wiki);
 $url = $lang.'.'.$wiki.'.org';
-$http = new HTTP( '//'.$url.'/w/' );
+$http = new HTTP( 'https://'.$url.'/w/' );
 
 /*THIS NEEDS UPDATING AS SOON AS LABS IS READY
 $tdbr = new Database( 
-	'sql-toolserver', 
-	$wgDBPort, 
-	$wgDBUser, 
-	$wgDBPass, 
-	'toolserver', 
-	true
+    'sql-toolserver', 
+    $wgDBPort, 
+    $wgDBUser, 
+    $wgDBPass, 
+    'toolserver', 
+    true
 );*/
 
 $dbInfo = $fnc->getDBInfo( $lang, $wiki );
 if( isset( $dbInfo['error'] ) ) {
-	toDie( $phptemp->getConf( 'nowiki', $url ) );
+    toDie( $phptemp->getConf( 'nowiki', $url ) );
 }
 
 
@@ -88,10 +87,10 @@ $wgNamespaces = $fnc->getNamespaces('enwiki_p');
 $cnt = new Counter( $name );
 
 $final_array = array(
-	'query' => array(
-		'count' => array(
-		)
-	)
+    'query' => array(
+        'count' => array(
+        )
+    )
 );
 
 $retUser = $cnt->getName();
@@ -103,8 +102,8 @@ $retLive = intval( $cnt->getLive() );
 $retTotal = intval( $cnt->getTotal() );
 $retGroupList = $cnt->getGroupList();
 $retGroupList['_element'] = 'g';
-$retUniqueArticles = $cnt->getUniqueArticles();
-$retUniqueArticleCount = number_format( count($retUniqueArticles['total']) );
+//$retUniqueArticles = $cnt->getUniqueArticles();
+//$retUniqueArticleCount = number_format( count($retUniqueArticles['total']) );
 $retFirstEdit = $cnt->getFirstEdit();
 $retAveragePageEdits = $cnt->getAveragePageEdits();
 $retMonthTotals = $cnt->getMonthTotals();
@@ -117,9 +116,9 @@ $final_array['query']['count']['user_exists'] = $retExists;
 $final_array['query']['count']['user_id'] = $retUID;
 $final_array['query']['count']['opted_in'] = $retOptedIn;
 $final_array['query']['count']['counts'] = array(
-	'deleted' => $retDeleted,
-	'live' => $retLive,
-	'total' => $retTotal,
+    'deleted' => $retDeleted,
+    'live' => $retLive,
+    'total' => $retTotal,
 );
 $final_array['query']['count']['groups'] = $retGroupList;
 $final_array['query']['count']['firstedit'] = $retFirstEdit;
@@ -132,11 +131,11 @@ if( in_array( 'namespacetotals', $prop ) ) {
 }
 
 if( in_array( 'monthtotals', $prop ) && $retOptedIn != "false" ) {
-	$final_array['query']['count']['monthtotals'] = $cnt->getMonthTotals();
-	foreach( $final_array['query']['count']['monthtotals'] as $month => $counts ) {
-		$final_array['query']['count']['monthtotals'][$month]['_element'] = 'ns';
-	}
-	$final_array['query']['count']['monthtotals']['_element'] = 'm';
+    $final_array['query']['count']['monthtotals'] = $cnt->getMonthTotals();
+    foreach( $final_array['query']['count']['monthtotals'] as $month => $counts ) {
+        $final_array['query']['count']['monthtotals'][$month]['_element'] = 'ns';
+    }
+    $final_array['query']['count']['monthtotals']['_element'] = 'm';
 }
 
 if( in_array( 'uniquearticles', $prop ) ) {
@@ -145,17 +144,17 @@ if( in_array( 'uniquearticles', $prop ) ) {
 //var_dump( $final_array);
 
 foreach( $final_array['query']['count'] as $k => $v ) {
-	if( !in_array( $k, $prop ) ) {
-		unset($final_array['query']['count'][$k]);
-	}
+    if( !in_array( $k, $prop ) ) {
+        unset($final_array['query']['count'][$k]);
+    }
 }
 
 $API->showArray( $final_array );
 
 function toDie( $msg, $code = 'generror' ) {
-	global $API;
-	$array = array( 'error' => array( 'code' => $code, 'info' => $msg ) );
-	$API->showArray( $array );
-	die();
+    global $API;
+    $array = array( 'error' => array( 'code' => $code, 'info' => $msg ) );
+    $API->showArray( $array );
+    die();
 } 
 
