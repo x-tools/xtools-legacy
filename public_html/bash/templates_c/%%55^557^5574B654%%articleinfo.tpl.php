@@ -124,7 +124,7 @@ function switchShow( id ) {
 <?php if ($this->_tpl_vars['graphs'] != ""): ?>
 <table>
 <tr>
-<td><img src="//chart.apis.google.com/chart?cht=p3&amp;chd=t:<?php echo $this->_tpl_vars['graphuserpct']; ?>
+<td><img src="//chart.googleapis.com/chart?cht=p3&amp;chd=t:<?php echo $this->_tpl_vars['graphuserpct']; ?>
 ,<?php echo $this->_tpl_vars['graphanonpct']; ?>
 &amp;chs=250x100&amp;chdl=<?php echo $this->_config[0]['vars']['users']; ?>
 %20%28<?php echo $this->_tpl_vars['graphuserpct']; ?>
@@ -132,7 +132,7 @@ function switchShow( id ) {
 %20%28<?php echo $this->_tpl_vars['graphanonpct']; ?>
 %%29&amp;chco=FF5555|55FF55&amp;chf=bg,s,00000000" alt="<?php echo $this->_config[0]['vars']['anonalt']; ?>
 " /></td>
-<td><img src="//chart.apis.google.com/chart?cht=p3&amp;chd=t:<?php echo $this->_tpl_vars['graphminorpct']; ?>
+<td><img src="//chart.googleapis.com/chart?cht=p3&amp;chd=t:<?php echo $this->_tpl_vars['graphminorpct']; ?>
 ,<?php echo $this->_tpl_vars['graphmajorpct']; ?>
 &amp;chs=250x100&amp;chdl=<?php echo $this->_config[0]['vars']['minor']; ?>
 %20%28<?php echo $this->_tpl_vars['graphminorpct']; ?>
@@ -140,7 +140,7 @@ function switchShow( id ) {
 %20%28<?php echo $this->_tpl_vars['graphmajorpct']; ?>
 %%29&amp;chco=FFFF55|FF55FF&amp;chf=bg,s,00000000" alt="<?php echo $this->_config[0]['vars']['minoralt']; ?>
 " /></td>
-<td><img src="//chart.apis.google.com/chart?cht=p3&amp;chd=t:<?php echo $this->_tpl_vars['graphtoptenpct']; ?>
+<td><img src="//chart.googleapis.com/chart?cht=p3&amp;chd=t:<?php echo $this->_tpl_vars['graphtoptenpct']; ?>
 ,<?php echo $this->_tpl_vars['graphbottomninetypct']; ?>
 &amp;chs=280x100&amp;chdl=<?php echo $this->_config[0]['vars']['topten']; ?>
 %20%28<?php echo $this->_tpl_vars['graphtoptenpct']; ?>

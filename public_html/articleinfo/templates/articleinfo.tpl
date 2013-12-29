@@ -66,9 +66,9 @@ function switchShow( id ) {
 {if $graphs != ""}
 <table>
 <tr>
-<td><img src="//chart.apis.google.com/chart?cht=p3&amp;chd=t:{$graphuserpct},{$graphanonpct}&amp;chs=250x100&amp;chdl={#users#}%20%28{$graphuserpct}%%29|{#ips#}%20%28{$graphanonpct}%%29&amp;chco=FF5555|55FF55&amp;chf=bg,s,00000000" alt="{#anonalt#}" /></td>
-<td><img src="//chart.apis.google.com/chart?cht=p3&amp;chd=t:{$graphminorpct},{$graphmajorpct}&amp;chs=250x100&amp;chdl={#minor#}%20%28{$graphminorpct}%%29|{#major#}%20%28{$graphmajorpct}%%29&amp;chco=FFFF55|FF55FF&amp;chf=bg,s,00000000" alt="{#minoralt#}" /></td>
-<td><img src="//chart.apis.google.com/chart?cht=p3&amp;chd=t:{$graphtoptenpct},{$graphbottomninetypct}&amp;chs=280x100&amp;chdl={#topten#}%20%28{$graphtoptenpct}%%29|{#bottomninety#}%20%28{$graphbottomninetypct}%%29&amp;chco=5555FF|55FFFF&amp;chf=bg,s,00000000" alt="{#toptenalt#}" /></td>
+<td><img src="//chart.googleapis.com/chart?cht=p3&amp;chd=t:{$graphuserpct},{$graphanonpct}&amp;chs=250x100&amp;chdl={#users#}%20%28{$graphuserpct}%%29|{#ips#}%20%28{$graphanonpct}%%29&amp;chco=FF5555|55FF55&amp;chf=bg,s,00000000" alt="{#anonalt#}" /></td>
+<td><img src="//chart.googleapis.com/chart?cht=p3&amp;chd=t:{$graphminorpct},{$graphmajorpct}&amp;chs=250x100&amp;chdl={#minor#}%20%28{$graphminorpct}%%29|{#major#}%20%28{$graphmajorpct}%%29&amp;chco=FFFF55|FF55FF&amp;chf=bg,s,00000000" alt="{#minoralt#}" /></td>
+<td><img src="//chart.googleapis.com/chart?cht=p3&amp;chd=t:{$graphtoptenpct},{$graphbottomninetypct}&amp;chs=280x100&amp;chdl={#topten#}%20%28{$graphtoptenpct}%%29|{#bottomninety#}%20%28{$graphbottomninetypct}%%29&amp;chco=5555FF|55FFFF&amp;chf=bg,s,00000000" alt="{#toptenalt#}" /></td>
 </tr>
 </table>
 </div>
