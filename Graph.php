@@ -38,7 +38,7 @@ class Graph {
 	function pie( $title = '', $bgcolor = "00000000" ) {
 		global $phptemp;
 		
-		$url = "http://chart.apis.google.com/chart?cht=p3&chd=t:";
+		$url = "//chart.googleapis.com/chart?cht=p3&chd=t:";
 		
 		$pcts = $this->getPercentages( $this->mGross );
 		
