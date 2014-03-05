@@ -14,7 +14,7 @@ function addStat( $tool, $fullurl, $referer, $agent ) {
         if( $referer == "" ) { $referrer = "Direct"; }
         global $toolserver_username,$toolserver_password;
         mysql_connect( "tools-db", $toolserver_username,$toolserver_password );
-        @mysql_select_db( "p50380g50570_xtools" ) or print mysql_error( );
+        @mysql_select_db( "s51187_xtools" ) or print mysql_error( );
 				$tool = mysql_escape_string( $tool );
         $url = mysql_escape_string( $fullurl );
         $referer = mysql_escape_string( $referer );

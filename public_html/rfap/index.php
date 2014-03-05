@@ -92,7 +92,7 @@ $mysql = mysql_connect( 'enwiki.labsdb',$toolserver_username,$toolserver_passwor
 @mysql_select_db( 'enwiki_p', $mysql ) or toDie( "MySQL error, please report to X! using <a href=\"//en.wikipedia.org/wiki/User:TParis/Bugs\">the bug reporter.</a> Be sure to report the following SQL error when reporting:<br /><pre>".mysql_error()."</pre>" );
 
 $tools = mysql_connect("tools-db",$toolserver_username,$toolserver_password);
-@mysql_select_db("p50380g50570_xtools", $tools) or toDie( "MySQL error, please report to X! using <a href=\"//en.wikipedia.org/wiki/User:TParis/Bugs\">the bug reporter.</a> Be sure to report the following SQL error when reporting:<br /><pre>".mysql_error()."</pre>" );
+@mysql_select_db("s51187_xtools", $tools) or toDie( "MySQL error, please report to X! using <a href=\"//en.wikipedia.org/wiki/User:TParis/Bugs\">the bug reporter.</a> Be sure to report the following SQL error when reporting:<br /><pre>".mysql_error()."</pre>" );
 unset($toolserver_username, $toolserver_password);
 /* Uncomment to reset table
 $query = "drop table `rfap`;";
@@ -233,9 +233,9 @@ foreach ($rfastoupdate as $rfatoup) {
     $how = updaterfa($title, $name);
     $how2db = mysql_real_escape_string(serialize($how));
     $md5 = md5($how2db);
-    $existq = "DELETE FROM p50380g50570_xtools.rfap WHERE name = '$rfatoup';";
+    $existq = "DELETE FROM s51187_xtools.rfap WHERE name = '$rfatoup';";
     $existr = mysql_query($existq, $tools);
-    $insert = "INSERT INTO p50380g50570_xtools.rfap (name , md5 , pulls , data ) VALUES ( '$rfatoup' , '$md5', '0' , '$how2db' );";
+    $insert = "INSERT INTO s51187_xtools.rfap (name , md5 , pulls , data ) VALUES ( '$rfatoup' , '$md5', '0' , '$how2db' );";
            $foo = mysql_query($insert, $tools);
     if(!$foo) toDie("ERROR: No result returned.<br />$insert");
     $upd .= " $title";
