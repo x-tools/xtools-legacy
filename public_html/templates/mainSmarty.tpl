@@ -31,9 +31,9 @@
 {/if}
 </div>
 <div id="footer">
-<span style="float:right;">
-<a href="//validator.w3.org/check?uri=referer"><img src="//tools.wmflabs.org/xtools/images/xhtml.png" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
-<a href="//anybrowser.org/campaign"><img src="//tools.wmflabs.org/xtools/images/anybrowser.png" alt="AnyBrowser compliant" /></a>
+<span style="float:right; margin-top: -5px">
+<a href="//validator.w3.org/check?uri=referer" style="vertical-align: super;"><img src="//tools.wmflabs.org/xtools/images/xhtml.png" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+<a href="//anybrowser.org/campaign" style="vertical-align: super;"><img src="//tools.wmflabs.org/xtools/images/anybrowser.png" alt="AnyBrowser compliant" /></a>
 <a href="//tools.wmflabs.org"><img src="//tools.wmflabs.org/xtools/images/labs.png" alt="Powered by WMF Labs" /></a>
 </span>
 <span style="float:right;padding-right:10px">&copy;2013 <a href="//en.wikipedia.org/wiki/User:X!">X!</a>
