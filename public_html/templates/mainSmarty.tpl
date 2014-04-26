@@ -38,7 +38,7 @@
 </span>
 <span style="float:right;padding-right:10px">&copy;2013 <a href="//en.wikipedia.org/wiki/User:X!">X!</a>
 {if $source != ""} | <a href="//tools.wmflabs.org/xtools/highlight/?q={$source}">{#source#}</a>{/if}
-{if $souRce2 != ""} | <a href="{$source2}">{#source#}</a>{/if} | <a href="https://webchat.freenode.net/?channels=#xlabs">{#bugs#}</a></span>
+{if $souRce2 != ""} | <a href="{$source2}">{#source#}</a>{/if} | <a href="https://webchat.freenode.net/?channels=#wikimedia-labs">{#bugs#}</a></span>
 <a name="footer" />
 {if $curlang != ""}<span id="footertext">{#language#}{/if}{if $translate != ""} (<a href="{$translate}">{#translatelink#}</a>){/if}{if $curlang != ""}: {$curlang} | <span width="30%">{$langlinks}</span></span>{/if}
 </div>
