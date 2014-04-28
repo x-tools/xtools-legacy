@@ -39,7 +39,7 @@ class AutoEditsBase {
 
          try {
             $res = $dbr->select(
-               array( 'revision' ),
+               array( 'revision_userindex' ),
                array( 'COUNT(*) AS count' ),
                $conds
             );
