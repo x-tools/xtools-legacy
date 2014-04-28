@@ -32,8 +32,9 @@
    $phptemp->assign( "page", $user );
    
    if( !$userClass->exists() ) WebTool::toDieMsg( 'nosuchuser', $user );
-   
-//   $count = $userClass->get_editcount( false, $dbr );
+
+   $useLabs = true;   
+   $count = $userClass->get_editcount( false, $dbr );
    
    //Here
    if( $count > 100000 ) WebTool::toDieMsg( 'toomanyedits', 100000 );
