@@ -1,8 +1,8 @@
 <?php
 
 //Requires
-	require_once( '/data/project/newwebtest/xtools/public_html/WebTool.php' );
-	require_once( '/data/project/newwebtest/xtools/public_html/blame/base.php' );
+	require_once( '/data/project/xtools/public_html/WebTool.php' );
+	require_once( '/data/project/xtools/public_html/blame/base.php' );
 
 // set some global vars
 	$pgVerbose = false;
