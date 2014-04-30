@@ -1,6 +1,6 @@
 body {
-	background-image:url("//toolserver.org/~soxred93/images/bgpattern.png");
-	background-attachment:fixed;
+	/* background-image:url("//toolserver.org/~soxred93/images/bgpattern.png"); */
+	/* background-attachment:fixed; */
 	font-family: frutiger linotype,lucida grande,helvetica,arial,sans-serif;
 	font-size: 85%;
 	margin: 0;
@@ -17,7 +17,7 @@ body {
 	//border: 1px solid #1234aa;
 	//border-bottom: none;
 	//background-color: #000066;
-	background-image:url("//toolserver.org/~soxred93/images/gradient.php?color1=50729F&color2=3063A5&size=20");
+	/* background-image:url("images/gradient.php?color1=EEEEEE&color2=D0E4EE&size=20"); */
 	color: #000033;
 }
 #content {
@@ -27,16 +27,16 @@ body {
 	//border-top: 5px solid #ff6600;
 	//border-bottom:none; 
 	//background-color: #e6e6e6;
-	//background-image:url("//toolserver.org/~soxred93/images/gradient3.png");
-	background-image:url("//toolserver.org/~soxred93/images/gradient.php?color1=EEEEFF&color2=D0E4EE&size=200");
+	//background-image:url("images/gradient3.png");
+	background-image:url("images/gradient.php?color1=EEEEEE&color2=D0E4EE&size=200");
 	background-repeat:repeat-x;
 	background-color: #D0E4EE;
 }
 #footer {
 	padding: 2px 20px 2px 20px;
 	height: 31px;
-	//background-image:url("//toolserver.org/~soxred93/images/gradient4.png");
-	background-image:url("//toolserver.org/~soxred93/images/gradient.php?color1=D0E4EE&color2=EAEAEA&size=31");
+	/* background-image:url("//toolserver.org/~soxred93/images/gradient4.png"); */
+	/* background-image:url("//toolserver.org/~soxred93/images/gradient.php?color1=D0E4EE&color2=EAEAEA&size=31"); */
 	background-repeat:repeat-x;
 	background-color: #EAEAEA;
 	//background-color: #000066;
