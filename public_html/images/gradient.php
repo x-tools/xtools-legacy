@@ -1,6 +1,6 @@
 <?php
 
-require('/home/soxred93/public_html/images/gradient_class.php');
+require('gradient_class.php');
 
 $height = $_GET['size'];
 
