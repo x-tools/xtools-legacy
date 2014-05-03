@@ -38,19 +38,36 @@
 </span><br />
 {/if}
 </div>
+
 <div id="footer">
-<span style="float:right; margin-top: -5px">
-<a href="//validator.w3.org/check?uri=referer" style="vertical-align: super;"><img src="//tools.wmflabs.org/xtools/images/xhtml.png" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
-<a href="//anybrowser.org/campaign" style="vertical-align: super;"><img src="//tools.wmflabs.org/xtools/images/anybrowser.png" alt="AnyBrowser compliant" /></a>
-<a href="//tools.wmflabs.org"><img src="//tools.wmflabs.org/xtools/images/labs.png" alt="Powered by WMF Labs" /></a>
-</span>
-<span style="float:right;padding-right:10px">&copy;2013 <a href="//en.wikipedia.org/wiki/User:X!">X!</a>
-{if $source != ""} | <a href="//tools.wmflabs.org/xtools/highlight/?q={$source}">{#source#}</a>{/if}
-{if $souRce2 != ""} | <a href="{$source2}">{#source#}</a>{/if} | <a href="https://webchat.freenode.net/?channels=#wikimedia-labs">{#bugs#}</a></span>
-<a name="footer" />
-{if $curlang != ""}<span id="footertext">{#language#}{/if}{if $translate != ""} (<a href="{$translate}">{#translatelink#}</a>){/if}{if $curlang != ""}: {$curlang} | <span width="30%">{$langlinks}</span></span>{/if}
+<div style="float:right; display:inline-block">
+	<span >
+		<!-- <a href="//validator.w3.org/check?uri=referer"><img src="//tools.wmflabs.org/xtools/images/xhtml.png" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a> -->
+		<a href="//anybrowser.org/campaign"><img src="//tools.wmflabs.org/xtools/images/anybrowser.png" alt="AnyBrowser compliant" /></a>
+		<a href="//tools.wmflabs.org"><img src="//tools.wmflabs.org/xtools/images/labs.png" alt="Powered by WMF Labs" /></a>
+	</span>
+</div>
+<div style="float:left; display:inline-block; line-height:1.5em;">
+	<span>&copy;2014 
+		<a href="//en.wikipedia.org/wiki/User:Cyberpower678">Cyberpower678</a>&middot; 
+		<a href="//de.wikipedia.org/wiki/User:Hedonil">Hedonil</a>&middot; 
+		<a href="//en.wikipedia.org/wiki/User:TParis">TParis</a>&middot;
+		<a href="//en.wikipedia.org/wiki/User:X!">X!</a> &nbsp;|&nbsp; 
+		{if $source != ""}<a href="//github.com/x-Tools/xtools/tree/master/public_html/{$source}" >{#source#}</a>
+		{else}<a href="//github.com/x-Tools/xtools/" >{#source#}</a>{/if} &nbsp;|&nbsp;
+		<a href="//github.com/x-Tools/xtools/issues" >{#bugs#}</a> &nbsp;|&nbsp;
+		<a href="irc://irc.freenode.net/#wikimedia-labs" >#wikimedia-labs</a>
+		<sup><a  style="color:green" href="https://webchat.freenode.net/?channels=#wikimedia-labs">WebChat</a></sup>
+	</span><br />
+	<span>
+		{if $curlang != ""}{#language#}{/if}{if $curlang != ""}: {$curlang} | <span >{$langlinks}</span>{/if}
+	</span>
 </div>
 </div>
+</div>
+
+<!-- currently ice'd {if $translate != ""} (<a href="{$translate}">{#translatelink#}</a>){/if} -->
+
 
 <script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
 
