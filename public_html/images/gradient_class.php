@@ -105,6 +105,7 @@ class gd_gradient_fill {
     
     // The main function that draws the gradient
     function fill($im,$direction,$start,$end) {
+    	$r=$g=$b= null;
         
         switch($direction) {
             case 'horizontal':
