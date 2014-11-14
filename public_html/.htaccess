@@ -1,6 +1,0 @@
-RewriteEngine on
-RewriteBase /
-RewriteRule ^/xtools/ec/(.+)/(.+)/(.+)$ /xtools/pcount/index.php?name=$1&lang=$2&wiki=$3
-RewriteRule ^/xtools/ec/(.+)/(.+)/?$ /xtools/pcount/index.php?name=$1&lang=$2&wiki=wikipedia
-RewriteRule ^/xtools/ec/(.+)/?$ /xtools/pcount/index.php?name=$1&lang=en&wiki=wikipedia
-RewriteRule ^/xtools/ec/?$ /xtools/pcount/index.php

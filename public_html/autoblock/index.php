@@ -1,94 +1,101 @@
 <?php
 
-# ############################# #
-# Autoblock finder              #
-# Nakon, 2010                   #
-# ############################# #
+//Requires
+	require_once( '/data/project/xtools/modules/WebTool.php' );
+	
+//Load WebTool class
+	$wt = new WebTool( 'autoblock' );
+	$wt->setLimits();
+	$wt->getPageTemplate( 'form' );
+	
+	$wt->assign( 'defaultUser', '%' );
+	
+	$wi = $wt->wikiInfo;
+		$lang = $wi->lang; 
+		$wiki = $wi->wiki;
+		$domain = $wi->domain;
 
-$cnt = file_get_contents( "ab.txt" );
-$cnt++;
-file_put_contents ( "ab.txt", $cnt );
+	$user = $wgRequest->getVal('user');
+#	$ui = $wt->getUserInfo();
+#		$user = $ui->user;
+	
+//Show form if &article parameter is not set (or empty)
+	if( !$user ) {
+		$wt->showPage();
+	}
+	if (!$domain ){
+		$wt->error = "No wiki or project specified - default project set to: en.wikipedia";
+		$lang = "en";
+		$wiki = "wikipedia";
+		$domain = "en.wikipedia.org";
+	}
+	
+	$dbr = $wt->loadDatabase($lang, $wiki);
+	
+	$userdb = $dbr->strencode ($user);
+	$query = "
+   		SELECT ipb_id, ipb_by_text, UNIX_TIMESTAMP(ipb_expiry) as ipb_expiry, ipb_user 
+   		FROM ipblocks 
+   		WHERE ipb_auto = 1 AND ipb_reason LIKE '%$userdb%'
+   	";
+	
+	$result = $dbr->query( $query );
+	
+	$list = '<tr><th>#</th><th>id</th><th>expiry</th><th>admin</th><th>action</th></tr>';
+	if ( count($result) >0 ){
+		foreach( $result as $i => $out ) {
+			$list .= '
+					<tr>
+					<td>'.($i+1).'.</td>
+					<td><strong>#' . $out['ipb_id'] . '</strong></td>
+					<td class="tddate" style="vertical-align:middle">'.date('Y-m-d H:i',$out["ipb_expiry"]).'</td>
+					<td>- blocked by <a href="//'.$domain.'/wiki/User:' . htmlspecialchars( $out['ipb_by_text'] ) . '">' . htmlspecialchars( $out['ipb_by_text'] ) . '</a></td>
+					<td><a href="//'.$domain.'/w/index.php?title=Special:BlockList&action=unblock&id=' . $out['ipb_id'] . '">Lift block</a></td>
+					</tr>
+				';
+		}
+	}
+	else{
+		$list = $I18N->msg('noresult', array("variables" => array($user) ) ).'. Try % instead.';
+	}
+	$wt->content = getPageTemplate( 'result' );
+	$wt->assign( 'list', $list );
+	$wt->assign( 'domain', $domain );
+	$wt->assign( 'searchtext', $user );
+	
+unset( $list, $result );	
+$wt->showPage();
+	
 
-if ( $_GET['u'] ) {
-
-   # begin database connection
-   //include('/home/nakon/includes/database.php');
-   //dbconnect('enwiki-p');
-
-   require_once( '/data/project/xtools/database.inc' );
-   mysql_connect( 'enwiki.labsdb',$toolserver_username,$toolserver_password );
-   @mysql_select_db('enwiki_p') or print mysql_error();
-
-   $q = 'SELECT ipb_id, ipb_by_text, ipb_expiry, ipb_user FROM ipblocks WHERE ipb_auto = 1 AND ipb_reason LIKE "%' . mysql_real_escape_string( $_GET['u'] ) . '%"';
-   $result = mysql_query( $q );
-   while ( $out = mysql_fetch_array( $result ) ) {
-      $autoblockList .= '<li><strong>#' . $out['ipb_id'] . '</strong> - blocked by <a href="//en.wikipedia.org/wiki/User:' . htmlspecialchars( $out['ipb_by_text'] ) . '">' . htmlspecialchars( $out['ipb_by_text'] ) . '</a> :: <a href="//en.wikipedia.org/w/index.php?title=Special:BlockList&action=unblock&id=' . $out['ipb_id'] . '">Lift block</a><br />';
-   }
-
-   $html = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="//www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <title>autoblock finder &middot; results</title>
-</head>
-<body style="font-family:georgia;padding:0;margin:0;">
-   <div id="mainContainer" style="width:1000px;margin-left:auto;margin-right:auto;overflow:auto;">
-      <div id="header" style="width:1000px;border-bottom:2px solid grey;">
-         <span style="font-size:16pt;">autoblock finder &mdash; results</span>
-      </div>
-      <div id="leftBox" style="float:left;padding:5px;background-color:#BBB;width:990px;clear:both;margin-top:15px;">
-         <h2 style="margin:0;margin-bottom:15px;border-bottom:2px solid black;">Autoblocks for ' . htmlspecialchars( $_GET['u'] ) . '</h2>
-         ' . ( !$autoblockList ? 'No autoblocks found' : $autoblockList ) . '
-         <hr />
-         <a href="index.php">Check another account</a>
-      </div>
-   </div>
-   <div id="footerContainer" style="width:1000px;padding:5px;margin-top:10px;margin-left:auto;margin-right:auto;border:1px solid black;background-color:#DDD;overflow:auto;">
-      <div id="footerText" style="float:left;">
-         <p style="margin-top:8px;margin-bottom:0;">Powered by toolserver.  Last updated ' . date( "m/d/Y", filemtime( 'autoblockfinder.php' ) ) . '.</p>
-      </div>
-      <div id="toolserverBug" style="float:right;">
-         <a href="//toolserver.org"><img src="//toolserver.org/images/wikimedia-toolserver-button.png" style="border:none;" alt="powered by toolserver" /></a>
-      </div>
-   </div>
-<!-- ' . $cnt . ' -->
-</body>
-</html>';
-
-   echo $html;
-   
-
-} else {
-
-   $html = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="//www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <title>autoblock finder</title>
-</head>
-<body style="font-family:georgia;padding:0;margin:0;">
-   <div id="mainContainer" style="width:1000px;margin-left:auto;margin-right:auto;overflow:auto;">
-      <div id="header" style="width:1000px;border-bottom:2px solid grey;">
-         <span style="font-size:16pt;">autoblock finder</span>
-      </div>
-      <div id="leftBox" style="float:left;padding:5px;background-color:#BBB;width:990px;clear:both;margin-top:15px;">
-         <form action="index.php" method="GET">
-         <strong>User name</strong> <input type="textbox" name="u" /><br />
-         <input type="submit" value="Check autoblocks for user" />
-         </form>
-      </div>
-   </div>
-   <div id="footerContainer" style="width:1000px;padding:5px;margin-top:10px;margin-left:auto;margin-right:auto;border:1px solid black;background-color:#DDD;overflow:auto;">
-      <div id="footerText" style="float:left;">
-         <p style="margin-top:8px;margin-bottom:0;">Powered by labs.  Last updated ' . date( "m/d/Y", filemtime( 'index.php' ) ) . '.</p>
-      </div>
-      <div id="toolserverBug" style="float:right;">
-         <a href="//toolserver.org"><img src="//toolserver.org/images/wikimedia-toolserver-button.png" style="border:none;" alt="powered by toolserver" /></a>
-      </div>
-   </div>
-<!-- ' . $cnt . ' -->
-</body>
-</html>';
-
-   echo $html;
+/**************************************** templates ****************************************
+ *
+*/
+function getPageTemplate( $type ){
+	
+	$templateResult = '
+		<div class="panel panel-primary" style="text-align:center">
+			<div class="panel-heading">
+				<p class="xt-heading-top" >
+					<span>Autoblock</span>
+					<small><span style="padding-left:10px;" > &bull;&nbsp; {$domain} </span></small>
+				</p>
+			</div>
+			<div class="panel-body xt-panel-body-top" >	
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h4  class="topcaption" >{#searchresult#} <span class="showhide" onclick="javascript:switchShow( \'generalstats\', this )">[{#hide#}]</span></h4>
+					</div>
+					<div class="panel-body" id="generalstats">
+						<p>{#tosearch#}: {$searchtext}</p>
+						<table class="table-striped sortable table-condensed xt-table" >	
+							{$list}
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	';
+	
+	if( $type == "result" ) { return $templateResult; }
 }
+

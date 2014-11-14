@@ -3,15 +3,11 @@
 class BashBase {
 
 	var $quotes;
-	var $api = false;
 
-	public function __construct( $api = false ) {
-		global $pgHTTP;
-		
-                if (!isset($pgHTTP)){
-                	$pgHTTP =new HTTP();
-                }
-		
+	public function __construct() {
+		 
+		$pgHTTP = new HTTP();
+
 		$text = $pgHTTP->get('http://meta.wikimedia.org/w/index.php?title=IRC/Quotes&action=raw&ctype=text/css', false);
 		
 		$text = explode('<pre><nowiki>', $text);
@@ -23,7 +19,6 @@ class BashBase {
 		$text = preg_replace('/\n/', '<br />', $text);
 		
 		$this->quotes = explode("%<br />", $text);
-		$this->api = $api;
 
 	}
 	
@@ -67,5 +62,5 @@ class BashBase {
 		
 		return $retArr;
 	}
-
+	
 }
