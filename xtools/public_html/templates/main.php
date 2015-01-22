@@ -74,7 +74,6 @@
                 <a href="//de.wikipedia.org/wiki/User:Hedonil">Hedonil</a> &middot;
                 <a href="//en.wikipedia.org/wiki/User:MusikAnimal"><b>MusikAnimal</b></a> &middot;
                 <a href="//en.wikipedia.org/wiki/User:Technical 13"><b>Technical 13</b></a> &middot;
-                <a href="//en.wikipedia.org/wiki/User:YuviPanda"><b>YuviPanda</b></a> &middot;
                 <a href="//en.wikipedia.org/wiki/User:TParis">TParis</a> &middot;
                 <a href="//en.wikipedia.org/wiki/User:X!">X!</a> &bull;  
 				<?php echo $wt->sourcecode ?>
