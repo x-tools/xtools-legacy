@@ -2,7 +2,7 @@
 
 //Requires
 	require_once( '/data/project/xtools/modules/WebTool.php' );
-	require_once( 'Counter.php' );
+	require_once( '/data/project/xtools/modules/Counter.php' );
 
 	
 //Load WebTool class
