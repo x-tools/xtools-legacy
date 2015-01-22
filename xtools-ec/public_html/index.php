@@ -1,6 +1,9 @@
 <?php
 
 //Requires
+    DEFINE('XTOOLS_BASE_SYS_DIR_SESSION', '/data/project/xtools-ec' );
+    DEFINE('XTOOLS_BASE_SYS_DIR_DB', '/data/project/xtools-ec' );
+    set_include_path( get_include_path() . PATH_SEPARATOR . '/data/project/xtools/public_html/ec');
 	require_once( '/data/project/xtools/modules/WebTool.php' );
 	require_once( '/data/project/xtools/modules/Counter.php' );
 

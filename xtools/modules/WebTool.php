@@ -4,6 +4,8 @@ DEFINE('STARTMEM', memory_get_usage(true) );
 
 DEFINE('PEACHY_BASE_SYS_DIR', '/data/project/xtools' );
 DEFINE('XTOOLS_BASE_SYS_DIR', '/data/project/xtools' );
+DEFINE('XTOOLS_BASE_SYS_DIR_DB', '/data/project/xtools' );
+DEFINE('XTOOLS_BASE_SYS_DIR_SESSION', '/data/project/xtools' );
 DEFINE('XTOOLS_BASE_WEB_DIR', 'tools.wmflabs.org/xtools' );
 DEFINE('XTOOLS_I18_TEXTFILE', '/data/project/xtools/modules/Xtools.i18n.php'); 
 DEFINE('XTOOLS_REDIS_FLUSH_TOKEN', 'x000004');
@@ -11,7 +13,7 @@ DEFINE('XTOOLS_LONG_QUEUE_COUNT', 'longQueueCount');
 DEFINE('XTOOLS_DATABASE_TMP', 's51187__xtools_tmp');
 DEFINE('XTOOLS_LONG_QUEUE_LIMIT', 6 );
 
-set_include_path( get_include_path() . PATH_SEPARATOR . XTOOLS_BASE_SYS_DIR . '/modules');
+set_include_path( get_include_path() . PATH_SEPARATOR . XTOOLS_BASE_SYS_DIR . '/modules' . PATH_SEPARATOR . XTOOLS_BASE_SYS_DIR . '/public_html');
 
 $perflog = new Perflog();
 
@@ -94,7 +96,7 @@ class WebTool {
       $this->checkSpider();
       
       //Start session
-      session_save_path(XTOOLS_BASE_SYS_DIR.'/tmp/session');
+      session_save_path(XTOOLS_BASE_SYS_DIR_SESSION.'/tmp/session');
       ini_set('session.gc_probability', 1);
       session_cache_limiter("public");
       session_cache_expire(30);
@@ -142,7 +144,7 @@ class WebTool {
             &#9733;&nbsp; Try: <a class="alert-link" href="//meta.wikimedia.org/wiki/User:Hedonil/XTools" >XTools gadget</a>. It\'s fast. Enjoy!&nbsp;&bull;&nbsp;
             &nbsp;&bull;&nbsp;#Featured: <a class="alert-link" href="http://tools.wmflabs.org/directory/?view=web" >Directory NG</a>  &#9733;
          '; 
-      $this->alert = '<b>Notice:</b> Again issues with Tool Labs databases after db maintenance. Some wiki\'s won\'t work. Sorry about that!';
+      $this->alert = '';
       #Now with cross-wiki notifications <sup style=color:green; font-style:italic">beta</sup>
       #$xnotice["adminstats"] = 'Please note: Default behaviour has changed. To autorun with default of 100 days, please set both parameters: <i>project</i> and <i>begin</i>. Eg.: ?project=enwiki<b>&begin=default</b>';
       $this->toolnotice = isset( $xnotice[$configtitle] ) ? $xnotice[$configtitle] : '';
@@ -591,7 +593,7 @@ class WebTool {
       global $dbUser, $dbPwd;
       
       try{
-         $inifile = XTOOLS_BASE_SYS_DIR . "/replica.my.cnf";
+         $inifile = XTOOLS_BASE_SYS_DIR_DB . "/replica.my.cnf";
          $iniVal = parse_ini_file($inifile);
          $dbUser = $iniVal["user"];
          $dbPwd  = $iniVal["password"];
@@ -1121,7 +1123,7 @@ class WebTool {
       if ( $this->viewStyle == "old" ){
          $tmpl = 'main.php';
       }
-      include "../templates/$tmpl";
+      include "templates/$tmpl";
    
       if( $this->debug ) 
          $perflog->getOutput();

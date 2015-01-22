@@ -30,7 +30,7 @@
 	<div id="content">
 		<div id="navigation" class="center container">
 			<a href="//tools.wmflabs.org/supercount/">User Analysis Tool</a> &middot; 
-			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/ec/">Edit counter<sup style="color:green; font-size:70%; position:relative;left:-27px; top:-5px; margin-right:-30px">classic</sup></a> &middot; 
+			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>-ec/">Edit counter<sup style="color:green; font-size:70%; position:relative;left:-27px; top:-5px; margin-right:-30px">classic</sup></a> &middot; 
 			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/articleinfo/">Page history</a> &middot; 
 			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/pages/">Pages created</a> &middot;
 			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/topedits/">Top edits</a> &middot; 

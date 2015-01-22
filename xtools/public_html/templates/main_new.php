@@ -42,7 +42,7 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-left">
-					<li class="<?php echo $wt->active["ec"]?>" >			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/ec/" title="Edit Counter"><?php echo $I18N->msg('tool_ec') ?></a></li> 
+					<li class="<?php echo $wt->active["ec"]?>" >			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>-ec/" title="Edit Counter"><?php echo $I18N->msg('tool_ec') ?></a></li> 
 					<li class="<?php echo $wt->active["articleinfo"]?>" >	<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/articleinfo/" title="Page history" ><?php echo $I18N->msg('tool_articleinfo') ?></a></li> 
 					<li class="<?php echo $wt->active["pages"]?>" >			<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/pages/" title="Pages created" ><?php echo $I18N->msg('tool_pages') ?></a></li>
 					<li class="<?php echo $wt->active["topedits"]?>" >		<a href="//<?php echo XTOOLS_BASE_WEB_DIR ?>/topedits/" title="Top edits" ><?php echo $I18N->msg('tool_topedits') ?></a></li>
