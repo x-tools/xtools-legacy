@@ -81,9 +81,12 @@
 			<hr style="margin:5px 10px;" />
 			<div class="row">
 				<div class="col">
-					<span>&copy; 2008-2014 &middot; </span>
+					<span>&copy; 2008-2015 &middot; </span>
+                    <a href="//en.wikipedia.org/wiki/User:Cyberpower678"><b>Cyberpower678</b></a> &middot;
 					<a href="//de.wikipedia.org/wiki/User:Hedonil">Hedonil</a> &middot;
-					<a href="//en.wikipedia.org/wiki/User:Cyberpower678">Cyberpower678</a> &middot;
+                    <a href="//en.wikipedia.org/wiki/User:MusikAnimal"><b>MusikAnimal</b></a> &middot;
+                    <a href="//en.wikipedia.org/wiki/User:Technical 13"><b>Technical 13</b></a> &middot;
+                    <a href="//en.wikipedia.org/wiki/User:YuviPanda"><b>YuviPanda</b></a> &middot;
 					<a href="//en.wikipedia.org/wiki/User:TParis">TParis</a> &middot;
 					<a href="//en.wikipedia.org/wiki/User:X!">X!</a> &bull;
 					<?php echo $wt->sourcecode ?>

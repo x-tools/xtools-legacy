@@ -70,10 +70,13 @@
 		</div>	
 		<div style="float:left; display:inline-block; line-height:1.5em;">
 			<span>&copy;2014 
-				<a href="//en.wikipedia.org/wiki/User:Cyberpower678">Cyberpower678</a> &middot;
-				<a href="//de.wikipedia.org/wiki/User:Hedonil">Hedonil</a> &middot;
-				<a href="//en.wikipedia.org/wiki/User:TParis">TParis</a> &middot;
-				<a href="//en.wikipedia.org/wiki/User:X!">X!</a> &bull;  
+				<a href="//en.wikipedia.org/wiki/User:Cyberpower678"><b>Cyberpower678</b></a> &middot;
+                <a href="//de.wikipedia.org/wiki/User:Hedonil">Hedonil</a> &middot;
+                <a href="//en.wikipedia.org/wiki/User:MusikAnimal"><b>MusikAnimal</b></a> &middot;
+                <a href="//en.wikipedia.org/wiki/User:Technical 13"><b>Technical 13</b></a> &middot;
+                <a href="//en.wikipedia.org/wiki/User:YuviPanda"><b>YuviPanda</b></a> &middot;
+                <a href="//en.wikipedia.org/wiki/User:TParis">TParis</a> &middot;
+                <a href="//en.wikipedia.org/wiki/User:X!">X!</a> &bull;  
 				<?php echo $wt->sourcecode ?>
 				<?php echo $wt->bugreport ?>
 				<a href="irc://irc.freenode.net/#wikimedia-labs" >#wikimedia-labs</a>
