@@ -8,9 +8,9 @@ function getUserActivity( $wt ){
 	global $redis, $perflog;
 	
 	$resArr = array();
-	if ( !$wt->loggedInUsername ){ return $resArr; }
+	if ( !$wt->OAuthObject->isAuthorized() ){ return $resArr; }
 	
-	$username = $wt->loggedInUsername;
+	$username = $wt->OAuthObject->getUsername();
 	
 	$ttl = 1800;
 	$hash = session_id().XTOOLS_REDIS_FLUSH_TOKEN."02".hash('crc32', "xtoolsMSGWikis".$username );
@@ -176,7 +176,7 @@ function mergeCustomWikis( $wt, $wikis ){
 function getCrossWikiMessage( $wt, $type='agent', $limit=5, $forceRefresh=false ){
 	global $perflog, $redis, $wgRequest;
 	
-	if ( !$wt->loggedInUsername ){ return null;}
+	if ( !$wt->OAuthObject->isAuthorized() ){ return null;}
 	
 	$wikiArr = getUserActivity( $wt );
 	
@@ -184,7 +184,7 @@ function getCrossWikiMessage( $wt, $type='agent', $limit=5, $forceRefresh=false 
 	$msgwrap2 = '</div></li>';
 	
 	$ttl = 300;
-	$hash = session_id().XTOOLS_REDIS_FLUSH_TOKEN."03".hash('crc32', "xtoolsMSG1".$wt->loggedInUsername );
+	$hash = session_id().XTOOLS_REDIS_FLUSH_TOKEN."03".hash('crc32', "xtoolsMSG1".$wt->OAuthObject->getUsername() );
 	$lc = $redis->get($hash);
 	
 	if ( $lc === false || $forceRefresh ){
@@ -219,7 +219,7 @@ function getCrossWikiMessage( $wt, $type='agent', $limit=5, $forceRefresh=false 
 		}
 		#$perflog->stack[] = $wikis;
 	
-		$res = OAuth::doApiMultiQuery($apiRequestArr);
+		$res = $wt->OAuthObject->doApiMultiQuery($apiRequestArr);
 		
 		#$perflog->stack[] = $res;
 	

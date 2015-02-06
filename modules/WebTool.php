@@ -62,6 +62,7 @@ class WebTool {
    
    public $loggedIn;
    public $loggedInUsername;
+   public $OAuthObject;
    
    public $wikiInfo;
    public $userInfo;
@@ -100,23 +101,32 @@ class WebTool {
       ini_set('session.gc_probability', 1);
       session_cache_limiter("public");
       session_cache_expire(30);
-      $lifetime = 86400;
+      $lifetime = 15552000;
       $path = preg_replace('/^(\/.*\/).*/', '\1', dirname($_SERVER['SCRIPT_NAME']) );
       session_name( 'xtools' );
       session_set_cookie_params ( $lifetime, $path, ".tools.wmflabs.org"); 
       session_start();
+      
 
       //Init webRequest object
       $wgRequest = new WebRequest();
       
-      if ( ! ( $wgRequest->getVal('oauth_token', null) || 
-            $wgRequest->getVal('oauth_verifier', null) || 
-            strpos( $wgRequest->getFullRequestURL(), 'login') > 0   ||
-            strpos( $wgRequest->getFullRequestURL(), 'api.php') > 0  
-      )){
-         
-         $_SESSION["last_xt_request"] = $_SERVER["REQUEST_URI"];
+      /*if( XTOOLS_BASE_SYS_DIR != XTOOLS_BASE_SYS_DIR_DB ) {
+          $_SESSION['forcesessionretrieval'] = true;
+      } else {
+          $_SESSION['forcesessionretrieval'] = false;
       }
+      if( $_SESSION['forcesessionretrieval'] === TRUE && !isset( $_GET['h'] ) && !isset( $_GET['hash'] ) ) {
+          header( "Location: https://".XTOOLS_BASE_WEB_DIR."/oauthredirector.php?action=getsession&returnto=".$wgRequest->getFullRequestURL() );
+          die();
+      }
+      if( isset( $_GET['hash'] ) ) {
+          if( $tmp = unserialize(base64_decode( $_GET['hash'] )) !== FALSE ) $_SESSION = $tmp;
+          session_write_close();
+          unset( $_GET['hash'] );
+          header( "Location: {$wgRequest->getServer()}".$_SERVER['SCRIPT_NAME']."?".implode("&",$_GET)."&h" );
+          die();
+      }*/
       
       //Init permanent connection to tools-db
       $dbrtools = $this->loadDatabase(null, null, "tools");
@@ -150,6 +160,7 @@ class WebTool {
       $this->toolnotice = isset( $xnotice[$configtitle] ) ? $xnotice[$configtitle] : '';
       
       $this->getWikiInfo();
+      $this->OAuthObject = new OAuth2(( !empty($this->getWikiInfo()->domain) ? "https://".$this->getWikiInfo()->domain."/w/api.php" : "https://www.mediawiki.org/w/api.php") );
       $this->checkLoginMessagesStatus();
       
       
@@ -495,41 +506,21 @@ class WebTool {
       global $wgRequest, $I18N, $perflog;
       
       $this->statusLink['logo'] = '<a href="//'.XTOOLS_BASE_WEB_DIR.'" >X!\'s Tools</a>';
-      $this->statusLink['loginout'] = '<span class="login" ><a href="https://'.XTOOLS_BASE_WEB_DIR.'/?login" >'.$I18N->msg('login').'</a></span>';
+      $this->statusLink['loginout'] = '<span class="login" ><a href="https://'.XTOOLS_BASE_WEB_DIR.'/oauthredirector.php?action=login&callto='.(!empty($this->getWikiInfo()->domain) ? "https://".$this->getWikiInfo()->domain."/w/api.php" : "https://www.mediawiki.org/w/api.php").'&returnto='.$wgRequest->getFullRequestURL().'" >'.$I18N->msg('login').'</a></span>';
       $this->statusLink['agentconfig'] = '<a title="XAgent configuration" href="//'.XTOOLS_BASE_WEB_DIR.'/agent/config.php"><img style="vertical-align:baseline" src="//'.XTOOLS_BASE_WEB_DIR.'/static/images/Blue_Fedora_hat_12.png" />{$linktext}</a>&nbsp;&nbsp;';
       $this->statusLink['echo'] = '<a title="Your echo notifications from 800+ wikis" href="//'.XTOOLS_BASE_WEB_DIR.'/echo/"><img style="vertical-align:bottom;padding-right:4px;" src="//'.XTOOLS_BASE_WEB_DIR.'/static/images/Echo_Icon_18.png" />XEcho</a>&nbsp;&nbsp;';
       $this->loggedIn = false;
       $this->loggedInUsername = null;
-
       
-      if( $wgRequest->getCheck('login') ){
-         $_SESSION["login_requested"] = true;
-         OAuth::doAuthorizationRedirect($this); 
-      }
-      
-      /* Check if we have a response from AuthorizationRedirect. If so, get the _final_ access token */
-      if ( $wgRequest->getBool('oauth_verifier')  &&  $wgRequest->getSessionData('login_requested')   ) {
-         $_SESSION["login_requested"] = false;
-         OAuth::fetchAccessToken( $_REQUEST['oauth_verifier'], $_REQUEST['oauth_token'] );
+      if ( $this->OAuthObject->isAuthorized() ){
          
-         $_SESSION["ec_purge"] = 1;
-         $_SESSION["cacheCtrl"] = "nocacheOnce"; 
-         
-         #file_put_contents('/data/project/xtools/api_oa', session_id()."\t".json_encode($_COOKIE)."\t".json_encode($_SESSION)."\t".json_encode($_SERVER)."\n\n", FILE_APPEND );
-         header("Location: //tools.wmflabs.org" . $_SESSION["last_xt_request"] );
-         exit;
-      }
-      
-      if ( $wgRequest->getSessionData('tokenKey') ){
-         
-         if ( $wgRequest->getSessionData('loggedInUsername') ){
+         if ( $this->OAuthObject->getUsername() ){
             $this->loggedIn = true;
-            $this->statusLink['loginout'] = '<span class="login" ><span style="margin-right:10px;">'.$this->loggedInUsername.'</span><a href="?logout" >'.$I18N->msg('logout').'</a></span>';
-            $this->loggedInUsername = $_SESSION['loggedInUsername'];
+            $this->statusLink['loginout'] = '<span class="login" ><span style="margin-right:10px;">'.$this->OAuthObject->getUsername().'</span><a href="https://'.XTOOLS_BASE_WEB_DIR.'/oauthredirector.php?action=logout&callto='.(!empty($this->getWikiInfo()->domain) ? "https://".$this->getWikiInfo()->domain."/w/api.php" : "https://www.mediawiki.org/w/api.php").'&returnto='.$wgRequest->getFullRequestURL().'" >'.$I18N->msg('logout').'</a></span>';
+            $this->loggedInUsername = $this->OAuthObject->getUsername();
          }
          else{
-            $userinfo = OAuth::getUserInfo(); //'https://de.wikipedia.org/w/api.php'
-            $this->loggedInUsername = $_SESSION['loggedInUsername'] = $userinfo->query->userinfo->name;
+            $this->loggedInUsername = $this->OAuthObject->getUsername();
             
          }
          $_SESSION["cacheCtrl"] = "nocacheOnce";

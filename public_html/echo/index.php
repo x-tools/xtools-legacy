@@ -16,10 +16,10 @@
 		$wiki = $wi->wiki;
 		$domain = $wi->domain;
 	
-		$list = '<p style="text-align:center"><br/>&nbsp;You are not logged in. <a href="//tools.wmflabs.org/xtools/?login" >Log in</a> with secure Wikimedia OAuth.<br/>If necessary, refresh your browser with F5 afterwards.<br />&nbsp;</p>';
+		$list = '<p style="text-align:center"><br/>&nbsp;You are not logged in. <a href="https://'.XTOOLS_BASE_WEB_DIR.'/oauthredirector.php?action=login&returnto=https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'].'" >Log in</a> with secure Wikimedia OAuth.<br/>If necessary, refresh your browser with F5 afterwards.<br />&nbsp;</p>';
 	
 //Show form if &article parameter is not set (or empty)
-	if( $wt->loggedInUsername ) {
+	if( $wt->OAuthObject->isAuthorized() ) {
 		
 		$resArr = getCrossWikiMessage($wt, 'all', 50, $purge);
 		

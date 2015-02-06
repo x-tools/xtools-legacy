@@ -413,13 +413,13 @@ class WebRequest {
 		 
 		$wgServer = $wgProto.'://' . $wgServerName;
 		# If the port is a non-standard one, add it to the URL
-		if(    isset( $_SERVER['SERVER_PORT'] )
+		/*if(    isset( $_SERVER['SERVER_PORT'] )
 		    && !strpos( $wgServerName, ':' )
 		    && (    ( $wgProto == 'http' && $_SERVER['SERVER_PORT'] != 80 )
 			 || ( $wgProto == 'https' && $_SERVER['SERVER_PORT'] != 443 ) ) ) {
 		 
 			$wgServer .= ":" . $_SERVER['SERVER_PORT'];
-		}
+		}*/
 		return $wgServer;
 	}
 
