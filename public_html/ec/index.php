@@ -246,7 +246,7 @@ function delayer(){
             $list .= '
                 <tr>
                 <td>'.$trmarker.' <span title="'.$blocktext.'" style="color:'.$blockmarker.'" >'.$sulwiki.'</span></td>
-                <td><span class="tdgeneral" ><a href="//'.XTOOLS_BASE_WEB_DIR."/ec/?user=$ui->userUrl&project=$sulwiki".'" >'.$wt->numFmt($row["editcount"]).'</a></span></td>
+                <td><span class="tdgeneral" ><a href="//'.XTOOLS_BASE_WEB_DIR."-ec/index.php?user=$ui->userUrl&project=$sulwiki".'" >'.$wt->numFmt($row["editcount"]).'</a></span></td>
                 <td class="tdnum">'.$diffspan.'</td>
                 </tr>
             ';
