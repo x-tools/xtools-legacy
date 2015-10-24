@@ -404,7 +404,7 @@ class WebTool {
             
          foreach( $res as $i => $row ) {
             $this->metap[ $row["dbname"] ] = array(
-                  "domain" => str_replace("http://", "", $row["url"] ),
+                  "domain" => parse_url($row["url"])["host"],
                   "slice" => $row["slice"],
                   "family" => $row["family"],
                   "lang" => $row["lang"]
