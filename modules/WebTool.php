@@ -8,7 +8,7 @@ DEFINE('XTOOLS_BASE_SYS_DIR_DB', '/data/project/xtools' );
 DEFINE('XTOOLS_BASE_SYS_DIR_SESSION', '/data/project/xtools' );
 DEFINE('XTOOLS_BASE_WEB_DIR', 'tools.wmflabs.org/xtools' );
 DEFINE('XTOOLS_I18_TEXTFILE', '/data/project/xtools/modules/Xtools.i18n.php'); 
-DEFINE('XTOOLS_REDIS_FLUSH_TOKEN', 'x000004');
+DEFINE('XTOOLS_REDIS_FLUSH_TOKEN', 'x000005');
 DEFINE('XTOOLS_LONG_QUEUE_COUNT', 'longQueueCount');
 DEFINE('XTOOLS_DATABASE_TMP', 's51187__xtools_tmp');
 DEFINE('XTOOLS_LONG_QUEUE_LIMIT', 6 );
@@ -354,9 +354,9 @@ class WebTool {
             'format' => 'json',
             'siprop' => 'namespaces',
          );
-         
-         $res = json_decode( $this->gethttp( "http://$domain/w/api.php?" . http_build_query( $data ) ) )->query->namespaces;
-         
+
+         $res = json_decode( $this->gethttp( "https://$domain/w/api.php?" . http_build_query( $data ) ) )->query->namespaces;
+
          foreach( $res as $id => $ns ) {
             $nsname = ( $ns->{'*'} == "" ) ? $I18N->msg('mainspace') : $ns->{'*'};
             $tmpNamespaces['ids'][$nsname] = $id;
