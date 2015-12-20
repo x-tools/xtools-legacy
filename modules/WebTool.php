@@ -839,9 +839,9 @@ class WebTool {
       $msgStr = ( $msgStr == 'nosuchuser' || $msgStr == 'nosuchpage' ) ? 'noexist' : $msgStr;
       
       if( is_string($var) ){ $var = array($var); }
-      
-      $msg = $I18N->msg( $msgStr , array("variables" => $var) );     
-      $this->error = $msg ;
+
+      $msg = $I18N->msg( $msgStr , array("variables" => $var) );
+      $this->error = htmlspecialchars( $msg );
       $this->showPage();
    }
    
