@@ -202,8 +202,8 @@ function delayer(){
             <td class="tddate">'.$date.'</td>
             <td>'.$row["wiki"].'</td>
             <td style="white-space:nowrap">(
-                <a title="Current diff" href="//'.$fdomain.'/w/index.php?title='.$urltitle.'&amp;diff=prev&amp;oldid='.$row['rev_id'].'" title="'.$title.'">diff</a> &middot; 
-                <a title="Special:contributions" href="//'.$fdomain.'/w/index.php?title=Special:Contributions&tagfilter=&contribs=user&target='.$ui->userUrl.'" >log</a> &middot;
+                <a title="Current diff" href="'.$fdomain.'/w/index.php?title='.$urltitle.'&amp;diff=prev&amp;oldid='.$row['rev_id'].'" title="'.$title.'">diff</a> &middot;
+                <a title="Special:contributions" href="'.$fdomain.'/w/index.php?title=Special:Contributions&tagfilter=&contribs=user&target='.$ui->userUrl.'" >log</a> &middot;
                 <a title="XTools topedits: useredits per page" href="//'.XTOOLS_BASE_WEB_DIR.'/topedits/index.php?project='.$fdomain.'&user='.$ui->userUrl.'&page='.$urltitle.'">top</a>
                 )
             </td>
