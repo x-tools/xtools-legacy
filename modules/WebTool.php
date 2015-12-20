@@ -152,7 +152,7 @@ class WebTool {
       
       $this->sitenotice = '
             &#9733;&nbsp; Try: <a class="alert-link" href="//meta.wikimedia.org/wiki/User:Hedonil/XTools" >XTools gadget</a>. It\'s fast. Enjoy!&nbsp;&bull;&nbsp;
-            &nbsp;&bull;&nbsp;#Featured: <a class="alert-link" href="http://tools.wmflabs.org/directory/?view=web" >Directory NG</a>  &#9733;
+            &nbsp;&bull;&nbsp;#Featured: <a class="alert-link" href="https://tools.wmflabs.org/directory/?view=web" >Directory NG</a>  &#9733;
          '; 
       $this->alert = '';
       #Now with cross-wiki notifications <sup style=color:green; font-style:italic">beta</sup>
@@ -256,7 +256,7 @@ class WebTool {
       }
       
       $combo = ( $project ) ? $project : $lang.$wiki;
-      $combo = str_replace( array('https:', 'http:', '//', '/', '.', 'org'), array('','','','','',''), $combo );
+      $combo = str_replace( array('https:', 'https:', '//', '/', '.', 'org'), array('','','','','',''), $combo );
       
       if ( preg_match( '/(?:wiki$|wikipedia)/', $combo , $matches ) ){
            #$perflog->stack[] = $matches;
@@ -404,7 +404,7 @@ class WebTool {
             
          foreach( $res as $i => $row ) {
             $this->metap[ $row["dbname"] ] = array(
-                  "domain" => str_replace("http://", "", $row["url"] ),
+                  "domain" => str_replace("https://", "", $row["url"] ),
                   "slice" => $row["slice"],
                   "family" => $row["family"],
                   "lang" => $row["lang"]
@@ -577,7 +577,7 @@ class WebTool {
       
 //       $wi = $this->getWikiInfo( $lang, $wiki );
 
-//       return Peachy::newWiki( null, null, null, "http://$wi->domain/w/api.php" );
+//       return Peachy::newWiki( null, null, null, "https://$wi->domain/w/api.php" );
 //    }
    
    function loadDBCredentials(){
@@ -1197,7 +1197,7 @@ class Database2{
       
 #     $cmd = "REQUEST_METHOD=GET SERVER_NAME=Blue SERVER_PORT=19999 SERVER_PROTOCOL=tcp QUERY_STRING=reqToken=eea02eea8fd65742e692f4c36fe7c3c7 cgi-fcgi -bind -connect tools-webgrid-tomcat:19999";   
       
-      $output = $wt->gethttp("http://tools.wmflabs.org/xtools/multiquery.fcgi?reqToken=$reqToken");
+      $output = $wt->gethttp("https://tools.wmflabs.org/xtools/multiquery.fcgi?reqToken=$reqToken");
       
       $perflog->add('mq2-cmd', (microtime(true)- $mqstart), array("cmd" => 'query', "output" => $output ) );
       
