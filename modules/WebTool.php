@@ -256,7 +256,7 @@ class WebTool {
       }
       
       $combo = ( $project ) ? $project : $lang.$wiki;
-      $combo = str_replace( array('https:', 'https:', '//', '/', '.', 'org'), array('','','','','',''), $combo );
+      $combo = str_replace( array('http:', 'https:', '//', '/', '.', 'org'), array('','','','','',''), $combo );
       
       if ( preg_match( '/(?:wiki$|wikipedia)/', $combo , $matches ) ){
            #$perflog->stack[] = $matches;
