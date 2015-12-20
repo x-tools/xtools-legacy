@@ -283,7 +283,7 @@ private static $tplNew = array(
 				<span>
         			<img class="callout" src="../static/images/callout.png" />
         			<strong>Accepted formats :</strong><br />
-        			enwiki or en.wikipedia or <br />http://de.wikipedia.org ...
+        			enwiki or en.wikipedia or <br />https://de.wikipedia.org ...
     			</span>
 			</span>
 		</div>
