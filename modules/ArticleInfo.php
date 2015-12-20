@@ -130,7 +130,7 @@ class ArticleInfo {
 	private function fetchInitPageData( $dbr, $wi ){
 		global $wt, $perflog;
 		
-		$apibase = "http://$wi->domain/w/api.php?";
+		$apibase = "https://$wi->domain/w/api.php?";
 		$query[] = array(
 				"type" => "api",
 				"src" => "",
@@ -230,7 +230,7 @@ class ArticleInfo {
 				"
 			);
 		
-		$apibase = ( @$conf->showPageview ) ? "http://tools.wmflabs.org/wikiviewstats/api.php?" : "http://tools.wmflabs.org/ninihil/?";
+		$apibase = ( @$conf->showPageview ) ? "https://tools.wmflabs.org/wikiviewstats/api.php?" : "https://tools.wmflabs.org/ninihil/?";
 		$apiquery[] =  $apibase.http_build_query( array(
 						'request' => 'pageViews',
 						'format' => 'json',
@@ -241,7 +241,7 @@ class ArticleInfo {
 						'latest' => '30'
 					));
 		
-		$apibase = "http://$wi->domain/w/api.php?";
+		$apibase = "https://$wi->domain/w/api.php?";
 		$apiquery[] =  $apibase.http_build_query(  array(
 						'action' => 'query',
 						'prop' => 'info|revisions',
@@ -254,19 +254,19 @@ class ArticleInfo {
 						'pageids' => $this->pageid
 					));
 
-		$apibase = ( $this->namespace === 0 ) ? "http://tools.wmflabs.org/languagetool/pageCheck/index?" : "http://tools.wmflabs.org/ninihil/?";
+		$apibase = ( $this->namespace === 0 ) ? "https://tools.wmflabs.org/languagetool/pageCheck/index?" : "https://tools.wmflabs.org/ninihil/?";
 		$apiquery[] = $apibase.http_build_query( array(
 						'lang' => $wi->lang,
 						'url' => str_replace(" ", "_", @$this->pagetitle),
 					));
 		
 		$apibase = ( $this->namespace === 0  && $wi->database == 'dewiki' &&  @$conf->showMainauthor ) ? 
-					"http://tools.wmflabs.org/wikihistory/dewiki/getauthors.php?" : "http://tools.wmflabs.org/ninihil/?" ;
+					"https://tools.wmflabs.org/wikihistory/dewiki/getauthors.php?" : "https://tools.wmflabs.org/ninihil/?" ;
 		$apiquery[] = $apibase.http_build_query(  array(
 						'page_id' => $this->pageid
 					));
 		
-		$apibase = ( $this->namespace === 0 ) ?  "http://www.wikidata.org/w/api.php?" : "http://tools.wmflabs.org/ninihil/?" ;
+		$apibase = ( $this->namespace === 0 ) ?  "https://www.wikidata.org/w/api.php?" : "https://tools.wmflabs.org/ninihil/?" ;
 		$apiquery[] =  $apibase.http_build_query(  array(
 						'action' => 'wbgetentities',
 						'format' => 'json',
@@ -436,7 +436,7 @@ class ArticleInfo {
 		);
 		
 		
-		$apibase = "http://tools.wmflabs.org/wikiviewstats/api.php?";
+		$apibase = "https://tools.wmflabs.org/wikiviewstats/api.php?";
 		$query[] = array(
 				"type" => "api",
 				"src" => "",
@@ -488,7 +488,7 @@ class ArticleInfo {
 					"
 				);
 			
-			$apibase = "http://tools.wmflabs.org/languagetool/pageCheck/index?";
+			$apibase = "https://tools.wmflabs.org/languagetool/pageCheck/index?";
 			$query[] = array(
 					"type" => "api",
 					"src" => "plainhtml",
@@ -500,8 +500,8 @@ class ArticleInfo {
 				);
 			
 			$skip = ( $this->namespace === 0 && $wi->domain == "en.wikipedia.org" ) ? "" : "skip";
-#			$apibase = "http://tools.wmflabs.org/${skip}enwp10/cgi-bin/list2.fcgi?";
-			$apibase = "http://tools.wmflabs.org/${skip}enwp10/cgi-bin/log.fcgi?";
+#			$apibase = "https://tools.wmflabs.org/${skip}enwp10/cgi-bin/list2.fcgi?";
+			$apibase = "https://tools.wmflabs.org/${skip}enwp10/cgi-bin/log.fcgi?";
 			$query[] = array(
 					"type" => "api",
 					"src" => "plainhtml",

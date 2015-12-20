@@ -29,7 +29,7 @@ function getUserActivity( $wt ){
 				'guiuser' => $username,
 			);
 		
-		$res = json_decode( $wt->gethttp("http://meta.wikimedia.org/w/api.php?".http_build_query( $data ) ) );
+		$res = json_decode( $wt->gethttp("https://meta.wikimedia.org/w/api.php?".http_build_query( $data ) ) );
 		$res = $res->query->globaluserinfo;
 	
 		$attached = 0;
@@ -52,7 +52,7 @@ function getUserActivity( $wt ){
 		if (isset($res->unattached )){
 			foreach ( $res->unattached as $wiki ){
 				$wikis[ $wiki->wiki ] = array(
-						'url' => 'http://'.$wt->metap[ $wiki->wiki ]["domain"],
+						'url' => 'https://'.$wt->metap[ $wiki->wiki ]["domain"],
 						'editcount' => $wiki->editcount,
 						'attached' => false,
 						'latest' => null,
@@ -159,7 +159,7 @@ function mergeCustomWikis( $wt, $wikis ){
 			
 			if ( !isset($wikis[$wiki]) ){
 				$wikis[ $wiki ] = array(
-						'url' => "http://$domain",
+						'url' => "https://$domain",
 						'editcount' => null,
 						'attached' => null,
 						'latest' => null,

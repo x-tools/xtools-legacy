@@ -120,7 +120,7 @@ class Counter {
 		
 		$this->extended = ( $extended ) ? true : false;
 		
-		$this->baseurl = 'http://'.$domain;
+		$this->baseurl = 'https://'.$domain;
 		$this->apibase = $this->baseurl.'/w/api.php?';
 		
 		$this->mDomain = $domain;

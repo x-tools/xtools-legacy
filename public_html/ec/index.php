@@ -202,8 +202,8 @@ function delayer(){
             <td class="tddate">'.$date.'</td>
             <td>'.$row["wiki"].'</td>
             <td style="white-space:nowrap">(
-                <a title="Current diff" href="//'.$fdomain.'/w/index.php?title='.$urltitle.'&amp;diff=prev&amp;oldid='.$row['rev_id'].'" title="'.$title.'">diff</a> &middot; 
-                <a title="Special:contributions" href="//'.$fdomain.'/w/index.php?title=Special:Contributions&tagfilter=&contribs=user&target='.$ui->userUrl.'" >log</a> &middot;
+                <a title="Current diff" href="'.$fdomain.'/w/index.php?title='.$urltitle.'&amp;diff=prev&amp;oldid='.$row['rev_id'].'" title="'.$title.'">diff</a> &middot;
+                <a title="Special:contributions" href="'.$fdomain.'/w/index.php?title=Special:Contributions&tagfilter=&contribs=user&target='.$ui->userUrl.'" >log</a> &middot;
                 <a title="XTools topedits: useredits per page" href="//'.XTOOLS_BASE_WEB_DIR.'/topedits/index.php?project='.$fdomain.'&user='.$ui->userUrl.'&page='.$urltitle.'">top</a>
                 )
             </td>
@@ -472,8 +472,8 @@ function getPageTemplate( $type ){
                         <tr><td>{#import#}:</td><td><span class="tdgeneral">{$import_iw} <small>x</small></span></td></tr>
                         <tr><td colspan=2></td></tr>
                         <tr><td colspan=2></td></tr>
-                <!--    <tr><td style="color:gray">罪恶:</td></td></tr> -->
-                        <tr><td style="color:gray">过错:</td></td></tr>
+                <!--    <tr><td style="color:gray">{#mainspace#}:</td></td></tr> -->
+                        <tr><td style="color:gray">{#mainspace#}:</td></td></tr>
                         <tr><td>(Re)blocked:</td><td><span class="tdgeneral"><a href="//{$domain}/w/index.php?title=Special%3ALog&type=block&user=&page=User%3A{$usernameurl}&year=&month=-1&tagfilter=" >{$blockednum} <small>x</small></a></span></td></tr>
                         <tr><td colspan=2 >Longest block:&nbsp;<span style="float:right" >{$blockedlongest}</span></td></tr>
                         <tr><td colspan=2 >{$blockedcurrent}</td></tr>
