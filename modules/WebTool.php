@@ -8,7 +8,7 @@ DEFINE('XTOOLS_BASE_SYS_DIR_DB', '/data/project/xtools' );
 DEFINE('XTOOLS_BASE_SYS_DIR_SESSION', '/data/project/xtools' );
 DEFINE('XTOOLS_BASE_WEB_DIR', 'tools.wmflabs.org/xtools' );
 DEFINE('XTOOLS_I18_TEXTFILE', '/data/project/xtools/modules/Xtools.i18n.php'); 
-DEFINE('XTOOLS_REDIS_FLUSH_TOKEN', 'x000005');
+DEFINE('XTOOLS_REDIS_FLUSH_TOKEN', 'x000006');
 DEFINE('XTOOLS_LONG_QUEUE_COUNT', 'longQueueCount');
 DEFINE('XTOOLS_DATABASE_TMP', 's51187__xtools_tmp');
 DEFINE('XTOOLS_LONG_QUEUE_LIMIT', 6 );
@@ -105,7 +105,10 @@ class WebTool {
       $path = preg_replace('/^(\/.*\/).*/', '\1', dirname($_SERVER['SCRIPT_NAME']) );
       session_name( 'xtools' );
       session_set_cookie_params ( $lifetime, $path, ".tools.wmflabs.org"); 
-      session_start();
+      if ( !@session_start() ) {
+          session_regenerate_id();
+          session_start();
+      }
       
 
       //Init webRequest object
