@@ -326,19 +326,22 @@ class ArticleInfo {
  				$this->mainAuthor = $m1;
  			}
 		}
- 		
- 		if ( $reswd = json_decode( @$res[4] ) ){
- 			$reswd = $reswd->entities->{$this->wikidataItemID};
- 			$this->wikidataProps[] = ( isset($reswd->labels->{$wi->lang}->value) ) ? "label" : Null ;
- 			$this->wikidataProps[] = ( isset($reswd->descriptions->{$wi->lang}->value) ) ? "description" : Null ;
- 	 		
- 	 		foreach ($reswd->claims as $claim => $row ){
-	 			$this->wikidataProps[] = $claim ;
-	 		}
- 		}
- 		
+
+		$reswd = isset( $res[4] ) ? json_decode( $res[4] ) : null;
+		if ( $reswd ) {
+			$reswd = $reswd->entities->{$this->wikidataItemID};
+			$this->wikidataProps[] = ( isset($reswd->labels->{$wi->lang}->value) ) ? "label" : null;
+			$this->wikidataProps[] = ( isset($reswd->descriptions->{$wi->lang}->value) ) ? "description" : null;
+
+			if ( !empty( $reswd->claims ) ) {
+				foreach ( $reswd->claims as $claim => $row ) {
+					$this->wikidataProps[] = $claim;
+				}
+			}
+		}
+
 		unset($res);
-		
+
 	$ptime = microtime(true);
 		if ( isset($querydbr) ){
 			if( $res = $dbrtools->query( $querydbr ) ){
