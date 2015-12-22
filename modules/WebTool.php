@@ -304,6 +304,8 @@ class WebTool {
       $obj->database = $res->wikiid;
       $obj->imgwiki = $res->favicon;
       $obj->imglang = $imgbase.$obj->lang.".png";
+      preg_match( '/([^.]+)\.org$/', $domain, $matches );
+      $obj->wiki = $matches[1];
       if ( isset( $obj->rtl ) ) {
          $obj->rlm = "&rlm;";
          $obj->direction = 'rtl';
