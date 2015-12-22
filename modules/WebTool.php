@@ -318,6 +318,12 @@ class WebTool {
          $obj->domain = 'wikimediafoundation.org';
          $obj->database = "foundationwiki";
       }
+      if ( preg_match( '/outreach/', $combo) ) {
+         $obj->lang = "outreach";
+         $obj->wiki = "wikimedia";
+         $obj->domain = 'outreach.wikimedia.org';
+         $obj->database = "outreachwiki";
+      }
       if ( preg_match( '/incubator/', $combo) ) {
          $obj->lang = "incubator";
          $obj->wiki = "wikimedia";
