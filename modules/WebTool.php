@@ -351,6 +351,17 @@ class WebTool {
       
       if ($lc === false){
          
+	 $data = array(
+	    'action' => 'query',
+	    'meta' => 'allmessages',
+	    'ammessages' => 'blanknamespace',
+	    'uselang' => 'content',
+	    'format' => 'json',
+	 );
+
+	 $res = json_decode( $this->gethttp( "https://$domain/w/api.php?" . http_build_query( $data ) ) )->query->allmessages;
+	 $ns0 = $res[0]->{'*'};
+
          $data = array(
             'action' => 'query',
             'meta' => 'siteinfo',
@@ -361,7 +372,7 @@ class WebTool {
          $res = json_decode( $this->gethttp( "https://$domain/w/api.php?" . http_build_query( $data ) ) )->query->namespaces;
 
          foreach( $res as $id => $ns ) {
-            $nsname = ( $ns->{'*'} == "" ) ? $I18N->msg('mainspace') : $ns->{'*'};
+            $nsname = $ns->{'*'} == '' ? $ns0 : $ns->{'*'};
             $tmpNamespaces['ids'][$nsname] = $id;
             $tmpNamespaces['names'][$id] =  $nsname;
          }
