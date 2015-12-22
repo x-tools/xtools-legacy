@@ -179,7 +179,7 @@ class WebTool {
       
       $this->numberFormatter   = new NumberFormatter( $this->uselang, NumberFormatter::DECIMAL);
       $this->dateFormatter     = new IntlDateFormatter( $this->uselang, IntlDateFormatter::MEDIUM, IntlDateFormatter::MEDIUM, "UTC", IntlDateFormatter::GREGORIAN);
-      $this->dateFormatterDate = new IntlDateFormatter( $this->uselang, IntlDateFormatter::MEDIUM, IntlDateFormatter::NONE, IntlDateFormatter::GREGORIAN);
+      $this->dateFormatterDate = new IntlDateFormatter( $this->uselang, IntlDateFormatter::MEDIUM, IntlDateFormatter::NONE, "UTC", IntlDateFormatter::GREGORIAN);
       $this->dateFormatterTime = new IntlDateFormatter( $this->uselang, IntlDateFormatter::NONE, IntlDateFormatter::SHORT, "UTC", IntlDateFormatter::GREGORIAN);
    
       $this->sourcecode = '<a href="//github.com/x-Tools/xtools/" >'.$I18N->msg('source').'</a> &bull; ';
