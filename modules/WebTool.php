@@ -206,7 +206,7 @@ class WebTool {
    }
    
    function getWikiInfo( $lang=null, $wiki=null, $project=null, $setwiki=true ) {
-      global $wgRequest, $perflog;
+      global $wgRequest, $perflog, $redis;
       
       $imgbase = "//tools.wmflabs.org/xtools/static/images/flags/png/";
       
@@ -257,87 +257,58 @@ class WebTool {
          if ($setwiki) { $this->wikiInfo = $obj; }
          return $obj;
       }
-      
+
       $combo = ( $project ) ? $project : $lang.$wiki;
       $combo = str_replace( array('http:', 'https:', '//', '/', '.', 'org'), array('','','','','',''), $combo );
-      
-      if ( preg_match( '/(?:wiki$|wikipedia)/', $combo , $matches ) ){
-           #$perflog->stack[] = $matches;
-         $obj->lang = str_replace( $matches[0], '', $combo );
-         $obj->wiki = 'wikipedia';
-         $obj->domain = $obj->lang.'.wikipedia.org';
-         $obj->database = str_replace('-', '_', $obj->lang."wiki");
-         $obj->imglang = $imgbase.$obj->lang.".png";
-         $obj->imgwiki = $icon->{$obj->wiki};
+
+      if ( strpos( $project, '.org' ) !== false ) {
+         $domain = str_replace( array('http:', 'https:', '/'), array('','',''), $project );
+      } elseif ( preg_match( '/(?:wiki$|wikipedia)/', $combo , $matches ) ){
+         $domain = str_replace( $matches[0], '', $combo ) . '.wikipedia.org';
+      } elseif ( preg_match( '/(?:wikisource|wikibooks|wiktionary|wikinews|wikiquote|wikiversity|wikivoyage)/', $combo , $matches )  ){
+         $domain = str_replace( $matches[0], '', $combo ) . '.' . $matches[0] . '.org';
+      } elseif ( preg_match( '/wikidata/', $combo) ) {
+         $domain = 'www.wikidata.org';
+      } elseif ( preg_match( '/commons/', $combo) ) {
+         $domain = 'commons.wikimedia.org';
+      } elseif ( preg_match( '/mediawiki/', $combo) ) {
+         $domain = 'www.mediawiki.org';
+      } elseif ( preg_match( '/meta/', $combo) ) {
+         $domain = 'meta.wikimedia.org';
+      } elseif ( preg_match( '/foundation/', $combo) ) {
+         $domain = 'wikimediafoundation.org';
+      } elseif ( preg_match( '/outreach/', $combo) ) {
+         $domain = 'outreach.wikimedia.org';
+      } elseif ( preg_match( '/incubator/', $combo) ) {
+         $domain = 'incubator.wikimedia.org';
       }
-      if ( preg_match( '/(?:wikisource|wikibooks|wiktionary|wikinews|wikiquote|wikiversity|wikivoyage)/', $combo , $matches )  ){
-           #$perflog->stack[] = $matches;
-         $obj->lang = str_replace( $matches[0], '', $combo );
-         $obj->wiki = $matches[0];
-         $obj->domain = $obj->lang.'.'.$obj->wiki.'.org';
-         $obj->database = str_replace('-', '_', $obj->lang.$obj->wiki);
-         $obj->imglang = $imgbase.$obj->lang.".png";;
-         $obj->imgwiki = $icon->{$obj->wiki};
+
+      $ttl = 604800;
+      $hash = "xtoolsWikiInfo".$domain.XTOOLS_REDIS_FLUSH_TOKEN;
+      $res = $redis->get($hash);
+      if ( $res === false ) {
+         $data = array(
+            'action' => 'query',
+            'meta' => 'siteinfo',
+            'format' => 'json',
+         );
+         $res = json_decode( $this->gethttp( "https://$domain/w/api.php?" . http_build_query( $data ) ) )->query->general;
+         if ( is_object( $res ) ) {
+            $redis->setex( $hash, $ttl, serialize( $res ) );
+         }
+      } else {
+         $res = unserialize( $res );
       }
-      
-      if ( preg_match( '/wikidata/', $combo) ) {
-         $obj->lang = "www";
-         $obj->wiki = "wikidata";
-         $obj->domain = 'www.wikidata.org';
-         $obj->database = "wikidatawiki";
-         $obj->imglang = '';
-         $obj->imgwiki = $icon->{"wikidatawiki"};
-      }
-      if ( preg_match( '/commons/', $combo) ) {
-         $obj->lang = "commons";
-         $obj->wiki = "wikimedia";
-         $obj->domain = 'commons.wikimedia.org';
-         $obj->database = "commonswiki";
-         $obj->imglang = '';
-         $obj->imgwiki = $icon->{"commonswiki"};
-      }
-      if ( preg_match( '/mediawiki/', $combo) ) {
-         $obj->lang = "www";
-         $obj->wiki = "mediawiki";
-         $obj->domain = 'www.mediawiki.org';
-         $obj->database = "mediawikiwiki";
-         $obj->imglang = '';
-         $obj->imgwiki = $icon->{"mediawiki"};
-      }
-      if ( preg_match( '/meta/', $combo) ) {
-         $obj->lang = "meta";
-         $obj->wiki = "wikimedia";
-         $obj->domain = 'meta.wikimedia.org';
-         $obj->database = "metawiki";
-         $obj->imglang = '';
-         $obj->imgwiki = $icon->{"metawiki"};
-      }
-      if ( preg_match( '/foundation/', $combo) ) {
-         $obj->lang = "";
-         $obj->wiki = "wikimediafoundation";
-         $obj->domain = 'wikimediafoundation.org';
-         $obj->database = "foundationwiki";
-      }
-      if ( preg_match( '/outreach/', $combo) ) {
-         $obj->lang = "outreach";
-         $obj->wiki = "wikimedia";
-         $obj->domain = 'outreach.wikimedia.org';
-         $obj->database = "outreachwiki";
-      }
-      if ( preg_match( '/incubator/', $combo) ) {
-         $obj->lang = "incubator";
-         $obj->wiki = "wikimedia";
-         $obj->domain = 'incubator.wikimedia.org';
-         $obj->database = "incubatorwiki";
-      }
-      
-      if ( in_array( $obj->lang, array("he","fa","ar") ) ){
+      $obj->lang = $res->lang;
+      $obj->domain = $res->servername;
+      $obj->database = $res->wikiid;
+      $obj->imgwiki = $res->favicon;
+      $obj->imglang = $imgbase.$obj->lang.".png";
+      if ( isset( $obj->rtl ) ) {
          $obj->rlm = "&rlm;";
          $obj->direction = 'rtl';
       }
-      
-      #$perflog->stack[] = $obj;
-      
+
       if ($setwiki) { $this->wikiInfo = $obj; }
       
       $this->getNamespaces( $obj->domain );
@@ -885,6 +856,9 @@ class WebTool {
       }
       $datetime = new DateTime($date);
       
+      if ( !is_object( $this->dateFormatterDate ) ) {
+           $this->initFormatterAndStrings();
+      }
       $mDate = $this->dateFormatterDate->format( $datetime );
       $mTime = $this->dateFormatterTime->format( $datetime );
       
