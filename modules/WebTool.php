@@ -299,7 +299,7 @@ class WebTool {
       } else {
          $res = unserialize( $res );
       }
-      $obj->lang = $res->lang;
+      $obj->lang = substr( $res->servername, 0, strcspn( $res->servername, '.' ) );
       $obj->domain = $res->servername;
       $obj->database = $res->wikiid;
       $obj->imgwiki = $res->favicon;
