@@ -257,7 +257,7 @@
 	
 //Output stuff
 	$groupsGlobal = ($cnt->mGroupsGlobal) ? " &bull; global: ".implode(", ", $cnt->mGroupsGlobal) : "";
-	$extendedLink = (true || $cnt->extended) ? '' : '<small><a href="//tools.wmflabs.org/xtools/ec/?'.$_SERVER['QUERY_STRING'].'&extended=1 " >Run extended</a></small>';
+	$extendedLink = (true || $cnt->extended) ? '' : '<small><a href="//tools.wmflabs.org/xtools-ec/?'.$_SERVER['QUERY_STRING'].'&extended=1 " >Run extended</a></small>';
 	$wt->assign('runextended', $extendedLink);
 	
 	$msgDay = $I18N->msg('days', array("variables"=>array(1)));
