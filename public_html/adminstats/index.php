@@ -216,7 +216,7 @@ function getAdminStats( $dbr, $wi, $datefrom, $dateto ){
 			<td style="max-width:150px;"><a style="max-width:120px;" href="//{$domain}/wiki/User:'.$row["user_name"].'">'.$row["user_name"].'</a></td>
 			<td>'.@$curAdmins[ $row["user_name"] ]["groups"].'</td>
 			<td style="white-space:nowrap;">
-				<a title="Edit Counter" href="//tools.wmflabs.org/xtools/ec/?project={$domain}&user='.$row["user_name"].'" >ec</a> &middot; 
+				<a title="Edit Counter" href="//tools.wmflabs.org/xtools-ec/?project={$domain}&user='.$row["user_name"].'" >ec</a> &middot; 
 				<a title="Global User Contributions" href="//tools.wmflabs.org/guc/?user='.$row["user_name"].' " >guc</a> &middot;
 				<a title="Log" href="//{$domain}/w/index.php?title=Special:Log&user='.$row["user_name"].' " >log</a>
 			</td>
