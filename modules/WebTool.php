@@ -578,6 +578,7 @@ class WebTool {
       
       try{
          $inifile = XTOOLS_BASE_SYS_DIR_DB . "/replica.my.cnf";
+         if (strpos($_SERVER['SCRIPT_NAME'], 'xtools/ec') !== false) { $inifile = str_replace("xtools", "xtools-ec", $inifile); }
          $iniVal = parse_ini_file($inifile);
          $dbUser = $iniVal["user"];
          $dbPwd  = $iniVal["password"];
