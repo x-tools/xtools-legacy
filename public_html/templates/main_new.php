@@ -68,6 +68,7 @@
 	<div class="container-fluid" style="margin-top: -10px;margin-bottom:10px;">
 		<?php echo ($wt->sitenotice) ? "<p class='alert alert-info xt-alert'> $wt->sitenotice </p>" : "" ?>
 		<?php echo ($wt->toolnotice) ? "<p class='alert alert-warning xt-alert'> $wt->toolnotice </p>" : "" ?>
+		<?php //echo (strpos($_SERVER['SCRIPT_NAME'], 'xtools/ec') !== false) ? "<p class='alert alert-danger'>Edit counter is currently malfunctioning, apologies for the inconvenience. </p>" : "" ?>
 		<?php echo ($wt->alert) ? "<p class='alert alert-warning xt-alert'> $wt->alert </p>" : "" ?>
 		<?php echo ($wt->error) ? "<p class='alert alert-danger xt-alert'> $wt->error </p>" : "" ?>
 		<?php echo ($wt->replag) ? "<p class='alert alert-danger xt-alert'> $wt->replag </p>" : "" ?>
