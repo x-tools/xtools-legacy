@@ -155,7 +155,6 @@ class WebTool {
       
       $this->sitenotice = '
             &#9733;&nbsp; Try: <a class="alert-link" href="//meta.wikimedia.org/wiki/User:Hedonil/XTools" >XTools gadget</a>. It\'s fast. Enjoy!&nbsp;&bull;&nbsp;
-            &nbsp;&bull;&nbsp;#Featured: <a class="alert-link" href="https://tools.wmflabs.org/directory/?view=web" >Directory NG</a>  &#9733;
          '; 
       $this->alert = '';
       #Now with cross-wiki notifications <sup style=color:green; font-style:italic">beta</sup>
