@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca",
+			"Fitoschido",
+			"SMP"
+		]
+	},
+	"fullname": "Internacionalització per les eines",
+	"current-settings": "Configuració actual",
+	"current-language": "Idioma seleccionat actualment",
+	"settings-legend": "Paràmetres",
+	"choose-language": "Trieu un idioma",
+	"clear-cookies": "neteja les galetes",
+	"renew-cookies": "renova les galetes",
+	"cookie-expiration": "Caducitat de les galetes",
+	"clearcookies-success": "S'han esborrat les galetes correctament.",
+	"renewcookies-success": "Galetes renovades! Estaran disponibles durant els propers $1.",
+	"tab-overview": "Vista general",
+	"tab-settings": "Paràmetres",
+	"tab-about": "Quant a",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Configuració d'idioma",
+	"bl-mysettings-new": "Canvia l'idioma!",
+	"bl-promo": "Les traduccions són gentilesa de $1 i $2.",
+	"bl-changelanguage": "Canvia l’idioma de la interfície d’aquesta eina.",
+	"usage": "Eines traduïdes per Intuition.",
+	"help-translate-tool": "Ajudeu-nos a traduir aquesta eina!",
+	"help-translate-all": "Ajudeu-nos a traduir les eines!",
+	"help-translate-tooltip": "Ajudeu els altres fent les traduccions al vostre idioma dels missatges de la interfície."
+}

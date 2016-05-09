@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"fullname": "Antërnassionalisassion për j'utiss",
+	"current-settings": "Ampostassion corente",
+	"current-language": "Lenga selessionà al moment",
+	"settings-legend": "Regolassion",
+	"choose-language": "Sern na lenga",
+	"clear-cookies": "eliminé ij bëscotin",
+	"renew-cookies": "arnové ij bëscotin",
+	"cookie-expiration": "Scadensa dël bëscotin",
+	"clearcookies-success": "Scancelà për da bin ij bëscotin",
+	"renewcookies-success": "Bëscotin rinovà! A l'é a pòst për $1.",
+	"tab-overview": "Vista d'ansem",
+	"tab-settings": "Regolassion",
+	"tab-about": "A propòsit",
+	"tab-demo": "Dimostrassion",
+	"bl-mysettings": "Mie ampostassion ëd lenga",
+	"bl-mysettings-new": "Cangé la lenga!",
+	"bl-promo": "le tradussion a son soagnà da $1 e $2.",
+	"bl-changelanguage": "Ch'a sgnaca ambelessì për cangé le lenga dl'antërfacia ëd s'utiss.",
+	"usage": "Utiss voltà da Intuition.",
+	"help-translate-tool": "Ch'a giuta a volté st'utiss.",
+	"help-translate-all": "Ch'a giuta a volté j'utiss!",
+	"help-translate-tooltip": "Ch'a giuta j'àutri an voltand ij mëssagi dl'antërfacia an soa lenga."
+}

@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon"
+		]
+	},
+	"title": "Template linking and transclusion check",
+	"description": "Kontrollerer og rapporterer hvilke artikler som transkluderer en mal, men som ikke er lenket fra malen; og hvilke artikler som er lenket fra malen, men som ikke transkluderer den.",
+	"form-label-language": "Språk:",
+	"form-label-template": "Malnavn:",
+	"form-label-template2": "(inkludert navnerom)",
+	"form-label-complete": "Generer komplett rapport:",
+	"feedback-template-missing": "Malen $1 eksisterer ikke.",
+	"feedback-template-noaccess": "Det ser ut som om malen $1 eksisterer, men informasjon om den er ikke tilgjengelig fra databasen. Dette kan være et midlertidig problem med databasen. Database brukt: $2.",
+	"feedback-result": "Resultater for $1",
+	"feedback-header-mismatch": "Uoverenskommelser mellom transkluderinger og lenker",
+	"feedback-header-no-link": "Transkludering, men ingen lenke",
+	"feedback-header-no-transclusion": "Lenke, men ingen transklusjon",
+	"feedback-header-redirects": "Lenker til omdirigeringer",
+	"feedback-total-count": "Totalt: $1",
+	"feedback-header-complete": "Komplett oversikt over transkluderinger og lenker",
+	"feedback-header-transclusions": "Transkluderinger av malen",
+	"feedback-header-links": "Lenker fra malen",
+	"link-edit": "rediger",
+	"link-create": "opprett",
+	"link-complete": "Komplett rapport...",
+	"footer-stats": "Generert: $1. Varighet: $2 {{PLURAL:$2|sekund|sekunder}}.",
+	"error-language": "Ukjent språkkode."
+}

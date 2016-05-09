@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marat-avgust",
+			"Ильнар"
+		]
+	},
+	"welcome": "X!'s toolsларга рәхим итегез!",
+	"tool_ec": "Үзгәртүләр санагычы",
+	"tool_articleinfo": "Битнең тарихы",
+	"bugs": "Хаталар",
+	"show": "күрсәтү",
+	"hide": "яшерү",
+	"all": "барлык",
+	"wiki": "Вики",
+	"or": "яки",
+	"added": "Өстәлгән",
+	"deleted": "Бетерелгән",
+	"comment": "Шәрех",
+	"date": "Вакыт",
+	"pages": "Битләр саны",
+	"bytes": "байтлар",
+	"edits": "үзгәртү",
+	"actions": "Гамәлләр",
+	"actions_admin": "Идарәче гамәлләре",
+	"others": "башкалар",
+	"select_language": "Телне сайлагыз",
+	"translatelink": "Тәрҗемә",
+	"login": "Керү",
+	"logout": "Чыгу",
+	"time_ago": "$1 $2 элек",
+	"past_time": "соңгы $1 $2",
+	"seconds": "{{PLURAL: $1|секунд}}",
+	"minutes": "{{PLURAL: $1|минут}}",
+	"days": "{{PLURAL: $1|көн}}",
+	"hours": "{{PLURAL: $1|сәгать}}",
+	"weeks": "{{PLURAL: $1|атна}}",
+	"months": "{{PLURAL:$1|ай}}",
+	"years": "{{PLURAL: $1|ел}}",
+	"revisions": "$1 {{PLURAL:$1|юрама}}",
+	"article": "Мәкалә"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"He7d3r",
+			"Krinkle"
+		]
+	},
+	"apply": "Aplicar",
+	"limit": "Limite",
+	"order": "Ordem",
+	"type": "Tipo",
+	"typeEdit": "Edições",
+	"typeNew": "Páginas novas",
+	"userfilter": "Filtro de utilizadores"
+}

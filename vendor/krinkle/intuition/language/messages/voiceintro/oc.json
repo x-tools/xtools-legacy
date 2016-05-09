@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Enregistrar",
+	"voiceintro-toolbar-stop-label": "Arrestar",
+	"voiceintro-toolbar-clear-label": "Escafar",
+	"voiceintro-toolbar-upload-label": "Telecargar",
+	"voiceintro-webaudio-not-supported": "L’API WebAudio es pas suportada per aqueste navigador",
+	"voiceintro-information-label": "Informacion",
+	"voiceintro-information-speaker-label": "Nom del conferencièr :",
+	"voiceintro-information-language-label": "Lenga :",
+	"voiceintro-recording-notify": "Enregistrament en cors…"
+}

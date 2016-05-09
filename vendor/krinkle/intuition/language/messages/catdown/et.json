@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avjoska",
+			"Pikne"
+		]
+	},
+	"title": "Piltide allalaadimine kategooria kaupa",
+	"subtitle": "Lihtne moodus kategoorias olevate piltide allalaadimiseks",
+	"project": "Projekt:",
+	"category": "Kategooria:",
+	"thumbnailing": "Pisipildistamine",
+	"max-width": "Maksimaalne laius:",
+	"max-height": "Maksimaalne kõrgus:",
+	"invalid-width": "Sobimatu laius",
+	"invalid-height": "Sobimatu kõrgus",
+	"no-such-project": "Sellist projekti ei ole",
+	"no-images": "Selles kategoorias ei ole pilte",
+	"category-is-url": "Toodud kategooria nimi meenutab internetiaadressi. Määrata tuleb kategooria nimi, mitte selle internetiaadress.",
+	"category-contains-namespace": "Paistab, et oled kategooria nime juurde lisanud nimeruumi. Sellise nimega asuks kategooria leheküljel [[Category:$1]].",
+	"zip-failed": "ZIP-faili loomine nurjus",
+	"image-area-too-big": "$1 on pisipildi loomiseks liiga suur. Kasutatakse täissuurust.",
+	"download-info": "{{plural:$1|Üks pilt|$1 pilti}} hinnangulise suurusega $2",
+	"download": "Laadi alla",
+	"readme-contents": "Kaasasolev fail $4 loetleb\npildid kategoorias $1 ( $2 ). Need pildid on $3.\n\n== Juhised loetletud piltide allalaadimiseks ==\nAllalaadimis aeg võib ulatuda mõnest minutist mitme tunnini.\n\nWindows:\n Paki kõik failid lahti samasse kausta ja käivita $5\n $6\nLinux/Mac OS\n Paki kõik failid ja ava selles kaustas terminal. Käivita sh $5",
+	"scaling-width": "mastaabitud maksimaalse laiuseni $1 {{plural:$1|piksel|pikslit}}",
+	"scaling-height": "mastaabitud maksimaalse kõrguseni $1 {{plural:$1|piksel|pikslit}}",
+	"scaling-both": "mastaabitud maksimaalse suuruseni $1x$2 pikslit"
+}

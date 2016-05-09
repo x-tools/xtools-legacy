@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman",
+			"Bellayet",
+			"Wikitanvir"
+		]
+	},
+	"fullname": "সরঞ্জামের ইন্টারফেসের আন্তর্জাতিকীকরণ",
+	"current-settings": "বর্তমান সেটিংস",
+	"current-language": "নির্বাচিত ভাষা",
+	"settings-legend": "সেটিংস",
+	"choose-language": "একটি ভাষা নির্বাচন করুন",
+	"clear-cookies": "কুকি পরিস্কার",
+	"renew-cookies": "কুকি নবায়ন",
+	"cookie-expiration": "কুকি উত্তীর্ণের মেয়াদ",
+	"clearcookies-success": "সফলভাবে কুকি পরিস্কার সম্পন্ন হয়েছে।",
+	"renewcookies-success": "কুকি নবায়নকৃত হয়েছে! আপনারা সবাই $1 পর্যন্ত নিশ্চিত।",
+	"tab-overview": "ভূমিকা",
+	"tab-settings": "সেটিং",
+	"tab-about": "পরিচিতি",
+	"tab-demo": "ডেমো",
+	"bl-mysettings": "আমার ভাষা সেটিং",
+	"bl-mysettings-new": "ভাষা পরিবর্তন!",
+	"bl-promo": "অনুবাদসমূহ $1 ও $2-এর সহায়তায় অনূদিত হয়েছে।",
+	"bl-changelanguage": "এই সরঞ্জামটির ইন্টারফেস ভাষা পরিবর্তন করুন।",
+	"usage": "সরঞ্জামগুলো ইনট্যুইশনের সহায়তায় অনূদিত হয়েছে।",
+	"help-translate-tool": "এই টুলটি অনুবাদে সাহায্য করুন!",
+	"help-translate-all": "সরঞ্জাম অনুবাদে সাহায্য করুন!",
+	"help-translate-tooltip": "ইন্টারফেস বার্তাগুলো আপনার ভাষায় অনুবাদ করে অন্যদের সাহায্য করুন।"
+}

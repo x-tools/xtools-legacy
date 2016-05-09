@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"The Polish"
+		]
+	},
+	"title": "Przegląd dołączeń i linków",
+	"description": "Sprawdza i tworzy raport gdy w danym szablonie nie ma linku do artykułu w którym szablon się znajduje i gdy jest link do artykułu ale w artykule szablon nie występuje.",
+	"form-label-language": "Język:",
+	"form-label-template": "Nazwa szablonu:",
+	"form-label-template2": "(w tym przestrzeń nazw)",
+	"form-label-complete": "Wygeneruj pełny raport:",
+	"feedback-template-missing": "Szablon $1 nie istnieje.",
+	"feedback-template-noaccess": "Wydaje się że szablon $1 istnieje, lecz nie jest on dostępny w bazie danych. Może to być chwilowy problem z bazą danych. Używana baza danych: $2.",
+	"feedback-result": "Wyniki dla $1",
+	"feedback-header-mismatch": "Niezgodność pomiędzy dołączeniami i linkami",
+	"feedback-header-no-link": "Dołączenia ale bez linków",
+	"feedback-header-no-transclusion": "Linki ale bez dołączeń",
+	"feedback-header-redirects": "Linki do przekierowań",
+	"feedback-total-count": "Suma: $1",
+	"feedback-header-complete": "Pełny przegląd dołączeń i linków",
+	"feedback-header-transclusions": "Dołączenia szablonu",
+	"feedback-header-links": "Linki w szablonie",
+	"link-edit": "edytuj",
+	"link-create": "utwórz",
+	"link-complete": "Pełny raport...",
+	"footer-stats": "Wygenerowano: $1. Czas: $2 {{PLURAL:$2|sekunda|sekundy|sekund}}.",
+	"error-language": "Nieznany kod języka."
+}

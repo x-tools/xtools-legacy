@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stephenwanjau"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Sawa",
+	"toolserver-status-short-info": "$1: Habari",
+	"toolserver-status-short-warn": "$1: Onya",
+	"toolserver-status-short-down": "$1: Shuka",
+	"toolserver-status-short-erro": "$1: Hitilafu",
+	"toolserver-status-short-unknown": "$1: hazijulikani",
+	"toolserver-status-short-missing": "$1: Hazipatikani"
+}

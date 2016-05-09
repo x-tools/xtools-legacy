@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyscowicz"
+		]
+	},
+	"category_users": "Käyttäjät",
+	"category_articles": "Sivut",
+	"category_images": "Kuvat",
+	"select_wiki_title": "Valitse wiki",
+	"select_report": "Ole hyvä ja valitse raportti:",
+	"qvar_next": "Seuraava →",
+	"prefs_langlabel": "Käyttöliittymän kieli:"
+}

@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"enter-details": "Ipasok ang mga detalye",
+	"introduction": "Makinilyahing papasok ang pangalan ng isang suleras (Mga wikipedia lamang sa ngayon, paumanhin) at pindutin ang gawin. Ganyang lang kapayak ito. May ilang mga pagtatanda (pag-alala ng mga resulta), subalit sa kasamaang palad ay nasa labas ng pagtaban ng kasangkapang ito at ng may-ari nito.",
+	"language-label": "Wika",
+	"namespace-label": "Puwang ng pangalan",
+	"pagename-label": "Pangalan ng pahina (hindi kasama ang puwang ng pangalan)",
+	"transclusion-count-label": "Bilang ng mga paglilipat at pagsasama",
+	"transclusion-count": "$1 natagpuang (mga) transklusyon.",
+	"error-suggestion": "Marahil ay mali ang pagbabaybay mo (o hindi sinasadyang napalaki ang titik) ng pangalan ng pahina?",
+	"time-label": "Panahong nagamit upang maisagawa ang utos"
+}

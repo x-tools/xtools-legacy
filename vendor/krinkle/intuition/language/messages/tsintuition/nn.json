@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njardarlogar",
+			"Chameleon222"
+		]
+	},
+	"fullname": "Internationalisering av verktøy",
+	"current-settings": "Innstillingane no",
+	"current-language": "Valt språk",
+	"settings-legend": "Innstillingar",
+	"choose-language": "Vel eit språk",
+	"clear-cookies": "slett informasjonskapslane",
+	"renew-cookies": "forny informasjonskapslane",
+	"cookie-expiration": "Informasjonskapslane endar",
+	"clearcookies-success": "Informasjonskapslane vart sletta.",
+	"renewcookies-success": "Informasjonskapslane vart bytte ut! Du er klar for dei neste $1.",
+	"tab-overview": "Oversyn",
+	"tab-settings": "Innstillingar",
+	"tab-about": "Om",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Språkinnstillingane mine",
+	"bl-mysettings-new": "Byt språk",
+	"bl-promo": "Omsetjingane er drivne av $1 og $2.",
+	"bl-changelanguage": "Byt språket i brukarflata til dette verktyet.",
+	"usage": "Verkty sette om av Intuition.",
+	"help-translate-tool": "Hjelp til med å setja om dette verktyet!",
+	"help-translate-all": "Hjelp til med å setja om verktøy!",
+	"help-translate-tooltip": "Hjelp andre ved å omsette grensesnittmeldingar til ditt språk."
+}

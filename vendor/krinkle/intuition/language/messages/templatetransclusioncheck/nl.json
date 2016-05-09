@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hansmuller",
+			"Robin0van0der0vliet",
+			"Siebrand",
+			"Robin van der Vliet"
+		]
+	},
+	"title": "Sjabloonkoppelingen en transclusiecontrole",
+	"description": "Controles en rapportages over welke pagina's een sjabloon transcluderen die niet gekoppeld zijn vanuit het sjabloon en welke pagina's gekoppeld zijn aan een sjabloon, maar het niet transcluderen.",
+	"form-label-language": "Taal:",
+	"form-label-template": "Sjabloonnaam:",
+	"form-label-template2": "(inclusief naamruimte)",
+	"form-label-complete": "Volledig rapport maken:",
+	"feedback-template-missing": "Sjabloon $1 bestaat niet.",
+	"feedback-template-noaccess": "Sjabloon $1 lijkt te bestaan, maar is niet beschikbaar in de database. Dit is mogelijk een tijdelijk databaseprobleem. Gebruikte database: $2.",
+	"feedback-result": "Resultaten voor $1",
+	"feedback-header-mismatch": "Verkeerde verhouding tussen transclusies en koppelingen",
+	"feedback-header-no-link": "Transclusie maar geen koppeling",
+	"feedback-header-no-transclusion": "Koppeling maar geen transclusie",
+	"feedback-header-redirects": "Koppelingen naar doorverwijzingen",
+	"feedback-total-count": "Totaal: $1",
+	"feedback-header-complete": "Compleet overzicht van transclusies en koppelingen",
+	"feedback-header-transclusions": "Transclusies van het sjabloon",
+	"feedback-header-links": "Koppelingen van het sjabloon",
+	"link-edit": "bewerken",
+	"link-create": "aanmaken",
+	"link-complete": "Rapport afmaken...",
+	"footer-stats": "Aangemaakt: $1. Duur: $2 {{PLURAL:$2|seconde|seconden}}",
+	"error-language": "Onbekende taalcode."
+}

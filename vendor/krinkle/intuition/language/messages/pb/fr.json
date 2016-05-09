@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Romaine",
+			"Trizek"
+		]
+	},
+	"pb-about-pb-navi": "À propos",
+	"pb-about-pb-tech": "Détails techniques",
+	"pb-about-pb-tech-text": "<p>Nous utilisons <a href=\"https://fr.wikipedia.org/wiki/Python_%28langage%29\">Python</a> et <a href=\"https://fr.wikipedia.org/wiki/MySQL\">MySQL</a> pour cette interface. Le code source est disponible sous les conditions de la licence <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) et peut être trouvé <a href=\"https://github.com/tool-labs/pb\">sur GitHub</a>. Merci d'ajouter les rapports de bogue, les demandes d’évolution et vos autres commentaires <a href=\"https://github.com/tool-labs/pb/issues/new\">dans le gestionnaire de problèmes GitHub</a> ou les signaler sur la <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">page de discussion de Wikipédia (en allemand)</a>.</p>\n    <p>Les exports actuels de la base de données de PB peuvent être trouvés <a href=\"/pb/sql-dumps\">ici</a>.</p>\n    <p>Nous utilisons plusieurs icônes créées par le projet <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Ce projet représente les connaissances personnelles entre Wikimédiens.</p>\n    <p>La prmeière implémentation a été faite par Ulli Purwin (interface) et Euku (robot). Début 2011, Wiegels et Ireas ont pris la suite d’Ulli pour faire l’interface. Maintenant, le projet n’est plus hébergé sur un serveur privé, mais sur Wikimédia Labs.</p>\n    <p>Vous pouvez trouver plus d’information sur ce projet sur la Wikipédia en allemand, sur la page <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "À propos du projet",
+	"pb-change-language": "Modifier la langue",
+	"pb-comment": "Commentaire",
+	"pb-confirmations-given": "Confirmations fournies",
+	"pb-confirmations-taken": "Confirmations reçues",
+	"pb-current-confirmations": "Il y a $1 confirmation{{PLURAL:$1||s}} au total, ce qui fait environ <abbr title=\"$2\">$3</abbr> confirmation{{PLURAL:$3||s}} par jour.",
+	"pb-current-figures": "Chiffres actuels",
+	"pb-current-users": "Pour le moment, $1 {{PLURAL:$1|utilisateur participe|utilisateurs participent}} au projet <em>Connaissances Personnelles</em>.",
+	"pb-date": "Date",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften sur le Wikipédia allemand\">[[Wikipedia:Persönliche Bekanntschaften]]</a> sur Tool Labs. <a href=\"$1\" title=\"À propos de Wikipedia:Persönliche Bekanntschaften\">Plus d’information.</a>",
+	"pb-home": "Page d’accueil",
+	"pb-home-welcome": "Bienvenue sur le projet <em>Connaissances Personnelles</em> (<em>Persönliche-Bekanntschaften</em> en allemand) ! Plus d'informations sur ce projet <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften sur la Wikipédia en allemand\"> sur la Wikipédia en langue allemande</a>.",
+	"pb-javascript-notice": "Nous recommandons d’activer JavaScript sur ce site web pour améliorer l’interface utilisateur.",
+	"pb-labs-name": "Tool Labs de Wikimédia",
+	"pb-participates-since": "Participe depuis",
+	"pb-name": "Wikipédia:Connaissances personnelles",
+	"pb-powered-by-labs": "Exécuté par Tool Labs de Wikimédia",
+	"pb-recent-confirmations": "Confirmations récentes",
+	"pb-reconfirmed": "Reconfirmé ?",
+	"pb-user": "Utilisateur",
+	"pb-user-link-title": "Détails pour l’utilisateur $1",
+	"pb-user-heading": "Information pour <a href=\"$2\" title=\"Page utilisateur de $1\">$1</a>",
+	"pb-user-title": "Information sur $1",
+	"pb-users-navi": "Utilisateurs",
+	"pb-users-title": "Liste des participants",
+	"pb-users-overview": "{{PLURAL:$1|Cet utilisateur participe|Ces $1 utilisateurs participent}} au projet <em>Connaissance Personnelle</em> :",
+	"pb-verified-since": "Vérifié depuis"
+}

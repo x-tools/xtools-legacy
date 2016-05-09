@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"explanation": "वर्णन",
+	"regex": "रेगुलर एक्सप्रेसन",
+	"enter-details": "जानकारीहरू प्रविष्ट गर्नुहोस्",
+	"results": "नतिजाहरू",
+	"language-label": "भाषा",
+	"namespace-label": "नेमस्पेस",
+	"project-label": "परियोजना",
+	"pattern-label": "ढाँचा"
+}

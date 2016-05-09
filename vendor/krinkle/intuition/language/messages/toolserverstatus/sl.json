@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"toolserver-status-ok": "V gruči zbirke podatkov $1 ni težav $2",
+	"toolserver-status-info": "Obvestilo za uporabnike gruče $1: $2",
+	"toolserver-status-warn": "Opozorilo za uporabnike gruče $1: $2",
+	"toolserver-status-down": "Gruča zbirke podatkov $1 je bila začasno zaustavljena. $2",
+	"toolserver-status-erro": "Gruča zbirke podatkov $1 ne deluje. $2",
+	"toolserver-status-unknown": "Neznano stanje gruče $1",
+	"toolserver-status-missing": "Gruča $1 ne obstaja",
+	"toolserver-status-short-ok": "$1: V redu",
+	"toolserver-status-short-info": "$1: Informacija",
+	"toolserver-status-short-warn": "$1: Opozorilo",
+	"toolserver-status-short-down": "$1: Ne deluje",
+	"toolserver-status-short-erro": "$1: Napaka",
+	"toolserver-status-short-unknown": "$1: Neznano",
+	"toolserver-status-short-missing": "$1: Manjka"
+}

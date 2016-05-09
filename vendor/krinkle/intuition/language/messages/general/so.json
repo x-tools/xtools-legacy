@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"hello": "Haye",
+	"welcome": "Soo dhowoow!",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "sidoo kale",
+	"namespace": "Xarun magaceedyada",
+	"form-submit": "Soco",
+	"form-reset": "Dib u habeey",
+	"years": "{{PLURAL: $1|sanad|sanado}}",
+	"weeks": "{{PLURAL: $1|usbuuc|usbuucyo}}",
+	"days": "{{PLURAL: $1|maalin|maalmo}}",
+	"hours": "{{PLURAL: $1|saacad|Saacado}}",
+	"minutes": "{{PLURAL: $1|daqiiqad|daqiiqado}}",
+	"seconds": "{{PLURAL: $1|ilbiriqsi|ilbiliqsiyo}}",
+	"last-modified-date": "badalkii ugu dambeeyey: $1",
+	"view-source": "Itusi xogta",
+	"and": "&#32;iyo"
+}

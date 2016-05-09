@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Besnik b",
+			"FatosMorina"
+		]
+	},
+	"search-table-th-search": "Kërko",
+	"filter-all-countries": "Të gjitha shtetet",
+	"filter-all-languages": "Të gjitha gjuhët",
+	"db-field-country": "Shteti",
+	"db-field-lang": "Gjuha",
+	"db-field-id": "Identifikuesi",
+	"db-field-name": "Emri",
+	"db-field-address": "Adresa",
+	"db-field-lat": "Gjerësia gjeografike",
+	"db-field-lon": "Gjatësia gjeografike",
+	"db-field-image": "Imazhi",
+	"db-field-changed": "Ndryshuar",
+	"db-field-source": "Burimi",
+	"db-field-registrant_url": "URL-ja e regjistruesit",
+	"db-field-st_address": "Adresat",
+	"db-field-st_address_pct": "Adresat %",
+	"db-field-st_coordinates": "Koordinatat",
+	"db-field-st_coordinates_pct": "Koordinatat %",
+	"db-field-st_image": "Imazhi",
+	"db-field-st_image_pct": "Imazhi %",
+	"db-field-st_municipality": "Komuna",
+	"db-field-st_municipality_pct": "Komuna %",
+	"db-field-st_name": "Emrat",
+	"db-field-st_name_pct": "Emrat %",
+	"db-field-st_total": "Numri gjithsej",
+	"toolbox-main-description": "Një varg i veglat të lidhura me",
+	"toolbox-nav-homepage": "Faqja ballinore",
+	"toolbox-nav-statistics": "Statistika",
+	"toolbox-nav-search": "Kërkimi",
+	"toolbox-title-searchmonuments": "Monumentet e kërkimit",
+	"location": "Vendndodhja",
+	"source-monuments-list-on-wikipedia": "Lista e monumenteve të kërkimit në Wikipedia"
+}

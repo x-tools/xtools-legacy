@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"title": "Ngundhuh gambar miturut katègori",
+	"subtitle": "Cara mayar kanggo ngundhuh gambar saka sawiji katègori",
+	"project": "Proyèk:",
+	"category": "Katégori:",
+	"thumbnailing": "Nggawé gambar mini",
+	"max-width": "Ambané maksimum:",
+	"max-height": "Dhuwuré maksimum:",
+	"invalid-width": "Ambané ora sah",
+	"invalid-height": "Dhuwuré ora sah",
+	"no-such-project": "Ora ana proyèk kaya ngono",
+	"no-images": "Ora ana gambar nèng katègori kuwi",
+	"category-is-url": "Jeneng katègori sing diawèhaké kaya-kayané URL. Sampéyan kudu nglebokaké jeneng katègoriné, dudu URLé.",
+	"category-contains-namespace": "Kaya-kayané Sampéyan nyartakaké bilik jenengé nèng jeneng katégoriné. Mawa jeneng kaya kuwi, kacané kuwi bakal sumadhiya dadi [[Category:$1]].",
+	"zip-failed": "Gawé zip ora dadi",
+	"image-area-too-big": "$1 kagedhèn kanggo didadèkaké gambar mini. Nganggoa ukuran kebak.",
+	"download-info": "{{plural: $1|Ana sak gambar|Ana $1 gambar}}, sing gedhéné kira-kira $2",
+	"download": "Undhuh",
+	"readme-contents": "Berkas kalampiraké $4 kaisi\ngambar-gambar nèng katégori $1 ( $2 )$3.\n\n==Tata cara ngundhuh kabèh gambar sing kadaptar==\nWektuné ngundhuh mungkin béda-béda saka pirang-pirang menit tekan pirang-pirang jam.\n\nWindows:\n Tokaké kabèh berkas nèng polder sing padha lan lakokaké $5\n $6\nLinux/Mac OS\n Tokaké kabèh berkas lan bukak terminal nèng polder kuwi. Lakokaké sh $5",
+	"non-bundled-wget": "Cathetan: Vérsi iki ora kalebu wget kanggo Windows. Sampéyan bakal kudu ndékomprès nèng polder mawa wget.exe utawa malah pasang waé wget nèng PATH",
+	"scaling-width": ", digedhékaké tekan jembar maksimum $1 {{plural:$1|piksel|piksel}}",
+	"scaling-height": ", digedhékaké tekan dhuwur maksimum $1 {{plural:$1|piksel|piksel}}",
+	"scaling-both": ", digedhékaké tekan gedhé maksimum $1x$2 piksel"
+}

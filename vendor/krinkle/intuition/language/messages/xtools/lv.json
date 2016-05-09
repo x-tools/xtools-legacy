@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"tool_articleinfo": "Lapas vēsture",
+	"submit": "Iesniegt",
+	"bugs": "Kļūdas",
+	"translatelink": "Tulkot",
+	"userid": "Lietotāja ID",
+	"protect": "Aizsargāt",
+	"delete": "Dzēst",
+	"file": "Fails",
+	"toptenbyedits": "TOP 10 pēc labojumiem",
+	"toptenbytext": "TOP 10 pēc pievienotā teksta",
+	"links_ext": "Ārējās saites",
+	"ip_list": "IP saraksts",
+	"limit": "Ierobežot",
+	"result": "Rezultāts",
+	"unknown": "Nav zināms"
+}

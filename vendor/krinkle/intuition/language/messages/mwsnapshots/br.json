@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Gwenn-Ael",
+			"Y-M D"
+		]
+	},
+	"title-overview": "Tapadennoù prim",
+	"title-error": "Fazi",
+	"title-updatelog": "Hizivaat ar marilh",
+	"updatelog-intro": "Programmet eo ar skript hizivaat evit treiñ bep eurvezh. Dindan emañ ezvont ar penell war-lerc'h an erounezadur diwezhañ.",
+	"updatelog-active": "Emañ ar skript hizivaat o treiñ. Deuit en-dro diwezhatoc'hik evit gwelet ar marilh klok.",
+	"download-button": "Pellgargañ ar skeudenn brim",
+	"download-directlink": "Liamm eeun",
+	"title-downloadpage": "Pellgargañ",
+	"title-downloadpage-repo": "Pellgargañ $1",
+	"err-snapshotindex": "Dihegerz eo ar meneger tapadennoù prim evit ar poent. Klaskit en-dro a-benn ur pennadig bihan.",
+	"err-invalid-repo": "Kavlec'h dianav: \"$1\".",
+	"err-invalid-branch": "Skourr dianav: \"$1\" er c'havlec'h \"$2\".",
+	"err-nosnapshot": "Bep un nebeud eurvezhioù e vez ganet an tapadennoù prim. Ur fazi zo bet e-ser genel an dapadenn brim evit \"$1\". Klaskit en-dro a-benn ur pennadig bihan.",
+	"err-noupdatelog": "N'eus bet kavet hizivadenn ebet",
+	"repo-site-link": "Lec'hienn Genrouedad",
+	"repo-browse-link": "Furchal er c'havlec'h",
+	"repo-branches-label": "Skourroù :",
+	"repo-lastmoddate-label": "Deiziad :",
+	"branches-submit-button": "Pakañ anezhi !",
+	"updatelog-link": "hizivaat ar marilh",
+	"tablehead-repo": "Kavlec'h",
+	"tablehead-snapshots": "Tapadennoù prim",
+	"tablehead-branch": "Skourr",
+	"tablehead-filesize": "Ment ar restr",
+	"tablehead-hash": "Hacherezh"
+}

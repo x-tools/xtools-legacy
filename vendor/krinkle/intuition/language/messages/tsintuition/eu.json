@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa",
+			"Subi"
+		]
+	},
+	"current-settings": "Oraingo hobespenak",
+	"current-language": "Hautatutako hizkuntza",
+	"settings-legend": "Hobespenak",
+	"choose-language": "Hizkuntza aukeratu",
+	"clear-cookies": "cookie-ak garbitu",
+	"renew-cookies": "cookie-ak berritu",
+	"tab-overview": "Ikuspegi orokorra",
+	"tab-settings": "Hobespenak",
+	"tab-about": "Honi buruz",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Nire hizkuntzaren hobespenak",
+	"bl-mysettings-new": "Hizkuntza aldatu!",
+	"usage": "Intuitionek itzulitako tresnak.",
+	"help-translate-tool": "Tresna hau itzultzen lagundu!",
+	"help-translate-all": "Lagun ezazu tresnak itzultzen!"
+}

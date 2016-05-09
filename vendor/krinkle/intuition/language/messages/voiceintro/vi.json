@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Ghi âm",
+	"voiceintro-toolbar-stop-label": "Ngừng",
+	"voiceintro-toolbar-clear-label": "Xóa",
+	"voiceintro-toolbar-upload-label": "Tải lên",
+	"voiceintro-webaudio-not-supported": "Trình duyệt này không hỗ trợ API WebAudio",
+	"voiceintro-upload-publish-succeeded": "Đã tải lên bản ghi thành công:",
+	"voiceintro-upload-publish-failed": "Bản ghi không tải lên được.",
+	"voiceintro-information-label": "Thông tin",
+	"voiceintro-information-speaker-label": "Tên người nói:",
+	"voiceintro-information-language-label": "Ngôn ngữ:",
+	"voiceintro-mic-access-notify": "Bấm “Cho phép” để cho phép trình duyệt truy cập micrô của bạn.",
+	"voiceintro-recording-notify": "Đang ghi âm…"
+}

@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia",
+			"Base",
+			"Ата"
+		]
+	},
+	"pb-about-pb-navi": "Про програму",
+	"pb-about-pb-tech": "Технічні деталі",
+	"pb-about-pb-tech-text": "<p>Ми використовуємо <a href=\"http://uk.wikipedia.org/wiki/Python>Python</a> і <a href=\"http://uk.wikipedia.org/wiki/Mysql\">MySQL</a> для цього інтерфейсу. Вихідний код видається на умовах <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU меншої загальної громадської ліцензії 3</a> (LGPL 3) і може бути доступний <a href=\"https://github.com/tool-labs/pb\">на GitHub</a>. Додавайте звіти про помилки, тематичні запити або інші коментарі <a href=\"https://github.com/tool-labs/pb/issues/new\">на трекері GitHub</a> або повідомте про це нас у <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">сторінці обговорень Вікіпедії</a>.</p>\n<p>Поточний знімок PB бази даних можна знайти <a href=\"/pb/sql-dumps\">тут</a>.</p>\n<p>Ми використовуємо кілька піктограм, створених <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">проектом Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Цей проект представляє особисте знайомство між вікімедійцями.</p>\n<p>Перша реалізація була зроблена Уллі Пурвіном (інтерфейс) і Euku (бот). На початку 2011 року Wiegels і Ireas після Уллі роблять інтерфейс. Тепер проект більше не перебуває на особистому сервері, а на Wikimedia Labs.</p>\n<p>Більше інформації про цей проект можна знайти у німецькій Вікіпедії на сторінці <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Про проект",
+	"pb-change-language": "Змінити мову",
+	"pb-comment": "Коментар",
+	"pb-confirmations-given": "Надані підтвердження",
+	"pb-confirmations-taken": "Отримані підтвердження",
+	"pb-current-confirmations": "Всього $1 підтверджень, це близько <abbr title=\"$2\">$3</abbr> підтверджень за день.",
+	"pb-current-figures": "Поточні показники",
+	"pb-current-users": "На даний момент $1 користувачів беруть участь у проекті <em>Особисте знайомство</em>.",
+	"pb-date": "Дата",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> на Tool Labs. <a href=\"$1\" title=\"About Wikipedia:Persönliche Bekanntschaften\">Подробиці.</a>",
+	"pb-home": "Головна",
+	"pb-home-welcome": "Ласкаво просимо на проект <em>Особисте знайомство</em> (<em>Persönliche-Bekanntschaften</em> німецькою мовою)!  Більше інформації про цей проект можна знайти на <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German language Wikipedia\">у німецькій версії Вікіпедії</a>.",
+	"pb-javascript-notice": "Рекомендовано увімкнути JavaScript для цього веб-сайту для поліпшення інтерфейсу користувача.",
+	"pb-labs-name": "Вікімедіа Tool Labs",
+	"pb-participates-since": "Бере участь з",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "На платформі Вікімедіа Tool Labs",
+	"pb-recent-confirmations": "Останні підтвердження",
+	"pb-reconfirmed": "Підтверджено?",
+	"pb-user": "Користувач",
+	"pb-user-link-title": "Деталі для користувача $1",
+	"pb-user-heading": "ІнформацІя для <a href=\"$2\" title=\"Сторінка користувача $1\">$1</a>",
+	"pb-user-title": "Інформація для $1",
+	"pb-users-navi": "Користувачі",
+	"pb-users-title": "Список учасників",
+	"pb-users-overview": "Ці $1 користувачів беруть участь у проекті <em>Особисте знайомство</em>:",
+	"pb-verified-since": "Перевірено з"
+}

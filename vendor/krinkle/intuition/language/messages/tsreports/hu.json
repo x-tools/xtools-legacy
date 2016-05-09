@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj"
+		]
+	},
+	"category_users": "Felhasználók",
+	"category_articles": "Lapok",
+	"category_images": "Képek",
+	"category_miscellaneous": "Egyéb",
+	"category_wikidata": "WikiData",
+	"select_wiki_title": "Válassz egy wikit",
+	"qvar_next": "Tovább →"
+}

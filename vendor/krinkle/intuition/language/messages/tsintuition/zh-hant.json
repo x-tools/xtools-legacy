@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Simon Shek",
+			"Wehwei",
+			"LNDDYL"
+		]
+	},
+	"fullname": "工具國際化",
+	"current-settings": "當前的設定",
+	"current-language": "所選的語言",
+	"settings-legend": "設定",
+	"choose-language": "選擇語言",
+	"clear-cookies": "清除 cookie",
+	"renew-cookies": "重設cookie",
+	"cookie-expiration": "Cookie期限",
+	"clearcookies-success": "成功清除 cookie。",
+	"renewcookies-success": "Cookies已經重設！你全部的設置將保留$1。",
+	"tab-overview": "概述",
+	"tab-settings": "設定",
+	"tab-about": "關於",
+	"tab-demo": "示範",
+	"bl-mysettings": "我的語言設定",
+	"bl-mysettings-new": "變更語言！",
+	"bl-promo": "翻譯來自 $1 和 $2 。",
+	"bl-changelanguage": "變更此工具的介面語言。",
+	"usage": "由 Intuition 翻譯的工具。",
+	"help-translate-tool": "協助翻譯此工具！",
+	"help-translate-all": "協助翻譯工具！",
+	"help-translate-tooltip": "幫助其他人把界面翻譯成您的語言。"
+}

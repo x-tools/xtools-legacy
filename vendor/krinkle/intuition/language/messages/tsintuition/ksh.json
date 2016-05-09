@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"fullname": "De Bedeenovverfläsch vun Wärkzüsch en alle Schprohche",
+	"current-settings": "De aktoälle Enshtällonge",
+	"current-language": "De ußjesöhk Schprohch",
+	"settings-legend": "Enschtällonge",
+	"choose-language": "Donn en Schprohch ußwähle",
+	"clear-cookies": "Donn de <i lang=\"en\">Cookies</i> fottschmiiße",
+	"renew-cookies": "Donn de <i lang=\"en\">Cookies</i> neu säze",
+	"cookie-expiration": "Dä <i lang=\"en\">Cookies</i> iehr Lävenszigg.",
+	"clearcookies-success": "De <i lang=\"en\">Cookies</i> sin fott.",
+	"renewcookies-success": "De <i lang=\"en\">Cookies</i> sin neu jesaz un se sullte för de näkßde $1 hallde.",
+	"tab-overview": "Övverseesch",
+	"tab-settings": "Enschtällonge",
+	"tab-about": "Övver dat Projramm heh",
+	"tab-demo": "Vörföhrung",
+	"bl-mysettings": "Ming Schprohchenschtällonge",
+	"bl-mysettings-new": "De Schprohch wääßele",
+	"bl-promo": "De Övversäzonge kumme vum $1 un övver $2 noh heh.",
+	"bl-changelanguage": "Donn di Schprohch ändere, di heh dat Projramm met Der kallt.",
+	"usage": "Projramme, di övver dat Süßteem „<i lang=\"en\">Intuition</i>“\növversaz woode sin.",
+	"help-translate-tool": "Donn beim Övversäze för heh dat Projramm hellfe!",
+	"help-translate-all": "Donn beim Wärkzüsch-Övversäze hellfe!",
+	"help-translate-tooltip": "Donn der Andere jet Joods un donn de Täxte un Nohreeschte vun de Projramme en Ding Schprohch övversäze."
+}

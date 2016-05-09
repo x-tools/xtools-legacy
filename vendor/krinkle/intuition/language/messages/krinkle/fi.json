@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike",
+			"Silvonen"
+		]
+	},
+	"alws-selectwiki": "(valitse wiki)",
+	"alws-group-mustused": "Käytetyimmät wikit",
+	"alws-group-allaz": "Kaikki wikit aakkosjärjestyksessä",
+	"form-legend-settings": "Asetukset"
+}

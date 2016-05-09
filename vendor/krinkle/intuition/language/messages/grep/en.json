@@ -1,0 +1,17 @@
+{
+	"@metadata": [],
+	"title": "Article title grep (beta)",
+	"introduction": "This tool shows all article titles that match a regular expression pattern ($1). Searching using a regular expression is resource intensive. If at all possible, remember to use the prefix (^) and ($) suffix indicators.",
+	"explanation": "explanation",
+	"regex": "Regular expression",
+	"enter-details": "Enter details",
+	"results": "Results",
+	"language-label": "Language",
+	"namespace-label": "Namespace",
+	"project-label": "Project",
+	"pattern-label": "Pattern",
+	"redirects-label": "Include redirects",
+	"limit-label": "Limit the display to the first 100 results",
+	"error-zeroresults": "There are no pages in that namespace with titles matching your regular expression.",
+	"match-count": "{{PLURAL:$1|$1 page|$1 pages}} matched your regular expression."
+}

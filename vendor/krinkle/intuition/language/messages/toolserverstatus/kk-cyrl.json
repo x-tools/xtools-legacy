@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Ақпарат",
+	"toolserver-status-short-warn": "$1: Ексерту",
+	"toolserver-status-short-down": "$1: Төмен",
+	"toolserver-status-short-erro": "$1: Қате",
+	"toolserver-status-short-unknown": "$1: Белгісіз",
+	"toolserver-status-short-missing": "$1: Қажет етеді"
+}

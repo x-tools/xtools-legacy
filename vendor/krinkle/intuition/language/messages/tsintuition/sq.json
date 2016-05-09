@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Besnik b",
+			"FatosMorina"
+		]
+	},
+	"current-settings": "Parametrat aktualë",
+	"current-language": "Gjuha e përzgjedhur aktualisht",
+	"settings-legend": "Parametrat",
+	"choose-language": "Zgjidhni një gjuhë",
+	"clear-cookies": "fshini të ruajturat",
+	"renew-cookies": "përditësoni të ruajturat",
+	"cookie-expiration": "Skadimi i të ruajturave",
+	"clearcookies-success": "Të ruajturat u pastruan me sukses.",
+	"tab-settings": "Parametrat",
+	"tab-about": "Për",
+	"bl-mysettings": "Parametrat e mi të gjuhës",
+	"bl-mysettings-new": "Ndryshoni gjuhën!",
+	"bl-promo": "Përkthimet janë nga $1 dhe $2.",
+	"bl-changelanguage": "Klikoni këtu për të ndryshuar gjuhën e ndërfaqes të kësaj vegle.",
+	"usage": "Vegla të përkthyera nga Intuita e Toolserverit.",
+	"help-translate-tool": "Ndihmoni në përkthimin e kësaj vegle.",
+	"help-translate-all": "Ndihmoni në përkthimin e Toolserver-it!",
+	"help-translate-tooltip": "Ndihmoni të tjerët duke përkthyer mesazhet e ndërfaqes në gjuhën tuaj."
+}

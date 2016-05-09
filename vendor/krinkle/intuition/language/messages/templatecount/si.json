@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Singhalawap",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"enter-details": "විස්තර ඇතුළුකරන්න",
+	"language-label": "බස",
+	"namespace-label": "නාමාවකාශය:",
+	"pagename-label": "පිටුවේ නම (නාමඅවකාශය නැතුව)",
+	"transclusion-count-label": "transclusions ගණන",
+	"transclusion-count": "$1 transclusion(s) හමුවුණි.",
+	"time-label": "විධානය ක්‍රියාත්මක කිරීමට ගත කාලය"
+}

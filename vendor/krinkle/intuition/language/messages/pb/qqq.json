@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Shirayuki",
+			"Siebrand"
+		]
+	},
+	"pb-about-pb-navi": "Navigation item ‘About PB’\n{{Identical|About}}",
+	"pb-about-pb-tech": "About section \"Technical\".\n{{Identical|Technical details}}",
+	"pb-about-pb-tech-text": "Description of the technical details of the project (HTML allowed, in <p> tag(s))",
+	"pb-about-pb-text": "Description of the project (HTML allowed, in <p> tag(s))",
+	"pb-about-pb-title": "Title of the page ‘About PB’",
+	"pb-change-language": "Used as text for the link to the Intuition settings page https://tools.wmflabs.org/intuition/\n{{Identical|Change language}}",
+	"pb-comment": "Label for comments.\n{{Identical|Comment}}",
+	"pb-confirmations-given": "Name for the confirmations done by a user",
+	"pb-confirmations-taken": "Name for the confirmations received by a user",
+	"pb-current-confirmations": "Label containing some figures about confirmations (HTML allowed). Parameters:\n* $1: total confirmation count;\n* $2: exact confirmation count per day;\n* $3: rounded confirmation count per day",
+	"pb-current-figures": "Home section ‘Current figures’",
+	"pb-current-users": "Label containing some figures about the participating users (HTML allowed).\n\nParameters:\n* $1 - number of users",
+	"pb-date": "Label for dates. e.g. \"2014-06-15\".\n\nSee https://tools.wmflabs.org/pb/beta/recent/\n{{Identical|Date}}",
+	"pb-footer": "Content of the footer (HTML allowed). Parameters:\n* $1 - URL of the about page",
+	"pb-home": "Title of the home page.\n{{Identical|Home}}",
+	"pb-home-welcome": "Welcome label on the home page (HTML allowed)",
+	"pb-javascript-notice": "Content of the noscript warning",
+	"pb-labs-name": "Name of Wikimedia Tool Labs",
+	"pb-participates-since": "Label for the date since when the user participates. e.g. \"2008-11-30\"\n\nSee https://tools.wmflabs.org/pb/beta/users/",
+	"pb-name": "Name of the WP:PB project.\n\nThere is a source page [[w:de:Wikipedia:Persönliche Bekanntschaften]] on German Wikipedia.\nIf there is a local version on a wiki language, you can point there.",
+	"pb-powered-by-labs": "Tooltip for the \"Powered by Labs\" logo.\n\nSee https://tools.wmflabs.org/pb/beta/",
+	"pb-recent-confirmations": "Home section ‘Recent confirmations’",
+	"pb-reconfirmed": "Table column header for reconfirmations.\n\nSee example: https://tools.wmflabs.org/pb/beta/user/name/Siebrand/",
+	"pb-user": "Label for user names.\n{{Identical|User}}",
+	"pb-user-link-title": "Title for a link pointing to user details. Parameters:\n* $1 - user name of the linked user",
+	"pb-user-heading": "Heading of the user details page (HTML allowed).\n\nSee example: https://tools.wmflabs.org/pb/beta/user/name/Siebrand/\n\nParameters:\n* $1 - user name of the current user\n* $2 - link to the user page of the current user",
+	"pb-user-title": "Title of the user details page. Parameters:\n* $1 - user name of the current user",
+	"pb-users-navi": "Navigation item \"Users\" pointing to https://tools.wmflabs.org/pb/beta/users/\n{{Identical|User}}",
+	"pb-users-title": "Title of the page \"Users\". See https://tools.wmflabs.org/pb/beta/users/",
+	"pb-users-overview": "Introduction for the ‘Users’ page (HTML allowed). Parameters:\n* $1: total count of participating users",
+	"pb-verified-since": "Label for the date since when the user is verified. e.g. \"2008-11-30\"\n\nSee https://tools.wmflabs.org/pb/beta/users/"
+}

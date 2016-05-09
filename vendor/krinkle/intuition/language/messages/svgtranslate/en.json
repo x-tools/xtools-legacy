@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"title": "SVG Translate",
+	"error-tryagain": "$1 Hit your browser's back button to retry.",
+	"error-nothing": "Nothing to translate.",
+	"error-notsvg": "Not an SVG file.",
+	"error-unexpected": "An unexpected error occurred.",
+	"error-notfound": "The SVG file could not be retrieved from the URL provided.",
+	"error-upload": "There was an error uploading.",
+	"begin-translation": "Begin translation",
+	"th-original": "Original",
+	"th-translation": "Translation",
+	"th-language": "Language",
+	"th-username": "Username",
+	"th-password": "Password",
+	"th-method": "Method",
+	"option-oauth": "OAuth (automatic upload)",
+	"option-manual": "Manual upload",
+	"preview": "Preview",
+	"translate": "Translate",
+	"translate-instructions": "Inputs are accepted as either file names (e.g. \"$1\") or full URL (e.g. \"$2\"). If the first option is used, Wikimedia Commons will be assumed as source. To translate an SVG from another site or wiki, you must use the full-URL format.",
+	"format-filename-example": "File:Planetary transit.svg",
+	"format-fullurl-example": "http://upload.wikimedia.org/wikipedia/commons/8/8a/Planetary_transit.svg",
+	"svginput-label": "SVG file",
+	"stats-footer": "This tool has been used to translate approximately $1 files since $2.",
+	"uploading": "Uploading",
+	"upload-complete": "The upload completed successfully. The image should now be at $1",
+	"editdescriptionpage": "Edit the new description page",
+	"disclaimer": "Some anonymous data will be privately collected for statistical purposes. If supplied, OAuth usernames will also be recorded to assist in the event of vandalism. Passwords will never be recorded.",
+	"author-complete": "Please complete author information!",
+	"preview-hide": "Hide preview",
+	"preview-refresh": "Refresh preview",
+	"error-must-accept": "To continue with a direct upload you must accept the terms of use provided.",
+	"description-license": "Select description and license",
+	"finalise": "Finalize details"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"error-nothing": "Theba çıniyo kê açerneyo.",
+	"th-original": "Oricinal",
+	"th-translation": "Çarnayış",
+	"th-language": "Zıwan",
+	"th-username": "Nameyê karberi",
+	"th-password": "Parola",
+	"th-method": "Metod",
+	"option-oauth": "TUSC (otomatik barkerdış)",
+	"option-manual": "Manuel barkerdış",
+	"preview": "Verqayt",
+	"translate": "Açarne",
+	"svginput-label": "Dosyay SVG",
+	"uploading": "Bar beno",
+	"preview-hide": "Verqayti bınımnê",
+	"preview-refresh": "Verqayti anewe kerê"
+}

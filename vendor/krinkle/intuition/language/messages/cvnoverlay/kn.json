@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ananth subray"
+		]
+	},
+	"adder": "ಸೇರಿಸು",
+	"adder-empty": "ಅಪರಿಚಿತ",
+	"expiry": "ಮುಕ್ತಾಯ:",
+	"globalwatched": "ಜಾಗತಿಕವಾಗಿ ವೀಕ್ಷಿಸಿದ",
+	"reason": "ಕಾರಣ",
+	"reason-empty": "ಯಾವುದೇ ಕಾರಣ ಕಂಡುಬಂದಿಲ್ಲ"
+}

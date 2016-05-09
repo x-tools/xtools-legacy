@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"attention": "Gatèkaké",
+	"language": "Basa",
+	"project": "Proyèk",
+	"source_file": "Berkas sumber",
+	"target_file": "Berkas tinuju",
+	"commons_username": "Jeneng panganggo Wikimèdia Commons",
+	"commons_to_project": "Wikimèdia Commons mroyèkaké",
+	"categories": "Katègori",
+	"remove_cats": "Singkiraké katégori sing ana",
+	"tusc_user": "Jeneng panganggo TUSC",
+	"tusc_pass": "Tembung sandhi TUSC",
+	"do_it": "Lakoni",
+	"error_transfer_usr": "Sampéyan durung nyetèl jeneng panganggo Wikimedia Commons",
+	"error_not_exists": "Berkas sumber ora ana!",
+	"error_on_commons": "Berkas sumber wis nèng $1!",
+	"original_wikitext": "Tèks wiki asli",
+	"new_wikitext": "Tèks wiki anyar",
+	"new_filename": "Jeneng berkas anyar:",
+	"upload_submit": "Unggah!",
+	"target_wiki": "wiki patujon",
+	"error_bot_blocked": "Bot pangunggah diblokir nèng Wikimedia Commons.",
+	"error_tusc_failed": "Pangesahan TUSC ora dadi!",
+	"error_only_commons": "Unggah langsung karya mung nèng Wikimedia Commons!",
+	"error_upload_file": "Berkas asli ora bisa diundhuh.",
+	"help_jira": "$1JIRA (Sampéyan mbutuhaké akun)$2 (Proyek: Commonshelper2)",
+	"help_mail": "Kirim layang nèng $1"
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"title": "Descărcare de imagini după categorie",
+	"subtitle": "Calea ușoară de a descărca imaginile dintr-o categorie",
+	"project": "Proiect:",
+	"category": "Categorie:",
+	"thumbnailing": "Miniaturizare",
+	"max-width": "Lățime maximă:",
+	"max-height": "Înălțime maximă:",
+	"invalid-width": "Lățime incorectă",
+	"invalid-height": "Înălțime incorectă",
+	"no-such-project": "Nu există nici un astfel de proiect",
+	"no-images": "Nu există imagini în acea categorie",
+	"category-is-url": "Numele categoriei introduse arată ca un URL. Trebuie să specificați numele categoriei, nu adresa sa URL.",
+	"zip-failed": "Crearea arhivei a eșuat",
+	"image-area-too-big": "$1 este prea mare pentru a i se crea o miniatură. Se va utiliza dimensiunea completă.",
+	"download-info": "{{plural: $1|Există o imagine|Există $1 imagini||Există $1 de imagini}} cu o dimensiune estimată la $2",
+	"download": "Descărcare",
+	"scaling-width": ", scalată la o lățime maximă de $1 {{plural:$1|pixel|pixeli|de pixeli}}",
+	"scaling-height": ", scalată la o înălțime maximă de $1 {{plural:$1|pixel|pixeli|de pixeli}}",
+	"scaling-both": ", scalată la o dimensiune maximă de $1 x $2 pixeli"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"toolserver-status-ok": "Problemy w clusterje $1 datoweje banki njejsu $2",
+	"toolserver-status-info": "Powěźeńka za wužywarjow clustera $1: $2",
+	"toolserver-status-warn": "Warnowanje za wužywarjow clustera $1: $2",
+	"toolserver-status-down": "Cluster $1 datoweje banki jo se nachylu wušaltował. $2",
+	"toolserver-status-erro": "Cluster $1 datoweje banki jo wupadnuł. $2",
+	"toolserver-status-unknown": "Unknown status of cluster $1",
+	"toolserver-status-missing": "Cluster $1 njeeksistěrujo",
+	"toolserver-status-short-ok": "$1: W pórěźe",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Warnowaś",
+	"toolserver-status-short-down": "$1: Wupadnjony",
+	"toolserver-status-short-erro": "$1: Zmólka",
+	"toolserver-status-short-unknown": "$1: Njeznaty",
+	"toolserver-status-short-missing": "$1: Felujo"
+}

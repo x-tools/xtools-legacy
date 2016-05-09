@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"voiceintro-toolbar-record-label": "ჩაწერა",
+	"voiceintro-toolbar-stop-label": "შეჩერება",
+	"voiceintro-toolbar-clear-label": "გასუფთავება",
+	"voiceintro-toolbar-upload-label": "ატვირთვა",
+	"voiceintro-information-label": "ინფორმაცია",
+	"voiceintro-information-speaker-label": "მოსაუბრის სახელი:",
+	"voiceintro-information-language-label": "ენა:",
+	"voiceintro-recording-notify": "იწერება..."
+}

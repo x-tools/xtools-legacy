@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa"
+		]
+	},
+	"title": "WLM fitxategiak",
+	"file": "Irudia",
+	"monument-type": "Monumentu mota",
+	"monument-id": "Monumentuaren ID",
+	"province": "Probintzia",
+	"comarque": "Eskualdea",
+	"competes": "Bukatuta",
+	"author": "Egilea",
+	"upload-time": "Igoera ordua",
+	"deleted": "Ezabatua ($1)",
+	"date-unknown": "Ezezaguna",
+	"total-images": "Irudiak guztira: $1",
+	"show-images-all": "Irudi guztiak erakutsi",
+	"search-monuments": "Bilatu monumentuak",
+	"view-frequency": "Monumentu ezagunak",
+	"view-ccaa": "Autonomia erkidegoaren arabera ikusi",
+	"view-province": "Probintziaren arabera ikusi",
+	"id-label": "Monumentuaren ID:",
+	"monument-heading": "Monumentua",
+	"count-heading": "Argazkiak",
+	"bic-list": "Zerrenda",
+	"bic-gallery": "Galeria",
+	"gallery-header": "$1 ID-a duen monumentuarentzako irudiak",
+	"author-heading": "Egilea",
+	"bic-list-bad": "Erakutsi",
+	"bic-list-all": "Zerrenda osoa",
+	"users-list": "Ikusi",
+	"province-heading": "Probintzia",
+	"province-none": "(Ezezaguna)",
+	"ccaa-heading": "Autom. Erkideg."
+}

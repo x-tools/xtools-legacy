@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia",
+			"Simbu123"
+		]
+	},
+	"attention": "লক্ষ্য কৰক",
+	"language": "ভাষা",
+	"project": "প্ৰকল্প",
+	"source_file": "উৎস ফাইল",
+	"target_file": "লক্ষ্য ফাইল",
+	"commons_username": "ৱিকিমিডিয়া কমন্স সদস্যনাম",
+	"commons_to_project": "ৱিকিমিডিয়া কমন্সৰ পৰা প্রকল্পলৈ",
+	"categories": "শ্ৰেণীসমূহ",
+	"remove_cats": "বর্তমানৰ শ্ৰেণীসমূহ বিলোপ কৰক",
+	"tusc_user": "TUSC সদস্যনাম",
+	"tusc_pass": "TUSC গুপ্তশব্দ",
+	"do_it": "সম্পন্ন কৰক",
+	"error_transfer_usr": "আপুনি ৱিকিমিডিয়া কমন্সৰ ব্যৱহাৰকাৰী নাম প্ৰদান কৰা নাই",
+	"error_not_exists": "উৎস পৃষ্ঠৰ অস্তিত্ব নাই ।",
+	"error_file_exists": "ফাইল $3 ইতিমধ্যে \"$1 $4 $2\" হিচাপে আছেই !",
+	"original_wikitext": "মূল ৱিকি পাঠ্য",
+	"new_wikitext": "নতুন ৱিকি পাঠ্য",
+	"new_filename": "নতুন ফাইলনাম:",
+	"upload_submit": "আপল’ড কৰক !",
+	"target_wiki": "লক্ষ্য ৱিকি",
+	"error_bot_blocked": "আপল’ড বট ৱিকিমিডিয়া কমন্সত ব্লক কৰা হৈছে।",
+	"error_tusc_failed": "TUSC সত্যাপন বিফল হৈছে",
+	"error_upload_file": "মূল ফাইল ডাউনল’ড কৰিব নোৱাৰি ।",
+	"help_jira": "$1JIRA (আপোনাক এটা একাউন্টৰ প্ৰয়োজন)$2 (Project: Commonshelper2)",
+	"help_mail": "$1ক ই-মেইল প্ৰেৰণ কৰক"
+}

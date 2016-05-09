@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Schu",
+			"Shirayuki",
+			"Whym",
+			"아라"
+		]
+	},
+	"dateformat": "%Y年%B%d日",
+	"hello": "こんにちは",
+	"welcome": "ようこそ",
+	"toolversion": "バージョン $1",
+	"toolversionstamp": "バージョン $1 ($2)",
+	"etc": "など",
+	"colon-separator": ":",
+	"namespace": "名前空間",
+	"form-submit": "実行",
+	"form-reset": "リセット",
+	"years": "{{PLURAL: $1|年}}",
+	"months": "{{PLURAL: $1|月}}",
+	"weeks": "{{PLURAL: $1|週間}}",
+	"days": "{{PLURAL: $1|日}}",
+	"hours": "{{PLURAL: $1|時間}}",
+	"minutes": "{{PLURAL: $1|分}}",
+	"seconds": "{{PLURAL: $1|秒}}",
+	"last-modified-date": "最終更新: $1",
+	"view-source": "ソースを表示",
+	"parentheses": "($1)",
+	"comma-separator": "、",
+	"and": "&#32;および&#32;"
+}

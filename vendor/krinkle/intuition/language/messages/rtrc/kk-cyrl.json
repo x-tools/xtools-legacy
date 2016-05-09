@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"title": "Нақты уақыттағы жуықтағы өзгерістер",
+	"apply": "Қолдану",
+	"asc": "Артуы",
+	"changelog": "Жаңа не бар?",
+	"clear": "Тазарту",
+	"currentedit": "Таңдалған өңдеме",
+	"cvn-adder": "Қосушы",
+	"cvn-adder-empty": "Белгісіз",
+	"cvn-reason": "Себебі",
+	"cvn-reason-empty": "Себебі табылмады",
+	"desc": "Кему",
+	"documentation": "Құжаттамасы",
+	"filter": "Сүзгі",
+	"helpicon-tooltip": "Бұл мүмкіндік туралы көбірек білу",
+	"lastupdate-cvn": "Соңғы жаңартылуы: $1",
+	"lastupdate-rc": "Соңғы жаңартылуы: $1",
+	"limit": "Шектеуі",
+	"months": "Қаңтар, Ақпан, Наурыз, Сәуір, Мамыр, Маусым, Шілде, Тамыз, Қыркүйек, Қазан, Қараша, Желтоқсан",
+	"mypatrollog": "Қадағалау журналым",
+	"namespace": "Есім кеңістігі",
+	"navtoggle-tooltip": "Бүйірлік үстелді үлкейту",
+	"nomatches": "Сіздің талабыңыз бойынша өзгерістер жоқ",
+	"order": "Рет",
+	"permalink": "Ағымдағы параметрлердің тұрақты сілтемесі",
+	"select-placeholder-none": "(ештеңе)",
+	"showAnonOnly": "Тек анонимдер",
+	"showUnpatrolledOnly": "Тек тексерілмегендер",
+	"skippededit": "Жасырылған өңдеме",
+	"tag": "Тег",
+	"time-from": "Бастап",
+	"time-untill": "Дейін",
+	"timeframe": "Уақыт аралығы",
+	"type": "Түрі",
+	"typeEdit": "Өңдемелер",
+	"typeNew": "Жаңа беттер",
+	"userfilter": "Қатысушы сүзгісі"
+}

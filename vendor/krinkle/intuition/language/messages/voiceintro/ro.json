@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Înregistrează",
+	"voiceintro-toolbar-stop-label": "Stop",
+	"voiceintro-toolbar-clear-label": "Curăță",
+	"voiceintro-toolbar-upload-label": "Încarcă",
+	"voiceintro-webaudio-not-supported": "API-ul WebAudio nu este acceptat de acest navigator",
+	"voiceintro-upload-publish-succeeded": "Înregistrare încărcată cu succes:",
+	"voiceintro-upload-publish-failed": "Înregistrarea nu a fost încărcată.",
+	"voiceintro-information-label": "Informații",
+	"voiceintro-information-speaker-label": "Numele vorbitorului:",
+	"voiceintro-information-language-label": "Limbă:",
+	"voiceintro-mic-access-notify": "Apăsați „Permite” pentru a permite navigatorului să vă acceseze microfonul.",
+	"voiceintro-recording-notify": "Se înregistrează..."
+}

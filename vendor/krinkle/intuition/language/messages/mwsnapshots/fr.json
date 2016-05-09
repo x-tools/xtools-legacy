@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Tititou36"
+		]
+	},
+	"title-overview": "Instantanés",
+	"title-error": "Erreur",
+	"title-updatelog": "Mettre à jour le journal",
+	"updatelog-intro": "Le script de mise à jour est programmé pour s'exécuter toutes les heures. Voici ci-dessous la sortie de la console de la dernière exécution.",
+	"updatelog-active": "Le script de mise à jour est en cours d'exécution. Revenez plus tard pour le journal complet.",
+	"download-button": "Télécharger l’image instantanée",
+	"download-directlink": "lien direct",
+	"title-downloadpage": "Télécharger",
+	"title-downloadpage-repo": "Télécharger $1",
+	"err-snapshotindex": "Index d'instantané temporairement indisponible. Veuillez réessayer ultérieurement.",
+	"err-invalid-repo": "Dépôt inconnu: \"$1\".",
+	"err-invalid-branch": "Branche inconnue: \"$1\" dans le dépôt \"$2\".",
+	"err-nosnapshot": "Les instantanés sont générés toutes les quelques heures. Lors de la génération de l'instantané pour \"$1\", une erreur s'est produite. Veuillez réessayer ultérieurement.",
+	"err-noupdatelog": "Aucun journal de mise à jour n'a été trouvé.",
+	"repo-site-link": "Site web",
+	"repo-browse-link": "Naviguer dans le dépôt",
+	"repo-branches-label": "Branches:",
+	"repo-lastmoddate-label": "Date:",
+	"branches-submit-button": "L'obtenir!",
+	"updatelog-link": "mettre à jour le journal",
+	"tablehead-repo": "Dépôt",
+	"tablehead-snapshots": "Instantanés",
+	"tablehead-branch": "Branche",
+	"tablehead-filesize": "Taille de fichier",
+	"tablehead-hash": "Hachage"
+}

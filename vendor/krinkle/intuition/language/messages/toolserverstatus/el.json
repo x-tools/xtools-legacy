@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki"
+		]
+	},
+	"toolserver-status-ok": "Δεν υπάρχουν προβλήματα στην συστοιχία βάσεων $1 $2",
+	"toolserver-status-info": "Μήνυμα για χρήστες της συστοιχίας $1: $2",
+	"toolserver-status-warn": "Προειδοποίηση για χρήστες της συστοιχίας $1: $2",
+	"toolserver-status-down": "Στη συστοιχία βάσεων $1 έχει προσωρινά διακοπεί η λειτουργία. $2",
+	"toolserver-status-erro": "Η συστοιχία βάσεων $1 είναι εκτός λειτουργίας. $2",
+	"toolserver-status-unknown": "Άγνωστη κατάσταση της συστοιχίας $1",
+	"toolserver-status-missing": "Η συστοιχία $1 δεν υπάρχει",
+	"toolserver-status-short-ok": "$1: Εντάξει",
+	"toolserver-status-short-info": "$1: Πληροφορίες",
+	"toolserver-status-short-warn": "$1: Προειδοποίηση",
+	"toolserver-status-short-down": "$1: Εκτός λειτουργίας",
+	"toolserver-status-short-erro": "$1: Σφάλμα",
+	"toolserver-status-short-unknown": "$1: Άγνωστο",
+	"toolserver-status-short-missing": "$1: Λείπει"
+}

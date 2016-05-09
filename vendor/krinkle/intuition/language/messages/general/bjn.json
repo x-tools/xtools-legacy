@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Riemogerz"
+		]
+	},
+	"hello": "Halu",
+	"welcome": "Salamat datang",
+	"toolversionstamp": "Pirsi $1 ($2)",
+	"etc": "wll.",
+	"form-submit": "Kirim",
+	"form-reset": "Bulikakan satilan"
+}

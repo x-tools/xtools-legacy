@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"hello": "Halo",
+	"welcome": "Witaj",
+	"toolversion": "Wersija $1",
+	"toolversionstamp": "Wersija $1 ($2)",
+	"etc": "atd.",
+	"namespace": "Mjenjowy rum",
+	"form-submit": "Wótpósłaś",
+	"form-reset": "Slědk stajiś",
+	"years": "{{PLURAL: $1|lěto|lěśe|lěta|lět}}",
+	"weeks": "{{PLURAL: $1|tyźeń|tyźenja|tyźenje|tyźenjow}}",
+	"days": "{{PLURAL: $1|źeń|dnja|dny|dnjow}}",
+	"hours": "{{PLURAL: $1|góźina|góźinje|góźiny|góźinow}}",
+	"minutes": "{{PLURAL: $1|minuta|minuśe|minuty|minutow}}",
+	"seconds": "{{PLURAL: $1|sekunda|sekunźe|sekundy|sekundow}}",
+	"last-modified-date": "Slědny raz změnjony: $1",
+	"view-source": "Žrědło se woglědaś",
+	"and": "&#32;a"
+}

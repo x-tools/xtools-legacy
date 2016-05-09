@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"CoderSI",
+			"Sociologist"
+		]
+	},
+	"title": "Rasmlarni turkumlar boʻyicha yuklash",
+	"subtitle": "Turkumdagi rasmlarni yuklash uchun oddiy usul",
+	"project": "Loyiha:",
+	"category": "Turkum:",
+	"thumbnailing": "Miniaturalar",
+	"max-width": "Eng katta uzunlik:",
+	"max-height": "Eng katta balandlik:",
+	"invalid-width": "Mumkin boʻlmagan uzunlik",
+	"invalid-height": "Mumkin boʻlmagan balandlik",
+	"no-such-project": "Bunday loyiha mavjud emas",
+	"no-images": "Bu turkumda rasmlar yoʻq",
+	"category-is-url": "Ushbu turkumning nomi URL-manzil koʻrinishida. Turkumning nomi koʻrsatish zarur, uning URL-manzilini emas.",
+	"category-contains-namespace": "Siz turkum nomiga nomfazoni qoʻshganga oʻxshaysiz. Siz tomondan tanlangan nom bilan sahifa [[Category:$1]] koʻrinishiga ega boʻladi.",
+	"zip-failed": "Zip yaratishda xatolik",
+	"image-area-too-big": "$1 eskiz yaratish uchun juda katta. Toʻliq oʻlchamdan foydalaniladi.",
+	"download-info": "Taxminiy oʻlchami $2 boʻlgan {{plural: $1|bitta tasvir|$1 ta tasvir}} mavjud",
+	"download": "Yuklash",
+	"scaling-both": "$1x$2 pikselli eng katta oʻlchamgacha miqyoslandi"
+}

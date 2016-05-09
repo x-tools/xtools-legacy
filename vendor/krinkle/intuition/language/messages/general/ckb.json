@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asoxor"
+		]
+	},
+	"hello": "سڵاو",
+	"welcome": "بەخێربێی",
+	"toolversionstamp": "وەشانی $1 ($2)",
+	"etc": "ھتد",
+	"namespace": "بۆشاییی ناو",
+	"form-submit": "بڕۆ",
+	"form-reset": "دووبارە ڕێکخستنەوە",
+	"years": "{{PLURAL: $1|ساڵ|ساڵ}}",
+	"weeks": "{{PLURAL:$1|ھەفتە|ھەفتە}}",
+	"days": "{{PLURAL: $1|ڕۆژ|ڕۆژ}}",
+	"hours": "{{PLURAL: $1|کاتژمێر|کاتژمێر}}",
+	"minutes": "{{PLURAL: $1|خولەک|خولەک}}",
+	"seconds": "{{PLURAL: $1|چرکە|چرکە}}",
+	"last-modified-date": "دوایین گۆڕانکاری: $1",
+	"view-source": "سەرچاوەکەی ببینە"
+}

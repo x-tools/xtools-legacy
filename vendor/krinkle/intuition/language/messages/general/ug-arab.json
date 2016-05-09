@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sahran"
+		]
+	},
+	"dateformat": "%Y-يىلى %d-ئاينىڭ %B-كۈنى",
+	"hello": "ئەسسالامۇئەلەيكۇم",
+	"welcome": "مەرھابا",
+	"toolversionstamp": "نەشرى $1 ($2)",
+	"etc": "قاتارلىق.",
+	"colon-separator": ":",
+	"namespace": "ئات بوشلۇقى",
+	"form-submit": "يۆتكەل",
+	"form-reset": "ئەسلىگە قايتۇر",
+	"years": "{{PLURAL: $1|يىل|يىل}}",
+	"weeks": "{{PLURAL: $1|ھەپتە|ھەپتە}}",
+	"days": "{{PLURAL: $1|كۈن|كۈن}}",
+	"hours": "{{PLURAL: $1|سائەت|سائەت}}",
+	"minutes": "{{PLURAL: $1|مىنۇت|مىنۇت}}",
+	"seconds": "{{PLURAL: $1|سېكۇنت|سېكۇنت}}",
+	"last-modified-date": "ئاخىرقى ئۆزگەرتىش: $1",
+	"view-source": "مەنبەنى كۆرسەت",
+	"parentheses": "($1)"
+}

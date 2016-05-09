@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"toolserver-status-short-ok": "$1: ठिक",
+	"toolserver-status-short-info": "$1: जानकारी",
+	"toolserver-status-short-warn": "$1: चेतावनी",
+	"toolserver-status-short-down": "$1: निम्न",
+	"toolserver-status-short-erro": "$1: त्रुटि",
+	"toolserver-status-short-unknown": "$1: अज्ञात",
+	"toolserver-status-short-missing": "$1: हराइरहेका"
+}

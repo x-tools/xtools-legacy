@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Obaid Raza"
+		]
+	},
+	"error-tryagain": "$1 کو دوبارہ دیکھنے کے لئے اپنے براؤزر کا بیک بٹن دبائیں۔",
+	"error-nothing": "قابل ترجمہ کوئی مواد نہیں ہے۔",
+	"error-notsvg": "کوئی SVG ملف (فائل) نہیں ہے۔",
+	"error-unexpected": "ایک غیر متوقع خرابی (ایرر) واقع ہوئی ہے۔",
+	"error-notfound": "فراہم کردہ یو آر ایل سے ایس وی جی (SVG) ملف کو بحال نہیں کیا جا سکتا۔",
+	"error-upload": "ایک خامی (ایرر) کی وجہ سے ملف زبر اثقال (اپلوڈ) نہیں ہوا تھا۔",
+	"begin-translation": "ترجمہ شروع",
+	"th-original": "اصل",
+	"th-translation": "ترجمہ",
+	"th-language": "زبان",
+	"th-username": "صارف نام",
+	"th-password": "کلمۂ شناخت (پاسورڈ)",
+	"th-method": "طریقہ کار",
+	"option-oauth": "OAuth (خود بخود زبراثقال/ اپلوڈ)",
+	"option-manual": "خود زبر اثقال (اپلوڈ) کریں",
+	"preview": "پیش منظر",
+	"translate": "ترجمہ",
+	"translate-instructions": "Inputs are accepted as either file names (e.g. \"$1\") or full URL (e.g. \"$2\"). If the first option is used, Wikimedia Commons will be assumed as source. To translate an SVG from another site or wiki, you must use the full-URL format.",
+	"svginput-label": "ایس وی جی ملف (SVG file)",
+	"stats-footer": "یہ آلہ $2 کے بعد سے تقریبا $1 فائلوں کا ترجمہ کرنے کے لئے استعمال کیا گیا ہے۔",
+	"uploading": "اثقال جاری ہے۔",
+	"upload-complete": "ملف زبر اثقال (اپلوڈ) ہو کيا ہے۔تصویر اب $1 پر ہونی چاہیے۔",
+	"editdescriptionpage": "تصویر کی نئی تفصیل کے صفحہ میں ترمیم کریں۔",
+	"disclaimer": "کچھ گمنام اعداد و شمار نجی شماریاتی مقاصد کے لیے جمع کیا جائے گا۔ OAuth صارف نام بھی تخریب کاری کے واقعہ میں مدد کے لئے ریکارڈ رکھا جائے گا۔ کلمہ شناخت (پاسورڈ) کبھی بھی محفوظ نہیں کیا جاتا۔",
+	"author-complete": "برائے مہربانی مصنف تصویر کی معلومات کو مکمل کریں!",
+	"preview-hide": "پیش منظر چھپائیں",
+	"preview-refresh": "پیش منظر کو تازہ کریں",
+	"error-must-accept": "ایک براہ راست اپلوڈ کو ساتھ جاری رکھنے کے لئے آپ کو فراہم کردہ استعمال کی شرائط قبول کرنا لازمی ہے۔",
+	"description-license": "منتخب تفصیل اور حقوق نسخہ (license)",
+	"finalise": "تفصیلات طے"
+}

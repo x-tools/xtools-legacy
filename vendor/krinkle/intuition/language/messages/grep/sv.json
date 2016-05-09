@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"title": "Artikeltitel-grep (beta)",
+	"introduction": "Detta verktyg visar alla artikelrubriker som matchar ett mönster för reguljära uttryck ($1). Att söka genom att använda ett reguljärt uttryck är resurskrävande. Om möjligt, kom ihåg att använda prefix- (^) och ($) suffixindikatorerna.",
+	"explanation": "förklaring",
+	"regex": "Reguljärt uttryck",
+	"enter-details": "Ange detaljer",
+	"results": "Resultat",
+	"language-label": "Språk",
+	"namespace-label": "Namnrymd",
+	"project-label": "Projekt",
+	"pattern-label": "Mönster",
+	"redirects-label": "Inkludera omdirigeringar",
+	"limit-label": "Begränsa visningen till de första 100 resultaten",
+	"error-zeroresults": "Det finns inga sidor i den namnrymnden med titlar som matchar ditt reguljära uttryck.",
+	"match-count": "{{PLURAL:$1|$1 sida|$1 sidor}} överensstämmer ditt reguljära uttryck."
+}

@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh"
+		]
+	},
+	"file": "ܨܘܪܬܐ",
+	"province": "ܗܘܦܪܟܝܐ",
+	"author": "ܣܝܘܡܐ",
+	"country-header": "ܐܬܪܐ",
+	"date-unknown": "ܠܐ ܝܕܝܥܐ",
+	"show-images-all": "ܚܘܝ ܟܠ ܨܘܪ̈ܬܐ",
+	"country-label": "ܐܬܪܐ:",
+	"all-countries": "ܟܠ ܐܬܪ̈ܘܬܐ",
+	"show-button": "ܚܘܝ",
+	"view-previous-images": "← ܚܘܝ ܨܘܪܬܐ ܕܩܕܡ",
+	"view-later-images": "ܚܘܝ ܨܘܪܬܐ ܕܒܬܪ →",
+	"count-heading": "ܨܘܪ̈ܬܐ",
+	"photographer-count-heading": "ܨܝܪ̈ܐ",
+	"bic-list": "ܡܟܬܒܘܬܐ",
+	"bic-gallery": "ܒܝܬ ܓܠܚܐ",
+	"author-heading": "ܣܝܘܡܐ",
+	"bic-list-bad": "ܚܘܝ",
+	"bic-list-all": "ܡܟܬܒܘܬܐ ܓܡܝܪܬܐ",
+	"unregistered": "ܠܐ ܡܣܓܠܐ",
+	"users-list": "ܚܙܝ",
+	"province-heading": "ܗܘܦܪܟܝܐ",
+	"province-none": "(ܠܐ ܝܕܝܥܐ)",
+	"nomail-user-count": "$1 ܡܦܠܚܢ̈ܐ"
+}

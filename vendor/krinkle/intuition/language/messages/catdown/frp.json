@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"title": "Tèlèchargement d’émâges per catègorie",
+	"subtitle": "La maniére la ples simpla por tèlèchargiér les émâges dedens na catègorie",
+	"project": "Projèt :",
+	"category": "Catègorie :",
+	"thumbnailing": "Figurâjo",
+	"max-width": "Largior maximon :",
+	"max-height": "Hôtior maximon :",
+	"invalid-width": "Largior envalida",
+	"invalid-height": "Hôtior envalida",
+	"no-such-project": "Cél projèt ègziste pas",
+	"no-images": "Y at gins d’émâge dedens cela catègorie",
+	"zip-failed": "La crèacion du zip at pas reussia",
+	"download": "Tèlèchargiér",
+	"scaling-width": ", betâ a l’èchiéla avouéc na largior maximon de $1 pixèl{{plural:$1||s}}",
+	"scaling-height": ", betâ a l’èchiéla avouéc n’hôtior maximon de $1 pixèl{{plural:$1||s}}",
+	"scaling-both": ", betâ a l’èchiéla avouéc na talye maximon de $1 x $2 pixèls"
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca",
+			"Fitoschido",
+			"Platonides",
+			"SMP"
+		]
+	},
+	"hello": "Hola",
+	"welcome": "Benvinguts",
+	"toolversion": "Versió $1",
+	"toolversionstamp": "Versió $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Espai de noms",
+	"form-submit": "Vés-hi",
+	"form-reset": "Restableix",
+	"years": "{{PLURAL: $1|any|anys}}",
+	"months": "{{PLURAL: $1|mes|mesos}}",
+	"weeks": "{{PLURAL: $1|setmana|setmanes}}",
+	"days": "{{PLURAL: $1|dia|dies}}",
+	"hours": "{{PLURAL: $1|hora|hores}}",
+	"minutes": "{{PLURAL: $1|minut|minuts}}",
+	"seconds": "{{PLURAL:$1|segon|segons}}",
+	"last-modified-date": "Darrera modificació: $1",
+	"view-source": "Mostra el codi font",
+	"and": "&#32;i"
+}

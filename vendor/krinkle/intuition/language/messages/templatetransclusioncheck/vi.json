@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"KhangND",
+			"Minh Nguyen"
+		]
+	},
+	"title": "Kiểm tra nhúng và liên kết bản mẫu.",
+	"description": "Kiểm tra và báo cáo những bài viết có nhúng bản mẫu nhưng không được liên kết tới bản mẫu và những bài viết được liên kết tới bản mẫu nhưng không nhúng bản mẫu.",
+	"form-label-language": "Ngôn ngữ:",
+	"form-label-template": "Tên bản mẫu:",
+	"form-label-template2": "(bao gồm không gian)",
+	"form-label-complete": "Xuất bản báo cáo đầy đủ:",
+	"feedback-template-missing": "Bản mẫu $1 không tồn tại.",
+	"feedback-template-noaccess": "Bản mẫu $1 có tồn tại nhưng không có trong cơ sở dữ liệu. Có thể đây là lỗi cơ sở dữ liệu tạm thời. Cơ sở dữ liệu đã dùng: $2.",
+	"feedback-result": "Các kết quả cho $1",
+	"feedback-header-mismatch": "Trang nhúng và liên kết không khớp",
+	"feedback-header-no-link": "Nhúng mà không có liên kết",
+	"feedback-header-no-transclusion": "Liên kết nhưng không nhúng",
+	"feedback-header-redirects": "Các liên kết đến chuyển hướng",
+	"feedback-total-count": "Tổng số: $1",
+	"feedback-header-complete": "Tóm tắt đầy đủ các trang nhúng và liên kết",
+	"feedback-header-transclusions": "Trang nhúng bản mẫu",
+	"feedback-header-links": "Các liên kết từ bản mẫu",
+	"link-edit": "sửa",
+	"link-create": "tạo",
+	"link-complete": "Hoàn thành báo cáo...",
+	"footer-stats": "Lúc tạo: $1. Thời gian: $2 giây.",
+	"error-language": "Mã ngôn ngữ không nhận được."
+}

@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"fullname": "Altjóðagerð av tólum",
+	"current-settings": "Galdandi innstillingar",
+	"current-language": "Valt mál í løtuni",
+	"settings-legend": "Innstillingar",
+	"choose-language": "Vel eitt mál",
+	"clear-cookies": "rudda kakur (cookies)",
+	"renew-cookies": "endurnýggja cookies",
+	"cookie-expiration": "Cookie gongur út",
+	"clearcookies-success": "Cookies eru nú reinsaðar.",
+	"renewcookies-success": "Cookies endurnýggjaðar! Tú ert nú til reiðar til næstu $1.",
+	"tab-overview": "Yvirlit",
+	"tab-settings": "Innstillingar",
+	"tab-about": "Um",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mínar málsligu innstillingar",
+	"bl-mysettings-new": "Broyt mál!",
+	"bl-promo": "Týðingar verða riknar av $1 og $2.",
+	"bl-changelanguage": "Trýst her fyri at broyta málið á markamótinum (interface) hjá hesum tólinum.",
+	"usage": "Tólini eru týdd av Intuition.",
+	"help-translate-tool": "Hjálp við at týða hetta tólið!",
+	"help-translate-all": "Hjálp við at týða verktoy!",
+	"help-translate-tooltip": "Hjálp øðrum við at týða markamót-boð til týtt mál."
+}

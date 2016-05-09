@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"title": "Grep tajuk rencana (beta)",
+	"introduction": "Alat ini memaparkan semua tajuk rencana yang berpadan dengan suatu corak ungkapan nalar ($1). Pencarian dengan ungkapan nalar amat menggunakan sumber. Seboleh-bolehnya ingatlah untuk menggunakan penanda awalan (^) dan akhiran ($).",
+	"explanation": "penjelasan",
+	"regex": "Ungkapan nalar",
+	"enter-details": "Isikan butiran",
+	"results": "Hasil",
+	"language-label": "Bahasa",
+	"namespace-label": "Ruang nama",
+	"project-label": "Projek",
+	"pattern-label": "Corak",
+	"redirects-label": "Sertakan lencongan",
+	"limit-label": "Hadkan paparan kepada 100 hasil pertama",
+	"error-zeroresults": "Tiada laman di ruang nama tersebut yang tajuknya sepadan dengan ungkapan nalar anda.",
+	"match-count": "$1 laman sepadan dengan ungkapan nalar anda."
+}

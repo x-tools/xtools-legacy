@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"Gomoko",
+			"Wladek92"
+		]
+	},
+	"title": "Liaison des modèles et vérification d’inclusion",
+	"description": "Vérifie et signale parmis les articles qui transcluent un modèle ceux qui ne sont pas liés à ce modèle, et quels articles sont liés à un modèle mais ne le transcluent pas.",
+	"form-label-language": "Langue :",
+	"form-label-template": "Nom du modèle :",
+	"form-label-template2": "(espace de noms compris)",
+	"form-label-complete": "Générer un rapport complet :",
+	"feedback-template-missing": "Le modèle $1 n'existe pas.",
+	"feedback-template-noaccess": "Le modèle $1 semble exister, mais il n’est pas disponible dans la base de données. Cela peut provenir d’un problème temporaire de la base. Base de données utilisée : $2.",
+	"feedback-result": "Résultats de $1",
+	"feedback-header-mismatch": "Mauvaise correspondance entre inclusions et liens",
+	"feedback-header-no-link": "Inclusion sans lien",
+	"feedback-header-no-transclusion": "Lien sans inclusion",
+	"feedback-header-redirects": "Liens vers des redirections",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-complete": "Inclusion complète et aperçu du lien",
+	"feedback-header-transclusions": "Inclusions du modèle",
+	"feedback-header-links": "Liens depuis le modèle",
+	"link-edit": "modifier",
+	"link-create": "créer",
+	"link-complete": "Rapport complet…",
+	"footer-stats": "Généré : $1. Durée : $2 {{PLURAL:$2|seconde|secondes}}.",
+	"error-language": "Code de langue inconnu."
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"dateformat": "%d. %B %Y",
+	"hello": "Ene schööne Daach!",
+	"welcome": "Wellkumme!",
+	"toolversion": "Väsjohn $1",
+	"toolversionstamp": "De Väsjohn $1 vum $2",
+	"etc": "uew.",
+	"namespace": "Appachtemang",
+	"form-submit": "Lohß Jonn!",
+	"form-reset": "Et Enjävve neu Aanfange!",
+	"years": "{{PLURAL: $1|Johr|Johre|Johre}}",
+	"months": "{{PLURAL:$1|0=Keine&nbsp;Monhnd|1=Eine&nbsp;Monhnd|$1&nbsp;Mohnde}}",
+	"weeks": "{{PLURAL: $1|Woch|Woche|Woche}}",
+	"days": "{{PLURAL:$1|Daach|Dääsch|Daach}}",
+	"hours": "({{PLURAL:$1|Shtund|Shtunde|Shtunde}})",
+	"minutes": "{{PLURAL:$1|Menutt|Menutte|Menutte}}",
+	"seconds": "{{PLURAL:$1|Sekund|Sekunde|Sekund}}",
+	"last-modified-date": "Zerläz verändert aam $2 öm $3 <!-- https://translatewiki.net/wiki/Thread:Support/About_Intuition:General-last-modified-date/ksh_(4) -->",
+	"view-source": "Der Quelltäx vum Projramm",
+	"and": ",&#32;un"
+}

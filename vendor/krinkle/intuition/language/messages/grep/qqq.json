@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krinkle",
+			"Shirayuki"
+		]
+	},
+	"title": "The tool's title (name), used the main heading. grep is a technical term and cannot be translated",
+	"introduction": "The introductory paragraph explaining the tool's use. Parameters:\n* $1 - a link pointing to [[w:Regular expression]], with translatable link text {{msg-intuition|Grep-explanation}} and link target\nSee also:\n* {{msg-intuition|Grep-regex}} - link text and link target",
+	"explanation": "Used as text for the link pointing to [[w:Regular expression]] which contains explanation for regular expression.",
+	"regex": "Used as part of a link target. Should be set to the name of a Wikipedia article describing regular expressions.\n{{Identical|Regular expression}}",
+	"enter-details": "Subheading introducing a series of input boxes.\n{{Identical|Enter details}}",
+	"results": "Subheading.\n{{Identical|Result}}",
+	"language-label": "Interface input label. Refers to a language code, rather than a language name.\n{{Identical|Language}}",
+	"namespace-label": "Interface input label. Refers to a Wikipedia namespace\n{{Identical|Namespace}}",
+	"project-label": "Interface input label. Refers to a Wikipedia project.\n{{Identical|Project}}",
+	"pattern-label": "Interface input label. Technical term used in relation to regular expressions.\n{{Identical|Pattern}}",
+	"redirects-label": "Used as label for the checkbox.",
+	"limit-label": "Interface input label",
+	"error-zeroresults": "Error message",
+	"match-count": "Appears above a list of results. $1 is a whole number (integer) greater than or equal to 1"
+}

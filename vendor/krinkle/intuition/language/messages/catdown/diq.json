@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"title": "Kategoriye ra resiman ronê",
+	"project": "Proce:",
+	"category": "Kategoriye:",
+	"thumbnailing": "Resmo qıckek",
+	"max-width": "Tewr vêşi herayiye:",
+	"max-height": "En vesi berzey",
+	"invalid-width": "Herayiya ke nêvêrena",
+	"invalid-height": "Dergey ravêrdi niya",
+	"download": "Barkerdış",
+	"scaling-width": ", maksimum herayiye rê $1 {{plural:$1|piksel|pikseli}} sencıto",
+	"scaling-height": ", maksimum dergey rê sencen $1 {{plural:$1|piksel|pikseli}}",
+	"scaling-both": ", maksimum ebatê sencen $1x$2 piksela"
+}

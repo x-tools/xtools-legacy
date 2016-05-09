@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Evropi",
+			"Glavkos"
+		]
+	},
+	"input": "Εισροή",
+	"no-matches": "Τίποτα δεν βρέθηκε για το \"$1\""
+}

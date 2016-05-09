@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"E THP",
+			"Mousa"
+		]
+	},
+	"formats-heading": "چیختی فورمتلری",
+	"input": "گیریش",
+	"label-wikiids": "ویکی تانیتانلاری",
+	"no-matches": "«$1»-ه بیر شئی تطبیق اولونمادی",
+	"output": "\"$1\" اوچون چیخیش"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Olli"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Tiedot",
+	"toolserver-status-short-warn": "$1: Vaara",
+	"toolserver-status-short-down": "$1: Alas",
+	"toolserver-status-short-erro": "$1: Virhe",
+	"toolserver-status-short-unknown": "$1: Tuntematon",
+	"toolserver-status-short-missing": "$1: Puuttuu"
+}

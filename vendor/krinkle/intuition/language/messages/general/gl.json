@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño",
+			"Banjo"
+		]
+	},
+	"dateformat": "%e de %B de %Y",
+	"hello": "Boas",
+	"welcome": "Benvido",
+	"toolversion": "Versión $1",
+	"toolversionstamp": "Versión $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Espazo de nomes",
+	"form-submit": "Ir",
+	"form-reset": "Restablecer",
+	"years": "{{PLURAL: $1|ano|anos}}",
+	"months": "{{PLURAL: $1|mes|meses}}",
+	"weeks": "{{PLURAL: $1|semana|semanas}}",
+	"days": "{{PLURAL: $1|día|días}}",
+	"hours": "{{PLURAL: $1|hora|horas}}",
+	"minutes": "{{PLURAL: $1|minuto|minutos}}",
+	"seconds": "{{PLURAL: $1|segundo|segundos}}",
+	"last-modified-date": "Última modificación: $1",
+	"view-source": "Ver o código fonte",
+	"and": "&#32;e"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Araceletorres"
+		]
+	},
+	"form-label-language": "Idioma:",
+	"form-label-template": "Nome do modelo:",
+	"form-label-complete": "Gerar relatório completo:",
+	"feedback-template-missing": "O modelo $1 não existe.",
+	"feedback-result": "Resultados para $1",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-complete": "Transclusão completa e visão geral do link",
+	"feedback-header-transclusions": "Transclusão do modelo",
+	"feedback-header-links": "Links do modelo",
+	"link-edit": "editar",
+	"link-create": "criar",
+	"link-complete": "Relatório completo...",
+	"footer-stats": "Gerado: $1. Duração: $2 {{PLURAL:$2|segundo|segundos}}.",
+	"error-language": "Código de idioma desconhecido."
+}

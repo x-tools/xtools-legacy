@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720",
+			"Hamilton Abreu",
+			"Malafaya",
+			"Polyethylen",
+			"Vitorvicentevalente"
+		]
+	},
+	"error-nothing": "Não há nada para traduzir.",
+	"error-notsvg": "Não é um ficheiro SVG.",
+	"error-unexpected": "Ocorreu um erro inesperado.",
+	"error-notfound": "Não foi possível obter o ficheiro SVG na URL fornecida.",
+	"begin-translation": "Começar a tradução",
+	"th-original": "Original",
+	"th-translation": "Tradução",
+	"th-language": "Língua",
+	"th-username": "Nome de utilizador",
+	"th-password": "Palavra passe",
+	"th-method": "Método",
+	"option-oauth": "OAuth (carregamento automático)",
+	"option-manual": "Upload manual",
+	"preview": "Antevisão",
+	"translate": "Traduzir",
+	"svginput-label": "Ficheiro SVG",
+	"stats-footer": "Esta ferramenta foi usada para traduzir aproximadamente {{PLURAL:$1|um ficheiro|$1 ficheiros}} desde $2.",
+	"finalise": "Finalizar detalhes"
+}

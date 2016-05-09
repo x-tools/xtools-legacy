@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200",
+			"Zygimantus"
+		]
+	},
+	"title": "Atsisiųsti vaizdus pagal kategoriją",
+	"subtitle": "Paprastas būdas atsisiųsti vaizdus iš kategorijos",
+	"project": "Projektas:",
+	"category": "Kategorija:",
+	"max-width": "Maksimalus plotis",
+	"max-height": "Maksimalus aukštis:",
+	"invalid-width": "Neleistinas plotis",
+	"invalid-height": "Neleistinas aukštis",
+	"no-such-project": "Nėra tokio projekto",
+	"no-images": "Nėra vaizdų šioje kategorijoje",
+	"zip-failed": "Zip sukurti nepavyko",
+	"image-area-too-big": "$1 yra per didelis, kad sukurti miniatiūrą. Naudojamas pilnas dydis.",
+	"download": "Atsisiųsti"
+}

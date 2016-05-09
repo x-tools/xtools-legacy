@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas",
+			"Fasouzafreitas",
+			"Araceletorres"
+		]
+	},
+	"title": "Grep do título do artigo (beta)",
+	"explanation": "explicação",
+	"regex": "Expressão regular",
+	"enter-details": "Inserir detalhes",
+	"results": "Resultados",
+	"language-label": "Língua",
+	"namespace-label": "Espaço nominal",
+	"project-label": "Projeto",
+	"pattern-label": "Padrão",
+	"redirects-label": "Incluir redirecionamentos",
+	"limit-label": "Limitar a visualização aos primeiros 100 resultados",
+	"error-zeroresults": "Ainda não existem páginas em que o espaço de nomes com títulos coincidam com a sua expressão regular.",
+	"match-count": "{{PLURAL:$1|$1 página coincide |$1 páginas coincidem}} com sua expressão regular."
+}

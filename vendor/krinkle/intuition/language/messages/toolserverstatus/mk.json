@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"toolserver-status-ok": "Нема проблеми во гроздот $1 во базата $2",
+	"toolserver-status-info": "Напомена за корисниците на гроздот $1: $2",
+	"toolserver-status-warn": "Предупредување за корисниците на гроздот $1: $2",
+	"toolserver-status-down": "Гроздот $1 во базата привремено е исклучен. $2",
+	"toolserver-status-erro": "Гроздот $1 на базата падна. $2",
+	"toolserver-status-unknown": "Состојбата на гроздот $1 е непозната",
+	"toolserver-status-missing": "Гроздот $1 не постои",
+	"toolserver-status-short-ok": "$1: Во ред",
+	"toolserver-status-short-info": "$1: Инфо",
+	"toolserver-status-short-warn": "$1: Предупредување",
+	"toolserver-status-short-down": "$1: Паднат",
+	"toolserver-status-short-erro": "$1: Грешка",
+	"toolserver-status-short-unknown": "$1: Непознато",
+	"toolserver-status-short-missing": "$1: Недостасува"
+}

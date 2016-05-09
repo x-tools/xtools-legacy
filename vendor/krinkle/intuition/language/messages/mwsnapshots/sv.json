@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"WikiPhoenix"
+		]
+	},
+	"title-overview": "Ögonblicksbilder",
+	"title-error": "Fel",
+	"title-updatelog": "Uppdatera logg",
+	"updatelog-intro": "Uppdateringsskriptet har schemalagts att köra varje timme. Nedan är konsolproduktionen från den senaste körningen.",
+	"updatelog-active": "Uppdateringsskriptet körs för närvarande. Kom tillbaka senare för den kompletta loggen.",
+	"download-button": "Ladda ned ögonblicksbild",
+	"download-directlink": "direktlänk",
+	"title-downloadpage": "Ladda ned",
+	"title-downloadpage-repo": "Ladda ned $1",
+	"err-snapshotindex": "Indexet över ögonblicksbilder är tillfälligt otillgänligt. Vänligen försök igen senare.",
+	"err-invalid-repo": "Okänd databas: \"$1\".",
+	"err-invalid-branch": "Okänd gren: \"$1\" i databasen \"$2\".",
+	"err-nosnapshot": "Ögonblicksbilder genereras varannan timme. Samtidigt som de skapade ögonblicksbilden för \"$1\" uppstod ett fel. \nVänligen försök igen senare.",
+	"err-noupdatelog": "Ingen uppdateringslogg hittades.",
+	"repo-site-link": "Webbplats",
+	"repo-browse-link": "Bläddra i databasen",
+	"repo-branches-label": "Grenar:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Skaffa det!",
+	"updatelog-link": "uppdateringslogg",
+	"tablehead-repo": "Databas",
+	"tablehead-snapshots": "Ögonblicksbilder",
+	"tablehead-branch": "Gren",
+	"tablehead-filesize": "Filstorlek",
+	"tablehead-hash": "Kontrollsummor"
+}

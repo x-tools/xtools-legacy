@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Objectivesea",
+			"Yekrats"
+		]
+	},
+	"title": "Elŝuti de bildoj laŭ kategorio",
+	"subtitle": "Facilo metodo por elŝuti la bildojn en kategorio",
+	"project": "Projekto:",
+	"category": "Kategorio:",
+	"thumbnailing": "Malgrandigante",
+	"max-width": "Maksimuma larĝaĵo:",
+	"max-height": "Maksimuma altaĵo:",
+	"invalid-width": "Nevalida larĝaĵo",
+	"invalid-height": "Nevalida altaĵo",
+	"no-such-project": "Estas nenia projekto",
+	"no-images": "Ne estas bildoj en tiu kategorio",
+	"category-is-url": "La nomo de la kategorio ŝajnas kiel URL. Vi devas specifigi la kategorio-nomo, ne la URL.",
+	"category-contains-namespace": "Vi ŝajne inkluuzivis la nomspacon kune kun la kategorio-nomo. Kun la plena nomo, la paĝo estus atingebla kiel [[Category:$1]].",
+	"zip-failed": "Kreado de Zip-arkivo malsukcesis",
+	"image-area-too-big": "$1 estas tro granda por krei eta versio. Uzante plenan grandecon.",
+	"download-info": "{{plural: $1|Estas unu bildo|Estas $1 bildoj}}, kun proksima grandeco $2",
+	"download": "Elŝuti",
+	"non-bundled-wget": "Ĉi tiu versio ne inkludas wget por Windows.\nVi bezonas malkompaktigi ĝin al dosierujo kun wget.exe aŭ alie havas wget-on en la PATH."
+}

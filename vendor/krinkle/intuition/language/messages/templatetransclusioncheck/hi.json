@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"form-label-language": "भाषा:",
+	"form-label-template": "साँचे का नाम:",
+	"feedback-result": "$1 के लिए परिणाम",
+	"feedback-total-count": "योग : $1",
+	"link-edit": "सम्पादन",
+	"link-create": "बनाएँ"
+}

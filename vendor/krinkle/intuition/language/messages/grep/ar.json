@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"explanation": "تفسير",
+	"regex": "تعبير منتظم",
+	"enter-details": "أدخل التفاصيل",
+	"results": "النتائج",
+	"language-label": "اللغة",
+	"namespace-label": "النطاق",
+	"project-label": "المشروع",
+	"pattern-label": "النمط",
+	"redirects-label": "تضمين التحويلات"
+}

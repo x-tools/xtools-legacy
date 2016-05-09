@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"current-settings": "Sazê enewki",
+	"current-language": "Zıwano ke newke weçineyayo",
+	"settings-legend": "Eyari",
+	"choose-language": "Yew zıwan weçine",
+	"clear-cookies": "çerezan bestere",
+	"renew-cookies": "çerezan newe ke",
+	"cookie-expiration": "wahdey çereza biyo pır",
+	"clearcookies-success": "Çerezi weş besterneyay",
+	"tab-overview": "Hera weynayis",
+	"tab-settings": "Eyari",
+	"tab-about": "Heqa cı de",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Eyarê zıwanê mı",
+	"bl-mysettings-new": "Zıwan vuurnayış!"
+}

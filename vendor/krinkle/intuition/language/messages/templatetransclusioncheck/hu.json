@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj"
+		]
+	},
+	"form-label-language": "Nyelv:",
+	"form-label-template": "A sablon neve:",
+	"form-label-template2": "(beleértve a névteret)"
+}

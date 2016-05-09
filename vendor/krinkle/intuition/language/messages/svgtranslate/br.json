@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Gwenn-Ael"
+		]
+	},
+	"title": "Troidigezh SVG",
+	"error-tryagain": "$1 Grit gant bouton Kent ho merdeer evit klask en-dro.",
+	"error-nothing": "N'eus netra da dreiñ.",
+	"error-notsvg": "N'eo ket ur restr SVG",
+	"error-unexpected": "Ur fazi dic'hortoz zo bet",
+	"error-notfound": "N'eus ket bet gallet adtapout ar restr SVG adalek an URL merket.",
+	"error-upload": "Ur fazi zo bet e-ser enporzhiañ.",
+	"begin-translation": "Kregiñ da dreiñ",
+	"th-original": "Orin",
+	"th-translation": "Troidigezh",
+	"th-language": "Yezh",
+	"th-username": "Anv implijer",
+	"th-password": "Ger-tremen",
+	"th-method": "Hentenn",
+	"option-oauth": "TUSC (pellgargañ emgefre)",
+	"option-manual": "Enporzh dre zorn",
+	"preview": "Rakwelet",
+	"translate": "Treiñ",
+	"translate-instructions": "Degemeret e vez an enmontoù evel pa vefent anvioù restroù (da sk. \"$1\") pe URLoù klok (da sk. \"$2\"). Ma vez graet gant an dibarzh kentañ e vo sellet outañ evel pa vefe ur restr o tont eus Wikimedia Commons. Evit treiñ un SVG adalek ul lec'hienn pe ur wiki all eo ret ober gant ar furmad URL klok.",
+	"svginput-label": "Restr SVG",
+	"stats-footer": "Graet ez eus bet gant an ostilh-mañ evit treiñ $1 restr well-wazh abaoe $2.",
+	"uploading": "Oc'h enporzhiañ",
+	"upload-complete": "Enporzhiet eo bet ar skeudenn ervat. Bez' e tlefe bezañ war $1 bremañ",
+	"editdescriptionpage": "Embann deskrivadur nevez ar bajenn",
+	"disclaimer": "Roadennoù dianav zo a vo dastumet evit sevel stadegoù a chomo prevez. Ma vez resisaet an anvioù implijer evit OAuth e vint notennet ivez gant ar pal stourm a-enep d'ar vandalerezh. Ne vez ket enrollet ar gerioù-tremen gwezh ebet.",
+	"author-complete": "Klokaat an titouroù diwar-benn an aozer !",
+	"preview-hide": "Kuzhat ar rakweled",
+	"preview-refresh": "Freskaat ar rakweled",
+	"error-must-accept": "Evit gallout kenderc'hel gant un enporzhiadenn war-eeun eo ret deoc'h bezañ asantet d'an termenoù implijout pourchaset.",
+	"description-license": "Dibab an deskrivadur hag an aotre-implijout",
+	"finalise": "Peurlipat ar munudoù"
+}

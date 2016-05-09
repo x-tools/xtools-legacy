@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"AwesomeOrange89",
+			"Fitoschido",
+			"Macofe"
+		]
+	},
+	"title": "Lo que sale de aquí",
+	"title-leaveshere": "Los enlaces que parten de \"$1\"",
+	"sub-leaveshere": "Las siguientes páginas enlazan a partir de $1",
+	"label-page": "Página",
+	"label-namespace": "Espacio de nombres",
+	"label-limit": "Límite",
+	"button-submit": "Ir",
+	"noleaveshere": "Nada vincula desde $1",
+	"link-whatleaveshere": "Lo que sale de aquí",
+	"tooltip-whatleaveshere": "Lista de todo lo que enlaza aquí",
+	"whatlinkshere": "Lo que enlaza aquí",
+	"whatlinkshere-whatleaveshere": "¿Qué sale de aquí?",
+	"istemplate": "transclusión",
+	"isfile": "enlace de archivo",
+	"linksearch": "LinkSearch",
+	"section-links": "Enlaces",
+	"section-iwlinks": "Enlaces interwikis",
+	"section-extlinks": "Enlaces externos",
+	"section-categories": "Categorías"
+}

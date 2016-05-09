@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krinkle",
+			"Liuxinyu970226",
+			"Shirayuki"
+		]
+	},
+	"title-overview": "Heading of overview page listing all repositories and branches.\n{{Identical|Snapshot}}",
+	"title-error": "Heading of page if action failed.\n{{Identical|Error}}",
+	"title-updatelog": "Used as section heading.\n{{Identical|Update log}}",
+	"download-button": "Label of the download button. Text is outputted below a down-arrow.",
+	"download-directlink": "Link displayed in parentheses below the download button.",
+	"title-downloadpage": "Heading of download page if the file or repo is not found. Otherwise {{msg-intuition|Mwsnapshots-title-downloadpage-repo}} is used.\n{{Identical|Download}}",
+	"title-downloadpage-repo": "Heading of download page where the file is ready to be downloaded by the user.\n\nParameters:\n* $1 - filename\n{{Identical|Download}}",
+	"err-snapshotindex": "If the information manifest (Index) can not be found on the server, this error is shown.",
+	"err-invalid-repo": "Used as error message. Parameters:\n* $1 - repository name\nSee example: https://tools.wmflabs.org/snapshots/index.php#!/mediawiki-core/master",
+	"err-invalid-branch": "Used as error message. Parameters:\n* $1 - branch name\n* $2 - repository name\nSee example: https://toolserver.org/~krinkle/mwSnapshots/index.php#!/mediawiki-core/test",
+	"err-nosnapshot": "The snapshots are generated every few hours. If during the generation the selected branch had a problem. Then trying to download it will show this error.\n\nParameters:\n* $1 - branch name",
+	"repo-site-link": "Used as text for the link which points to the repository website.\n{{Identical|Website}}",
+	"repo-browse-link": "Used as text for the link which points to gerrit.wikimedia.org. e.g. https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/core.git;a=tree",
+	"repo-branches-label": "Used as label for the \"Branch\" select box.\n{{Identical|Branch}}",
+	"repo-lastmoddate-label": "Used as label for timestamp (time and date).\n{{Identical|Date}}",
+	"branches-submit-button": "Used as label for the Submit button.\n\nPreceded by the Branch select box.",
+	"updatelog-link": "Used as link text.\n{{Identical|Update log}}",
+	"tablehead-repo": "Used as table row header.\n\nFollowed by repository name which is currently selected.\n{{Identical|Repository}}",
+	"tablehead-snapshots": "Used as table column header.\n\nFollowed by the list of snapshots.\n{{Identical|Snapshot}}",
+	"tablehead-branch": "Used as table row header.\n\nFollowed by branch name which is currently selected.\n{{Identical|Branch}}",
+	"tablehead-filesize": "Used as table row header.\n\nFollowed by file size. e.g. \"3.21 MB (3370522 bytes)\"\n{{Identical|File size}}",
+	"tablehead-hash": "Used as table row header.\n\nFollowed by MD5 and SHA1 checksums. e.g. \"MD5: 1d3a979b3c6e90c4300b6950a9d4db89<br/>\nSHA1: 1ee0f37197ffbc2ed7ba6bac30be6a65c8a757a9\""
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gorizon",
+			"Marmase",
+			"Mirzali"
+		]
+	},
+	"apply": "Dezge",
+	"changelog": "Çıçi newe yo",
+	"clear": "bestere",
+	"currentedit": "Hesıbyaye timar weçineya",
+	"cvn-adder": "Dekeroğ",
+	"cvn-adder-empty": "Nêzanayen",
+	"cvn-reason": "Sebeb",
+	"cvn-reason-empty": "Sebeb nivineya",
+	"documentation": "Dokumentasyon",
+	"filter": "Avréc",
+	"limit": "Limit",
+	"namespace": "Heruna nami",
+	"order": "Pepeyin",
+	"tag": "Etiket",
+	"time-from": "Kêra",
+	"type": "Babet",
+	"typeEdit": "Timari",
+	"typeNew": "Pelê newey",
+	"userfilter": "Filtreya karberi"
+}

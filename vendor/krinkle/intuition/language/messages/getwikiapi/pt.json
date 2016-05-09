@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"GoEThe",
+			"Hamilton Abreu"
+		]
+	},
+	"formats-heading": "Formatos de saída",
+	"input": "Entrada",
+	"label-wikiids": "Identificadores wiki",
+	"no-matches": "\"$1\" não teve correspondências",
+	"output": "Resultados para \"$1\""
+}

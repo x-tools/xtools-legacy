@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"category_users": "მომხმარებლები",
+	"category_articles": "გვერდები",
+	"category_images": "სურათები",
+	"category_miscellaneous": "სხვადასხვა",
+	"category_wikidata": "ვიკიმონაცემები",
+	"select_wiki_title": "აირჩიეთ ვიკი",
+	"select_wiki_next": "შემდეგი →",
+	"select_report_go_back": "← ვიკის შეცვლა",
+	"qvar_next": "შემდეგი →",
+	"prefs_submit": "კარგი",
+	"prefs_done": "თქვენი კონფიგურაცია შეიცვალა.",
+	"prefs_langlabel": "ინტერფეისის ენა:",
+	"report_change_wiki": "<a href=\"%(url)s\">ვიკის შეცვლა</a>"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"voiceintro-toolbar-record-label": "הקלטה",
+	"voiceintro-toolbar-stop-label": "עצירה",
+	"voiceintro-toolbar-clear-label": "ניקוי",
+	"voiceintro-toolbar-upload-label": "העלאה",
+	"voiceintro-webaudio-not-supported": "ה־API של WebAudio אינו נתמך בדפדפן הזה",
+	"voiceintro-upload-publish-succeeded": "ההקלטה הועלתה בהצלחה:",
+	"voiceintro-upload-publish-failed": "ההקלטה לא הועלתה.",
+	"voiceintro-information-label": "מידע",
+	"voiceintro-information-speaker-label": "שם הדובר:",
+	"voiceintro-information-language-label": "שפה:",
+	"voiceintro-mic-access-notify": "יש לאפשר לדפדפן לגשת למיקרופון שלך.",
+	"voiceintro-recording-notify": "הקלטה..."
+}

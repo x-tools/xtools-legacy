@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"title": "grep nel títulu d'artículos (beta)",
+	"introduction": "Esta ferramienta amuesa tolos títulos d'artículos que casen con un patrón d'espresión regular ($1). Buscar usando una espresión regular ye costoso en recursos. Si pue ser, recuerda usar los indicadores prefixu (^) y sufixu ($).",
+	"explanation": "esplicación",
+	"regex": "Espresión regular",
+	"enter-details": "Escribi los detalles",
+	"results": "Resultaos",
+	"language-label": "Llingua",
+	"namespace-label": "Espaciu de nomes",
+	"project-label": "Proyeutu",
+	"pattern-label": "Patrón",
+	"redirects-label": "Incluir redirecciones",
+	"limit-label": "Llendar la vista a los 100 primeros resultaos",
+	"error-zeroresults": "Nun hai páxines nesi espaciu de nomes con títulos que casen cola espresión regular.",
+	"match-count": "{{PLURAL:$1|$1 páxina casa|$1 páxines casen}} cola espresión regular."
+}

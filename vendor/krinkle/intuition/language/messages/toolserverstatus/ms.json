@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"toolserver-status-ok": "Tiada masalah dalam kelompok pangkalan data $1 $2",
+	"toolserver-status-info": "Pemberitahuan untuk pengguna kelompok $1 : $2",
+	"toolserver-status-warn": "Amaran untuk pengguna kelompok $1 : $2",
+	"toolserver-status-down": "Kelompok pangkalan data $1 telah ditutup buat sementara waktu. $2",
+	"toolserver-status-erro": "Kelompok pangkalan data $1 tergendala. $2",
+	"toolserver-status-unknown": "Status kelompok $1 tidak diketahui.",
+	"toolserver-status-missing": "Kelompok $1 tidak wujud",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Maklumat",
+	"toolserver-status-short-warn": "$1: Amaran",
+	"toolserver-status-short-down": "$1: Tergendala",
+	"toolserver-status-short-erro": "$1: Ralat",
+	"toolserver-status-short-unknown": "$1: Tidak diketahui",
+	"toolserver-status-short-missing": "$1: Tiada"
+}

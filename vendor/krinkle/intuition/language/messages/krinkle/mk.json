@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"alws-label": "Вики",
+	"alws-selectwiki": "(одберете вики)",
+	"alws-group-mustused": "Најкористени викија",
+	"alws-group-allaz": "Сите викија по азбучен ред",
+	"form-legend-settings": "Поставки"
+}

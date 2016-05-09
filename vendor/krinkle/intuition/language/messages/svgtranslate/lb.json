@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby",
+			"Soued031"
+		]
+	},
+	"title": "SVG Iwwersetzen",
+	"error-tryagain": "$1 Klickt op den 'Zréck'-Knäppche vun Ärem Browser fir nach emol ze probéieren.",
+	"error-nothing": "Näischt fir z'iwwersetzen.",
+	"error-notsvg": "Keen SVG-Fichier.",
+	"error-unexpected": "En onerwaarte Feeler ass geschitt.",
+	"error-notfound": "Den SVG-Fichier konnt op der URL, déi ugi war, net fonnt ginn.",
+	"error-upload": "Et gouf e Feeler beim Eroplueden.",
+	"begin-translation": "Iwwersetzung ufänken",
+	"th-original": "Original",
+	"th-translation": "Iwwersetzung",
+	"th-language": "Sprooch",
+	"th-username": "Benotzernumm",
+	"th-password": "Passwuert",
+	"th-method": "Method",
+	"option-oauth": "OAuth (automatesch Eroplueden)",
+	"option-manual": "Manuell Eroplueden",
+	"preview": "Weisen ouni ze späicheren",
+	"translate": "Iwwersetzen",
+	"translate-instructions": "D'Entréeë ginn entweder als Fichiersnimm (z. Bsp. \"$1\") oder als komplett URL (z. Bsp. \"$2\") akzeptéiert. Wann déi éischt Optioun benotzt gëtt, gëtt ugeholl datt Wikimedia Commons d'Quell ass. Fir en SVG vun engem anere Site oder enger anerer Wiki z'iwwersetze muss de Format mat der kompletter URL benotzt ginn.",
+	"svginput-label": "SVG-Fichier",
+	"stats-footer": "Dësen Tool gouf zënter dem $2 benotzt fir ongeféier $1 Fichieren z'iwwersetzen.",
+	"uploading": "Eroplueden",
+	"upload-complete": "D'Eroplueden huet funktionéiert. D'Bild misst elo op $1 sinn",
+	"editdescriptionpage": "Déi nei Beschreiwungssäit änneren",
+	"disclaimer": "E puer anonym Donnéeë gi fir statistesch Zwecker gesammelt. Wann Dir en OAuth Benotzernumm ugëtt, gëtt deen och gespäichert fir am Fall vu Vandalismus d'Recherchen ze vereinfachen. Passwierder ginn ni gespäichert.",
+	"author-complete": "Kompletéiert w.e.g. d'Informatiounen iwwer den Auteur!",
+	"preview-hide": "Preview verstoppen",
+	"preview-refresh": "Preview aktualiséieren",
+	"error-must-accept": "Fir mam direkten Eropluede virunzefuere musst Dir d'Konditioune vum Benotzen akzeptéieren.",
+	"description-license": "Beschreiwung a Lizenz eraussichen",
+	"finalise": "Detailer kompletéieren"
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"FatosMorina"
+		]
+	},
+	"title-overview": "Pamje",
+	"title-error": "Gabim",
+	"title-updatelog": "Përditëso shënimin",
+	"download-button": "Shkarko $1",
+	"download-directlink": "Lidhja e drejtpërdrejtë",
+	"title-downloadpage": "Shkarko: $1",
+	"err-invalid-repo": "Depo e panjohur: \"$1\".",
+	"err-invalid-branch": "Degë e panjohur: \"$1\" në depon \"$2\".",
+	"err-noupdatelog": "Nuk u gjet ndonjë përditësim.",
+	"repo-site-link": "Uebfaqja",
+	"repo-browse-link": "Depoja e shfletuesit",
+	"repo-branches-label": "Degët:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Merreni atë!",
+	"updatelog-link": "përditëso shënimin",
+	"tablehead-repo": "Depoja",
+	"tablehead-snapshots": "Pamje",
+	"tablehead-branch": "Dega",
+	"tablehead-filesize": "Madhësia e skedarit"
+}

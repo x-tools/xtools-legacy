@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krinkle",
+			"SPQRobin",
+			"Siebrand"
+		]
+	},
+	"fullname": "Vertalingen voor tools",
+	"current-settings": "Huidige instellingen",
+	"current-language": "Huidige taal",
+	"settings-legend": "Instellingen",
+	"choose-language": "Taal kiezen",
+	"clear-cookies": "cookies wissen",
+	"renew-cookies": "cookies vernieuwen",
+	"cookie-expiration": "Verlooptijd cookie",
+	"clearcookies-success": "Cookies gewist.",
+	"renewcookies-success": "De cookies zijn ververst. U bent weer klaar voor de komende $1.",
+	"tab-overview": "Overzicht",
+	"tab-settings": "Instellingen",
+	"tab-about": "Over",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mijn taalinstellingen",
+	"bl-mysettings-new": "Taal wijzigen",
+	"bl-promo": "De vertaling is mogelijk gemaakt door $1 en $2.",
+	"bl-changelanguage": "Wijzig de interfacetaal van dit programma.",
+	"usage": "Tools die vertaald worden via Intuition.",
+	"help-translate-tool": "Help dit programma vertalen!",
+	"help-translate-all": "Help tools vertalen!",
+	"help-translate-tooltip": "Help anderen door interfaceberichten te vertalen in uw taal."
+}

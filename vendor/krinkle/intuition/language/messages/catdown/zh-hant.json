@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Simon Shek"
+		]
+	},
+	"title": "按分類下載圖片",
+	"subtitle": "一個簡單方法從分類中下載圖片",
+	"project": "計畫：",
+	"category": "分類:",
+	"thumbnailing": "縮圖",
+	"max-width": "最大寛度：",
+	"max-height": "最大高度：",
+	"invalid-width": "寬度無效",
+	"invalid-height": "高度無效",
+	"no-such-project": "沒有此項目",
+	"no-images": "該分類中沒有圖片",
+	"category-is-url": "所填寫分類名稱似乎是一個URL。您需要指明分類名稱而不是其URL。",
+	"category-contains-namespace": "您似乎在分類名稱中包含了名字空間。使用此名稱時頁面將會顯示為[[Category:$1]]。",
+	"zip-failed": "Zip建立失敗",
+	"image-area-too-big": "$1太大而無法建立其縮圖。使用其完整大小。",
+	"download-info": "這裡有{{plural: $1|一張|$1張}}大小為$2的圖片",
+	"download": "下載"
+}

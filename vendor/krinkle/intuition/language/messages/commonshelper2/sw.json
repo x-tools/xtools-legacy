@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwisha",
+			"Stephenwanjau"
+		]
+	},
+	"attention": "Tahadhari",
+	"description": "Chombo cha kuhamisha faili kutoka kwa miradi ya Wikimedia hadi Wikimedia Commons",
+	"jira_link": "Ripoti hitilafu au toa maoni ya kipekee",
+	"language": "Lugha",
+	"project": "Mradi",
+	"source_file": "Faili ya chanzo",
+	"commons_username": "Jina la mtumiaji la Wikimedia Commons",
+	"commons_to_project": "Wikimedia Commons hadi mradi",
+	"move_file_from_com": "Hamisha faili kutoka Wikimedia commons hadi mradi",
+	"categories": "Jamii",
+	"remove_cats": "Toa jamii zilizoko",
+	"tusc_user": "Jina la mtumiaji la TUSC",
+	"tusc_pass": "Nywila ya TUSC",
+	"do_it": "Fanya",
+	"error_transfer_usr": "Haujaweka jina kla mtumiaji la Wikimedia commons",
+	"error_not_exists": "Chanzo cha faili hakipo!",
+	"new_filename": "NJina lipya la faili:",
+	"upload_submit": "Pakia!",
+	"help_mail": "Tuma barua pepe kwa $1"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Gwenn-Ael"
+		]
+	},
+	"description": "Metatitour diwar-benn wikioù Wikimedia.",
+	"formats-heading": "Furmadoù ezvont",
+	"input": "Enmont",
+	"label-wikiids": "Anaouderioù wiki",
+	"no-matches": "N'eus netra o klotañ gant \"$1\"",
+	"output": "Ezvont evit \"$1\""
+}

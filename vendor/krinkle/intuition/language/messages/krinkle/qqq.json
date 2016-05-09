@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki",
+			"Amire80"
+		]
+	},
+	"alws-label": "Label in the input form for the dropdown menu with all wikis, of which one must be chosen.\n\n{{Identical|Wiki}}",
+	"alws-selectwiki": "This is the initial value for the dropdown menu with all wikis, of which one must be choosen.",
+	"alws-group-mustused": "This is the group label for group containing the most used wikis. In a dropdown menu with all wikis.",
+	"alws-group-allaz": "This is the group label for the group containg all wikis listed alphabetically. In a dropdown menu with all wikis.",
+	"form-legend-settings": "This is the title for the settings box in the form at the top of a tool.\n{{Identical|Settings}}"
+}

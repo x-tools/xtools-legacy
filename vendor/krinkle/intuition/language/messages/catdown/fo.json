@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"title": "Download av myndum eftir bólki",
+	"subtitle": "Tann lætti mátin at taka niður myndirnar í einum bólki",
+	"project": "Verkætlan:",
+	"category": "Bólkur:",
+	"max-width": "Størst møguliga víddin",
+	"max-height": "Mest loyvda hædd:",
+	"invalid-width": "Ikki loyvd vídd",
+	"invalid-height": "Ikki loyvd hædd",
+	"no-such-project": "Tað er ongin sovorðin verkætlan",
+	"no-images": "Tað eru ongar myndir í hasum bólkinum",
+	"category-is-url": "Navnið á bólkinum, ið tú skrivaði, líkist meira einum URL'i. Tú mást skriva nágreiniliga navnið á bólkinum, ikki internet adressuna.",
+	"category-contains-namespace": "Tað sær út sum um tú hevur tikið navnaøkið við saman við bólkaheitinum. Við tí givna heitinum, so hevði síðan verði tøk sum [[Category:$1]].",
+	"zip-failed": "Upprættan av ZIP miseydnaðist",
+	"image-area-too-big": "$1 er ov stór til at upprætta eina minimynd. Brúkar fulla stødd.",
+	"download-info": "{{plural: $1|Tað er ein mynd|Tað eru $1 myndir}}, við einari stødd á umleið $2",
+	"download": "Tak niður"
+}

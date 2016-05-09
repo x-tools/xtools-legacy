@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pikne"
+		]
+	},
+	"fullname": "Tööriistade tõlkimine ja kohandamine",
+	"current-settings": "Praegused sätted",
+	"current-language": "Valitud keel",
+	"settings-legend": "Sätted",
+	"choose-language": "Vali keel",
+	"clear-cookies": "eemalda küpsised",
+	"renew-cookies": "uuenda küpsiseid",
+	"cookie-expiration": "Küpsise aegumine",
+	"clearcookies-success": "Küpsised edukalt eemaldatud.",
+	"renewcookies-success": "Küpsised uuendatud! Järgmised $1 on kõik paigas.",
+	"tab-overview": "Ülevaade",
+	"tab-settings": "Sätted",
+	"tab-about": "Teave",
+	"bl-mysettings": "Minu keelesätted",
+	"bl-mysettings-new": "Muuda keelt!",
+	"bl-promo": "Tõlked valmivad projektide $1 ja $2 abiga.",
+	"bl-changelanguage": "Muuda selle tööriista liidese keelt.",
+	"usage": "Intuitioni abil tõlgitavad tööriistad.",
+	"help-translate-tool": "Aita seda tööriista tõlkida!",
+	"help-translate-all": "Aita tööriistu tõlkida!",
+	"help-translate-tooltip": "Aita teisi liidese sõnumite tõlkimisega enda keelde."
+}

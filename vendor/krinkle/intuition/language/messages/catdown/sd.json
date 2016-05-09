@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"project": "منصوبو:",
+	"category": "زمرو:",
+	"max-width": "وڌ ۾ وڌ ويڪر:",
+	"max-height": "وڌ ۾ وڌ اوچائي",
+	"invalid-width": "ناقابل قبول ويڪر",
+	"invalid-height": "ناقابل قبول اوچائي",
+	"no-such-project": "ڪو به اهڙو منصوبو نه آهي",
+	"no-images": "هن زمري ۾ ڪي به عڪس نه آهن",
+	"download": "لاهيو"
+}

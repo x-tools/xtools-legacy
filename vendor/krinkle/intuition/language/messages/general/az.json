@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cekli829",
+			"Khan27",
+			"Wertuose"
+		]
+	},
+	"hello": "Salam",
+	"welcome": "Xoş gəlmisiniz",
+	"toolversionstamp": "Versiya $1 ($2)",
+	"etc": "vs.",
+	"namespace": "Adlar fəzası",
+	"form-submit": "Keçmək",
+	"form-reset": "Qur",
+	"years": "{{PLURAL: $1|il|il}}",
+	"weeks": "{{PLURAL: $1|həftə|həftə}}",
+	"days": "{{PLURAL: $1|gün|gün}}",
+	"hours": "{{PLURAL: $1|saat|saat}}",
+	"minutes": "{{PLURAL: $1|dəqiqə|dəqiqə}}",
+	"seconds": "{{PLURAL: $1|saniyə|saniyə}}",
+	"last-modified-date": "Sonuncu düzəliş: $1",
+	"view-source": "Mənbəyə bax",
+	"and": "&#32;və"
+}

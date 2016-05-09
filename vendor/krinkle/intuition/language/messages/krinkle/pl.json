@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(wybierz wiki)",
+	"alws-group-mustused": "Najczęściej używane wiki",
+	"alws-group-allaz": "Wszystkie wiki alfabetycznie",
+	"form-legend-settings": "Ustawienia"
+}

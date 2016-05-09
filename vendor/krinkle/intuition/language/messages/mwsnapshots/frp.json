@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"title-error": "Fôta",
+	"download-button": "Tèlèchargiér $1",
+	"download-directlink": "lim drêt",
+	"title-downloadpage": "Tèlèchargiér : $1",
+	"err-invalid-repo": "Dèpôt encognu : « $1 ».",
+	"err-invalid-branch": "Branche encognua : « $1 » dedens lo dèpôt « $2 ».",
+	"repo-site-link": "Seto vouèbe",
+	"repo-branches-label": "Branches :",
+	"repo-lastmoddate-label": "Dâta :",
+	"branches-submit-button": "L’obtegnir !",
+	"tablehead-repo": "Dèpôt",
+	"tablehead-branch": "Branche",
+	"tablehead-filesize": "Talye du fichiér",
+	"tablehead-hash": "Chaplâjo"
+}

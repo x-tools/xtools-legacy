@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"title": "Preuzimanje slika po kategoriji",
+	"subtitle": "Jednostavan način da preuzmete slike u nekoj kategoriji",
+	"project": "Projekat:",
+	"category": "Kategorija:",
+	"thumbnailing": "Minijaturizacija",
+	"max-width": "Najveća širina:",
+	"max-height": "Najveća visina:",
+	"invalid-width": "Neispravna širina",
+	"invalid-height": "Neispravna visina",
+	"no-such-project": "Nema takvog projekta",
+	"no-images": "U toj kategoriji nema slika",
+	"category-is-url": "Navedeni naziv liči na adresu. Treba da unesete naziv kategorije, a ne njegovu adresu.",
+	"category-contains-namespace": "Izgleda da ste naveli imenski prostor zajedno s nazivom kategorije. Sa zadatim nazivom, stranica će biti dostupna kao [[Category:$1]].",
+	"zip-failed": "Ne mogu da napravim arhivu",
+	"image-area-too-big": "Slika $1 je prevelika da bi mogla da se minijaturizira. Koristiću punu veličinu.",
+	"download-info": "{{plural: $1|Postoji jedna slika|Postoje $1 slike|Postoji $1 slika}}, s prosečnom veličinom od $2",
+	"download": "Preuzmi",
+	"readme-contents": "U datoteci $4 nalaze se slike iz kategorije $1 ($2) $3.\n\n== Uputstva za preuzimanje svih navedenih slika ==\nPreuzimanje može potrajati od nekoliko minuta do nekoliko časova.\n\nVindous:\n Otpakujte sve datoteke u istu fasciklu i pokrenite $5\n $6\nLinuks/Mak OS\nOtpakujte sve datoteke i otvorite terminal u toj fascikli. Pokrenite sh $5",
+	"non-bundled-wget": "Napomena: ovo izdanje ne sadrži wget za vindous. Treba da otpakujete\nu fasciklu sa wget.exe ili da već imate wget u putanji",
+	"wget-info": "Datoteka sadrži primerak wget-a $1 (vindous). Wget je slobodan program\nkoji je objavljen pod uslovima GNU-OVE OPŠTE JAVNE LICENCE 3.\nIspod se nalazi primerak licence (dostupan je i na http://www.gnu.org/licenses/gpl-3.0.txt)\n\nAko ste zainteresovani za izvorni kod programa, preuzmite ga sa\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nili koristite druge rezervne veze:\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", s izmenom razmere do najveće širine od $1 {{plural:$1|piksel|piksela|piksela}}",
+	"scaling-height": ", s izmenom razmere do najveće visine od $1 {{plural:$1|piksel|piksela|piksela}}",
+	"scaling-both": ", s izmenom razmere do najveće veličine od $1 × $2 piksela"
+}

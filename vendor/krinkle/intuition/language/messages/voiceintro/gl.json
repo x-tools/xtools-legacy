@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño",
+			"Banjo"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Gravar",
+	"voiceintro-toolbar-stop-label": "Deter",
+	"voiceintro-toolbar-clear-label": "Limpar",
+	"voiceintro-toolbar-upload-label": "Cargar",
+	"voiceintro-webaudio-not-supported": "A API WebAudio non está soportada neste navegador",
+	"voiceintro-upload-publish-succeeded": "A gravación cargouse correctamente:",
+	"voiceintro-upload-publish-failed": "Non se cargou a gravación.",
+	"voiceintro-information-label": "Información",
+	"voiceintro-information-speaker-label": "Nome do falante:",
+	"voiceintro-information-language-label": "Lingua:",
+	"voiceintro-mic-access-notify": "Prema en \"Permitir\" para que o navegador poida acceder ao seu micrófono.",
+	"voiceintro-recording-notify": "Gravando..."
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"moretools": "meer hulpprogramma's",
+	"homepage-title": "Inleiding",
+	"bugs": "bugmeldingen en functionaliteitsverzoeken",
+	"comments": "vragen en opmerkingen",
+	"error-form-empty": "Een of meer verplichte velden zijn leeg gelaten. U moet deze invullen voordat u verdergaat."
+}

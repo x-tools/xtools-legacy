@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sahran"
+		]
+	},
+	"search-table-th-field": "سۆز بۆلىكى",
+	"search-table-th-filter": "سۈزگۈچ",
+	"search-table-th-search": "ئىزدە",
+	"filter-all-countries": "بارلىق دۆلەتلەر",
+	"filter-all-languages": "بارلىق تىللار",
+	"db-field-country": "دۆلەت",
+	"db-field-lang": "تىل",
+	"db-field-id": "بەلگە",
+	"db-field-name": "ئاتى",
+	"db-field-address": "ئادرېس",
+	"db-field-municipality": "ئاپتونوم رايون",
+	"db-field-lat": "كەڭلىك",
+	"db-field-lon": "ئۇزۇنلۇق",
+	"db-field-image": "سۈرەت",
+	"db-field-changed": "ئۆزگەردى",
+	"db-field-source": "مەنبە",
+	"db-field-registrant_url": "خەتلەتكەنلەر url",
+	"db-field-st_address": "ئادرېسلار",
+	"db-field-st_address_pct": "ئادرېس %",
+	"db-field-st_coordinates": "كوئوردىناتلار",
+	"db-field-st_coordinates_pct": "كوردىناتلار %",
+	"db-field-st_image": "سۈرەت",
+	"db-field-st_image_pct": "سۈرەت %",
+	"db-field-st_name": "ئاتلار",
+	"db-field-st_name_pct": "ئاتلار %",
+	"db-field-st_total": "ئومۇمىي سانى",
+	"toolbox-main-title": "WLM قورال ساندۇقى",
+	"toolbox-nav-homepage": "باش بەت",
+	"toolbox-nav-statistics": "ستاتىستىكا",
+	"toolbox-nav-search": "ئىزدە",
+	"location": "ئورنى"
+}

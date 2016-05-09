@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">Sprooch/Astellungen änneren</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Wiki</a>",
+	"category_users": "Benotzer",
+	"category_articles": "Säiten",
+	"category_images": "Biller",
+	"category_miscellaneous": "Verschiddenes",
+	"category_wikidata": "WikiData",
+	"select_wiki_title": "Sicht eng Wiki eraus",
+	"select_wiki_next": "Virun →",
+	"select_report": "Sicht w.e.g. e Rapport eraus:",
+	"select_report_disabled": "Dëse Rapport ass net disponibel.",
+	"select_report_hot": "Eng gespäichert Versioun vun dësem Rapport, %(age)s al, ass disponibel.",
+	"select_report_cold_running": "Eng gespäichert Versioun vun dësem Rapport, %(age)s al, ass disponibel. Eng nei Versioun ass a(n) %(eta)s virgesinn.",
+	"select_report_go_back": "← Wiki wiesselen",
+	"qvar_next": "Virun →",
+	"prefs_submit": "OK",
+	"prefs_done": "Är Astellunge goufe geännert.",
+	"prefs_langlabel": "Sprooch vum Interface:",
+	"report_wascached": "Dëse Rapport gouf virun %(age)s opgestallt.",
+	"report_noresults": "Pardon, dëse Rapport gëtt keng Resultater.",
+	"report_change_report": "<a href=\"%(url)s\">Rapport änneren</a>",
+	"report_change_wiki": "<a href=\"%(url)s\">Wiki wiesselen</a>"
+}

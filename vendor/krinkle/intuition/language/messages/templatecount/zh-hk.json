@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"enter-details": "輸入詳細資訊",
+	"language-label": "語言",
+	"namespace-label": "名字空間",
+	"pagename-label": "頁面名稱 （不包括名字空間）",
+	"transclusion-count-label": "包含數目",
+	"transclusion-count": "發現$1個包含。",
+	"error-suggestion": "也許您把頁面名稱錯誤拼寫（如錯誤大小寫）了？",
+	"time-label": "執行命令所需時間"
+}

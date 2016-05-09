@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Sagan"
+		]
+	},
+	"fullname": "Турсервер ҡулланыу интерфейсын интернационалләштереү",
+	"current-settings": "Ағымдағы көйләүҙәр",
+	"current-language": "Ағымдағы тел көйләүҙәре",
+	"settings-legend": "Көйләүҙәр",
+	"choose-language": "Тел һайлау",
+	"clear-cookies": " Cookies юйырға",
+	"renew-cookies": " Cookies яңыртырға",
+	"cookie-expiration": " Cookies файлының эшләү ваҡыты",
+	"clearcookies-success": " Cookies файлдарҙы юйыу уңышлы үтте.",
+	"renewcookies-success": " Cookies яңыртылды.  $1 ваҡыт бирелде.",
+	"tab-overview": "Дөйөм күренеш",
+	"tab-settings": "Көйләүҙәр",
+	"tab-about": "Тасурилама",
+	"tab-demo": "Демо",
+	"bl-mysettings": "Тел көйләүҙәрем",
+	"bl-mysettings-new": "Телде үҙгәртергә!",
+	"bl-promo": "Күсереү  $1 һәм $2 ярҙамында эшләнде.",
+	"bl-changelanguage": "Был ҡорамалда интерфейс телен үҙгәртеү өсөн ошонда баҫығыҙ.",
+	"usage": "Toolserver Intuition ярҙамында тәржемә ителгән ҡорамалдар.",
+	"help-translate-tool": "был ҡорамалды тәржемә итергә ярҙам итегеҙ!",
+	"help-translate-all": "Тулсерверҙы тәржеме итергә ярҙам итегеҙ!",
+	"help-translate-tooltip": "Башҡа юл менән интерфейсты һеҙҙең телгә тержемә итергә ярҙвм итегеҙ."
+}

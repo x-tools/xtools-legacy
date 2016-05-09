@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Gianfranco",
+			"ZioNicco"
+		]
+	},
+	"toolserver-status-ok": "Non ci sono problemi nel cluster di database $1 $2",
+	"toolserver-status-info": "Informazione per gli utenti del cluster $1: $2",
+	"toolserver-status-warn": "Attenzione per gli utenti del cluster $1: $2",
+	"toolserver-status-down": "Il cluster $1 del database è stato temporaneamente arrestato. $2",
+	"toolserver-status-erro": "Il cluster $1 del database è giù. $2",
+	"toolserver-status-unknown": "Stato del cluster $1 non noto",
+	"toolserver-status-missing": "Cluster $1 non esistente",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Avvisi",
+	"toolserver-status-short-down": "$1: Fermo",
+	"toolserver-status-short-erro": "$1: Errori",
+	"toolserver-status-short-unknown": "$1: Non noto",
+	"toolserver-status-short-missing": "$1: Mancante"
+}

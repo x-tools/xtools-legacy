@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន",
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"hello": "សួស្ដី",
+	"welcome": "សូមស្វាគមន៍",
+	"toolversionstamp": "ច្បាប់ទី $1 ($2)",
+	"etc": "-ល-",
+	"namespace": "លំហឈ្មោះ",
+	"form-submit": "ទៅ",
+	"form-reset": "ធ្វើឱ្យដូចដើមវិញ",
+	"years": "{{PLURAL: $1|ឆ្នាំ|ឆ្នាំ}}",
+	"weeks": "{{PLURAL: $1|សប្តាហ៍|សប្តាហ៍}}",
+	"days": "{{PLURAL: $1|ថ្ងៃ​|ថ្ងៃ​}}",
+	"hours": "{{PLURAL: $1|ម៉ោង​|ម៉ោង​}}",
+	"minutes": "$1{{PLURAL:$1|នាទី|នាទី}}",
+	"seconds": "$1 {{PLURAL:$1|វិនាទី|វិនាទី}}",
+	"last-modified-date": "ត្រូវបានកែប្រែលើកចុងក្រោយ៖ $1",
+	"view-source": "មើល​កូដ"
+}

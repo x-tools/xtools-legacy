@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"title-error": "Kļūda",
+	"download-button": "Lejupielādēt momentuzņēmumu",
+	"download-directlink": "tieša saite",
+	"title-downloadpage": "Lejupielādēt",
+	"title-downloadpage-repo": "Lejupielādēt $1",
+	"tablehead-repo": "Repozitorijs",
+	"tablehead-filesize": "Faila izmērs",
+	"tablehead-hash": "Kontrolsummas"
+}

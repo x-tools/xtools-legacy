@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"hello": "您好",
+	"welcome": "歡迎",
+	"toolversionstamp": "版本$1 ($2)",
+	"etc": "等。",
+	"namespace": "名字空間",
+	"form-submit": "提交",
+	"form-reset": "重設",
+	"years": "$1年",
+	"weeks": "$1週",
+	"days": "$1天",
+	"hours": "$1小時",
+	"minutes": "$1分鐘",
+	"seconds": "$1秒",
+	"last-modified-date": "最後修改:$1",
+	"view-source": "查看原始碼"
+}

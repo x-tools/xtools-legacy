@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"title": "Intuition",
+	"fullname": "Internationalization for tools",
+	"current-settings": "Current settings",
+	"current-language": "Selected language",
+	"settings-legend": "Settings",
+	"choose-language": "Choose a language",
+	"clear-cookies": "clear cookies",
+	"renew-cookies": "renew cookies",
+	"cookie-expiration": "Cookie expiration",
+	"clearcookies-success": "Cookies have been cleared.",
+	"renewcookies-success": "Cookies renewed! You are all set for the next $1.",
+	"tab-overview": "Overview",
+	"tab-settings": "Settings",
+	"tab-about": "About",
+	"tab-demo": "Demo",
+	"bl-mysettings": "My language settings",
+	"bl-mysettings-new": "Change language!",
+	"bl-promo": "Translations are powered by $1 and $2.",
+	"bl-changelanguage": "Change the interface language of this tool.",
+	"usage": "Tools translated by Intuition.",
+	"help-translate-tool": "Help translate this tool!",
+	"help-translate-all": "Help translate tools!",
+	"help-translate-tooltip": "Help others by translating interface messages into your language."
+}

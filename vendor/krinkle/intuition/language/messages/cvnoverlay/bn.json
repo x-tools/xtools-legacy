@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"adder": "যোগকারী",
+	"adder-empty": "অজানা",
+	"expiry": "মেয়াদোত্তীর্ণ",
+	"globalwatched": "বৈশ্বিক দেখা",
+	"reason": "কারণ",
+	"reason-empty": "কোন কারণ পাওয়া যায়নি"
+}

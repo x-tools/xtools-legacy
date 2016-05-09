@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"toolserver-status-ok": "Et gëtt keng Problemer mam Datebankcluster $1 $2",
+	"toolserver-status-info": "Informatioun fir d'Benotzer vum Datebankcluster $1: $2",
+	"toolserver-status-warn": "Warnung fir d'Benotzer vum Datebankcluster $1: $2",
+	"toolserver-status-down": "Den Datebankcluster $1 gouf temporär ausgeschalt. $2",
+	"toolserver-status-erro": "Den Datebankcluster $1 ass down. $2",
+	"toolserver-status-unknown": "De Status vum Datebankcluster $1 ass onbekannt",
+	"toolserver-status-missing": "Den Datebankcluster $1 gëtt et net",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Informatioun",
+	"toolserver-status-short-warn": "$1: Warnung",
+	"toolserver-status-short-down": "$1: Down",
+	"toolserver-status-short-erro": "$1: Feeler",
+	"toolserver-status-short-unknown": "$1: Onbekannt",
+	"toolserver-status-short-missing": "$1: Net do"
+}

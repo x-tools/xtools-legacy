@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen",
+			"Platonides"
+		]
+	},
+	"title": "Tải về hình ảnh theo thể loại",
+	"subtitle": "Cách dễ dàng để tải về tất cả các hình ảnh trong một thể loại",
+	"project": "Dự án:",
+	"category": "Thể loại:",
+	"thumbnailing": "Hình nhỏ",
+	"max-width": "Chiều rộng tối đa:",
+	"max-height": "Chiều cao tối đa:",
+	"invalid-width": "Chiều rộng không hợp lệ",
+	"invalid-height": "Chiều cao không hợp lệ",
+	"no-such-project": "Không tìm thấy dự án này.",
+	"no-images": "Không tìm thấy hình ảnh trong thể loại này.",
+	"category-is-url": "Hình như địa chỉ URL được cho vào thay vì tên thể loại. Xin cho vào tên thể loại.",
+	"category-contains-namespace": "Hình như bạn đã bao gồm không gian tên cùng với tên thể loại. Với tên này, trang sẽ là [[Category:$1]].",
+	"zip-failed": "Thất bại khi tạo ZIP",
+	"image-area-too-big": "$1 quá lớn để tạo ra hình thu nhỏ. Đang sử dụng kích cỡ gốc thay thế.",
+	"download-info": "Có {{PLURAL:$1|hình ảnh|$1 hình ảnh}} với kích thước ước lượng là $2",
+	"download": "Tải về",
+	"readme-contents": "Tập tin kèm theo $4 liệt kê\ncác hình ảnh trong thể loại $1 ( $2 )$3.\n\n== Hướng dẫn tải về tất cả các hình ảnh trong danh sách ==\nCó thể cần vài phút đến vào tiếng để tải về xong.\n\nWindows:\n  Giải nén tất cả các tập tin vào cùng thư mục và chạy $5\n  $6\nLinux và Mac OS:\n  Giải nén tất cả các tập tin vào cùng thư mục và chỉ dòng lệnh đến thư mục đó. Chạy sh $5",
+	"non-bundled-wget": "Lưu ý: Phiên bản này không bao gồm wget cho Windows. Bạn sẽ cần phải giải nén các tập tin vào một thư mục có wget.exe hoặc có biến PATH chỉ đến wget.",
+	"wget-info": "Tập tin này kèm theo wget $1 (dành cho nền Windows). Wget là Phần mềm Tự do,\ntheo các điều khoản của GIẤY PHÉP CÔNG CỘNG GNU phiên bản 3.\nGiấy phép có sẵn ở dưới và tại http://www.gnu.org/licenses/gpl-3.0.txt\n\nTrong trường hợp bạn muốn lấy mã nguồn của chương trình này, bạn có thể tải nó về từ\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nhoặc một Kho phần mềm GNU khác; xem\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", được chỉnh lại theo chiều rộng tối đa là $1 điểm ảnh",
+	"scaling-height": ", được chỉnh lại theo chiều cao tối đa là $1 điểm ảnh",
+	"scaling-both": ", được chỉnh lại theo kích cỡ tối đa là $1×$2 điểm ảnh"
+}

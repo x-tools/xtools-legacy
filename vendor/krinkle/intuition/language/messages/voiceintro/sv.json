@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Spela in",
+	"voiceintro-toolbar-stop-label": "Stopp",
+	"voiceintro-toolbar-clear-label": "Rensa",
+	"voiceintro-toolbar-upload-label": "Uppladdning",
+	"voiceintro-webaudio-not-supported": "WebAudio API stöds inte för denna webbläsare",
+	"voiceintro-upload-publish-succeeded": "Inspelning framgångsrikt uppladdad:",
+	"voiceintro-upload-publish-failed": "Inspelningen laddades inte upp",
+	"voiceintro-information-label": "Information",
+	"voiceintro-information-speaker-label": "Talarens namn:",
+	"voiceintro-information-language-label": "Språk:",
+	"voiceintro-mic-access-notify": "Klicka på \"Tillåt\" för att tillåta webbläsaren att komma åt din mikrofon.",
+	"voiceintro-recording-notify": "Spelar in..."
+}

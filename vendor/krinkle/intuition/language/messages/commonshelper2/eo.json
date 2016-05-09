@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Objectivesea",
+			"Yekrats"
+		]
+	},
+	"attention": "Atentu",
+	"description": "Ilo por transloki dosierojn el vikimediajn projektojn al Vikimedia Komunejo",
+	"change_meta": "Ŝanĝu la $agordojn de kategorioj kaj ŝablonoj$2 por $3",
+	"language": "Lingvo",
+	"project": "Projekto",
+	"source_file": "Fonta dosiero",
+	"target_file": "Cela dosiero",
+	"commons_username": "Uzantnomo je Vikimedia Komunejo",
+	"commons_to_project": "Vikimedia Komunejo al projekto",
+	"move_file_from_com": "Transloku dosieron el Vikimedia Komunejo al projekto",
+	"categories": "Kategorioj",
+	"remove_cats": "Forigi ekzistantajn kategoriojn",
+	"use_checkusage": "Uzu $1CommonSense$2-on por proponi novajn kategoriojn",
+	"use_tusc": "Uzu $1TUSC$2-on por kontroli kaj transloki rekte la dosieron",
+	"tusc_user": "Salutnomo de TUSC",
+	"tusc_pass": "Pasvorto de TUSC",
+	"do_it": "Faru",
+	"error_transfer_usr": "Vi ne elektis uzantnomon pri la Vikimedia Komunumo",
+	"error_not_exists": "Fonta dosiero ne ekzistas!",
+	"error_on_commons": "Fonta dosiero jam estas en $1!",
+	"error_file_exists": "La dosiero jam ekzistas en $3 kiel \"$1$4$2\"!",
+	"error_diff_exists": "La diferenca celdosiero kun sama nomo ekzistas en la celvikio!",
+	"original_wikitext": "Originala vikiteksto",
+	"new_wikitext": "Nova vikiteksto",
+	"new_filename": "Nova dosier-nomo:",
+	"upload_submit": "Alŝuti!",
+	"target_wiki": "la cela vikio",
+	"error_bot_blocked": "Alŝutroboto estas malpermesita en Vikimedia Komunejo.",
+	"error_tusc_failed": "Kontrolo de TUSC nefaris!",
+	"error_only_commons": "Rekte alŝutu verkojn nur en Vikimedia Komunejo!",
+	"help_mail": "Sendi retpoŝton al $1",
+	"help_commons": "$1Aldoni afiŝo en Komunejo$2"
+}

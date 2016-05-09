@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"title": "분류의 그림 다운로드",
+	"subtitle": "분류에 있는 그림를 다운로드하는 쉬운 방법",
+	"project": "프로젝트:",
+	"category": "분류:",
+	"thumbnailing": "섬네일 기능",
+	"max-width": "최대 너비:",
+	"max-height": "최대 높이:",
+	"invalid-width": "잘못된 너비",
+	"invalid-height": "잘못된 높이",
+	"no-such-project": "비슷한 프로젝트가 없습니다",
+	"no-images": "이 분류에 속하는 그림이 없습니다",
+	"category-is-url": "주어진 분류 이름이 URL처럼 보입니다. 해당 URL이 아닌 특정한 분류 이름을 지정해야 합니다.",
+	"category-contains-namespace": "분류 이름에 따라 이름공간을 포함한 것 같습니다. [[Category:$1]]에 따라 주어진 이름을 가진 문서가 가능합니다.",
+	"zip-failed": "Zip 만들기 실패",
+	"image-area-too-big": "$1(은)는 섬네일을 만드는 데 너무 큽니다. 최대 크기를 사용합니다.",
+	"download-info": "$2의 예상 크기인 {{plural: $1|그림 한 개가 있습니다|그림 $1개가 있습니다}}",
+	"download": "다운로드",
+	"readme-contents": "인근 $4 파일 목록 $1 분류 ( $2 ) $3에서\n그림을 표시합니다.\n\n== 나열된 모든 이미지를 다운로드하기 위한 지침 ==\n다운로드하는 데에는 몇 분에서 몇시간까지 다를 수 있습니다.\n\n윈도:\n같은 폴더에 있는 모든 파일의 압축을 풀고 $5(을)를 실행하세요.\n$6\n리눅스/맥 OS\n모든 파일의 압축을 풀고 해당 폴더에서 터미널을 여세요. sh $5(을)를 실행하세요",
+	"non-bundled-wget": "참고: 이 버전에서는 wget이 포함되지 않습니다. wget.exe를 폴더에 압축을 풀거나 경로에서 wget을 지정해야 합니다",
+	"wget-info": "wget $1 (Windows 플랫폼용) 의 복사본 파일이 들어있습니다. wget은 GNU 일반 공중 사용 허가서 버전 3의\n조건에 따라 자유 소프트웨어입니다.\n아래에는 라이선스 복사본이며 또한 http://www.gnu.org/licenses/gpl-3.0.txt 에서도 찾아볼 수 있습니다\n\n이 프로그램에 대한 소스 코드를 받는 데 관심있을 경우 당신은\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n또는 일부 다른 GNU 미러에서 다운로드할 수 있습니다\n http://www.gnu.org/prep/ftp.html\n을 참고하세요",
+	"scaling-width": ", $1 픽셀의 최대 너비로 조정함",
+	"scaling-height": ", $1 픽셀의 최대 높이로 조정함",
+	"scaling-both": ", $1x$2의 최대 크기로 조정함"
+}

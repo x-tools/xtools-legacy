@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin0van0der0vliet",
+			"Robin van der Vliet"
+		]
+	},
+	"cvn-adder-empty": "Ûnbekend",
+	"cvn-reason": "Reden",
+	"documentation": "Dokumintaasje",
+	"limit": "Limyt",
+	"namespace": "Nammeromte",
+	"order": "Folchoarder",
+	"select-placeholder-none": "(gjin)"
+}

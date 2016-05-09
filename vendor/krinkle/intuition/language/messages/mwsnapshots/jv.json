@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"title-overview": "Cuplikan",
+	"title-error": "Kasalahan",
+	"title-updatelog": "Anyari log",
+	"updatelog-intro": "Skrip anyar dijadwalaké lumangsung pendhak jam. Ngisor iki weton konsol saka gawéan pungkasan.",
+	"updatelog-active": "Skrip anyar lagi lumangsung. Mangga mréné manèh mengko kanggo log jangkepé.",
+	"download-button": "Undhuh $1",
+	"download-directlink": "pranala langsung",
+	"title-downloadpage": "Undhuhan: $1",
+	"err-invalid-repo": "Panyimpenan ora dikenal: \"$1\".",
+	"err-invalid-branch": "Pang ora dikenal: \"$1\" nèng panyimenan \"$2\".",
+	"err-noupdatelog": "Log anyar ora ditemokaké.",
+	"repo-site-link": "Situs wèb",
+	"repo-browse-link": "Tlusur panyimpenan",
+	"repo-branches-label": "Pang:",
+	"repo-lastmoddate-label": "Tanggal:",
+	"branches-submit-button": "Éntokaké!",
+	"updatelog-link": "anyari log",
+	"tablehead-repo": "Panyimpenan",
+	"tablehead-snapshots": "Cuplikan",
+	"tablehead-branch": "Pang",
+	"tablehead-filesize": "Gedhéné berkas",
+	"tablehead-hash": "Checksum"
+}

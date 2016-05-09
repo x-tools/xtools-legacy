@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"fullname": "Toolserver用戶界面國際化",
+	"current-settings": "目前設置",
+	"current-language": "目前所選語言",
+	"settings-legend": "設定",
+	"choose-language": "選擇語言",
+	"clear-cookies": "清除cookie",
+	"renew-cookies": "重設cookies",
+	"cookie-expiration": "Cookie期限",
+	"clearcookies-success": "成功清除cookie。",
+	"renewcookies-success": "Cookies已經重設！你全部設定將保留$1。",
+	"tab-overview": "整體",
+	"tab-settings": "設定",
+	"tab-about": "關於",
+	"tab-demo": "演示",
+	"bl-mysettings": "我的語言設定",
+	"bl-mysettings-new": "更改語言！",
+	"bl-promo": "翻译由$1及$2提供。",
+	"bl-changelanguage": "若要更改此工具的介面語言，請按此處。",
+	"usage": "由Toolserver Intuition翻譯的工具。",
+	"help-translate-tool": "協助翻譯此工具 ！",
+	"help-translate-all": "協助翻譯Toolserver！",
+	"help-translate-tooltip": "幫助其他人把界面翻譯成您的語言。"
+}

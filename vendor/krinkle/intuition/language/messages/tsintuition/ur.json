@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"عثمان خان شاہ"
+		]
+	},
+	"current-settings": "حالیہ ترتیبات",
+	"current-language": "منتخب زبان",
+	"settings-legend": "ترتیبات",
+	"choose-language": "ایک زبان کا انتخاب کریں",
+	"clear-cookies": "کوکیاں صاف کریں",
+	"renew-cookies": "کوکیاں نئے کریں",
+	"cookie-expiration": "کوکیاں ایکسپائر ہونا",
+	"clearcookies-success": "کوکیاں صاف کئے گئے",
+	"tab-overview": "پس منظر",
+	"tab-settings": "ترتیبات",
+	"tab-about": "تعارف",
+	"tab-demo": "ڈیمو",
+	"bl-mysettings": "میرے زبان کی ترتیبات",
+	"bl-mysettings-new": "زبان تبدیل کریں!"
+}

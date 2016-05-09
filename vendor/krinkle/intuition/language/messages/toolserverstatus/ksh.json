@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"toolserver-status-ok": "Mer han kein Probleeme em Daatebank-Knubbel $1 $2",
+	"toolserver-status-info": "Henwieß för der Jebruch vom Daatebank-Knubbel $1: $2",
+	"toolserver-status-warn": "Warnong för der Zohjreff op dä Daatebank-Knubbel $1: $2",
+	"toolserver-status-down": "Dä Daatebank-Knubbel $1 wood för en Zigg eronger jefahre. $2",
+	"toolserver-status-erro": "Dä Daatebank-Knubbel $1 es eronger jefahre, $2",
+	"toolserver-status-unknown": "Mer han kein Aanjahbe övver dä Dahtebangk_Knubbel $1",
+	"toolserver-status-missing": "Ene Daatebank-Knubbel $1 jidd_et nit.",
+	"toolserver-status-short-ok": "$1: Alles joot.",
+	"toolserver-status-short-info": "$1: Henwieß.",
+	"toolserver-status-short-warn": "$1: Oppaße!",
+	"toolserver-status-short-down": "$1: Läuf nit.",
+	"toolserver-status-short-erro": "$1: Fähler.",
+	"toolserver-status-short-unknown": "$1: Nit klohr.",
+	"toolserver-status-short-missing": "$1: Ham_mer nit."
+}

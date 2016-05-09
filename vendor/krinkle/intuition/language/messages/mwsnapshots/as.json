@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia",
+			"Gitartha.bordoloi"
+		]
+	},
+	"title-error": "ভুল",
+	"title-updatelog": "আপডে'ট অভিলেখ",
+	"download-button": "$1 ডাউনল’ড",
+	"download-directlink": "পোণপটীয়া সংযোগ",
+	"title-downloadpage": "ডাউনল’ড: $1",
+	"repo-site-link": "ৱেবছাইট",
+	"repo-branches-label": "শাখাসমূহ:",
+	"repo-lastmoddate-label": "তাৰিখ:"
+}

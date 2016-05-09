@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswn",
+			"Logicwiki",
+			"Platonides",
+			"மதனாஹரன்"
+		]
+	},
+	"hello": "வணக்கம்",
+	"welcome": "வருக",
+	"toolversionstamp": "பதிப்பு $1 ($2)",
+	"etc": "இன்ன பிற",
+	"namespace": "பெயர்வெளி",
+	"form-submit": "செல்",
+	"form-reset": "மீட்டமைக்க",
+	"years": "{{PLURAL: $1|வருடம்|வருடங்கள்}}",
+	"weeks": "{{PLURAL: $1|வாரம்|வாரங்கள்}}",
+	"days": "{{PLURAL: $1|நாள்|நாட்கள்}}",
+	"hours": "{{PLURAL: $1|மணி|மணிகள்}}",
+	"minutes": "{{PLURAL: $1|நிமிடம்|நிமிடங்கள்}}",
+	"seconds": "{{PLURAL: $1|வினாடி|வினாடிகள்}}",
+	"last-modified-date": "கடைசியாகத் திருத்தப்பட்டது: $1",
+	"view-source": "மூலத்தைப் பார்",
+	"and": " மற்றும்"
+}

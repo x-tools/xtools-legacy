@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"hello": "Kumusta",
+	"welcome": "Kablaaw!",
+	"toolversion": "Bersion $1",
+	"toolversionstamp": "Bersion $1 ($2)",
+	"etc": "kdpy.",
+	"namespace": "Nagan ti espasio",
+	"form-submit": "Inkan",
+	"form-reset": "Isaad manen",
+	"years": "{{PLURAL: $1|tawen|tawtawen}}",
+	"months": "{{PLURAL: $1|bulan|bulbulan}}",
+	"weeks": "{{PLURAL: $1|lawas|lawlawas}}",
+	"days": "{{PLURAL: $1|aldaw|al-aldaw}}",
+	"hours": "{{PLURAL: $1|oras|or-oras}}",
+	"minutes": "{{PLURAL: $1|minuto|minminuto}}",
+	"seconds": "{{PLURAL: $1|segundo|segsegundo}}",
+	"last-modified-date": "Kinaudi a binaliwan: $1",
+	"view-source": "Kitaen ti taudan",
+	"and": "&#32;ken"
+}

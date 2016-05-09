@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"title-overview": "Schnappschöß",
+	"title-error": "Fähler",
+	"title-updatelog": "Logbooch",
+	"updatelog-intro": "Dat Projramm för der neue Schtand leuf jeede Schtund.\nHeh kütt, wat dat Projramm op de Konsole jeschrevve hät.",
+	"updatelog-active": "Dat Projramm es em Momang aam loufe un brängk heh di Sigg op der neuste Schtand.\nSchpääder kanns De heh dann et kumplätte Protokoll dovun beloore.",
+	"download-button": "Lohß Jonn!",
+	"download-directlink": "tiräkte Lenk",
+	"title-downloadpage": "Eronger lahde",
+	"title-downloadpage-repo": "„$1“ eronger lahde",
+	"err-snapshotindex": "Et Verzeijschneß met de Schnapschöß es em Momang nit ze bruche.\nVersöhg_et schpääder widder.",
+	"err-invalid-repo": "En Sammlong „$1“kenne mer nit.",
+	"err-invalid-branch": "En Afdeilong „$1“kenne mer nit en dä Sammlong „$2“",
+	"err-nosnapshot": "Schnapschöß wääde alle paa Schtond jemaat.\nWi mer dä Schnapschoß för „$1“jemaat han, es jät scheif jeloufe.\nVersöhg_et schpääder norr_ens.",
+	"err-noupdatelog": "Mer han kei Protokoll jefonge.",
+	"repo-site-link": "Wäbßaijt",
+	"repo-browse-link": "En dä Sammlong bläddere",
+	"repo-branches-label": "Zweije vun dä Versione:",
+	"repo-lastmoddate-label": "Dattum:",
+	"branches-submit-button": "Lohß Jonn!",
+	"updatelog-link": "Logbooch",
+	"tablehead-repo": "Sammlong",
+	"tablehead-snapshots": "Schnappschöß",
+	"tablehead-branch": "Zweisch vun dä Väsjohn",
+	"tablehead-filesize": "Datteiömfang",
+	"tablehead-hash": "Prööfsumme"
+}

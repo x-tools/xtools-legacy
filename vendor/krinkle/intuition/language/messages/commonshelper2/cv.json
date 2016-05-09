@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salam"
+		]
+	},
+	"language": "Чӗлхе",
+	"project": "Проект",
+	"source_file": "Кӑк файлӗ",
+	"target_file": "Тӗллевлӗ файл",
+	"do_it": "Куна ту",
+	"new_wikitext": "Ҫӗнӗ вики-текст",
+	"new_filename": "Ҫӗнӗ файл ячӗ:",
+	"upload_submit": "Тиесе яр!",
+	"help_mail": "$1 патне ҫыру яр"
+}

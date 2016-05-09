@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krish Dulal",
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"attention": "ध्यान दिनुहोस्",
+	"language": "भाषा",
+	"project": "परियोजना",
+	"source_file": "स्रोत फाइल",
+	"target_file": "लक्ष्य फाइल",
+	"categories": "श्रेणीहरू",
+	"tusc_user": "TUSC प्रयोगकर्ता नाम",
+	"tusc_pass": "TUSC पासवर्ड",
+	"do_it": "गर्नुहोस्",
+	"original_wikitext": "मूल विकी पाठ",
+	"new_wikitext": "नयाँ विकी पाठ",
+	"new_filename": "नयाँ फाइलनाम :",
+	"upload_submit": "अपलोड गर्ने",
+	"target_wiki": "लक्षित विकी"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(seleiciona wiki)",
+	"alws-group-mustused": "Wikis más usaes",
+	"alws-group-allaz": "Toles wikis alfabéticamente",
+	"form-legend-settings": "Configuración"
+}

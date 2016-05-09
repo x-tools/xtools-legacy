@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ex13",
+			"Vrhnje"
+		]
+	},
+	"subtitle": "Lakši način za preuzimanje slika u kategoriji",
+	"project": "Projekt:",
+	"category": "Kategorija:",
+	"thumbnailing": "Minijaturizacija",
+	"max-width": "Najveća širina:",
+	"max-height": "Najveća visina:",
+	"invalid-width": "Neispravna širina",
+	"invalid-height": "Neispravna visina",
+	"no-such-project": "Nema takvog projekta",
+	"no-images": "Nema slika u toj kategoriji",
+	"category-is-url": "Navedeni naziv kategorije čini se kao URL. Potrebno je navesti naziv kategorije, a ne njegov URL.",
+	"zip-failed": "Greška stvaranja ZIP-a",
+	"download": "Preuzmi"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj",
+			"Platonides"
+		]
+	},
+	"hello": "Hallo",
+	"welcome": "Welkom",
+	"toolversionstamp": "Weergawe $1 ($2)",
+	"etc": "ensovoorts",
+	"namespace": "Naamruimte",
+	"form-submit": "OK",
+	"form-reset": "Herstel",
+	"years": "{{PLURAL: $1|jaar|jare}}",
+	"weeks": "{{PLURAL: $1|week|weke}}",
+	"days": "{{PLURAL: $1|dag|dae}}",
+	"hours": "{{PLURAL:$1|uur|ure}}",
+	"minutes": "{{PLURAL: $1|minuut|minute}}",
+	"seconds": "{{PLURAL: $1|sekonde|sekondes}}",
+	"last-modified-date": "Laaste wysiging op: $1",
+	"view-source": "Wys bronteks",
+	"and": "&#32;en"
+}

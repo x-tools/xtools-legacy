@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jim-by",
+			"Wizardist"
+		]
+	},
+	"fullname": "Інтэрналіцыяналізацыя інтэрфэйсу карыстальніка Toolserver",
+	"current-settings": "Цяперашнія налады",
+	"current-language": "Цяперашняя выбраная мова",
+	"settings-legend": "Налады",
+	"choose-language": "Выберыце мову",
+	"clear-cookies": "ачысьціць закладкі (cookies)",
+	"renew-cookies": "аднавіць закладкі (cookies)",
+	"cookie-expiration": "Тэрмін дзеяньня закладак (cookies)",
+	"clearcookies-success": "Закладкі (cookies) ачышчаныя пасьпяхова.",
+	"renewcookies-success": "Закладкі (cookies) адноўленыя! Яны будуць дзейнічаць наступныя $1.",
+	"tab-overview": "Агляд",
+	"tab-settings": "Налады",
+	"tab-about": "Пра",
+	"tab-demo": "Дэманстрацыя",
+	"bl-mysettings": "Мае моўныя налады",
+	"bl-mysettings-new": "Выберыце мову",
+	"bl-promo": "Пераклады зробленыя пры падтрымцы $1 і $2.",
+	"bl-changelanguage": "Націсьніце, каб зьмяніць мову інтэрфэйсу гэтага інструмэнта.",
+	"usage": "Інструмэнты перакладзеныя ў межах Toolserver Intuition.",
+	"help-translate-tool": "Дапамажыце перакласьці гэты інструмэнт!",
+	"help-translate-all": "Дапамажыце перакласьці сэрвэр інструмэнтаў!",
+	"help-translate-tooltip": "Дапамажыце іншым з перакладам інтэрфэйса на Вашую мову."
+}

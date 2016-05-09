@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"apply": "غوښتنه کول",
+	"asc": "مخپورته",
+	"changelog": "څوک نوي دي",
+	"clear": "سپينول",
+	"currentedit": "دم مهال ټاکلی سمون",
+	"cvn-adder": "گډونگر",
+	"cvn-adder-empty": "ناجوت",
+	"cvn-reason": "سبب",
+	"cvn-reason-empty": "سبب يې و نه موندل شو",
+	"desc": "مخښکته",
+	"documentation": "لاسوند",
+	"filter": "چاڼگر",
+	"helpicon-tooltip": "د دې ځانتياو په اړه نور ولولئ",
+	"lastupdate-cvn": "وروستئ هممهالېدنه: $1",
+	"lastupdate-rc": "وروستئ هممهالېدنه: $1",
+	"limit": "بريد",
+	"months": "جنوري، فېبروري، مارچ، اپرېل، مئ، جون، جولای، اگسټ، سېپتمبر، اکتوبر، نومبر، ډيسمبر",
+	"namespace": "نوم-تشيال",
+	"nomatches": "د امستنو سره مو هېڅ اړونده بدلونونه نشته",
+	"order": "بولل",
+	"select-placeholder-none": "(هېڅ)",
+	"showAnonOnly": "يوازې ورکنومی",
+	"time-untill": "تر",
+	"type": "ډول",
+	"typeEdit": "سمونونه",
+	"typeNew": "نوي مخونه",
+	"userfilter": "کارن چاڼگر"
+}

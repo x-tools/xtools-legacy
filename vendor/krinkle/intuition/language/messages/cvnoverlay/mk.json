@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"adder": "Додавач",
+	"adder-empty": "Непознат",
+	"expiry": "Истек",
+	"globalwatched": "Глобално набљудувани",
+	"reason": "Причина",
+	"reason-empty": "Не најдов причина"
+}

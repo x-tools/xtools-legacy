@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mousa"
+		]
+	},
+	"fullname": "Toolserver-ین ایستیفاده آرا-اوزو اوچون بیل‌الخالقلاشدیرما",
+	"current-settings": "ایندیکی تنظیملر",
+	"current-language": "ایندیکی سئچیلمیش دیل",
+	"settings-legend": "تنظیملر",
+	"choose-language": "بیر دیل سئچین",
+	"clear-cookies": "کوکیلری سیل",
+	"renew-cookies": "کوکی‌لری یئنی‌له",
+	"cookie-expiration": "کوکی سون واختی",
+	"clearcookies-success": "کوکی‌لر اوغورلا سیلیندیلر.",
+	"renewcookies-success": "کوکی‌لر یئنی‌لندیلر! سیزین ایندی سون $1-ه حاضیرسینیز.",
+	"tab-overview": "گنل باخیش",
+	"tab-settings": "تنظیملر",
+	"tab-about": "حاقیندا",
+	"tab-demo": "دِمو",
+	"bl-mysettings": "منیم دیل سئچمه‌لریم",
+	"bl-mysettings-new": "دیلی دَییشدیر!",
+	"bl-promo": "چئویرمه‌لر $1 و $2 ایله گوجلنیب‌دیلر.",
+	"bl-changelanguage": "بو آراجین آرا-اوز دیلینی چئویرمک اوچون بورانی تیکلایین.",
+	"usage": "آراجلار Toolserver اویغولاماسیلا چئویریلیب‌دیلر.",
+	"help-translate-tool": "بو آراجی چئویرمگه یاردیم ائدین!",
+	"help-translate-all": "Toolserver-ی چئویرمگه یاردیم ائدین!",
+	"help-translate-tooltip": "آرا-اوز مئساژلارینی اؤز دیلینیزه چئویرمک‌له، باشقالارا یاردیم ائدین."
+}

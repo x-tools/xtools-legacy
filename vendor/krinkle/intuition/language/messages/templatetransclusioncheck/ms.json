@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"title": "Semak perpautan dan transklusi templat",
+	"description": "Menyemak dan melaporkan rencana-rencana yang bertransklusikan templat tetapi tidak berpautan dengan templat berkenaan, serta rencana-rencana yang berpautan dengan suatu templat tetapi tidak bertransklusikan templat berkenaan.",
+	"form-label-language": "Bahasa:",
+	"form-label-template": "Nama templat:",
+	"form-label-template2": "(termasuk ruang nama)",
+	"form-label-complete": "Hasilkan laporan lengkap:",
+	"feedback-template-missing": "Templat $1 tidak wujud.",
+	"feedback-template-noaccess": "Templat $1 nampaknya wujud tetapi tidak terdapat dari pangkalan data. Ini mungkin isu pangkalan data yang sementara. Pangkalan data yang digunakan: $2.",
+	"feedback-result": "Hasil untuk $1",
+	"feedback-header-mismatch": "Transklusi tidak padan dengan pautan",
+	"feedback-header-no-link": "Ada transklusi tetapi tiada pautan",
+	"feedback-header-no-transclusion": "Ada pautan tetapi tiada transklusi",
+	"feedback-header-redirects": "Pautan ke lencongan",
+	"feedback-total-count": "Jumlah: $1",
+	"feedback-header-complete": "Gambaran keseluruhan transklusi dan pautan",
+	"feedback-header-transclusions": "Transklusi templat",
+	"feedback-header-links": "Pautan dari templat",
+	"link-edit": "sunting",
+	"link-create": "cipta",
+	"link-complete": "Laporan lengkap...",
+	"footer-stats": "Dihasilkan: $1. Tempoh: $2 saat.",
+	"error-language": "Kod bahasa tidak dikenali."
+}

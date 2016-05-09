@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"current-settings": "Konfigurazzjoni attwali",
+	"current-language": "Lingwa magħżula bħalissa",
+	"settings-legend": "Konfigurazzjoni",
+	"choose-language": "Agħżel lingwa",
+	"clear-cookies": "ħassar il-cookies",
+	"renew-cookies": "ġedded il-cookies",
+	"cookie-expiration": "Skadenza tal-cookie",
+	"clearcookies-success": "Il-cookies ġew imneħħija b'suċċess.",
+	"renewcookies-success": "Cookies imġedda! Se jkunu validi għal $1 li jmiss.",
+	"tab-overview": "Ħarsa ġenerali",
+	"tab-settings": "Konfigurazzjoni",
+	"tab-about": "Dwar",
+	"tab-demo": "Eżempju",
+	"bl-mysettings-new": "Biddel il-lingwa!",
+	"bl-promo": "It-traduzzjonijiet huma sostnuti minn $1 u $2.",
+	"bl-changelanguage": "Iklikkja hawnhekk sabiex tbiddel il-lingwa tal-interfaċċa ta' din l-għodda",
+	"usage": "Għodda tradotti minn Toolserver Intuition.",
+	"help-translate-tool": "Għin ittraduċi din l-għodda!",
+	"help-translate-all": "Għin ittraduċi Toolserver!",
+	"help-translate-tooltip": "Għin oħrajn billi tittraduċi messaġġi tal-interfaċċa fil-lingwa tiegħek."
+}

@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Hmiyazaki",
+			"Schu",
+			"Shirayuki",
+			"Otokoume"
+		]
+	},
+	"error-tryagain": "$1 再試行するにはブラウザーの戻るボタンを押してください。",
+	"error-nothing": "翻訳できるものはありません。",
+	"error-notsvg": "SVG ファイルではありません。",
+	"error-unexpected": "予期しないエラーが発生しました。",
+	"error-notfound": "SVG ファイルを、入力された URL から取得できませんでした。",
+	"error-upload": "アップロード中にエラーが発生しました。",
+	"begin-translation": "翻訳の開始",
+	"th-original": "翻訳元",
+	"th-translation": "翻訳後",
+	"th-language": "言語",
+	"th-username": "利用者名",
+	"th-password": "パスワード",
+	"th-method": "方法",
+	"option-oauth": "OAuth (自動アップロード)",
+	"option-manual": "手動アップロード",
+	"preview": "プレビュー",
+	"translate": "翻訳",
+	"translate-instructions": "ファイル名 (「$1」など)、完全な URL (「$2」など) のいずれも入力できます。前者の場合、翻訳元ファイルがウィキメディア・コモンズにあると想定します。他のサイトやウィキにある SVG ファイルを翻訳するには、完全な URL 形式を使用する必要があります。",
+	"svginput-label": "SVG ファイル",
+	"stats-footer": "このツールは、$2 以降これまでに約 $1 ファイルを翻訳しました。",
+	"uploading": "アップロード中",
+	"upload-complete": "アップロードが完了しました。画像は $1 にあります。",
+	"editdescriptionpage": "新しい説明ページを編集",
+	"disclaimer": "統計上の目的で、匿名のデータを非公開で収集します。指定された場合、AOuth の利用者名も役立つように荒らし行為に記録されます。パスワードを記録することは決してありません。",
+	"author-complete": "著者の情報を記入してください",
+	"preview-hide": "プレビューを隠す",
+	"preview-refresh": "プレビューを更新",
+	"error-must-accept": "直接アップロードを続行するには、利用規約に同意する必要があります。",
+	"description-license": "説明とライセンスの選択",
+	"finalise": "最終的な詳細を策定"
+}

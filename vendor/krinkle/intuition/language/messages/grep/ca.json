@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe",
+			"F3RaN"
+		]
+	},
+	"explanation": "explicació",
+	"regex": "Expressió regular",
+	"enter-details": "Introduïu els detalls",
+	"results": "Resultats",
+	"language-label": "Idioma",
+	"namespace-label": "Espai de noms",
+	"project-label": "Projecte",
+	"pattern-label": "Patró",
+	"redirects-label": "Incloure redireccions",
+	"limit-label": "Limita la mostra als 100 primers resultats",
+	"error-zeroresults": "No hi ha pàgines a aquest espai de noms amb títols que coincideixen amb la vostra expressió regular.",
+	"match-count": "{{PLURAL:$1|$1 pàgina|$1 pàgines}} han coincidit amb la vostra expressió regular."
+}

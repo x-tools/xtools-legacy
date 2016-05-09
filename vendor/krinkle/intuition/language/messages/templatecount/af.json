@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"enter-details": "Verskaf besonderhede",
+	"introduction": "Verskaf die naam van 'n sjabloon (slegs vir Wikipedia's op die oomblik) en kliek op \"OK\". Dit is so eenvoudig. Daar word van kasgeheue gebruik gemaak (onthou vorige resultate), maar dit is buite die program en sy eienaar se beheer.",
+	"language-label": "Taal",
+	"namespace-label": "Naamruimte",
+	"pagename-label": "Bladsynaam (sonder die naamruimte)",
+	"transclusion-count-label": "Aantal sjablone",
+	"transclusion-count": "$1 sjablo(o)n(e) gevind.",
+	"error-suggestion": "Miskien het u die bladsynaam verkeerd ingevoer (dink aan hoofletters en dergelike)?",
+	"time-label": "Tyd geneem om opdrag uit te voer"
+}

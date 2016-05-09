@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pikne",
+			"Platonides",
+			"WikedKentaur"
+		]
+	},
+	"hello": "Tere",
+	"welcome": "Tere tulemast",
+	"toolversionstamp": "Versioon $1 ($2)",
+	"etc": "jne",
+	"namespace": "Nimeruum",
+	"form-submit": "Mine",
+	"form-reset": "Lähtesta",
+	"years": "{{PLURAL: $1|aasta|aastat}}",
+	"weeks": "{{PLURAL: $1|nädal|nädalat}}",
+	"days": "{{PLURAL: $1|päev|päeva}}",
+	"hours": "{{PLURAL: $1|tund|tundi}}",
+	"minutes": "{{PLURAL: $1|minut|minutit}}",
+	"seconds": "{{PLURAL: $1|sekund|sekundit}}",
+	"last-modified-date": "Viimati muudetud: $1",
+	"view-source": "Vaata lähteteksti",
+	"and": "&#32;ja"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia",
+			"Simbu123"
+		]
+	},
+	"formats-heading": "আউটপুট ফৰ্মেট",
+	"input": "ইনপুট",
+	"label-wikiids": "ৱিকি নিৰ্ধাৰণী",
+	"no-matches": "\"$1\"ৰ  লগত একো মিল খোৱা নাই",
+	"output": "\"$1\"ৰ বাবে আউটপুট"
+}

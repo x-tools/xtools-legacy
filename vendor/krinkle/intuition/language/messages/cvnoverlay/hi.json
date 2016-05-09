@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"adder": "जोड़ा",
+	"adder-empty": "अज्ञात",
+	"expiry": "समाप्ति",
+	"reason": "कारण",
+	"reason-empty": "कोई कारण नहीं मिला"
+}

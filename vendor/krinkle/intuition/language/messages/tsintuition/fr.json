@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crochet.david",
+			"Gomoko",
+			"Jean-Frédéric",
+			"Od1n",
+			"Verdy p"
+		]
+	},
+	"fullname": "Internationalisation des outils",
+	"current-settings": "Paramètres actuels",
+	"current-language": "Langue sélectionnée",
+	"settings-legend": "Configuration",
+	"choose-language": "Choisissez une langue",
+	"clear-cookies": "effacer les cookies",
+	"renew-cookies": "renouveler les cookies",
+	"cookie-expiration": "Expiration du cookie",
+	"clearcookies-success": "Les cookies ont bien été effacés",
+	"renewcookies-success": "Cookies renouvelés ! Vous êtes prêt pour une durée de $1.",
+	"tab-overview": "Vue d’ensemble",
+	"tab-settings": "Configuration",
+	"tab-about": "À propos",
+	"tab-demo": "Démo",
+	"bl-mysettings": "Mes paramètres de langue",
+	"bl-mysettings-new": "Changer la langue !",
+	"bl-promo": "Les traductions sont propulsées par $1 et $2 .",
+	"bl-changelanguage": "Changer la langue de l’interface de cet outil.",
+	"usage": "Outils traduits par Intuition.",
+	"help-translate-tool": "Aidez à traduire cet outil !",
+	"help-translate-all": "Aidez à traduire les outils !",
+	"help-translate-tooltip": "Aidez les autres en traduisant dans votre langue les messages de l’interface."
+}

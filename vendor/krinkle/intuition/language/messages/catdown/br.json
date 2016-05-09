@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Gwenn-Ael"
+		]
+	},
+	"title": "Pellgargañ skeudennoù dre rummadoù",
+	"subtitle": "An doare aesañ da bellgargañ skeudennoù en ur rummad",
+	"project": "Raktres :",
+	"category": "Rummad :",
+	"thumbnailing": "Munudiñ",
+	"max-width": "Ledander brasañ :",
+	"max-height": "Uhelder brasañ :",
+	"invalid-width": "Ledander direizh",
+	"invalid-height": "Uhelder direizh",
+	"no-such-project": "Ar raktres-mañ n'eus ket anezhañ",
+	"no-images": "N'eus skeudenn ebet er rummad-mañ",
+	"category-is-url": "Tres un URL zo gant anv ar rummad zo bet lakaet. Ret eo deoc'h merkañ anv ar rummad ha neket an URL anezhañ.",
+	"category-contains-namespace": "Evit doare eo bet lakaet ganeoc'h an esaouenn anv asambles gant anv ar rummad. Gant an anv roet e tlefe ar bajenn bezañ hegerz evel [[Category:$1]].",
+	"zip-failed": "C'hwitet eo bet krouiñ ar ZIP",
+	"image-area-too-big": "Re vras eo $1 da grouiñ ur munud. Ober gant ar vent leun.",
+	"download-info": "{{plural: $1|Ur skeudenn zo dezhi|$1 skeudenn zo dezho}} ar vent a $2 pe war-dro",
+	"download": "Pellgargañ",
+	"readme-contents": "Renabliñ a ra ar restr $4 enframmet\nar skeudennoù zo er rummad $1 ( $2 )$3.\n\n== Kuzulioù evit pellgargañ an holl skeudennoù rollet ==\nAn amzer bellgargañ a c'hall bezañ cheñch-dicheñch, eus un nebeud munutennoù betek meur a eurvezh.\n\nWindows :\n Eztennañ an holl restroù en hevelep renkell ha lañsañ $5\n $6\nLinux/Mac OS :\n Eztennañ an holl restroù ha digeriñ un dermenell er renkell-se. Lañsañ sh $5",
+	"non-bundled-wget": "Notenn : N'eo ket skoret wget evit Windows er stumm-mañ. Ret e vo deoc'h diwaskañ\nen ur c'havlec'h gant wget.exe pe neuze kaout wget er PATH",
+	"wget-info": "Un eilskrid eus wget $1 (evit savennoù Windows) zo er restr. Ur meziant frank eo Wget,\ndindan termenoù ar GNU GENERAL PUBLIC LICENSE stumm 3.\nDindan ez eus un eilskrid eus an aotre-implijout a c'haller kavout ivez war http://www.gnu.org/licenses/gpl-3.0.txt\n\nMard oc'h dedennet da dapout kod tarzh ar programm-mañ e c'hallit e bellgargañ diwar\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\npe melezourioù GNU all, sellit ouzh\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ",skeuliaouet gant ul ledander brasañ a $1 {{plural:$1|pikse}}",
+	"scaling-height": ", skeuliaouet gant un uhelder brasañ a $1 {{plural:$1|piksel}}",
+	"scaling-both": ", skeuliaouet d'ur vent vrasañ a $1x$2 piksel"
+}

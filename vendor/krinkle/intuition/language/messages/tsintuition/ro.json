@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"fullname": "Internaționalizare pentru unelte",
+	"current-settings": "Setări curente",
+	"current-language": "Limbă selectată",
+	"settings-legend": "Setări",
+	"choose-language": "Alegeți o limbă",
+	"clear-cookies": "șterge modulele cookie",
+	"renew-cookies": "reînnoiește modulele cookie",
+	"cookie-expiration": "Modulele cookie vor expira după",
+	"clearcookies-success": "Modulele cookie au fost șterse cu succes.",
+	"renewcookies-success": "Modulele cookie au fost reînnoite! Timp de $1 acestea vor fi active.",
+	"tab-overview": "Informații generale",
+	"tab-settings": "Setări",
+	"tab-about": "Despre",
+	"tab-demo": "Demonstrație",
+	"bl-mysettings": "Setările mele de limbă",
+	"bl-mysettings-new": "Schimbă limba!",
+	"bl-promo": "Traducerile sunt susținute și efectuate de $1 și $2.",
+	"bl-changelanguage": "Apăsați aici pentru a schimba limba interfeței acestei unelte.",
+	"usage": "Unelte traduse de Intuition.",
+	"help-translate-tool": "Ajutați-ne să traducem această unealtă!",
+	"help-translate-all": "Ajutați-ne să traducem uneltele!",
+	"help-translate-tooltip": "Ajutați-i pe alții traducând mesajele de interfață în limba dumneavoastră."
+}

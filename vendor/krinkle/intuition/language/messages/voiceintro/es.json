@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe",
+			"VegaDark"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Grabar",
+	"voiceintro-toolbar-stop-label": "Detener",
+	"voiceintro-toolbar-clear-label": "Vaciar",
+	"voiceintro-toolbar-upload-label": "Cargar",
+	"voiceintro-webaudio-not-supported": "Este navegador no admite la API WebAudio.",
+	"voiceintro-upload-publish-succeeded": "Grabación subida correctamente:",
+	"voiceintro-upload-publish-failed": "No se cargó la grabación.",
+	"voiceintro-information-label": "Información",
+	"voiceintro-information-speaker-label": "Nombre del ponente:",
+	"voiceintro-information-language-label": "Idioma:",
+	"voiceintro-mic-access-notify": "Pulsa en «Permitir» para que el navegador pueda acceder al micrófono.",
+	"voiceintro-recording-notify": "Grabando…"
+}

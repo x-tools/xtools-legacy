@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"DRIHEM",
+			"Meno25",
+			"Mutarjem horr",
+			"OsamaK",
+			"أحمد",
+			"زكريا"
+		]
+	},
+	"hello": "أهلاّ بك",
+	"welcome": "مرحبا",
+	"toolversion": "النسخة $1",
+	"toolversionstamp": "الإصدار $1 ($2)",
+	"etc": "إلخ.",
+	"namespace": "فضاء التسمية",
+	"form-submit": "اذهب",
+	"form-reset": "صفِّر",
+	"years": "{{PLURAL: $1||سنة|سنتان|$1 سنين|$1 سنة}}",
+	"months": "{{PLURAL: $1|شهر|شهور}}",
+	"weeks": "{{PLURAL:$1||أسبوع|أسبوعان|$1 أسابيع|$1 أسبوعًا|$1 أسبوع}}",
+	"days": "{{PLURAL: $1|يوم|يوم}}",
+	"hours": "{{PLURAL: $1|ساعة|ساعة}}",
+	"minutes": "{{PLURAL: $1|دقيقة|دقائق}}",
+	"seconds": "{{PLURAL: $1|ثانية|ثوان}}",
+	"last-modified-date": "آخر تغيير: $1",
+	"view-source": "اعرض المصدر",
+	"and": "&#32; و"
+}

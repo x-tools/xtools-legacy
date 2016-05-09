@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebraminio",
+			"Mjbmr",
+			"Reza1615"
+		]
+	},
+	"hello": "سلام",
+	"welcome": "خوش‌آمدید",
+	"toolversion": "نسخهٔ $1",
+	"toolversionstamp": "نسخهٔ $1 ($2)",
+	"etc": "غیره.",
+	"namespace": "فضای نام",
+	"form-submit": "برو",
+	"form-reset": "بازنشانی",
+	"years": "{{PLURAL: $1|سال|سال}}",
+	"months": "{{PLURAL: $1|ماه|ماه}}",
+	"weeks": "{{PLURAL: $1|هفته|هفته}}",
+	"days": "{{PLURAL: $1|روز|روز}}",
+	"hours": "{{PLURAL: $1|ساعت|ساعت}}",
+	"minutes": "{{PLURAL: $1|دقیقه|دقیقه}}",
+	"seconds": "{{PLURAL: $1|ثانیه|ثانیه}}",
+	"last-modified-date": "آخرین تغییر: $1",
+	"view-source": "نمایش مبدأ",
+	"parentheses": "(نسخه  $1)",
+	"comma-separator": "،&#32;",
+	"and": "&#32;و"
+}

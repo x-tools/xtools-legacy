@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"VASANTH S.N."
+		]
+	},
+	"voiceintro-toolbar-record-label": "ದಾಖಲೆ",
+	"voiceintro-toolbar-stop-label": "ನಿಲ್ಲಿಸಿ",
+	"voiceintro-toolbar-clear-label": "ಅಳಿಸಿ",
+	"voiceintro-toolbar-upload-label": "ನಕಲೇರಿಸು",
+	"voiceintro-information-label": "ಮಾಹಿತಿ",
+	"voiceintro-information-language-label": "ಭಾಷೆ:",
+	"voiceintro-recording-notify": "ದಾಖಲೀಕರಣವಾಗುತ್ತಿದೆ...."
+}

@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alan ffm",
+			"Faren",
+			"Ty221"
+		]
+	},
+	"pb-about-pb-navi": "O programie",
+	"pb-about-pb-tech": "Szczegóły techniczne",
+	"pb-about-pb-title": "O projekcie",
+	"pb-change-language": "Zmień język",
+	"pb-comment": "Komentarz",
+	"pb-confirmations-given": "Dostarczone potwierdzenia",
+	"pb-confirmations-taken": "Otrzymane potwierdzenia",
+	"pb-current-confirmations": "Są $1 potwierdzenia całkowicie, to około <abbr title=\"$2\">$3</abbr> potwierdzeń na dzień.",
+	"pb-current-figures": "Aktualne dane",
+	"pb-date": "Data",
+	"pb-home": "Start",
+	"pb-javascript-notice": "Zalecamy włączenie JavaScript dla tej strony w celu poprawy interfejsu użytkownika.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Uczestniczy od",
+	"pb-name": "Wikipedia:Osobiste znajomości",
+	"pb-powered-by-labs": "Na platformie Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Ostatnie potwierdzenia",
+	"pb-reconfirmed": "Potwierdzono ponownie?",
+	"pb-user": "Użytkownik",
+	"pb-user-link-title": "Szczegóły użytkownika $1",
+	"pb-user-title": "Informacje o $1",
+	"pb-users-navi": "Użytkownicy",
+	"pb-users-title": "Lista uczestników",
+	"pb-verified-since": "Sprawdzone od"
+}

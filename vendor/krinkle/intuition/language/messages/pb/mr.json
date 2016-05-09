@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"V.narsikar"
+		]
+	},
+	"pb-about-pb-navi": "च्या विषयी",
+	"pb-about-pb-tech": "तांत्रिक तपशिल",
+	"pb-about-pb-title": "प्रकल्पाबद्दल",
+	"pb-change-language": "भाषा बदला",
+	"pb-comment": "अभिप्राय",
+	"pb-confirmations-given": "निश्चिती दिली",
+	"pb-confirmations-taken": "निश्चिती मिळाली",
+	"pb-current-figures": "सध्याचे आकडे",
+	"pb-date": "दिनांक",
+	"pb-home": "स्वगृह",
+	"pb-javascript-notice": "यूजर इंटरफेस सुधरविण्यास,आम्ही जावास्क्रिप्ट सक्षम करण्याबद्दल सुचवितो.",
+	"pb-labs-name": "विकिमिडिया टूल लॅब",
+	"pb-recent-confirmations": "अलीकडील निश्चित्या",
+	"pb-reconfirmed": "पुन्हा खात्री केली?",
+	"pb-user": "सदस्य",
+	"pb-user-link-title": "$1 सदस्याबाबत तपशिल",
+	"pb-user-title": "$1 साठी माहिती",
+	"pb-users-navi": "सदस्य",
+	"pb-users-title": "सहभागी असणाऱ्यांची यादी"
+}

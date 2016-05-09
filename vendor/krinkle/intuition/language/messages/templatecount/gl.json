@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"title": "Contador das transclusións de modelos",
+	"enter-details": "Insira os detalles",
+	"introduction": "Escriba o nome dun modelo (sentímolo, nestes intres só para wikipedias) e prema no botón para continuar. É así de sinxelo. Hai problemas de memoria caché (que lembra os resultados), pero desgraciadamente isto está fóra do control da ferramenta e mais do seu dono.",
+	"language-label": "Lingua",
+	"namespace-label": "Espazo de nomes",
+	"pagename-label": "Nome da páxina (sen o espazo de nomes)",
+	"transclusion-count-label": "Número de inclusións",
+	"transclusion-count": "Atopáronse $1 inclusións.",
+	"error-suggestion": "Poida que escribise mal o nome da páxina.",
+	"time-label": "Tempo necesario para executar o comando"
+}

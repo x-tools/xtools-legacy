@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"pb-about-pb-navi": "সম্পর্কে",
+	"pb-about-pb-tech": "কারিগরী বিবরণ",
+	"pb-about-pb-title": "প্রকল্প সম্পর্কে",
+	"pb-change-language": "ভাষা পরিবর্তন করুন",
+	"pb-comment": "মন্তব্য",
+	"pb-current-users": "এই মুহুর্তে, $1 জন ব্যবহারকারী <em>ব্যক্তিগত পরিচয়</em> প্রকল্পে অংশগ্রহণ করেছে।",
+	"pb-date": "তারিখ",
+	"pb-home": "প্রধান পাতা",
+	"pb-labs-name": "উইকিমিডিয়া টুলস ল্যাবস",
+	"pb-participates-since": "থেকে অংশগ্রহণকারী",
+	"pb-user": "ব্যবহারকারী",
+	"pb-user-link-title": "$1 ব্যবহারকারী জন্য বিস্তারিত",
+	"pb-user-heading": "<a href=\"$2\" title=\"$1-এর ব্যবহারকারী পাতা\">$1</a>-এর তথ্য",
+	"pb-user-title": "\"$1\"-এর তথ্য",
+	"pb-users-navi": "ব্যবহারকারীগণ",
+	"pb-users-title": "অংশগ্রহণকারীদের তালিকা",
+	"pb-users-overview": "এই $1 জন ব্যবহারকারী <em>ব্যক্তিগত পরিচয়</em> প্রকল্পে অংশগ্রহণ করেছে:",
+	"pb-verified-since": "এ থেকে যাচাইকৃত:"
+}

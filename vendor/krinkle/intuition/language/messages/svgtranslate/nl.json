@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand",
+			"Sjoerddebruin"
+		]
+	},
+	"title": "SVG-vertaling",
+	"error-tryagain": "$1 Klik op de knop \"Terug\" in uw browser om het opnieuw te proberen.",
+	"error-nothing": "Er is niets om te vertalen.",
+	"error-notsvg": "Dit is geen SVG-bestand.",
+	"error-unexpected": "Er is een onverwachte fout opgetreden.",
+	"error-notfound": "Het SVG-bestand kon niet opgehaald worden van de opgegeven URL.",
+	"error-upload": "Er is een fout opgetreden tijdens het uploaden.",
+	"begin-translation": "Vertalen",
+	"th-original": "Origineel",
+	"th-translation": "Vertaling",
+	"th-language": "Taal",
+	"th-username": "Gebruikersnaam",
+	"th-password": "Wachtwoord",
+	"th-method": "Methode",
+	"option-oauth": "OAuth (automatische upload)",
+	"option-manual": "Handmatige upload",
+	"preview": "Voorvertoning",
+	"translate": "Vertalen",
+	"translate-instructions": "U kunt bestandsnamen (bijvoorbeeld \"$1\") of volledige URL's (bijvoorbeeld \"$2\") invoeren. In het eerste geval wordt Wikimedia Commons als bron gebruikt. Gebruik het tweede formaat om een SVG-bestand van een andere site te vertalen.",
+	"svginput-label": "SVG-bestand",
+	"stats-footer": "Via dit programma zijn sinds $2 ongeveer $1 bestanden vertaald.",
+	"uploading": "bezig met uploaden",
+	"upload-complete": "Het uploaden is voltooid. De afbeelding is nu te bekijken op $1",
+	"editdescriptionpage": "De nieuwe beschrijvingspagina bewerken",
+	"disclaimer": "Enkele anonieme gegevens worden niet-openbaar verzameld voor statistische doeleinden. Gebruikersnamen voor OAuth worden ook vastgelegd om in het geval van vandalisme te kunnen ingrijpen. Wachtwoorden worden nooit opgeslagen.",
+	"author-complete": "Voer de volledige auteursgegevens in!",
+	"preview-hide": "Voorvertoning verbergen",
+	"preview-refresh": "Voorvertoning vernieuwen",
+	"error-must-accept": "Om door te gaan met een directe upload, moet u akkoord gaan met de voorwaarden voor gebruik.",
+	"description-license": "Selecteer beschrijving en licentie",
+	"finalise": "Rond de details af"
+}

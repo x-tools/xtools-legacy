@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"settings-legend": "Uzstādījumi",
+	"choose-language": "Izvēlies valodu",
+	"tab-overview": "Pārskats",
+	"tab-settings": "Uzstādījumi",
+	"tab-about": "Par",
+	"tab-demo": "Demonstrācija",
+	"bl-mysettings": "Mani valodas uzstādījumi",
+	"bl-mysettings-new": "Mainīt valodu!",
+	"help-translate-tool": "Palīdzi iztulkot šo rīku!",
+	"help-translate-all": "Palīdzi tulkot Toolserver!"
+}

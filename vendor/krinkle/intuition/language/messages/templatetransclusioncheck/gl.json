@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo"
+		]
+	},
+	"form-label-language": "Lingua:",
+	"form-label-template": "Nome do modelo:",
+	"form-label-template2": "(incluíndo o nome de espazo)",
+	"form-label-complete": "Xerar informe completo:",
+	"feedback-template-missing": "O modelo $1 non existe.",
+	"feedback-result": "Resultados para $1:",
+	"feedback-header-redirects": "Ligazóns a redireccións",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-transclusions": "Transclusións do modelo",
+	"feedback-header-links": "Ligazóns dende o modelo",
+	"link-edit": "editar",
+	"link-create": "crear",
+	"link-complete": "Informe completo...",
+	"footer-stats": "Xerouse: $1. Duración: $2 {{PLURAL:$2|segundo|segundos}}.",
+	"error-language": "Código de lingua descoñecido."
+}

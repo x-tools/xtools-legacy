@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Avertizare",
+	"toolserver-status-short-down": "$1: Picat",
+	"toolserver-status-short-erro": "$1: Eroare",
+	"toolserver-status-short-unknown": "$1: Necunoscut",
+	"toolserver-status-short-missing": "$1: Lipsă"
+}

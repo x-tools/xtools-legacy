@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"WikiPhoenix"
+		]
+	},
+	"title": "Kontrollera mallänkar och mallinkluderingar",
+	"description": "Kontrollerar och rapporterar vilka artiklar som transkluderar en mall som inte är länkade från mallen, och vilka artiklar som är länkade från en mall inte transkluderar den.",
+	"form-label-language": "Språk:",
+	"form-label-template": "Mallnamn:",
+	"form-label-template2": "(inklusive namnrymd)",
+	"form-label-complete": "Generera fullständig rapport:",
+	"feedback-template-missing": "Mallen $1 finns inte.",
+	"feedback-template-noaccess": "Mallen $1 verkar existera, men den finns inte tillgänglig från databasen. Detta kan bero på ett tillfälligt databasfel. Databasen som användes: $2.",
+	"feedback-result": "Resultat för $1",
+	"feedback-header-mismatch": "Missanpassning mellan transklusion och länkar",
+	"feedback-header-no-link": "Mallinkludering men ingen länk",
+	"feedback-header-no-transclusion": "Länk men ingen mallinkludering",
+	"feedback-header-redirects": "Länkar till omdirigeringar",
+	"feedback-total-count": "Totalt: $1",
+	"feedback-header-complete": "Fullständig översikt för mallinkludering och länk",
+	"feedback-header-transclusions": "Mallinkluderingar för mallen",
+	"feedback-header-links": "Länkar från mallen",
+	"link-edit": "redigera",
+	"link-create": "skapa",
+	"link-complete": "Fullständig rapport...",
+	"footer-stats": "Genererad: $1. Varaktighet: $2 {{PLURAL:$2|sekund|sekunder}}.",
+	"error-language": "Okänd språkkod."
+}

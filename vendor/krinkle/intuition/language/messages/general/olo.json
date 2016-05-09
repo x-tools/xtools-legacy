@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"hello": "Terveh",
+	"welcome": "Terveh tulgua!",
+	"toolversion": "Versii $1",
+	"toolversionstamp": "Versii$1 ($2)",
+	"etc": "i m.i.",
+	"namespace": "Nimitila",
+	"form-submit": "Mene",
+	"form-reset": "Tyhjendä",
+	"years": "{{PLURAL: $1|vuozi|vuottu}}",
+	"months": "{{PLURAL: $1|kuu|kuudu}}",
+	"weeks": "{{PLURAL: $1|nedäli|nedälii}}",
+	"days": "{{PLURAL: $1|päivy|päiviä}}",
+	"hours": "{{PLURAL: $1|čuassu|čuassuu}}",
+	"minutes": "{{PLURAL: $1|minuuttu|minuuttua}}",
+	"seconds": "{{PLURAL: $1|sekundu|sekundua}}",
+	"last-modified-date": "Jälgimäine kohendus: $1",
+	"view-source": "Kačo algukoodu",
+	"and": "&#32;da"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"title": "Số lần nhúng bản mẫu",
+	"enter-details": "Nhập chi tiết",
+	"introduction": "Nhập tên của một bản mẫu (rất tiếc, lúc này chỉ hỗ trợ Wikipedia) và nhấn Xem. Chỉ có vậy thôi. Kết quả sẽ được ghi vào bộ nhớ đệm, nhưng bộ nhớ đệm nằm bên ngoài sự kiểm soát của công cụ này và người chủ của nó.",
+	"language-label": "Ngôn ngữ",
+	"namespace-label": "Không gian tên",
+	"pagename-label": "Tên trang (trừ không gian tên)",
+	"transclusion-count-label": "Số trang nhúng",
+	"transclusion-count": "Tìm thấy $1 trang nhúng.",
+	"error-suggestion": "Có lẽ bạn đã nhập sai chính tả hoặc cần phân biệt chữ hoa/thường trong tên trang?",
+	"time-label": "Thời gian thực hiện lệnh"
+}

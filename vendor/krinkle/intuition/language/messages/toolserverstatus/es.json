@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe"
+		]
+	},
+	"toolserver-status-ok": "No hay problemas en la agrupación de bases de datos $1 $2",
+	"toolserver-status-info": "Información para los usuarios del clúster $1: $2",
+	"toolserver-status-warn": "Aviso para los usuarios de la agrupación $1: $2",
+	"toolserver-status-down": "Se desactivó temporalmente el grupo de bases de datos $1. $2",
+	"toolserver-status-erro": "La agrupación de bases de datos $1 no está disponible. $2",
+	"toolserver-status-unknown": "Se desconoce el estado de la agrupación $1",
+	"toolserver-status-missing": "La agrupación «$1» no existe",
+	"toolserver-status-short-ok": "$1: correcto",
+	"toolserver-status-short-info": "$1: información",
+	"toolserver-status-short-warn": "$1: aviso",
+	"toolserver-status-short-down": "$1: desconectado",
+	"toolserver-status-short-erro": "$1: error",
+	"toolserver-status-short-unknown": "$1: desconocido",
+	"toolserver-status-short-missing": "$1: inexistente"
+}

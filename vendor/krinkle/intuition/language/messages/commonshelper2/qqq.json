@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Krinkle",
+			"Kwj2772",
+			"Liuxinyu970226",
+			"Purodha",
+			"Shirayuki",
+			"Siebrand"
+		]
+	},
+	"attention": "{{Identical|Attention}}",
+	"commonshelper2": "{{Optional}}",
+	"change_meta": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link).\n\n$3 is target wiki name.",
+	"language": "{{Identical|Language}}",
+	"project": "{{Identical|Project}}",
+	"categories": "{{Identical|Category}}",
+	"checkusage": "{{Optional}}",
+	"use_checkusage": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link).",
+	"tusc": "{{Ignore}}\n\n{{hint-TUSC}}",
+	"use_tusc": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link).\n\n{{hint-TUSC}}",
+	"tusc_user": "\n{{hint-TUSC}}",
+	"tusc_pass": "\n{{hint-TUSC}}",
+	"error_file_exists": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link).\n\n$3 is target wiki name.\n\n$4 is the name of the file",
+	"error_no_meta": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link). The target of the link is a subpage of [[m:CommonsHelper2]].",
+	"error_meta_no_good": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link). The target of the link is a subpage of [[m:CommonsHelper2]].",
+	"error_meta_bad": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link). The target of the link is a subpage of [[m:CommonsHelper2]].",
+	"output_information": "$1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link).\n\t\n$3 and $4 are for a clickable link ($3 is the start of the link, $4 the end of the link).",
+	"upload_submit": "Please see {{msg-toolserver|Commonshelper2-upload_control_text}} for context\n{{Identical|Upload}}",
+	"standard_project": "{{Optional}}\nThe biggest project (e.g. \"wikipedia\") in this language. Used for standard values in maindesk and metadata-links.\n{{Identical|Wikipedia}}",
+	"error_tusc_failed": "\n{{hint-TUSC}}",
+	"upload_control_text": "$1 is be the same as in the message {{msg-toolserver|Commonshelper2-upload_submit}}",
+	"help_jira": "Parameters:\n* $1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link). The target of the link is https://jira.toolserver.org/secure/CreateIssue!default.jspa.",
+	"help_mail": "$1 is the mail address.",
+	"help_commons": "Parameters:\n* $1 and $2 are for a clickable link ($1 is the start of the link, $2 the end of the link). The target of the link is http://commons.wikimedia.org/wiki/Commons_talk:CommonsHelper_2."
+}

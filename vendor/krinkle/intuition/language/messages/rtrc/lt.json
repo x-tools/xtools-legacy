@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"apply": "Taikyti",
+	"clear": "išvalyti",
+	"currentedit": "Šiuo metu pasirinktas keitimas",
+	"cvn-adder-empty": "Nežinomas",
+	"cvn-reason": "Priežastis",
+	"cvn-reason-empty": "Nerasta priežastis",
+	"desc": "Mažėjančiai",
+	"documentation": "Dokumentacija",
+	"filter": "Filtras",
+	"helpicon-tooltip": "Sužinokite daugiau apie šią funkciją",
+	"lastupdate-cvn": "Paskutinis atnaujinimas: $1",
+	"lastupdate-rc": "Paskutinis atnaujinimas: $1",
+	"limit": "Riba",
+	"namespace": "Vardų sritis",
+	"order": "Tvarka",
+	"reload-interval": "Intervalas",
+	"select-placeholder-none": "(nėra)",
+	"tag": "Žyma",
+	"time-from": "Nuo",
+	"time-untill": "Iki",
+	"timeframe": "Laikotarpis",
+	"type": "Tipas",
+	"typeEdit": "Redagavimai",
+	"typeNew": "Naujausi puslapiai",
+	"userfilter": "Vartotojo filtras"
+}

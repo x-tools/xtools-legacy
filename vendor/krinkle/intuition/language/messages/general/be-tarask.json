@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jim-by",
+			"Platonides",
+			"Red Winged Duck",
+			"Wizardist"
+		]
+	},
+	"hello": "Прывітаньне",
+	"welcome": "Вітаем",
+	"toolversion": "Вэрсія $1",
+	"toolversionstamp": "Вэрсія $1, ($2)",
+	"etc": "і гэтак далей.",
+	"namespace": "Прастора назваў",
+	"form-submit": "Адправіць",
+	"form-reset": "Скінуць",
+	"years": "{{PLURAL: $1|год|гады|гадоў}}",
+	"months": "{{PLURAL: $1|месяц|месяцы|месяцаў}}",
+	"weeks": "{{PLURAL: $1|тыдзень|тыдні|тыдняў}}",
+	"days": "{{PLURAL: $1|дзень|дні|дзён}}",
+	"hours": "{{PLURAL: $1|гадзіна|гадзіны|гадзінаў}}",
+	"minutes": "{{PLURAL: $1|хвіліна|хвіліны|хвілінаў}}",
+	"seconds": "{{PLURAL: $1|сэкунда|сэкунды|сэкундаў}}",
+	"last-modified-date": "Апошняя зьмена: $1",
+	"view-source": "Паказаць код",
+	"and": "&#32;і"
+}

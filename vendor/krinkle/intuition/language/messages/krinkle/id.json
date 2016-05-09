@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aldnonymous",
+			"Iwan Novirion"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(pilih wiki)",
+	"alws-group-mustused": "Wiki yang paling banyak digunakan",
+	"alws-group-allaz": "Semua wiki berdasarkan abjad",
+	"form-legend-settings": "Pengaturan"
+}

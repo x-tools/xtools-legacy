@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa"
+		]
+	},
+	"attention": "Erne",
+	"description": "Wikimedia proiektuetatik Wikimedia Commonsera fitxategiak pasatzeko tresna",
+	"jira_link": "Akatsa jakinarazi edo ezaugarri bat iradoki",
+	"language": "Hizkuntza",
+	"project": "Proiektua",
+	"source_file": "Jatorrizko fitxategia",
+	"target_file": "Helburu fitxategia",
+	"commons_username": "Wikimedia Commonseko erabiltzaile izena",
+	"categories": "Kategoriak",
+	"remove_cats": "Kendu existitzen diren kategoriak",
+	"tusc_user": "TUSC erabiltzaile izena",
+	"tusc_pass": "TUSC pasahitza",
+	"do_it": "Egin",
+	"error_not_exists": "Jatorrizko fitxategia ez da existitzen!",
+	"original_wikitext": "Jatorrizko wiki testua",
+	"new_wikitext": "Wiki testu berria",
+	"new_filename": "Fitxategiaren izen berria:",
+	"upload_submit": "Igo!",
+	"error_tusc_failed": "TUSC baieztapenak huts egin du!",
+	"help_mail": "Bidali mezu bat $1-(r)i"
+}

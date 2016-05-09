@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"adder": "Добавивший",
+	"adder-empty": "Неизвестно",
+	"expiry": "Срок действия",
+	"globalwatched": "Глобально отслеживается",
+	"reason": "Причина",
+	"reason-empty": "Причина не найдена"
+}

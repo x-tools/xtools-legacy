@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Darellur",
+			"The Polish"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">Zmień język / ustawienia</a>",
+	"base_jiralink": "<a href=\"https://jira.toolserver.org/browse/REPORTS\">Zgłoś błąd lub zaproponuj nową funkcję</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Wiki</a>",
+	"category_users": "Użytkownicy",
+	"category_articles": "Strony",
+	"category_images": "Obrazy",
+	"category_miscellaneous": "Inne",
+	"category_wikidata": "Wikidane",
+	"select_wiki_title": "Wybierz Wiki",
+	"select_wiki_next": "Dalej →",
+	"select_report_title": "Wybierz raport do uruchomienia na %(wiki)",
+	"select_report": "Proszę, wybierz raport:",
+	"select_report_disabled": "Ten raport nie jest dostępny.",
+	"select_report_not_cached": "Nie ma buforowanej wersji tego raportu. Kliknij na linka, aby uruchomić pierwszy raz.",
+	"select_report_first": "Raport ten został przygotowany po raz pierwszy i wkrótce będzie on dostępny.",
+	"select_report_hot": "Dostępna jest wersja z pamięci podręcznej tego raportu, stworzona %(age) temu.",
+	"select_report_cold_running": "Dostępna jest wersja z pamięci podręcznej tego raportu, stworzona %(age) temu. Nowa wersja oczekiwana jest za %(eta).",
+	"select_report_cold_not_running": "Dostępna jest wersja z pamięci podręcznej tego raportu, stworzona %(age) temu. Nowa wersja zostanie przygotowana, jeśli zobacz bieżący raport, i będzie gotowa za %(eta).",
+	"select_report_no_reports": "Niestety, obecnie nie ma dostępnych raportów dla %(wiki).",
+	"select_report_go_back": "← Zmień wiki",
+	"qvar_title": "Wprowadź zmienne dla twojego zapytania",
+	"qvar_blurb": "Twoje zapytanie wymaga podania kilku zmiennych",
+	"qvar_next": "Dalej →",
+	"prefs_title": "Ustawienia raportów",
+	"prefs_submit": "OK",
+	"prefs_done": "Twoje preferencje zostały zmienione.",
+	"prefs_langlabel": "Język interfejsu:",
+	"report_wascached": "Raport ten został zapisany w pamięci podręcznej %(age) temu.",
+	"report_cold_cache_running": "Regeneracja pamięci podręcznej rozpoczęła się %(runtime) temu.",
+	"report_cold_cache_started": "Regeneracja pamięci podręcznej właśnie się rozpoczęła."
+}

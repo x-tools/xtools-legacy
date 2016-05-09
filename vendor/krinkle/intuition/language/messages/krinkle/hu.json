@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(válassz wikit)",
+	"alws-group-mustused": "Leggyakrabban használt wikik",
+	"alws-group-allaz": "Minden wiki, betűrendben",
+	"form-legend-settings": "Beállítások"
+}

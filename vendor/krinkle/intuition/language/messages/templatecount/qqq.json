@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jarry1250",
+			"Shirayuki"
+		]
+	},
+	"title": "The title of the tool.\n{{Optional}}",
+	"enter-details": "A heading inviting users to complete a form directly below.\n{{Identical|Enter details}}",
+	"introduction": "A basic introduction to the tool, illustrating its key facets.",
+	"language-label": "The label for a textbox where users enter the language they wish to work with.\n{{Identical|Language}}",
+	"namespace-label": "{{Identical|Namespace}}\nThe label for a textbox where users enter the namespace they wish to work with.",
+	"pagename-label": "The label for a textbox where users enter the name of the page they wish to work with, with extra note.",
+	"transclusion-count-label": "The heading introducing the final result (the number of transclusions fount)",
+	"transclusion-count": "$1 is a number (1 or more), the number of transclusions of an article the tool found.",
+	"error-suggestion": "A suggestion to the user when no transclusions are found of their chosen page, indicating that they  may have made a mistake in their input.",
+	"time-label": "The label for the duration representing the time their query took to perform."
+}

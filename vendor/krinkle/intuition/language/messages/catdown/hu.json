@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj",
+			"Tacsipacsi"
+		]
+	},
+	"title": "Kategória képeinek letöltése",
+	"subtitle": "A kategóriában található képek letöltésének egy könnyű módja",
+	"project": "Projekt:",
+	"category": "Kategória:",
+	"thumbnailing": "Bélyegkép készítés",
+	"max-width": "Maximális szélesség:",
+	"max-height": "Maximális magasság:",
+	"invalid-width": "Érvénytelen szélesség",
+	"invalid-height": "Érvénytelen magasság",
+	"no-such-project": "Nincs ilyen projekt",
+	"no-images": "Nincs kép a kategóriában",
+	"category-is-url": "A megadott kategória név úgy néz ki, mint egy URL. Egy kategória nevet kell megadni, nem az URL-ét.",
+	"category-contains-namespace": "Úgy tűnik, hogy a névteret is hozzávetted a kategória névhez. Az adott névvel a lap [[Category:$1]] módon lesz elérhető",
+	"zip-failed": "Zip létrehozási hiba",
+	"image-area-too-big": "$1 túl nagy a bélyegkép létrehozásához. A teljes kép lesz használva.",
+	"download-info": "{{PLURAL:$1|Egy|$1}} kép, becsült összméret: $2",
+	"download": "Letöltés",
+	"readme-contents": "A mellékelt $4 fájl tartalmazza a\n$1 kategória ( $2 )$3 képeinek listáját.\n\n== Útmutató a listázott képek letöltéséhez ==\nA letöltés ideje néhány perctől több óráig is tarthat.\n\nWindows:\n Csomagold ki az összes fájlt ugyanabba a könyvtárba és futtasd le a $5 parancsfájlt!\n $6\nLinux/Mac OS:\n Csomagold ki az összes fájlt, nyissál egy terminálablakot ebben a könyvtárban. Futtasd le az sh $5 parancsot!",
+	"non-bundled-wget": "Megjegyzés: Ez a verzió nem tartalmazza a wget Windows-os verzióját. Csomagold ki a wget.exe programot az adott könyvtárba, vagy legyen wget elérhető a PATH-ben.",
+	"wget-info": "Egy a csomag tartalmazza a wget $1 (Windows-os verzió). Wget egy ingyenes program, a GNU GENERAL PUBLIC LICENSE version 3 alatt. Alább megtalálható a licenc egy másolata, valamint hozzáférhető a http://www.gnu.org/licenses/gpl-3.0.txt címen.\n\nHa érdekelne a program forráskódja, az alábbi helyekről töltheted le:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nvagy valamelyik GNU Mirror oldalról, lásd\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", átméretezve a {{PLURAL:$1|egy|$1}} pixel maximális szélességre",
+	"scaling-height": ", átméretezve a {{PLURAL:$1|egy|$1}} pixel maximális magasságra",
+	"scaling-both": ", átméretezve a $1x$2 pixel maximális méretre"
+}

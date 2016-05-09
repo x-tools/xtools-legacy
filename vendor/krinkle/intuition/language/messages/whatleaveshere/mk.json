@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"title": "Што одведува оттука",
+	"title-leaveshere": "Врски што одведуваат од „$1“",
+	"sub-leaveshere": "Следниве страници одведуваат од $1",
+	"label-page": "Страница",
+	"label-namespace": "Именски простор",
+	"label-limit": "Граница",
+	"button-submit": "Дај",
+	"noleaveshere": "Ништо не одведува од $1",
+	"link-whatleaveshere": "Што одведува оттука",
+	"tooltip-whatleaveshere": "Список на сè што одведува оттука",
+	"whatlinkshere": "Што води овде",
+	"whatlinkshere-whatleaveshere": "Што одведува оттука?",
+	"istemplate": "превметнување",
+	"isfile": "врска до податотеката",
+	"linksearch": "ПребарувањеВрски",
+	"section-links": "Врски",
+	"section-iwlinks": "Меѓујазични врски",
+	"section-extlinks": "Надворешни врски",
+	"section-categories": "Категории"
+}

@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"pb-about-pb-navi": "Sus a",
+	"pb-about-pb-tech": "Dettaglie tecnice",
+	"pb-about-pb-tech-text": "<p>Nuje ausame <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> e <a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a> pe sta inderfacce. 'U codece sorgende ste pubblecate sotte a le termine d'a <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) e ponne essere pigghiate <a href=\"https://github.com/tool-labs/pb\">sus a GitHub</a>. Pe piacere aggiunge le segnalaziune de errore, richieste de funzionalità o otre commende <a href=\"https://github.com/tool-labs/pb/issues/new\">sus a 'u tracciatore de GitHub </a> o signalale sus 'a <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">pàgene de le 'ngazzaminde de Uicchipèdie</a>.</p>\n    <p>Versione de mò d'u database PB pò essere acchiate <a href=\"/pb/sql-dumps\">here</a>.</p>\n    <p>Nuje ausane diverse icone ccrejate da <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a> project.</p>",
+	"pb-about-pb-title": "Sus a 'u proggette",
+	"pb-change-language": "Cange 'a lènghe",
+	"pb-comment": "Commende",
+	"pb-confirmations-given": "Conferme date",
+	"pb-confirmations-taken": "Conferme ricevute",
+	"pb-current-confirmations": "Stonne $1 conferme in totale, quiste jè sus a <abbr title=\"$2\">$3</abbr> conferme pe sciurne.",
+	"pb-current-figures": "Figure de mò",
+	"pb-current-users": "Jndr'à stu mumende, $1 utinde onne pigghiate parte a 'u proggette <em>Personal Acquaintances</em>.",
+	"pb-date": "Date",
+	"pb-home": "Cáse",
+	"pb-javascript-notice": "Te conzigliame de abbilità JavaScript pe stu site pe migliorà l'inderfacce utende.",
+	"pb-labs-name": "Uicchimedia Labboratorie de le Struminde",
+	"pb-participates-since": "Partecipe da",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "Date da Uicchimedia Labboratorie de le Struminde",
+	"pb-recent-confirmations": "Urteme conferme",
+	"pb-reconfirmed": "Confermate arrete?",
+	"pb-user": "Utende",
+	"pb-user-link-title": "Dettaglie pe l'utende $1",
+	"pb-user-heading": "'Mbormaziune pe <a href=\"$2\" title=\"Pàgene utende de $1\">$1</a>",
+	"pb-user-title": "'Mbormaziune pe $1",
+	"pb-users-navi": "Utinde",
+	"pb-users-title": "Elenghe de le partecipande",
+	"pb-users-overview": "Stonne $1 utinde ca stonne e partecipane a 'u proggette <em>Personal Acquaintance</em>:",
+	"pb-verified-since": "Condrollate da"
+}

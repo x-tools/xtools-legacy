@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"title": "Шаблонски врски и проверка на превметнувања",
+	"description": "Проверува и известува кои статии што превметнуваат шаблон немаат врска од него, а кои имаат врска, но не го превметнуваат.",
+	"form-label-language": "Јазик:",
+	"form-label-template": "Име на шаблонот:",
+	"form-label-template2": "(вклучувајќи го именскиот простор)",
+	"form-label-complete": "Направи целосен извештај:",
+	"feedback-template-missing": "Шаблонот $1 не постои.",
+	"feedback-template-noaccess": "Шаблонот $1 постои, но не е достапен преку базата. Ова може да е привремен проблем во базата. Употребена база: $2.",
+	"feedback-result": "Резултати за $1",
+	"feedback-header-mismatch": "Несовпаѓање помеѓу превметнувањата и врските",
+	"feedback-header-no-link": "Превеметнување, но нема врска",
+	"feedback-header-no-transclusion": "Врска, но нема превметнување",
+	"feedback-header-redirects": "Врски до пренасочувања",
+	"feedback-total-count": "Вкупно: $1",
+	"feedback-header-complete": "Целосен преглед на превметнувањата и врските",
+	"feedback-header-transclusions": "Превметнувања на шаблонот",
+	"feedback-header-links": "Врски од шаблонот",
+	"link-edit": "уреди",
+	"link-create": "создај",
+	"link-complete": "Целосен извештај...",
+	"footer-stats": "Создадено: $1. Времетраење: $2 {{PLURAL:$2|секунда|секунди}}.",
+	"error-language": "Непознат јазичен код."
+}

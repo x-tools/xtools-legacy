@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"toolserver-status-ok": "Non hai ningún problema no clúster da base de datos $1 $2",
+	"toolserver-status-info": "Nota aos usuarios do clúster $1: $2",
+	"toolserver-status-warn": "Aviso aos usuarios do clúster $1: $2",
+	"toolserver-status-down": "O clúster $1 da base de datos está pechado temporalmente. $2",
+	"toolserver-status-erro": "O clúster $1 da base de datos está caído. $2",
+	"toolserver-status-unknown": "Descoñécese o estado do clúster $1",
+	"toolserver-status-missing": "O clúster \"$1\" non existe",
+	"toolserver-status-short-ok": "$1: Ben",
+	"toolserver-status-short-info": "$1: Información",
+	"toolserver-status-short-warn": "$1: Aviso",
+	"toolserver-status-short-down": "$1: Pechado",
+	"toolserver-status-short-erro": "$1: Erro",
+	"toolserver-status-short-unknown": "$1: Descoñecido",
+	"toolserver-status-short-missing": "$1: Inexistente"
+}

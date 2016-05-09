@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Revi"
+		]
+	},
+	"title": "문서 제목 grep (베타)",
+	"introduction": "이 도구는 지정된 정규 표현식과 일치하는 모든 문서 ($1)를 보여줍니다. 정규 표현식을 사용하는 검색은 자원을 많이 차지합니다. 가능하다면, 접미사 (^)와 접두사 ($) 인지자를 사용하세요.",
+	"explanation": "설명",
+	"regex": "정규 표현식",
+	"enter-details": "자세한 정보 입력",
+	"results": "결과",
+	"language-label": "언어",
+	"namespace-label": "이름공간",
+	"project-label": "프로젝트",
+	"pattern-label": "패턴",
+	"redirects-label": "넘겨주기 포함",
+	"limit-label": "첫 100 결과로 검색결과 제한",
+	"error-zeroresults": "이름공간 내에 입력된 정규 표현식과 일치하는 문서가 없습니다.",
+	"match-count": "{{PLURAL:$1|$1 개}} 문서가 정규 표현식과 일치합니다."
+}

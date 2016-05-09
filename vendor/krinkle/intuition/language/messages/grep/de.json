@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"title": "Artikeltitel-Grep (Beta)",
+	"introduction": "Dieses Werkzeug zeigt alle Artikeltitel, die einem regulären Ausdrucksmuster ($1) entsprechen. Das Suchen mit einem regulären Ausdruck ist ressourcenintensiv. Falls überhaupt möglich, vergiss nicht die Präfix- und Suffix-Indikatoren (^ bzw. $).",
+	"explanation": "Erklärung",
+	"regex": "Regulärer Ausdruck",
+	"enter-details": "Einzelheiten eingeben",
+	"results": "Ergebnisse",
+	"language-label": "Sprache",
+	"namespace-label": "Namensraum",
+	"project-label": "Projekt",
+	"pattern-label": "Muster",
+	"redirects-label": "Weiterleitungen einschließen",
+	"limit-label": "Anzeige auf die ersten 100 Ergebnisse beschränken",
+	"error-zeroresults": "Es gibt keine Seiten in diesem Namensraum mit Titeln, die deinem regulären Ausdruck entsprechen.",
+	"match-count": "{{PLURAL:$1|Eine Seite|$1 Seiten}} stimmen mit deinem regulären Ausdruck überein."
+}

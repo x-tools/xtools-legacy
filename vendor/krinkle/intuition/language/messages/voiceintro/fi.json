@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvonen"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Äänitä",
+	"voiceintro-toolbar-stop-label": "Pysäytä",
+	"voiceintro-toolbar-clear-label": "Tyhjennä",
+	"voiceintro-toolbar-upload-label": "Lataa",
+	"voiceintro-webaudio-not-supported": "WebAudio-rajapinta ei ole tuettu tässä selaimessa.",
+	"voiceintro-upload-publish-succeeded": "Nauhoitus tallennettiin",
+	"voiceintro-upload-publish-failed": "Nauhoitusta ei tallennettu",
+	"voiceintro-information-speaker-label": "Puhujan nimi:",
+	"voiceintro-information-language-label": "Kieli:"
+}

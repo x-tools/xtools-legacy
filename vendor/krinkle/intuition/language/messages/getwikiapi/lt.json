@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matasg"
+		]
+	},
+	"formats-heading": "Išvesties formatai",
+	"input": "Įvestis",
+	"label-wikiids": "Wiki identifikatorius",
+	"no-matches": "Niekas neatitiko \"$1\"",
+	"output": "Išvestis \"$1\""
+}

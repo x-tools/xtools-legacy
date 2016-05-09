@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"error-notsvg": "Ым SVG фајл ни.",
+	"th-translation": "Пегордыније",
+	"th-language": "Зывон",
+	"th-username": "Иштирокәкә ном",
+	"th-password": "Парол",
+	"preview": "Сыфтәнә нишо дој",
+	"translate": "Пегордынијеј",
+	"svginput-label": "SVG фајл",
+	"uploading": "Бо карде",
+	"upload-complete": "Бо жәј чок дәварде. Шикил бәбе быбу бы унвонәдә $1",
+	"editdescriptionpage": "Тәсвири тожә сәһифә дәгиш кардеј",
+	"preview-hide": "Сыфтәнә нишо дој нијо кардеј"
+}

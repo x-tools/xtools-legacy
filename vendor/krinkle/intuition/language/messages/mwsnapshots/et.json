@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avjoska",
+			"Pikne"
+		]
+	},
+	"title-error": "Viga",
+	"download-button": "Laadi $1 alla",
+	"title-downloadpage": "Laadi alla: $1",
+	"repo-site-link": "Veebileht",
+	"repo-lastmoddate-label": "Kuupäev:",
+	"tablehead-filesize": "Faili suurus"
+}

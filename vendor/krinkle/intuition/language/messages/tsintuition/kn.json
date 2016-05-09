@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"M G Harish",
+			"Nayvik",
+			"Ananth subray"
+		]
+	},
+	"fullname": "ಉಪಕರಣಗಳ  ಅಂತರ್ರಾಷ್ಟ್ರೀಕರಣ",
+	"current-settings": "ಈಗಿನ ವ್ಯವಸ್ಥೆಗಳು",
+	"current-language": "ಭಾಷೆಯ ಆಯ್ಕೆ",
+	"settings-legend": "ವ್ಯವಸ್ಥೆಗಳು",
+	"choose-language": "ಭಾಷೆ ಆಯ್ದುಕೊಳ್ಳಿ",
+	"clear-cookies": "ಕುಕೀಗಳನ್ನು ಅಳಿಸಿ",
+	"renew-cookies": "ಕುಕೀಗಳನ್ನು ನವೀಕರಿಸಿ",
+	"cookie-expiration": "ಕುಕೀ ಅಂತ್ಯ",
+	"clearcookies-success": "ಕುಕೀಗಳನ್ನು ಸಫಲವಾಗಿ ಅಳಿಸಲಾಯಿತು.",
+	"renewcookies-success": "ಕುಕೀಗಳನ್ನು ನವೀಕರಿಸಲಾಯಿತು! ನೀವು ಮುಂದಿನ $1 ಗಾಗಿ ಸನ್ನದ್ಧರಾಗಿದ್ದೀರಿ.",
+	"tab-overview": "ಸಾರಾಂಶ",
+	"tab-settings": "ವ್ಯವಸ್ಥೆಗಳು",
+	"tab-about": "ಕುರಿತು",
+	"tab-demo": "ಪ್ರಾತ್ಯಕ್ಷಿಕೆ",
+	"bl-mysettings": "ನನ್ನ ಭಾಷಾ ವ್ಯವಸ್ಥೆಗಳು",
+	"bl-mysettings-new": "ಭಾಷೆ ಬದಲಾಯಿಸಿ!",
+	"bl-promo": "ಅನುವಾದಗಳು $1 ಮತ್ತು $2 ಇಂದ ಸಾಮರ್ಥ್ಯ ಪಡೆದಿವೆ.",
+	"bl-changelanguage": "ಈ ಉಪಕರಣದ ಅಂತರ ಸಂಪರ್ಕ ಸಾಧನದ ಭಾಷೆ ಬದಲಾಯಿಸಿ.",
+	"usage": "ಪ್ರವೃತ್ತಿಯಿಂದ ಅನುವಾದಿಸಲ್ಪಟ್ಟ ಉಪಕರಣಗಳು.",
+	"help-translate-tool": "ಈ ಉಪಕರಣವನ್ನು ಅನುವಾದಿಸಲು ಸಹಕರಿಸಿ!",
+	"help-translate-all": "ಉಪಕರಣಗಳನ್ನು ಅನುವಾದಿಸಲು ಸಹಾಯ ಮಾಡಿ!",
+	"help-translate-tooltip": "ಅಂತರ ಸಂಪರ್ಕ ಸಾಧನದ ಸಂದೇಶಗಳನ್ನು ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಅನುವಾದಿಸಿ ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಿ."
+}

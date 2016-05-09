@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"error-nothing": "სათარგმნი არაფერია.",
+	"error-notsvg": "ეს არ არის SVG ფაილი.",
+	"error-unexpected": "გაუთვალისწინებელი შეცდომა მოხდა.",
+	"error-upload": "ატვირთვისას შეცდომა მოხდა.",
+	"begin-translation": "თარგმნის დაწყება",
+	"th-original": "საწყისი",
+	"th-translation": "თარგმანი",
+	"th-language": "ენა",
+	"th-username": "მომხმარებლის სახელი",
+	"th-password": "პაროლი",
+	"th-method": "მეთოდი",
+	"option-oauth": "OAuth (ავტომატური ატვირთვა)",
+	"option-manual": "დამოუკიდებლად ატვირთვა",
+	"preview": "წინასწარი გადახედვა",
+	"translate": "თარგმნა",
+	"svginput-label": "SVG ფაილი",
+	"uploading": "იტვირთება",
+	"upload-complete": "ატვირთვა წარმატებით დასრულდა. სურათის ნახვა შესაძლებელია მისამართზე $1",
+	"editdescriptionpage": "ახალი აღწერის გვერდის რედაქტირება",
+	"author-complete": "გთხოვთ, შეავსოთ ინფორმაცია ავტორის შესახებ!",
+	"preview-hide": "წინასწარი გადახედვის დამალვა",
+	"preview-refresh": "წინასწარი გადახედვის განახლება",
+	"description-license": "აირჩიეთ აღწერა და ლიცენზია",
+	"finalise": "საბოლოო დეტალები"
+}

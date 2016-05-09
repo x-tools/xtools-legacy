@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo",
+			"Chameleon222"
+		]
+	},
+	"title-overview": "Øyeblikksbilder",
+	"title-error": "Feil",
+	"title-updatelog": "Oppdater logg",
+	"updatelog-intro": "Oppdateringsskriptet kjøres hver time. Nedenfor er konsollresultatet fra forrige kjøring.",
+	"updatelog-active": "Oppdateringsskriptet kjører akkurat nå. Kom tilbake senere for en komplett logg.",
+	"download-button": "Last ned øyeblikksbilde",
+	"download-directlink": "direktelenke",
+	"title-downloadpage": "Last ned",
+	"title-downloadpage-repo": "Last ned $1",
+	"err-snapshotindex": "Indeksen over øyeblikksbilder er midlertidig utilgjengelig. Prøv igjen senere.",
+	"err-invalid-repo": "Ukjent database: «$1».",
+	"err-invalid-branch": "Ukjent gren: «$1» i databasen «$2».",
+	"err-nosnapshot": "Øyeblikksbildene genereres med noen timers mellomrom. Under genereringen av øyeblikksbildet for «$1» oppsto det en feil. Prøv igjen senere.",
+	"err-noupdatelog": "Ingen oppdateringslogg funnet.",
+	"repo-site-link": "Nettsted",
+	"repo-browse-link": "Bla gjennom database",
+	"repo-branches-label": "Grener:",
+	"repo-lastmoddate-label": "Dato:",
+	"branches-submit-button": "Skaff den!",
+	"updatelog-link": "oppdateringslogg",
+	"tablehead-repo": "Database",
+	"tablehead-snapshots": "Øyeblikksbilder",
+	"tablehead-branch": "Gren",
+	"tablehead-filesize": "Filstørrelse",
+	"tablehead-hash": "Kontrollsummer"
+}

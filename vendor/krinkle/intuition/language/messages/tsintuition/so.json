@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"fullname": "soo qaadasho Toolserver ee adeegsadaha",
+	"current-settings": "Dooqyada hadda",
+	"current-language": "Luqada ee la doortay hadda",
+	"settings-legend": "dooqyada",
+	"choose-language": "Dooro luqad",
+	"clear-cookies": "Nadiifi cookies",
+	"renew-cookies": "Cusbooneeysii cookies",
+	"cookie-expiration": "Cookie waqtiga uu dhacayo",
+	"clearcookies-success": "waa lagu guuleeystay nadiifinta cookies.",
+	"renewcookies-success": "Cookies waa la cusbooneeysiiyey! Waxaad diyaar utahay waxa xiga $1.",
+	"tab-overview": "Aragti guud",
+	"tab-settings": "dooqyada",
+	"tab-about": "Ku saabsan",
+	"tab-demo": "Tijaabo",
+	"bl-mysettings": "Luqadayda dooqyada",
+	"bl-mysettings-new": "Badal Luqada!",
+	"bl-promo": "Waxaa suura galiyey fasiraadaan $1 iyo $2.",
+	"bl-changelanguage": "Guji halkaan si aad ubadasho luqada ee waafaqsan qalabkaan",
+	"usage": "Waxaa lagu turjumay Toolserver.",
+	"help-translate-tool": "Waxaa caawinaad ka gaystay fasiraada qalabkaan!",
+	"help-translate-all": "Waxaa caawinaad ka gaystay fasiraada Toolserver!",
+	"help-translate-tooltip": "Waxaa caawinaad ka gaystay fasiraada luqadaada hooyo dad kale ."
+}

@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"YaronSh"
+		]
+	},
+	"fullname": "בִנאום עבור הכלים",
+	"current-settings": "הגדרות נוכחיות",
+	"current-language": "השפה שנבחרה",
+	"settings-legend": "הגדרות",
+	"choose-language": "בחירת שפה",
+	"clear-cookies": "ניקוי עוגיות",
+	"renew-cookies": "חידוש עוגיות",
+	"cookie-expiration": "תפוגת עוגיות",
+	"clearcookies-success": "העוגיות נוקו בהצלחה.",
+	"renewcookies-success": "העוגיות חודשו! הכול יהיה בסדר אצלך למשל $1.",
+	"tab-overview": "סקירה",
+	"tab-settings": "הגדרות",
+	"tab-about": "אודות",
+	"tab-demo": "הדגמה",
+	"bl-mysettings": "הגדרות השפה שלי",
+	"bl-mysettings-new": "לשנות שפה!",
+	"bl-promo": "ההגדרות בזכות $1 ו־$2",
+	"bl-changelanguage": "שינוי שפת הממשק של הכלי הזה.",
+	"usage": "כלים שמתורגמים באמצעות Intuition.",
+	"help-translate-tool": "בואו לעזור את הכלי הזה!",
+	"help-translate-all": "עזרו לתרגם את הכלים!",
+	"help-translate-tooltip": "עזרו לאחרים לתרגם את הודעות הממשק לשפתכם."
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Снимај",
+	"voiceintro-toolbar-stop-label": "Запри",
+	"voiceintro-toolbar-clear-label": "Отфрли",
+	"voiceintro-toolbar-upload-label": "Подигни",
+	"voiceintro-webaudio-not-supported": "Извршникот WebAudio не е поддржан на овој прелистувач",
+	"voiceintro-upload-publish-succeeded": "Снимката е успешно подигната:",
+	"voiceintro-upload-publish-failed": "Снимката не е подигната",
+	"voiceintro-information-label": "Информации",
+	"voiceintro-information-speaker-label": "Име на говорникот:",
+	"voiceintro-information-language-label": "Јазик:",
+	"voiceintro-mic-access-notify": "Стиснете на „Дозволи“ за да му дадете пристап на прелистувачот до вашиот микрофон.",
+	"voiceintro-recording-notify": "Снимам...."
+}

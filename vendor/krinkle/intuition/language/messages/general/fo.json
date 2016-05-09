@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"hello": "Halló",
+	"welcome": "Vælkomin",
+	"toolversionstamp": "Versjón $1 ($2)",
+	"etc": "osfr.",
+	"namespace": "Navnarúm",
+	"form-submit": "Far",
+	"form-reset": "Nullstilla",
+	"years": "{{PLURAL: $1|ár|ár}}",
+	"weeks": "{{PLURAL: $1|vika|vikur}}",
+	"days": "{{PLURAL: $1|dagur|dagar}}",
+	"hours": "{{PLURAL: $1|tími|tímar}}",
+	"minutes": "{{PLURAL: $1|minuttur|minuttir}}",
+	"seconds": "{{PLURAL: $1|sekund|sekundir}}",
+	"last-modified-date": "Seinast broytt: $1",
+	"view-source": "Vís keldu",
+	"and": "&#32;og"
+}

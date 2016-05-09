@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh"
+		]
+	},
+	"language-label": "ܠܫܢܐ",
+	"namespace-label": "ܚܩܠܐ",
+	"transclusion-count-label": "ܡܢܝܢܐ ܕܡܬܚܪ̈ܙܢܘܬܐ",
+	"transclusion-count": "$1 ܡܬܚܪ̈ܙܢܘܬܐ ܐܫܬܟܚ."
+}

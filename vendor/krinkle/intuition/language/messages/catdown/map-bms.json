@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"title": "Ngunduh gambar miturut kategori",
+	"subtitle": "Cara gampang nggo ngunduh gambar nang kategori",
+	"project": "Proyek:",
+	"category": "Kategori:",
+	"thumbnailing": "Nggaweni gambar mini",
+	"max-width": "Ambane maksimum:",
+	"max-height": "Dhuwure maksimum:",
+	"invalid-width": "Ambane salah",
+	"invalid-height": "Dhuwure salah",
+	"no-such-project": "Ora ana proyek kaya kuwe",
+	"no-images": "Ora ana gambar nang kategori kuwe",
+	"category-is-url": "Kategori sing diwehna ketone kaya anu URL. Rika kudu nglebokna jeneng kategori, dudu URL-e.",
+	"category-contains-namespace": "Rika kayane anu nglebokna bilikjenenge bareng karo jeneng kategorine. Nganggo jeneng kaya kuwe, kacane mengko bakal dadi [[Category:$1]]."
+}

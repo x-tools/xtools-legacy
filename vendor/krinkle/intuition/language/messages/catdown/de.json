@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"title": "Bilder nach Kategorie herunterladen",
+	"subtitle": "Die einfache Möglichkeit die in einer Kategorie enthaltenen Bilder herunterzuladen",
+	"project": "Projekt:",
+	"category": "Kategorie:",
+	"thumbnailing": "Miniaturbilderstellung",
+	"max-width": "Maximale Breite:",
+	"max-height": "Maximale Höhe:",
+	"invalid-width": "Die Breite ist ungültig.",
+	"invalid-height": "Die Höhe ist ungültig.",
+	"no-such-project": "Das angegebene Projekt ist nicht vorhanden.",
+	"no-images": "In dieser Kategorie sind keine Bilder enthalten.",
+	"category-is-url": "Der angegebenen Kategorienamen scheint eine URL zu sein. Bitte den Kategorienamen und nicht dessen URL angeben.",
+	"category-contains-namespace": "Du scheinst neben dem Kategorienamen auch die Namensraumbezeichnung angegeben zu haben. Mit dem angegebene Namen würde die Seite als [[Category:$1]] verfügbar sein.",
+	"zip-failed": "ZIP-Erstellung fehlgeschlagen",
+	"image-area-too-big": "$1 ist zu groß, um eine Miniaturansicht erstellen zu können. Daher wird die volle Bildgröße genutzt.",
+	"download-info": "{{PLURAL:$1|Es ist ein Bild|Es sind $1 Bilder}} mit eine geschätzten Gesamtgröße von $2 vorhanden.",
+	"download": "Herunterladen",
+	"readme-contents": "Die Datei $4 listet die Bilder in der Kategorie $1 auf ($2) $3.\n\n== Anleitung zum Herunterladen der aufgelisteten Bilder ==\nDie für das Herunterladen benötigte Zeit kann zwischen wenigen Minuten und mehreren Stunden liegen.\n\nWindows:\nAlle Dateien in den selben Ordner entpacken und $5 ausführen.\n$6\nLinux/Mac OS:\nAlle Dateien entpacken und ein Terminal öffnen. Danach sh $5 ausführen.",
+	"non-bundled-wget": "Hinweis: Diese Version enthält nicht Wget für Windows. Du musst die Bilder mit wget.exe in einem Ordner\ndekomprimieren oder Wget im Pfad bereitstellen.",
+	"wget-info": "Diese Datei enthält eine Kopie von Wget $1 (für Windows). Wget ist Freie Software gemäß der\nLizenz „GNU GENERAL PUBLIC LICENSE“ in Version 3.\nEine Kopie der Lizenz befindet sich unten, ist aber auch unter der URL http://www.gnu.org/licenses/gpl-3.0.txt verfügbar.\n\nSofern du daran interessiert bist den Quellcode dieses Programms zu bekommen, kannst du ihn an folgenden Stellen herunterladen:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nEs gibt auch andere GNU-Mirror. Siehe hierzu\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", auf eine maximale Breite von {{PLURAL:$1|einem Pixel|$1 Pixel}} skaliert",
+	"scaling-height": ", auf eine maximale Höhe von {{PLURAL:$1|einem Pixel|$1 Pixel}} skaliert",
+	"scaling-both": ", auf eine maximale Größe von $1x$2 Pixel skaliert"
+}

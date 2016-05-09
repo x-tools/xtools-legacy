@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega",
+			"Dani",
+			"Tacsipacsi"
+		]
+	},
+	"title": "SVG-fordítás",
+	"error-tryagain": "$1 Kattints a böngésződ vissza gombjára az újrapróbálkozáshoz.",
+	"error-nothing": "Nincs lefordítandó szöveg.",
+	"error-notsvg": "Nem SVG-fájl.",
+	"error-unexpected": "Váratlan hiba történt.",
+	"error-notfound": "Az SVG-fájlt nem sikerült letölteni megadott URL-címről.",
+	"error-upload": "Hiba történt a feltöltés közben.",
+	"begin-translation": "Fordítás indítása",
+	"th-original": "Eredeti",
+	"th-translation": "Fordítás",
+	"th-language": "Nyelv",
+	"th-username": "Felhasználónév",
+	"th-password": "Jelszó",
+	"th-method": "Módszer",
+	"option-oauth": "OAuth (automatikus feltöltés)",
+	"option-manual": "Feltöltés kézzel",
+	"preview": "Előnézet",
+	"translate": "Fordítás",
+	"translate-instructions": "A bemenet vagy fájlnév (pl. „$1”) vagy teljes URL (pl. „$2”) legyen. Ha az első formát használod, akkor a Wikimedia Commons lesz a kép forrása. Ha más wikikről szeretnél képeket fordítani, akkor a teljes URL-es formátumot kell használnod.",
+	"svginput-label": "SVG-fájl",
+	"stats-footer": "Ezzel az eszközzel körülbelül $1 fájlt vittek át $2 óta.",
+	"uploading": "Feltöltés",
+	"upload-complete": "A feltöltés sikeresen befejeződött. A kép a következő címen érhető el: $1",
+	"editdescriptionpage": "Az új leírólap szerkesztése",
+	"disclaimer": "Néhány névtelen adat rögzítve lesz statisztikai célok miatt. Ha meg van adva, a OAuth felhasználónév is el lesz tárolva, arra az esetre, ha később vandalizmus merülne fel. A jelszavakat viszont soha nem mentjük el.",
+	"author-complete": "Kérlek, add meg a szerzővel kapcsolatos információkat!",
+	"preview-hide": "Előnézet elrejtése",
+	"preview-refresh": "Előnézet frissítése",
+	"error-must-accept": "A közvetlen feltöltés folytatásához el kell fogadnod a megadott használati feltételeket.",
+	"description-license": "Leírás és licenc kiválasztása",
+	"finalise": "Részletek véglegesítése"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"db-field-monument_article": "Članak o spomeniku",
+	"db-field-registrant_url": "URL u registru",
+	"db-field-st_address": "Adrese",
+	"db-field-st_address_pct": "Adrese %"
+}

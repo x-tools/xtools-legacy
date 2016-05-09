@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bonevarluri",
+			"Mogoeilor"
+		]
+	},
+	"search-table-th-field": "رشنه",
+	"search-table-th-filter": "فيلتر",
+	"search-table-th-search": "پی جوری",
+	"filter-all-countries": "همه ولاتیا",
+	"filter-all-languages": "همه زونيا",
+	"db-field-country": "ولات",
+	"db-field-lang": "زون",
+	"db-field-name": "نوم",
+	"db-field-address": "نشونی",
+	"db-field-municipality": "شهرداری",
+	"db-field-image": "عسگ",
+	"db-field-changed": "آلشت بیه",
+	"db-field-source": "سرچشمه",
+	"db-field-st_address": "نشونی یا",
+	"db-field-st_address_pct": "نشونی یا %",
+	"db-field-st_image": "عسگ",
+	"db-field-st_image_pct": "عسگ%",
+	"db-field-st_municipality": "شهرداری",
+	"db-field-st_municipality_pct": "شهرداری %",
+	"db-field-st_name": "نوميا",
+	"db-field-st_name_pct": "نومیا%",
+	"toolbox-nav-homepage": "بلگه سرآسونه",
+	"toolbox-nav-statistics": "آماريا",
+	"toolbox-nav-search": "پی جوری",
+	"location": "جاگه"
+}

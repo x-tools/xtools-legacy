@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega"
+		]
+	},
+	"label-page": "Lap",
+	"label-namespace": "Névtér",
+	"label-limit": "Korlát",
+	"button-submit": "Menj",
+	"whatlinkshere": "Mi hivatkozik erre",
+	"isfile": "fájlhivatkozás",
+	"linksearch": "LinkSearch"
+}

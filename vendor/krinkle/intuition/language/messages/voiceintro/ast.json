@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Grabar",
+	"voiceintro-toolbar-stop-label": "Aparar",
+	"voiceintro-toolbar-clear-label": "Llimpiar",
+	"voiceintro-toolbar-upload-label": "Xubir",
+	"voiceintro-webaudio-not-supported": "La API WebAudio nun tien encontu nesti navegador.",
+	"voiceintro-upload-publish-succeeded": "Grabación xubida correutamente:",
+	"voiceintro-upload-publish-failed": "La grabación nun se xubió",
+	"voiceintro-information-label": "Información",
+	"voiceintro-information-speaker-label": "Nome del falante:",
+	"voiceintro-information-language-label": "Llingua:",
+	"voiceintro-mic-access-notify": "Calque \"Permitir\" pa permitir l'accesu del navegador al micrófonu.",
+	"voiceintro-recording-notify": "Grabando..."
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"title-overview": "ක්ෂණික ඡායාරූප",
+	"title-error": "දෝෂය",
+	"title-updatelog": "යාවත්කාලීන ලඝු සටහන",
+	"download-button": "$1 බාගන්න",
+	"download-directlink": "සෘජු සබැඳිය",
+	"title-downloadpage": "බාගන්න: $1",
+	"err-snapshotindex": "Snapshot සුචිය තාවකාලිකව ලබා ගත නොහැක. කරුණාකර පසුව උත්සහ කරන්න.",
+	"err-invalid-repo": "නොදන්නා කෝෂ්ඨාගාරය: \"$1\".",
+	"err-invalid-branch": "නොදන්නා ශාඛාව: \"$1\" \"$2\" කෝෂ්ඨාගාරයෙහි.",
+	"err-noupdatelog": "කිසිදු යාවත්කාලීන ලඝු සටහනක් හමු නොවුණි.",
+	"repo-site-link": "වෙබ් අඩවිය",
+	"repo-browse-link": "කෝෂ්ඨාගාරය ගවේෂණය කරන්න",
+	"repo-branches-label": "ශාඛා:",
+	"repo-lastmoddate-label": "දිනය:",
+	"branches-submit-button": "එය ලබාගන්න!",
+	"updatelog-link": "යාවත්කාලීන ලඝු සටහන",
+	"tablehead-repo": "කෝෂ්ඨාගාරය",
+	"tablehead-snapshots": "ක්ෂණික ඡායාරූප",
+	"tablehead-branch": "ශාඛාව",
+	"tablehead-filesize": "ගොනුවේ විශාලත්වය",
+	"tablehead-hash": "අවේක්ෂා ඓක්‍ය"
+}

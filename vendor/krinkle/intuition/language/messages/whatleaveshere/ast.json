@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"title": "Qué sal d'equí",
+	"title-leaveshere": "Enllaces que salen de \"$1\"",
+	"sub-leaveshere": "Les siguientes páxines enllacen dende $1",
+	"label-page": "Páxina",
+	"label-namespace": "Espaciu de nomes",
+	"label-limit": "Llímite",
+	"button-submit": "Dir",
+	"noleaveshere": "Nun hai nada qu'enllace dende $1",
+	"link-whatleaveshere": "Qué sal d'equí",
+	"tooltip-whatleaveshere": "Llista de tolo qu'enllaza dende equí",
+	"whatlinkshere": "Lo qu'enllaza equí",
+	"whatlinkshere-whatleaveshere": "¿Qué sal d'equí?",
+	"istemplate": "tresclusión",
+	"isfile": "enllaz a ficheru",
+	"linksearch": "LinkSearch",
+	"section-links": "Enllaces",
+	"section-iwlinks": "Enllaces interwiki",
+	"section-extlinks": "Enllaces esternos",
+	"section-categories": "Categoríes"
+}

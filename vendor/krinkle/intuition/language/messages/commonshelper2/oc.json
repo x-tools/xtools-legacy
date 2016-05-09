@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"attention": "Atencion",
+	"jira_link": "Senhalar un bug o suggerir una foncionalitat",
+	"language": "Lenga",
+	"project": "Projècte",
+	"source_file": "Fichièr font",
+	"target_file": "Fichièr cibla",
+	"commons_username": "Nom d’utilizaire Wikimedia Commons",
+	"commons_to_project": "Wikimedia Commons al projècte",
+	"categories": "Categorias",
+	"tusc_user": "Nom d’utilizaire TUSC",
+	"tusc_pass": "Senhal TUSC",
+	"do_it": "O far",
+	"error_not_exists": "Lo fichièr font existís pas !",
+	"error_on_commons": "Fichièr font ja sus $1 !",
+	"error_file_exists": "Lo fichièr existís ja sus $3 en tant que « $1$4$2 » !",
+	"original_wikitext": "Wikitèxte original",
+	"new_wikitext": "Wikitèxte novèl",
+	"new_filename": "Novèl nom de fichièr :",
+	"upload_submit": "Mandar",
+	"target_wiki": "lo wiki cibla",
+	"error_tusc_failed": "La verificacion TUSC a fracassat !",
+	"help_mail": "Mandar un corrièr electronic a $1",
+	"help_commons": "$1Apondre un messatge sus Commons$2"
+}

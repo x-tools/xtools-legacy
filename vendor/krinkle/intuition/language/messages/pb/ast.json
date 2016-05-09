@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"pb-about-pb-navi": "Tocante a",
+	"pb-about-pb-tech": "Detalles téunicos",
+	"pb-about-pb-tech-text": "<p>Usamos <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> y <a href=\"https://es.wikipedia.org/wiki/MySQL\">MySQL</a> pa esta interfaz. El códigu fuente ta espublizáu baxo los términos de la llicencia <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) y se pue ver <a href=\"https://github.com/tool-labs/pb\">en GitHub</a>. Por favor, amieste informes de fallos, solicitúes de carauterístiques o otros comentarios <a href=\"https://github.com/tool-labs/pb/issues/new\">nel siguimientu de problemes GitHub</a> o informe d'ello na <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">páxina d'alderique de Wikipedia</a>.</p>\n    <p>Los volcaos actuales de la base de datos de PB puen alcontrase <a href=\"/pb/sql-dumps\">equí</a>.</p>\n    <p>Usamos dellos iconos creaos pol proyeutu <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Esti proyeutu representa les conocencies personales ente Wikimedistes.</p>\n    <p>El primer desendolcu ficiéronlu Ulli Purwin (interfaz) y Euku (bot). A primeros de 2011, Wiegels y Ireas siguieron a Ulli faciendo la interfaz. Nesti momentu, el proyeutu yá nun ta agospiáu nun sirvidor priváu, sinón en Wikimedia Labs.</p>\n    <p>Pue alcontrase más información d'esti proyeutu na Wikipedia alemana, na páxina <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Tocante al proyeutu",
+	"pb-change-language": "Camudar llingua",
+	"pb-comment": "Comentariu",
+	"pb-confirmations-given": "Confirmaciones dadas",
+	"pb-confirmations-taken": "Confirmaciones recibíes",
+	"pb-current-confirmations": "Hai $1 confirmaciones en total, esto son unes <abbr title=\"$2\">$3</abbr> confirmaciones por día.",
+	"pb-current-figures": "Cifres actuales",
+	"pb-current-users": "De momentu, $1 usuarios participen nel proyeutu <em>Conocencies personales</em>.",
+	"pb-date": "Data",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften na Wikipedia alemana\">[[Wikipedia:Persönliche Bekanntschaften]]</a> en Tool Labs. <a href=\"$1\" title=\"Tocante a Wikipedia:Persönliche Bekanntschaften\">Más información.</a>",
+	"pb-home": "Entamu",
+	"pb-home-welcome": "¡Bienveníu al proyeutu <em>Conocencies personales</em> (<em>Persönliche-Bekanntschaften</em> n'alemán)! Pue alcontrar más información d'esti proyeutu <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften na Wikipedia n'alemán\">na Wikipedia n'alemán</a>.",
+	"pb-javascript-notice": "Recomendamos qu'active JavaScript nesti sitiu web pa enantar la interfaz d'usuariu.",
+	"pb-labs-name": "Tool Labs de Wikimedia",
+	"pb-participates-since": "Participa dende",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "Col encontu de Tool Labs de Wikimedia",
+	"pb-recent-confirmations": "Confirmaciones recientes",
+	"pb-reconfirmed": "¿Reconfirmáu?",
+	"pb-user": "Usuariu",
+	"pb-user-link-title": "Detalles del usuariu $1",
+	"pb-user-heading": "Información de <a href=\"$2\" title=\"Páxina d'usuariu de $1\">$1</a>",
+	"pb-user-title": "Información de $1",
+	"pb-users-navi": "Usuarios",
+	"pb-users-title": "Llista de participantes",
+	"pb-users-overview": "Estos $1 usuarios participen nel proyeutu <em>Conocencies personales</em>.",
+	"pb-verified-since": "Comprobáu dende"
+}

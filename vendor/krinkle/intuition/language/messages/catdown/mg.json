@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"title": "Hampidina ny sary araka ny sokajy",
+	"subtitle": "Ny fomba mora hampidinana ny sary anaty sokajy",
+	"project": "Tetikasa:",
+	"category": "Sokajy:",
+	"thumbnailing": "Famintinan-tsary",
+	"max-width": "Halalaka lehibe indrindra:",
+	"max-height": "Haavo lehibe indrindra:",
+	"invalid-width": "Halalaka tsy azo raisina",
+	"invalid-height": "Haavo tsy azo raisina",
+	"no-such-project": "Tsy misy tetikasa toa izany",
+	"no-images": "Tsy misy sary ato amin'io sokajy io",
+	"category-is-url": "Manana endrika mitovy amina URL ny sokajy, tsy maintsy manome ny anaran'ilay sokajy ianao fa tsy ny URL.",
+	"zip-failed": "Tsy nahomby tamin'ny famoronana ZIP",
+	"image-area-too-big": "Lehibe loatra i $1 raha anaovana sarifintina. Ampaisao ny tena habeny."
+}

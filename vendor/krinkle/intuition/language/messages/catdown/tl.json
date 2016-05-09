@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw",
+			"Nemo bis"
+		]
+	},
+	"title": "Pagkakargang paibaba ng mga larawan ayon sa kategorya",
+	"subtitle": "Ang maginhawang paraan upang makapagkargang paibaba ng mga larawan ng isang kategorya",
+	"project": "Proyekto:",
+	"category": "Kategorya:",
+	"thumbnailing": "Pagkakagyat",
+	"max-width": "Pinakamataas na lapad:",
+	"max-height": "Pinakamataas na taas:",
+	"invalid-width": "Hindi katanggap-tanggap na lapad",
+	"invalid-height": "Hindi katanggap-tanggap na taas",
+	"no-such-project": "Walang ganyang proyekto",
+	"no-images": "Walang mga larawan sa loob ng kategoryang iyan",
+	"category-is-url": "Ang ibinigay na pangalan ng kategorya ay tila isang URL. Kailangan mong tukuyin ang pangalan ng kategorya, hindi ang URL nito.",
+	"category-contains-namespace": "Tila isinama mo ang puwang ng pangalan sa piling ng pangalan ng kategorya. Sa pamamagitan ng ibinigay na pangalan, ang pahina ay makukuha bilang [[Category:$1]].",
+	"zip-failed": "Nabigo ang paglikha ng zip",
+	"image-area-too-big": "Napakalaki ng $1 upang makalikha ng isang kagyat. Ginagamit ang buong sukat.",
+	"download-info": "{{plural: $1|Mayroong isang larawan|Mayroong $1 mga larawan}}, na tinatayang may sukat na $2",
+	"download": "Ikargang pababa",
+	"readme-contents": "Ang naglalakip na talaksang $4 ay nagtatala ng mga larawan sa kategoryang $1 ( $2 )$3.\n\n== Mga tagubilin para sa pagkakargang paibaba ng lahat ng nakalistang mga larawan ==\nAng panahon ng pagkakargang paibaba ay maaaring magkakaiba mula ilang mga minuto hanggang sa ilang mga oras.\n\nWindows:\n Hugutin ang lahat ng mga talaksan sa loob ng iisang tiklupan at patakbuhin ang $5\n $6\nLinux/Mac OS\n Hugutin ang lahat ng mga talaksan at magbukas ng isang terminal sa loob ng tiklupang iyon. Patakbuhin ang sh $5",
+	"non-bundled-wget": "Paunawa: Hindi kabilang sa bersiyong ito ang wget na para sa Windows. Kakailanganin mong alisin ang pagkakasiksik sa isang tiklupan sa pamamagitan ng wget.exe o kaya ay magkaroon ng wget sa loob ng PATH",
+	"wget-info": "Ibinubungkos ng talaksang ito ang isang kopya ng wget $1 (para sa plataporma ng Windows). Ang wget ay isang Malayang Sopwer,\nna nasa ilalim ng mga kundisyon ng ika-3 bersiyon ng GNU GENERAL PUBLIC LICENSE.\nMayroong isang sipi ng lisensiya sa ibaba, at makukuha rin ito magmula doon sa http://www.gnu.org/licenses/gpl-3.0.txt\n\nKung nanaisin mong kunin ang kodigo ng pinagkunan para sa programang ito, maikakarga mong paibaba iyon magmula sa\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\no ilang iba pang mga Salamin ng GNU, tingnan ang\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", binawasan upang magkaroon ng pinakamataas na lapad na $1 {{plural:$1|piksel|mga piksel}}",
+	"scaling-height": ", binawasan upang magkaroon ng pinakamataas na taas na $1 {{plural:$1|piksel|mga piksel}}",
+	"scaling-both": ", binawasan upang magkaroon ng pinakamataas na sukat na $1x$2 mga piksel",
+	"script-filename": "download.bat"
+}

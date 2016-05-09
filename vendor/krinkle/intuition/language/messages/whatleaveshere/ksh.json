@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"title": "Wat vun heh fott jeiht",
+	"title-leaveshere": "Lenks, di vun „$1“ fott jonn",
+	"sub-leaveshere": "Op heh di Sigge jonn Lenks vun „$1“",
+	"label-page": "Sigg",
+	"label-namespace": "Appachtemang",
+	"label-limit": "Beschränkong",
+	"button-submit": "Lohß Jonn!",
+	"noleaveshere": "Kein Lengks vun dä Sigg „$1“",
+	"link-whatleaveshere": "Wat vun heh fott jeiht",
+	"tooltip-whatleaveshere": "En Leß met allem, woh vun heh lengks drop jonn",
+	"whatlinkshere": "Wat noh heh lėngk",
+	"whatlinkshere-whatleaveshere": "Wat jeiht vun heh fott?",
+	"istemplate": "weed enjeföhch",
+	"isfile": "Lengk obb en Dattei",
+	"linksearch": "LenksSöhke",
+	"section-links": "Lengks",
+	"section-iwlinks": "Schprohchelengks",
+	"section-extlinks": "Lengks noh ußerhallf vum Wiki",
+	"section-categories": "Saachjroppe"
+}

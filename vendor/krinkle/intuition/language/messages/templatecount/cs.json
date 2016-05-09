@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gaj777",
+			"Jezevec",
+			"Mormegil",
+			"Vks"
+		]
+	},
+	"title": "Počet vložení šablony",
+	"enter-details": "Zadejte podrobnosti",
+	"introduction": "Zadejte název šablony (zatím pouze z Wikipedie) a klikněte na tlačítko. Tak jednoduché to je. Některé informace mohou pocházet z mezipaměti, to ale bohužel tento nástroj a jeho autor nemůžou ovlivnit.",
+	"language-label": "Jazyk",
+	"namespace-label": "Jmenný prostor",
+	"pagename-label": "Jméno stránky (bez jmenného prostoru)",
+	"transclusion-count-label": "Počet transkluzí",
+	"transclusion-count": "Nalezeno $1 transkluzí",
+	"error-suggestion": "Možná jste zadali chybný název stránky? Ověřte také velikost písmen.",
+	"time-label": "Doba provádění příkazu"
+}

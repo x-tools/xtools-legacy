@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64"
+		]
+	},
+	"description": "Metainformationen über Wikimedia-Wikis.",
+	"formats-heading": "Ausgabeformate",
+	"input": "Angaben",
+	"label-wikiids": "Wiki-Kennungen",
+	"no-matches": "Kein Ergebnis für „$1“",
+	"output": "Ausgabe für „$1“"
+}

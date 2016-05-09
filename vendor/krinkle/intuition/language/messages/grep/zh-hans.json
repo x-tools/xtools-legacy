@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"title": "条目标题grep（测试）",
+	"introduction": "此工具显示所有匹配正则表达式模式（$1）的条目标题。通过正则表达式搜索会占用大量资源。如果可能，记住使用前缀（^）和（$）后缀指示。",
+	"explanation": "解释",
+	"regex": "正则表达式",
+	"enter-details": "输入详细信息",
+	"results": "结果",
+	"language-label": "语言",
+	"namespace-label": "名字空间",
+	"project-label": "项目",
+	"pattern-label": "模式",
+	"redirects-label": "包括重定向",
+	"limit-label": "限制显示为前100个结果",
+	"error-zeroresults": "此名字空间下没有匹配您的正则表达式的标题。",
+	"match-count": "{{PLURAL:$1|$1个页面}}匹配您的正则表达式。"
+}

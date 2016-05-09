@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"error-nothing": "Niks om te vertaal nie.",
+	"error-notsvg": "Dis nie 'n SVG-lêer nie.",
+	"begin-translation": "Begin vertaal",
+	"th-original": "Oorspronklike",
+	"th-translation": "Vertaling",
+	"th-language": "Taal",
+	"th-username": "Gebruikersnaam",
+	"th-password": "Wagwoord",
+	"th-method": "Metode",
+	"option-manual": "Handmatige oplaai",
+	"preview": "Voorskou",
+	"translate": "Vertaal",
+	"svginput-label": "SVG-lêer",
+	"uploading": "Besig om op te laai",
+	"editdescriptionpage": "Wysig die nuwe beskrywingsbladsy",
+	"preview-hide": "Versteek voorskou",
+	"preview-refresh": "verfris voorskou",
+	"description-license": "Kies beskrywing en lisensie",
+	"finalise": "Finaliseer besonderhede"
+}

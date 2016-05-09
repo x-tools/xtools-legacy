@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Farras"
+		]
+	},
+	"toolserver-status-ok": "Tidak ada masalah di kluster basis data $1 $2",
+	"toolserver-status-info": "Pemberitahuan untuk pengguna kluster $1: $2",
+	"toolserver-status-warn": "Peringatan untuk pengguna kluster $1: $2",
+	"toolserver-status-down": "Kluster basis data $1 dimatikan sementara. $2",
+	"toolserver-status-erro": "Kluster basis data $1 mati. $2",
+	"toolserver-status-unknown": "Status kluster $1 tidak diketahui",
+	"toolserver-status-missing": "Kluster $1 tidak eksis",
+	"toolserver-status-short-ok": "$1: Oke",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Peringatan",
+	"toolserver-status-short-down": "$1: Mati",
+	"toolserver-status-short-erro": "$1: Galat",
+	"toolserver-status-short-unknown": "$1: Tidak dikenal",
+	"toolserver-status-short-missing": "$1: Hilang"
+}

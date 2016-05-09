@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chaduvari",
+			"Ravichandra",
+			"Veeven"
+		]
+	},
+	"attention": "శ్రద్ధ",
+	"language": "భాష",
+	"project": "ప్రాజెక్టు",
+	"source_file": "మూల దస్త్రం",
+	"target_file": "లక్ష్యిత దస్త్రం",
+	"commons_username": "వికీమీడియా కామన్స్ వాడుకరి పేరు",
+	"categories": "వర్గాలు",
+	"tusc_user": "TUSC వాడుకరిపేరు",
+	"tusc_pass": "TUSC సంకేతపదం",
+	"do_it": "చేసెయ్యి",
+	"error_not_exists": "మూల దస్త్రం లేనే లేదు!",
+	"error_on_commons": "మూల దస్త్రం ఇప్పటికే $1లో ఉంది!",
+	"original_wikitext": "అసలు వికీ పాఠ్యం",
+	"new_wikitext": "కొత్త వికీ పాఠ్యం",
+	"new_filename": "కొత్త దస్త్రపు పేరు:",
+	"upload_submit": "ఎక్కించు!",
+	"target_wiki": "లక్ష్యిత వికీ"
+}

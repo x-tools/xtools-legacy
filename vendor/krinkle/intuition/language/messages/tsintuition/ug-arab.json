@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sahran"
+		]
+	},
+	"fullname": "Toolserver نىڭ ئىشلەتكۈچى ئارا يۈزىنى خەلقئارالاشتۇرۇش",
+	"current-settings": "نۆۋەتتىكى تەڭشەكلەر",
+	"current-language": "نۆۋەتتە تاللانغان تىل",
+	"settings-legend": "تەڭشەكلەر",
+	"choose-language": "بىر تىل تاللاڭ",
+	"clear-cookies": "Cookie تازىلا",
+	"renew-cookies": "cookie قايتا يېڭىلا",
+	"cookie-expiration": "Cookie مۆھلىتى",
+	"clearcookies-success": "cookie مۇۋەپپەقىيەتلىك تازىلاندى.",
+	"renewcookies-success": "Cookie قايتا يېڭىلاندى! ھەممە تەڭشەكلىرىڭىز ساقلىنىدۇ $1.",
+	"tab-overview": "قىسقىچە بايان",
+	"tab-settings": "تەڭشەكلەر",
+	"tab-about": "ھەققىدە",
+	"tab-demo": "ئۈلگە كۆرسىتىش",
+	"bl-mysettings": "تىل تەڭشەكلىرىم",
+	"bl-mysettings-new": "تىل ئۆزگەرت!",
+	"bl-promo": "تەرجىمىلەر $1 ۋە $2 نى قوللانغان.",
+	"bl-changelanguage": "بۇ جاينى چېكىپ مەزكۇر قورالنىڭ ئارايۈز تىلىنى ئۆزگەرتىڭ.",
+	"usage": "Toolserver Intuition تەرجىمە قىلغان قورال.",
+	"help-translate-tool": "بۇ قورالنى تەرجىمە قىلىشقا ياردەملىشىڭ!",
+	"help-translate-all": "Toolserver نى تەرجىمە قىلىشقا ياردەملىشىڭ!",
+	"help-translate-tooltip": "باشقىلارنىڭ ئارايۈزنى تىلىڭىزغا تەرجىمە قىلىشىغا ياردەملىشىڭ."
+}

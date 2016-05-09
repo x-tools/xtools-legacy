@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"apply": "وه کار بردن",
+	"asc": "ای اس سی",
+	"changelog": "تازه چنه",
+	"clear": "پاك كردن",
+	"cvn-adder-empty": "ناشناس",
+	"cvn-reason": "دليل",
+	"documentation": "سندمند كردن",
+	"filter": "فيلتر",
+	"limit": "كران دار بيئن",
+	"namespace": "نوم جا",
+	"order": "دستور",
+	"select-placeholder-none": "(هيش كوم)",
+	"time-from": "د",
+	"time-untill": "تا",
+	"type": "نيسنن كامپيتری",
+	"typeEdit": "ويرايشتيا",
+	"typeNew": "بلگيا نو",
+	"userfilter": "فیلتر کارور"
+}

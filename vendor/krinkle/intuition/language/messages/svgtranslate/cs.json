@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chmee2",
+			"Jezevec",
+			"Mormegil",
+			"PSJG-Tyler",
+			"Vks"
+		]
+	},
+	"error-tryagain": "$1 Pro nový pokus stiskněte tlačítko \"zpět\" ve vašem prohlížeči.",
+	"error-nothing": "Nic k překladu.",
+	"error-notsvg": "Není SVG soubor.",
+	"error-unexpected": "Došlo k neočekávané chybě.",
+	"error-notfound": "Z poskytnuté URL nelze načíst SVG soubor.",
+	"error-upload": "Při nahrávání došlo k chybě.",
+	"begin-translation": "Nový překlad",
+	"th-original": "Originál",
+	"th-translation": "Překlad",
+	"th-language": "Jazyk",
+	"th-username": "Uživatelské jméno",
+	"th-password": "Heslo",
+	"th-method": "Metoda",
+	"option-oauth": "OAuth (automatický upload)",
+	"option-manual": "Ruční nahrávání",
+	"preview": "Náhled",
+	"translate": "Přeložit",
+	"translate-instructions": "Jména souborů (e.g. \"$1\") nebo celé URL (e.g. \"$2\") jsou akceptovány jako vstupy. V případě použití jmén souborů se předpokládá jako zdroj Wikimedia Commons. Celé URL musíte použít, když chcete vložit SVG z jiné stránky nebo wiki.",
+	"svginput-label": "SVG soubor",
+	"stats-footer": "Tento nástroj byl použit pro přeložení přibližně $1 soborů od $2.",
+	"uploading": "Uploadování",
+	"upload-complete": "Upload proběhl úspěšně. Obrázek by měl být na $1",
+	"editdescriptionpage": "Upravit novou popisnou stránku",
+	"disclaimer": "Pro statistické účely se sbírají jistá anonymní data. Při poskytnutí uživatelských jmen OAuth se tato zaznamenají pro případ nutnosti řešit vandalismus. Hesla se nezaznamenávají nikdy.",
+	"author-complete": "Prosím, vyplňte údaje o autorovi.",
+	"preview-hide": "Skrýt náhled",
+	"preview-refresh": "Aktualizovat náhled",
+	"error-must-accept": "Abyste mohli uploadovat soubory, musíte přijmout přiložená pravidla použití.",
+	"description-license": "Vyberte popis a licenci",
+	"finalise": "Dokončit detaily"
+}

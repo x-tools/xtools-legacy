@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"hello": "Halo",
+	"welcome": "Sugeng teka",
+	"toolversionstamp": "Versi $1 ($2)",
+	"etc": "lsp.",
+	"namespace": "Bilik jeneng"
+}

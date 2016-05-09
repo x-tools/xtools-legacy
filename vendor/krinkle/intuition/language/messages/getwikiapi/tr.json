@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vito Genovese"
+		]
+	},
+	"formats-heading": "Çıkış biçimleri",
+	"input": "Giriş",
+	"label-wikiids": "Viki tanıtıcıları",
+	"no-matches": "\"$1\" ile eşleşme yok",
+	"output": "\"$1\" için çıkış"
+}

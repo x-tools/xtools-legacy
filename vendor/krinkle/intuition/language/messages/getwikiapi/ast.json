@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"description": "Metainformación tocante a les wikis de Wikimedia.",
+	"formats-heading": "Formatos de salida",
+	"input": "Entrada",
+	"label-wikiids": "Identificadores na Wiki",
+	"no-matches": "Res nun casa con \"$1\"",
+	"output": "Salida pa \"$1\""
+}

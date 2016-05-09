@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"label-page": "Страница",
+	"label-namespace": "Пространство имён",
+	"label-limit": "Ограничение",
+	"button-submit": "Выполнить",
+	"whatlinkshere": "Ссылки сюда",
+	"istemplate": "включение",
+	"isfile": "файловая ссылка",
+	"linksearch": "LinkSearch",
+	"section-links": "Ссылки",
+	"section-iwlinks": "Интервики-ссылки",
+	"section-extlinks": "Внешние ссылки",
+	"section-categories": "Категории"
+}

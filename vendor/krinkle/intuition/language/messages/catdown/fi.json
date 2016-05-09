@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Olli",
+			"Samoasambia",
+			"Silvonen"
+		]
+	},
+	"title": "Tallenna valokuvia luokan mukaan",
+	"subtitle": "Helppo tapa tallentaa kuvia luokkaan",
+	"project": "Projekti:",
+	"category": "Luokka:",
+	"thumbnailing": "Esikatselukuvat",
+	"max-width": "Enimmäisleveys:",
+	"max-height": "Enimmäiskorkeus:",
+	"invalid-width": "Kelpaamaton leveys",
+	"invalid-height": "Kelpaamaton korkeus",
+	"no-such-project": "Projektia ei ole olemassa",
+	"no-images": "Luokassa ei ole kuvia",
+	"category-is-url": "Annettu luokan nimi vaikuttaa osoitteelta. Sinun tulee antaa luokan nimi, ei osoitetta.",
+	"category-contains-namespace": "Näyttää siltä, että olet sisällyttänyt nimiavaruuden luokan nimen lisäksi. Annetulla nimellä, sivu olisi saatavilla [[Luokka:$1]].",
+	"zip-failed": "Zip-tiedoston luonti epäonnistui",
+	"image-area-too-big": "$1 on liian iso esikatselukuvan luomiseksi. Käytetään suurinta kokoa.",
+	"download-info": "On {{plural: $1|yksi kuva, jonka arvioitu koko|$1 kuvaa, joiden arvioitu yhteiskoko}} on $2",
+	"download": "Lataa",
+	"non-bundled-wget": "Huomautus: Tämä versio ei sisällä wgetiä Windowsille. Sinun täytyy purkaa kansioon wget.exe:llä tai ottaa wge mukaan polkuun",
+	"scaling-width": ", skaalattu enimmäisleveyteen $1 {{plural:$1|pikseli|pikseliä}}",
+	"scaling-height": ", skaalattu enimmäiskorkeuteen $1 {{plural:$1|pikseli|pikseliä}}",
+	"scaling-both": ", skaalattu enimmäiskokoon $1x$2 pikseliä"
+}

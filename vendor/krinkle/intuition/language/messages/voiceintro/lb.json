@@ -1,0 +1,13 @@
+{
+	"@metadata": [],
+	"voiceintro-toolbar-record-label": "Ophuelen",
+	"voiceintro-toolbar-stop-label": "Stopp",
+	"voiceintro-toolbar-clear-label": "Eidel maachen",
+	"voiceintro-toolbar-upload-label": "Eroplueden",
+	"voiceintro-webaudio-not-supported": "WebAudio-API gëtt fir dëse Browser net ënnerstëtzt",
+	"voiceintro-upload-publish-succeeded": "Den Enregistrement gouf eropgelueden",
+	"voiceintro-upload-publish-failed": "Den Enregistrement gouf net eropgelueden",
+	"voiceintro-information-label": "Informatioun",
+	"voiceintro-information-language-label": "Sprooch:",
+	"voiceintro-recording-notify": "Ophuelen..."
+}

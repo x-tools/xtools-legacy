@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"alws-label": "Вики",
+	"alws-selectwiki": "(избор викија)",
+	"alws-group-mustused": "Највише коришћени викији",
+	"alws-group-allaz": "Сви викији азбучним редом",
+	"form-legend-settings": "Поставке"
+}

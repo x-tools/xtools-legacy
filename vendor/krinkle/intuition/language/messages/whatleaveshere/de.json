@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"title": "Was verlässt hier",
+	"title-leaveshere": "Links, die „$1“ verlassen",
+	"sub-leaveshere": "Die folgenden Seiten verlinken von $1",
+	"label-page": "Seite",
+	"label-namespace": "Namensraum",
+	"label-limit": "Limit",
+	"button-submit": "Los",
+	"noleaveshere": "Keine Links von $1",
+	"link-whatleaveshere": "Was verlässt hier",
+	"tooltip-whatleaveshere": "Liste von allem, das von hier verlinkt",
+	"whatlinkshere": "Links auf diese Seite",
+	"whatlinkshere-whatleaveshere": "Was verlässt hier?",
+	"istemplate": "Vorlageneinbindung",
+	"isfile": "Dateilink",
+	"linksearch": "Weblinksuche",
+	"section-links": "Links",
+	"section-iwlinks": "Interwiki-Links",
+	"section-extlinks": "Weblinks",
+	"section-categories": "Kategorien"
+}

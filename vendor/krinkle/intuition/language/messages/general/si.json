@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Singhalawap",
+			"පසිඳු කාවින්ද",
+			"බිඟුවා",
+			"Susith Chandira Gts",
+			"SusithCM"
+		]
+	},
+	"hello": "ආයුබෝවන්",
+	"welcome": "ආයුබෝවන්",
+	"toolversionstamp": "අනුවාදය $1 ($2)",
+	"etc": "යනාදිය.",
+	"namespace": "නාම අවකාශය",
+	"form-submit": "යන්න",
+	"form-reset": "නැවත සකසන්න",
+	"years": "{{PLURAL: $1|අවුරුද්ද|අවුරුදු}}",
+	"weeks": "{{PLURAL: $1|සතිය|සති}}",
+	"days": "{{PLURAL: $1|දවස|දවස්}}",
+	"hours": "{{PLURAL: $1|පැය|පැය}}",
+	"minutes": "{{PLURAL:$1|විනාඩිය|විනාඩි}}",
+	"seconds": "{{PLURAL: $1|තත්පරය|තත්පර}}",
+	"last-modified-date": "අවසන්වරට සංස්කරණය කරන ලද්දේ: $1",
+	"view-source": "මූලාශ්‍රය බලන්න",
+	"parentheses": "($1)",
+	"and": "&#32;සහ"
+}

@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra",
+			"Liuxinyu970226",
+			"Shizhao",
+			"Simon Shek",
+			"Xiaomingyan",
+			"Yfdyh000"
+		]
+	},
+	"fullname": "工具国际化",
+	"current-settings": "当前设置",
+	"current-language": "选择的语言",
+	"settings-legend": "设置",
+	"choose-language": "选择语言",
+	"clear-cookies": "清除Cookie",
+	"renew-cookies": "重设cookies",
+	"cookie-expiration": "Cookie期限",
+	"clearcookies-success": "顺利清理cookies。",
+	"renewcookies-success": "Cookies已经重设！你全部的设置将保留$1。",
+	"tab-overview": "概述",
+	"tab-settings": "设置",
+	"tab-about": "关于",
+	"tab-demo": "演示",
+	"bl-mysettings": "我的语言设置",
+	"bl-mysettings-new": "更改语言！",
+	"bl-promo": "翻译采用 $1 和 $2。",
+	"bl-changelanguage": "更改该工具的界面语言。",
+	"usage": "由 Intuition 提供翻译的工具。",
+	"help-translate-tool": "帮助翻译此工具！",
+	"help-translate-all": "帮助翻译工具！",
+	"help-translate-tooltip": "帮助其他人把界面翻译成您的语言。"
+}

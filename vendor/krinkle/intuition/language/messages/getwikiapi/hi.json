@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai"
+		]
+	},
+	"description": "विकिमीडिया विकियों के बारे में जानकारी",
+	"formats-heading": "आउटपुट फ़ॉर्मैट",
+	"input": "इनपुट",
+	"label-wikiids": "विकी पहचान-चिन्ह",
+	"no-matches": "\"$1\" से कुछ भी मेल नहीं खाया",
+	"output": "\"$1\" के लिये आउटपुट"
+}

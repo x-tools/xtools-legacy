@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Ximo17"
+		]
+	},
+	"title-overview": "Istantanee",
+	"title-error": "Errore",
+	"title-updatelog": "Aggiorna etichetta",
+	"updatelog-intro": "L'aggiornamento avviene ogni ora. Di seguito è presente l'output della console della ultima corsa.",
+	"updatelog-active": "L'aggiornamento è attualmente in esecuzione. Torna più tardi per il registro completo.",
+	"download-button": "Scarica snapshot",
+	"download-directlink": "link diretto",
+	"title-downloadpage": "Scarica",
+	"title-downloadpage-repo": "Scarica $1",
+	"err-snapshotindex": "Indice delle istantanee temporaneamente non disponibile. Si prega di riprovare più tardi.",
+	"err-invalid-repo": "Deposito sconosciuto: \"$1\".",
+	"err-invalid-branch": "Sezione sconosciuta: \"$1\" nel deposito \"$2\".",
+	"err-nosnapshot": "Le istantanee vengono generate ogni poche ore. Durante la generazione dello snapshot di \"$1\", si è verificato un errore. Riprova più tardi.",
+	"err-noupdatelog": "Non è stato trovato alcun registro di aggiornamento.",
+	"repo-site-link": "Sito web",
+	"repo-browse-link": "Sfoglia nel deposito",
+	"repo-branches-label": "Sezioni:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Ottienilo!",
+	"updatelog-link": "Aggiornamento registro",
+	"tablehead-repo": "Deposito",
+	"tablehead-snapshots": "Istantanee",
+	"tablehead-branch": "Sezione",
+	"tablehead-filesize": "Dimensione del file",
+	"tablehead-hash": "Checksum"
+}

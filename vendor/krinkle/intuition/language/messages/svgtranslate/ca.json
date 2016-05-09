@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"SMP"
+		]
+	},
+	"title": "Traducció SVG",
+	"error-tryagain": "$1 Utilitzeu el botó Enrere del vostre navegador per a tornar-ho a intentar.",
+	"error-nothing": "No hi ha res a traduir.",
+	"error-notsvg": "No és un fitxer SVG.",
+	"error-unexpected": "S'ha produït un error inesperat.",
+	"error-notfound": "No s'ha pogut recuperar el fitxer SVG a partir de l'adreça URL indicada.",
+	"error-upload": "Hi ha hagut un error en la càrrega.",
+	"begin-translation": "Comença la traducció",
+	"th-original": "Original",
+	"th-translation": "Traducció",
+	"th-language": "Idioma",
+	"th-username": "Nom d'usuari",
+	"th-password": "Contrasenya",
+	"th-method": "Mètode",
+	"option-oauth": "OAuth (càrrega automàtica)",
+	"option-manual": "Càrrega manual",
+	"preview": "Vista prèvia",
+	"translate": "Traducció",
+	"translate-instructions": "L'entrada s'accepta tant si és com a nom de fitxer (per exemple «$1») com si és a través de l'adreça URL completa (per exemple «$2»). Si s'opta per la primera opció s'entendrà que és un fitxer de Wikimedia Commons. Per a traduir un fitxer SVG des d'un altre lloc web heu d'utilitzar el format de URL completa.",
+	"svginput-label": "Fitxer SVG",
+	"stats-footer": "Amb aquesta eina s'han traduït aproximadament $1 fitxers des de $2.",
+	"uploading": "Càrrega en curs",
+	"upload-complete": "La càrrega s'ha completat amb èxit. La imatge hauria d'estar a l'adreça $1",
+	"editdescriptionpage": "Modifica la nova pàgina de descripció",
+	"disclaimer": "Es recolliran de manera privada algunes dades anònimes amb una finalitat estadística. Quan s'hagin proporcionat, també es registraran els noms d'usuari d'OAuth per assistir en cas de vandalisme. Les contrasenyes no es conserven en cap cas.",
+	"author-complete": "Completeu la informació de l'autor!",
+	"preview-hide": "Amaga la vista prèvia",
+	"preview-refresh": "Actualitza la vista prèvia",
+	"error-must-accept": "Per continuar amb la càrrega directa cal que accepteu les condicions d'ús establertes.",
+	"description-license": "Seleccioneu la descripció i la llicència",
+	"finalise": "Conclusió dels detalls"
+}

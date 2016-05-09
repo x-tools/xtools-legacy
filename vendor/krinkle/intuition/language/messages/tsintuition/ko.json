@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwj2772",
+			"아라"
+		]
+	},
+	"fullname": "도구에 대한 국제화",
+	"current-settings": "현재 설정",
+	"current-language": "현재 선택한 언어",
+	"settings-legend": "설정",
+	"choose-language": "언어 선택하기",
+	"clear-cookies": "쿠키 지우기",
+	"renew-cookies": "쿠키 새로 고침",
+	"cookie-expiration": "쿠키 만료",
+	"clearcookies-success": "성공적으로 쿠키를 지웠습니다.",
+	"renewcookies-success": "쿠키를 새로 고쳤습니다! 다음 $1에 대한 모든 설정입니다.",
+	"tab-overview": "둘러보기",
+	"tab-settings": "설정",
+	"tab-about": "정보",
+	"tab-demo": "데모",
+	"bl-mysettings": "사용자 언어 설정",
+	"bl-mysettings-new": "언어가 바뀌었습니다!",
+	"bl-promo": "번역은 $1과 $2에 의해 작동합니다.",
+	"bl-changelanguage": "도구의 인터페이스 언어를 바꾸러면 여기를 클릭하세요.",
+	"usage": "Intuition에 의해 도구가 번역되었습니다.",
+	"help-translate-tool": "도구 번역을 도와주세요!",
+	"help-translate-all": "도구 번역을 도와주세요!",
+	"help-translate-tooltip": "여러분의 언어로 인터페이스 메시지를 번역하는 이들을 도와주세요."
+}

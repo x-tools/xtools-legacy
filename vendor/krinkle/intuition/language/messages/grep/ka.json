@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"enter-details": "დეტალების შეყვანა",
+	"results": "შედეგები",
+	"language-label": "ენა",
+	"namespace-label": "სახელთა სივრცე",
+	"project-label": "პროექტი",
+	"pattern-label": "თარგი",
+	"redirects-label": "გადამისამართებების ჩართვა"
+}

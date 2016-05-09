@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"form-label-language": "Sprooch:",
+	"form-label-template": "Numm vun der Schabloun:",
+	"form-label-template2": "(inklusiv Nummraum)",
+	"form-label-complete": "Komplette Rapport generéieren:",
+	"feedback-template-missing": "Schabloun $1 gëtt et net.",
+	"feedback-result": "Resultater fir $1",
+	"feedback-header-redirects": "Linken op Viruleedungen",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-links": "Linke vun der Schabloun",
+	"link-edit": "änneren",
+	"link-create": "uleeën",
+	"footer-stats": "Generéiert: $1. Dauer: $2 {{PLURAL:$2|Sekonn|Sekonnen}}.",
+	"error-language": "Onbekannte Sprooch-Code."
+}

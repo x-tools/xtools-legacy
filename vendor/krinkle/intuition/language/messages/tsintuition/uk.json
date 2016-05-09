@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Andriykopanytsia",
+			"Base",
+			"DixonD",
+			"SteveR"
+		]
+	},
+	"fullname": "Інтернаціоналізація для інструментів",
+	"current-settings": "Поточні налаштування",
+	"current-language": "Вибрана мова",
+	"settings-legend": "Налаштування",
+	"choose-language": "Оберіть мову",
+	"clear-cookies": "очистити cookies",
+	"renew-cookies": "оновити cookies",
+	"cookie-expiration": "Закінчення терміну дії cookie",
+	"clearcookies-success": "Успішно очищено cookies.",
+	"renewcookies-success": "Куки оновлено! Ви встановили термін на $1.",
+	"tab-overview": "Огляд",
+	"tab-settings": "Налаштування",
+	"tab-about": "Опис",
+	"tab-demo": "Демо",
+	"bl-mysettings": "Мої налаштування мови",
+	"bl-mysettings-new": "Змінити мову!",
+	"bl-promo": "Переклад здійснено за допомогою $1 і $2.",
+	"bl-changelanguage": "Змінює мову інтерфейсу цього інструмента.",
+	"usage": "Інструменти, перекладені за допомогою Intuition.",
+	"help-translate-tool": "Допоможіть перекласти цей інструмент!",
+	"help-translate-all": "Допоможіть перекласти інструменти!",
+	"help-translate-tooltip": "Допоможіть іншим, перекладаючи повідомлення інтерфейсу на Вашу мову."
+}

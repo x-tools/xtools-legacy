@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon",
+			"Chameleon222"
+		]
+	},
+	"title": "Sjekk av mallenking og transklusjon",
+	"description": "Verifiserer kva artiklar som transkluderer ein mal, men som ikkje er lenka frå malen; og kva artiklar som er lenka frå malen, men som ikkje transkluderer han.",
+	"form-label-language": "Språk:",
+	"form-label-template": "Malnamn:",
+	"form-label-template2": "(inkludert namnerom)",
+	"form-label-complete": "Generer komplett rapport:",
+	"feedback-template-missing": "Malen $1 eksisterer ikkje.",
+	"feedback-template-noaccess": "Det ser ut som om malen $1 eksisterer, men informasjon om han er ikkje tilgjengeleg frå databasen. Dette kan vere eit mellombels problem med databasen. Database brukt: $2.",
+	"feedback-result": "Resultat for $1",
+	"feedback-header-mismatch": "Ikkje samsvar mellom transkluderingar og lenker",
+	"feedback-header-no-link": "Transkludering, men inga lenke",
+	"feedback-header-no-transclusion": "Lenke, men ingen transklusjon",
+	"feedback-header-redirects": "Lenker til omdirigeringar",
+	"feedback-total-count": "Totalt: $1",
+	"feedback-header-complete": "Komplett oversikt over transkluderingar og lenker",
+	"feedback-header-transclusions": "Transkluderinger av malen",
+	"feedback-header-links": "Lenker frå malen",
+	"link-edit": "endre",
+	"link-create": "opprett",
+	"link-complete": "Komplett rapport...",
+	"footer-stats": "Generert: $1. Varighet: $2 {{PLURAL:$2|sekund}}.",
+	"error-language": "Ukjend språkkode."
+}

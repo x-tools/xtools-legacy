@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"category-contains-namespace": "Sie scheinen neben dem Kategorienamen auch die Namensraumbezeichnung angegeben zu haben. Mit dem angegebene Namen würde die Seite als [[Category:$1]] verfügbar sein.",
+	"wget-info": "Diese Datei enthält eine Kopie von Wget $1 (für Windows). Wget ist Freie Software gemäß der\nLizenz „GNU GENERAL PUBLIC LICENSE“ in Version 3.\nEine Kopie der Lizenz befindet sich unten, ist aber auch unter der URL http://www.gnu.org/licenses/gpl-3.0.txt verfügbar.\n\nSofern Sie daran interessiert sind den Quellcode dieses Programms zu bekommen, können Sie ihn an folgenden Stellen herunterladen:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nEs gibt auch andere GNU-Mirror. Siehe hierzu\n http://www.gnu.org/prep/ftp.html"
+}

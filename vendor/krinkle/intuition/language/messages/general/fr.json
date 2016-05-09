@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crochet.david",
+			"Gomoko",
+			"Jean-Frédéric",
+			"Od1n",
+			"Platonides"
+		]
+	},
+	"hello": "Bonjour",
+	"welcome": "Bienvenue",
+	"toolversion": "Version $1",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Espace de noms",
+	"form-submit": "Valider",
+	"form-reset": "Réinitialiser",
+	"years": "{{PLURAL: $1|année|années}}",
+	"months": "{{PLURAL: $1|mois}}",
+	"weeks": "{{PLURAL: $1|semaine|semaines}}",
+	"days": "{{PLURAL: $1|jour|jours}}",
+	"hours": "{{PLURAL: $1|heure|heures}}",
+	"minutes": "{{PLURAL: $1|minute|minutes}}",
+	"seconds": "{{PLURAL: $1|seconde|secondes}}",
+	"last-modified-date": "Dernière modification : $1",
+	"view-source": "Voir la source",
+	"and": "&#32;et"
+}

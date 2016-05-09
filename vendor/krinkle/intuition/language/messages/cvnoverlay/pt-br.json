@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fasouzafreitas",
+			"Araceletorres"
+		]
+	},
+	"adder": "Agregador",
+	"adder-empty": "Desconhecido",
+	"expiry": "Expiração",
+	"globalwatched": "Vigiada globalmente",
+	"reason": "Razão",
+	"reason-empty": "Nenhum motivo encontrado"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Schu",
+			"Shirayuki"
+		]
+	},
+	"alws-label": "ウィキ",
+	"alws-selectwiki": "(ウィキを選択)",
+	"alws-group-mustused": "最も使用されたウィキ",
+	"alws-group-allaz": "すべてのウィキ (アルファベット順)",
+	"form-legend-settings": "設定"
+}

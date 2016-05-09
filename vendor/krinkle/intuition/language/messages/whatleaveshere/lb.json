@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"title": "Wat hei fortgeet",
+	"title-leaveshere": "Linken déi vun \"$1\" fort ginn",
+	"sub-leaveshere": "Dës Säite si vu(n) $1 aus verlinkt",
+	"label-page": "Säit",
+	"label-namespace": "Nummraum",
+	"label-limit": "Limit",
+	"button-submit": "Lass",
+	"noleaveshere": "Näischt linkt vu(n) $1",
+	"link-whatleaveshere": "Wat hei fort geet",
+	"whatlinkshere": "Linken op dës Säit",
+	"whatlinkshere-whatleaveshere": "Wat geet hei fort?",
+	"istemplate": "an dëser Säit dran",
+	"isfile": "Link op de Fichier",
+	"linksearch": "LinkSearch",
+	"section-links": "Linken",
+	"section-iwlinks": "Interwiki-Linken",
+	"section-extlinks": "Extern Linken",
+	"section-categories": "Kategorien"
+}

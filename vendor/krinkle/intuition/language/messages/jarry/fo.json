@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"moretools": "fleiri tól",
+	"homepage-title": "Leiðbeining",
+	"bugs": "feilmeldingar og funksjónsfyrispurningar",
+	"comments": "viðmerkingar og fyrispurningar",
+	"error-form-empty": "Ein ella fleiri kravdir teigar eru enn tómir. Tú eigur at fylla teir út áðrenn tú heldur fram."
+}

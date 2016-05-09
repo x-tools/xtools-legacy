@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jezevec",
+			"Jkjk",
+			"Mormegil"
+		]
+	},
+	"title": "Stahování obrázků podle kategorie",
+	"subtitle": "Snadný způsob, jak stáhnout obrázky v kategorii",
+	"project": "Projekt:",
+	"category": "Kategorie:",
+	"thumbnailing": "Náhledy",
+	"max-width": "Maximální šířka:",
+	"max-height": "Maximální výška:",
+	"invalid-width": "Neplatná šířka",
+	"invalid-height": "Neplatná výška",
+	"no-such-project": "Takový projekt neexistuje",
+	"no-images": "V této kategorii nejsou žádné obrázky",
+	"category-is-url": "Zadaný název kategorie vypadá jako URL. Je třeba zadat název kategorie, nikoli její adresu.",
+	"category-contains-namespace": "Vypadá to, že jste v názvu kategorie použili i jmenný prostor. S uvedeným jménem by stránka byla dostupná jako [[Category:$1]].",
+	"zip-failed": "Nepodařilo se vytvořit ZIP",
+	"image-area-too-big": "$1 je příliš velký, než aby se dal vytvořit náhled. Bude použita plná velikost.",
+	"download-info": "{{plural:$1|Je to jeden obrázek|Jsou to $1 obrázky|Je to $1 obrázků}} o předpokládané velikosti $2",
+	"download": "Stáhnout",
+	"readme-contents": "Přibalený soubor $4 obsahuje seznam\nobrázků v kategorii $1 ( $2 )$3.\n\n== Instrukce pro stažení všech uvedených obrázků ==\nStahování může trvat od několika minut po mnoho hodin.\n\nWindows:\n Rozbalte všechny soubory do stejného adresáře a spusťte $5\n $6\nLinux/Mac OS\n Rozbalte všechny soubory a ve stejném adresáři otevřete terminál. Spusťte sh $5",
+	"non-bundled-wget": "Poznámka: Tato verze neobsahuje wget pro Windows. Je nutné dekomprimovat do složky s wget.exe nebo mít wget v PATH",
+	"wget-info": "Tento soubor obsahuje kopii wget $1 (pro Windows). Wget je svobodný software, zveřejněný za podmínek GNU GENERAL PUBLIC LICENSE verze 3.\nNíže je uvedena kopie licence, která je také dostupná na http://www.gnu.org/licenses/gpl-3.0.txt\n\nPokud by vás zajímal zdrojový kód tohoto programu, můžete si ho stáhnout na\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nnebo jiném mirroru GNU, vizte\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", zmenšených na šířku maximálně $1 {{PLURAL:$1|pixel|pixely|pixelů}}",
+	"scaling-height": ", zmenšených na výšku maximálně $1 {{PLURAL:$1|pixel|pixely|pixelů}}",
+	"scaling-both": ", zmenšených na velikost maximálně $1×$2 pixelů"
+}

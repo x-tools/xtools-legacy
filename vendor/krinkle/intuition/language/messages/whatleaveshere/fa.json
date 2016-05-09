@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reza1615"
+		]
+	},
+	"title": "پیوند به اینجا",
+	"title-leaveshere": "پیوندهای گذاشته شده از \"$1\"",
+	"sub-leaveshere": "صفحات زیر پیوند شده از $1",
+	"label-page": "صفحه",
+	"label-namespace": "فضای نام",
+	"label-limit": "محدودیت",
+	"button-submit": "برو",
+	"noleaveshere": "هیچ  پیوندی از $1 موجود نیست",
+	"link-whatleaveshere": "پیوند به اینجا",
+	"tooltip-whatleaveshere": "فهرستی از همه چیز که پیوند از اینجا دارند",
+	"whatlinkshere": "پیوندها به این صفحه",
+	"whatlinkshere-whatleaveshere": "چه پیوندی به اینجا؟",
+	"istemplate": "تراگنجانش‌ها",
+	"isfile": "پیوند به پرونده",
+	"linksearch": "جستجوی‌پیوند",
+	"section-links": "پیوندها",
+	"section-iwlinks": "پیوندهای میان‌ویکی",
+	"section-extlinks": "پیوندهای خارجی",
+	"section-categories": "رده‌ها"
+}

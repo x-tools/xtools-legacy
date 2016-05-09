@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Tjernobyl"
+		]
+	},
+	"title": "Download af billeder efter kategori",
+	"subtitle": "Den nemme måde at hente billederne i en kategori",
+	"project": "Projekt:",
+	"category": "Kategori:",
+	"thumbnailing": "Miniaturer",
+	"max-width": "Maksimal bredde:",
+	"max-height": "Maksimal højde:",
+	"invalid-width": "Ugyldig bredde",
+	"invalid-height": "Ugyldig højde",
+	"no-such-project": "Projektet eksisterer ikke",
+	"no-images": "Der er ingen billeder i den kategori",
+	"category-is-url": "Det angivne kategorinavn ligner en URL-adresse. Du skal angive navnet på en kategori, ikke dens URL.",
+	"category-contains-namespace": "Du synes at have medtaget navnerummet i kategoriens navn. Med det angivne navn, vil siden være tilgængelig som [[Category:$1]].",
+	"zip-failed": "Oprettelsen af ZIP mislykkedes",
+	"image-area-too-big": "$1 er for stor til at oprette en miniature. Anvender fuld størrelse.",
+	"download-info": "{{plural: $1|Der er et billede|Der er $1 billeder}} med en anslået størrelse på $2",
+	"download": "Hent",
+	"non-bundled-wget": "Bemærk: Denne version omfatter ikke wget til Windows. Du bliver nødt til at dekomprimere til en mappe med wget.exe eller på anden måde have wget i PATH",
+	"scaling-width": ",skaleret til en maksimal bredde på $1 {{plural:$1|pixel|pixels}}",
+	"scaling-height": ",skaleret til en maksimal højde på $1 {{plural:$1|pixel|pixels}}",
+	"scaling-both": ",skaleret til en maksimal størrelse på $1x$2 pixels"
+}

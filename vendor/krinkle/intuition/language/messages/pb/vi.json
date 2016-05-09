@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"pb-about-pb-navi": "Giới thiệu",
+	"pb-about-pb-tech": "Chi tiết kỹ thuật",
+	"pb-about-pb-title": "Giới thiệu về dự án",
+	"pb-change-language": "Chọn ngôn ngữ",
+	"pb-comment": "Bình luận",
+	"pb-current-figures": "Thống kê hiện tại",
+	"pb-date": "Ngày tháng",
+	"pb-home": "Trang đầu",
+	"pb-labs-name": "Phòng thí nghiệm Công cụ Wikimedia",
+	"pb-participates-since": "Tham gia từ",
+	"pb-powered-by-labs": "Chạy trên Phòng thí nghiệm Công cụ Wikimedia",
+	"pb-user": "Người dùng",
+	"pb-user-link-title": "Chi tiết về người dùng $1",
+	"pb-user-heading": "Thông tin về <a href=\"$2\" title=\"Trang người dùng $1\">$1</a>",
+	"pb-user-title": "Thông tin về $1",
+	"pb-users-navi": "Người dùng",
+	"pb-users-title": "Danh sách người tham gia",
+	"pb-verified-since": "Xác nhận từ"
+}

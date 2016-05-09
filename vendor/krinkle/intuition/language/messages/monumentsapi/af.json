@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"search-title": "Monumente soek",
+	"search-monuments-database": "Soek deur die databasis van monumente",
+	"search-table-th-field": "Veld",
+	"search-table-th-filter": "Filtreer",
+	"search-table-th-search": "Soek",
+	"filter-all-countries": "Alle lande",
+	"filter-all-languages": "Alle tale",
+	"db-field-country": "Land",
+	"db-field-lang": "Taal",
+	"db-field-id": "ID",
+	"db-field-name": "Naam",
+	"db-field-address": "Adres",
+	"db-field-municipality": "Munisipaliteit",
+	"db-field-lat": "Breedtegraad",
+	"db-field-lon": "Lengtegraad",
+	"db-field-image": "Beeld",
+	"db-field-changed": "Gewysig",
+	"db-field-source": "Bron",
+	"db-field-monument_article": "Monumentartikel",
+	"db-field-st_address": "Adresse",
+	"db-field-st_address_pct": "Adresse %",
+	"db-field-st_coordinates": "Koördinate",
+	"db-field-st_coordinates_pct": "Koördinate %",
+	"db-field-st_image": "Beeld",
+	"db-field-st_image_pct": "Beeld %",
+	"db-field-st_municipality": "Munisipaliteit",
+	"db-field-st_municipality_pct": "Munisipaliteit %",
+	"db-field-st_name": "Name",
+	"db-field-st_name_pct": "Name %",
+	"db-field-st_total": "Totale aantal",
+	"toolbox-wikilovesmonuments": "Wiki Loves Monuments",
+	"toolbox-nav-homepage": "Tuisblad",
+	"toolbox-nav-statistics": "Statistieke",
+	"toolbox-nav-search": "Soek",
+	"toolbox-title-searchmonuments": "Soek monumente",
+	"location": "Ligging"
+}

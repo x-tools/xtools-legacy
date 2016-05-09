@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh",
+			"Rafy"
+		]
+	},
+	"hello": "ܫܠܡܐ",
+	"welcome": "ܒܫܝܢܐ",
+	"etc": "ܘܫܪ.",
+	"namespace": "ܚܩܠܐ",
+	"form-submit": "ܙܠ",
+	"years": "{{PLURAL: $1|ܫܢܬܐ|ܫܢܬ̈ܐ}}",
+	"weeks": "{{PLURAL: $1|ܫܒܘܥܐ|ܫܒܘܥ̈ܐ}}",
+	"days": "{{PLURAL:$1|ܝܘܡܐ|ܝܘܡܬ̈ܐ}}",
+	"hours": "{{PLURAL:$1|ܫܥܬܐ|ܫܥܬ̈ܐ}}"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Jnanaranjan Sahu"
+		]
+	},
+	"title-overview": "ପ୍ରତିଛବି",
+	"title-error": "ଭୁଲ",
+	"title-updatelog": "ତାଲିକା ଅପଡେଟ କରିବେ",
+	"updatelog-active": "ଅପଡେଟ ସ୍କ୍ରିପ୍ଟଟି ବର୍ତ୍ତମାନ ଚାଲୁଛି । ସମ୍ପୂର୍ଣ ତାଲିକା ପାଇଁ ଆଉ କିଛି ସମୟ ପରେ ଆସନ୍ତୁ ।",
+	"download-button": "$1 ଡାଉନଲୋଡ କରିବେ",
+	"download-directlink": "ସିଧା ଲିଙ୍କ",
+	"title-downloadpage": "ଡାଉନଲୋଡ କରିବେ :$1",
+	"err-snapshotindex": "ପ୍ରତିଛବି ସୂଚୀ ଏବେ ଉପଲବ୍ଧ ନାହିଁ । ଦୟାକରି କିଛି ସମୟ ପରେ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ ।",
+	"err-invalid-repo": "ଅଜଣା ଭଣ୍ଡାର : \"$1\" ।",
+	"err-invalid-branch": "\"$2\" ଭଣ୍ଡାର ମଧ୍ୟରେ ଅଜଣା ଶାଖା :\"$1\" ।",
+	"err-nosnapshot": "ପ୍ରତିଛବିଗୁଡିକ ପ୍ରତି ଘଣ୍ଟାରେ ବାହାରେ । \"$1\" ପାଇଁ ପ୍ରତିଛବି ବାହାର ହେଉଥିବା ସମୟରେ କିଛି ଅସୁବିଧା ହେଲା । ଦୟାକରି ଆଉ କିଛି ସମୟ ପରେ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ ।",
+	"err-noupdatelog": "କୌଣସି ଅପଡେଟ ତାଲିକା ମିଳିଲା ନାହିଁ",
+	"repo-site-link": "ୱେବସାଇଟ",
+	"repo-browse-link": "ଭଣ୍ଡାରରେ ଖୋଜିବେ",
+	"repo-branches-label": "ଶାଖାଗୁଡ଼ିକ:",
+	"repo-lastmoddate-label": "ତାରିଖ:",
+	"branches-submit-button": "ଏହାକୁ ନେବେ !",
+	"updatelog-link": "ତାଲିକା ଅପଡେଟ କରିବେ",
+	"tablehead-repo": "ଭଣ୍ଡାର",
+	"tablehead-snapshots": "ପ୍ରତିଛବି",
+	"tablehead-branch": "ଶାଖା",
+	"tablehead-filesize": "ଫାଇଲ ଆକାର",
+	"tablehead-hash": "ଚେକସମ"
+}

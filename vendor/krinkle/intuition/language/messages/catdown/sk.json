@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard",
+			"Mikulas1"
+		]
+	},
+	"project": "Projekt:",
+	"category": "Kategória:",
+	"max-width": "Maximálna šírka:",
+	"max-height": "Maximálna výška:",
+	"invalid-width": "Neplatná šírka",
+	"invalid-height": "Neplatná výška",
+	"no-such-project": "Neexistuje žiadny takýto projekt",
+	"no-images": "V tejto kategórii nie sú žiadne obrázky",
+	"download": "Stiahnuť"
+}

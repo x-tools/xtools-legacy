@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"error-nothing": "Ei nimidä kiännettäviä.",
+	"error-notsvg": "Ei SVG-failu.",
+	"error-unexpected": "Vuottamatoi haireh rodih.",
+	"begin-translation": "Zavodi kiännös",
+	"th-original": "Alguperäine",
+	"th-translation": "Kiännös",
+	"th-language": "Kieli",
+	"th-username": "Käyttäitunnus",
+	"th-password": "Peittosana",
+	"th-method": "Taba",
+	"translate": "Kiännä",
+	"svginput-label": "SVG-failu",
+	"preview-hide": "Peitä ezikačondu",
+	"preview-refresh": "Päivitä ezikačondu"
+}

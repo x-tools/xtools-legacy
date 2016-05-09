@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"VegaDark"
+		]
+	},
+	"moretools": "más herramientas",
+	"homepage-title": "Introducción",
+	"bugs": "informes de errores y solicitudes",
+	"comments": "comentarios y consultas",
+	"error-form-empty": "Uno o más campos obligatorios se han dejado en blanco. Complétalos antes de continuar."
+}

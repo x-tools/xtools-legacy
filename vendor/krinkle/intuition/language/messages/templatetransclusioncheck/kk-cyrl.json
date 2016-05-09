@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"title": "Үлгі сілтенуі және кірістірілуді тексеру",
+	"form-label-language": "Тіл:",
+	"form-label-template": "Үлгі атауы:",
+	"form-label-template2": "(кірістірілген есім кеңістігі)",
+	"feedback-template-missing": "$1 үлгісі жоқ.",
+	"feedback-result": "$1 үшін нәтиже",
+	"feedback-header-mismatch": "Кірікбеттер және сілтемелер арасындағы сәйкессіздік",
+	"feedback-header-no-link": "Кірістірілген бірақ сілтенбеген",
+	"feedback-header-no-transclusion": "Сілтенген бірақ кірістірілмеген",
+	"feedback-header-redirects": "Бағыттау беттеріне сілтеу",
+	"feedback-total-count": "Барлығы: $1",
+	"feedback-header-transclusions": "Үлгі кірістірілуі",
+	"feedback-header-links": "Үлгіден сілтенгендер",
+	"link-edit": "өңдеу",
+	"link-create": "бастау",
+	"link-complete": "Толық есеп...",
+	"error-language": "Белгісіз тіл коды."
+}

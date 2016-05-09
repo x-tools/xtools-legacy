@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"toolserver-status-ok": "Non ge stonne probbleme sus a 'u cluster de l'archivije $1 $2",
+	"toolserver-status-info": "Notizie pe l'utinde d'u cluster $1: $2",
+	"toolserver-status-warn": "Avvise pe l'utinde d'u cluster $1: $2",
+	"toolserver-status-down": "'U cluster de l'archivije $1 ha state temboraneamende stutate. $2",
+	"toolserver-status-erro": "'U cluster de l'archivije $1 ste 'nderre. $2",
+	"toolserver-status-unknown": "State scanusciute d'u cluster $1",
+	"toolserver-status-missing": "Cluster $1 non g'esiste",
+	"toolserver-status-short-ok": "$1: Apposte",
+	"toolserver-status-short-info": "$1: 'Mbormaziune",
+	"toolserver-status-short-warn": "$1: Avvise",
+	"toolserver-status-short-down": "$1: 'Nderre",
+	"toolserver-status-short-erro": "$1: Errore",
+	"toolserver-status-short-unknown": "$1: Scanusciute",
+	"toolserver-status-short-missing": "$1: Perse"
+}

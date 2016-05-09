@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"LexArt"
+		]
+	},
+	"formats-heading": "Выхадныя фарматы",
+	"input": "Увод",
+	"label-wikiids": "Вікі-ідэнтыфікатары",
+	"no-matches": "Нічога не адпавядае \"$1\"",
+	"output": "Вывад для \"$1\""
+}

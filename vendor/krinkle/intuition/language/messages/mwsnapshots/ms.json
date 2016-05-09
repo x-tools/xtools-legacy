@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"title-overview": "Snapshot",
+	"title-error": "Ralat",
+	"title-updatelog": "Log kemas kini",
+	"updatelog-intro": "Skrip kemas kini ini dijadualkan untuk berjalan setiap jam sekali. Yang berikut ialah keluaran konsol pada jalanan yang terbaru.",
+	"updatelog-active": "Skrip kemas kini sedang berjalan. Sila datang balik nanti untuk log yang lengkap.",
+	"download-button": "Muat turun snapshot",
+	"download-directlink": "pautan terus",
+	"title-downloadpage": "Muat turun",
+	"title-downloadpage-repo": "Muat turun $1",
+	"err-snapshotindex": "Indeks snapshot tidak tersedia buat sementara waktu. Sila cuba lagi nanti.",
+	"err-invalid-repo": "Repositori tidak dikenali: \"$1\".",
+	"err-invalid-branch": "Cabang tidak dikenali: \"$1\" dalam repositori \"$2\".",
+	"err-nosnapshot": "Snapshot-snapshot ini dijana sekali setiap beberapa jam. Ketika menjana snapshot \"$1\", berlakunya ralat. Sila cuba lagi nanti.",
+	"err-noupdatelog": "Tiada log kemas kini yang dijumpai.",
+	"repo-site-link": "Tapak web",
+	"repo-browse-link": "Semak seimbas repositori",
+	"repo-branches-label": "Cabang:",
+	"repo-lastmoddate-label": "Tarikh:",
+	"branches-submit-button": "Dapatkannya!",
+	"updatelog-link": "log kemas kini",
+	"tablehead-repo": "Repositori",
+	"tablehead-snapshots": "Snapshot",
+	"tablehead-branch": "Cabang",
+	"tablehead-filesize": "Saiz fail",
+	"tablehead-hash": "Hash"
+}

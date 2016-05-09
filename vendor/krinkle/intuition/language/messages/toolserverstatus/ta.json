@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswn",
+			"ElangoRamanujam"
+		]
+	},
+	"toolserver-status-short-ok": "$1: சரி",
+	"toolserver-status-short-info": "$1: தகவல்",
+	"toolserver-status-short-warn": "$1: எச்சரி",
+	"toolserver-status-short-down": "$1: கீழே",
+	"toolserver-status-short-erro": "$1: பிழை",
+	"toolserver-status-short-unknown": "$1: அறியாதது",
+	"toolserver-status-short-missing": "$1: விடுபட்டது"
+}

@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"fullname": "Internationalisation pro instrumentos",
+	"current-settings": "Configuration actual",
+	"current-language": "Lingua actualmente seligite",
+	"settings-legend": "Configuration",
+	"choose-language": "Selige un lingua",
+	"clear-cookies": "rader cookies",
+	"renew-cookies": "renovar cookies",
+	"cookie-expiration": "Expiration del cookie",
+	"clearcookies-success": "Cookies radite con successo.",
+	"renewcookies-success": "Cookies renovate! Essera valide pro le proxime $1.",
+	"tab-overview": "Vista general",
+	"tab-settings": "Configuration",
+	"tab-about": "A proposito",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mi configuration de lingua",
+	"bl-mysettings-new": "Cambiar de lingua!",
+	"bl-promo": "Le traduction es actionate per $1 e $2.",
+	"bl-changelanguage": "Clicca hic pro cambiar le lingua del interfacie de iste instrumento.",
+	"usage": "Instrumentos traducite per Intuition.",
+	"help-translate-tool": "Adjuta a traducer iste instrumento!",
+	"help-translate-all": "Adjuta a traducer instrumentos!",
+	"help-translate-tooltip": "Adjuta alteres per traducer le messages de interfacie in tu lingua."
+}

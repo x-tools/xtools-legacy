@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"fullname": "Quốc tế hóa các công cụ",
+	"current-settings": "Các tùy chọn hiện hành",
+	"current-language": "Ngôn ngữ được chọn",
+	"settings-legend": "Tùy chọn",
+	"choose-language": "Chọn ngôn ngữ",
+	"clear-cookies": "xóa cookie",
+	"renew-cookies": "phục hồi cookie",
+	"cookie-expiration": "Thời hạn cookie",
+	"clearcookies-success": "Đã xóa cookie thành công",
+	"renewcookies-success": "Đã phục hồi cookie cho $1 sau.",
+	"tab-overview": "Tổng quan",
+	"tab-settings": "Tùy chọn",
+	"tab-about": "Giới thiệu",
+	"tab-demo": "Ví dụ",
+	"bl-mysettings": "Tùy chọn ngôn ngữ",
+	"bl-mysettings-new": "Thay đổi ngôn ngữ!",
+	"bl-promo": "Bản dịch do $1 và $2.",
+	"bl-changelanguage": "Thay đổi ngôn ngữ giao diện của công cụ này.",
+	"usage": "Các công cụ do Intuition biên dịch",
+	"help-translate-tool": "Giúp dịch công cụ này!",
+	"help-translate-all": "Hãy cùng biên dịch các công cụ!",
+	"help-translate-tooltip": "Giúp người ta sử dụng công cụ bằng cách dịch thông điệp giao diện qua ngôn ngữ của bạn."
+}

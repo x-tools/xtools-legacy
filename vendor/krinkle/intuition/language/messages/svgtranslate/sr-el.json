@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"title": "SVG prevodilac",
+	"error-tryagain": "$1 Kliknite na dugme „Nazad“ svog pregledača",
+	"error-nothing": "Nema ništa za prevođenje.",
+	"error-notsvg": "Nije SVG datoteka.",
+	"error-unexpected": "Došlo je do neočekivane greške.",
+	"error-notfound": "SVG datoteka nije dobavljena iz navedene adrese.",
+	"error-upload": "Došlo je do greške pri otpremanju.",
+	"begin-translation": "Prevođenje",
+	"th-original": "Izvorno",
+	"th-translation": "Prevod",
+	"th-language": "Jezik",
+	"th-username": "Korisničko ime",
+	"th-password": "Lozinka",
+	"th-method": "Način",
+	"option-oauth": "TUSC (samootpremanje)",
+	"option-manual": "Ručno otpremanje",
+	"preview": "Pregledaj",
+	"translate": "Prevedi",
+	"translate-instructions": "Unosi se prihvataju kao nazivi datoteka („$1“) ili kao cela adresa („$2“). Ako izaberete prvu mogućnost, Vikimedijina ostava će biti izabrana kao izvor. Da biste preveli SVG datoteku s drugog mrežnog mesta ili vikija, koristite celu adresu.",
+	"svginput-label": "SVG datoteka",
+	"stats-footer": "Ova alatka se koristi za prevođenje približno $1 datoteka od $2.",
+	"uploading": "Otpremanje",
+	"upload-complete": "Otpremanje je završeno. Slika bi trebalo da je u $1",
+	"editdescriptionpage": "Uredi novu stranicu za opis",
+	"disclaimer": "Neki anonimni podaci će biti skupljani u statističke svrhe. Ako je navedeno, OAuth korisnička imena će takođe biti zabeležena radi sprečavanja vandalizma. Lozinke se neće beležiti.",
+	"author-complete": "Popunite sve podatke o autoru.",
+	"preview-hide": "Sakrij pregled",
+	"preview-refresh": "Osveži pregled",
+	"error-must-accept": "Da biste nastavili s izravnim otpremanjem, morate prihvatiti uslove korišćenja.",
+	"description-license": "Izaberite opis i licencu",
+	"finalise": "Dovrši detalje"
+}

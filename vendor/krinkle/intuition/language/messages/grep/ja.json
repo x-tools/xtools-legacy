@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"explanation": "説明",
+	"regex": "正規表現",
+	"enter-details": "詳細の入力",
+	"results": "結果",
+	"language-label": "言語",
+	"namespace-label": "名前空間",
+	"project-label": "プロジェクト",
+	"pattern-label": "パターン",
+	"redirects-label": "転送ページを含める",
+	"limit-label": "結果の表示を最初の 100 件に制限する",
+	"error-zeroresults": "指定した名前空間には、指定した正規表現に一致するページ名はありません。",
+	"match-count": "指定した正規表現に {{PLURAL:$1|$1 件のページ}}が一致しました。"
+}

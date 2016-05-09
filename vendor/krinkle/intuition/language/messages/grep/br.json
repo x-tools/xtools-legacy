@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fohanno",
+			"Y-M D",
+			"Gwenn-Ael"
+		]
+	},
+	"title": "Silañ an titloù pennadoù (bêta)",
+	"explanation": "displegadenn",
+	"regex": "Jedad reoliek",
+	"enter-details": "Ebarzhiñ munudoù",
+	"results": "Disoc'hoù",
+	"language-label": "Yezh",
+	"namespace-label": "Esaouenn anv",
+	"project-label": "Raktres",
+	"pattern-label": "Patrom",
+	"limit-label": "Diskwel ar 100 disoc'h kentañ hepken",
+	"error-zeroresults": "N'eus pajenn ebet en egorenn anvioù-se a glot an titloù anezho gant ho jedad reoliek.",
+	"match-count": "{{PLURAL:$1|$1 pajenn|$1 pajenn}} a glot gant ho jedad reoliek."
+}

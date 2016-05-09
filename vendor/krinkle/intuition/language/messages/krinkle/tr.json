@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Khutuck"
+		]
+	},
+	"alws-selectwiki": "(viki seçiniz)",
+	"alws-group-mustused": "En çok kullanılan vikiler",
+	"alws-group-allaz": "Tüm Vikiler alfabetik olarak",
+	"form-legend-settings": "Ayarlar"
+}

@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Evropi",
+			"Glavkos",
+			"Geraki"
+		]
+	},
+	"hello": "Γεια σας",
+	"welcome": "Καλώς ορίσατε",
+	"toolversion": "Έκδοση $1",
+	"toolversionstamp": "Έκδοση $1 ($2)",
+	"etc": "κλπ.",
+	"namespace": "Ονοματοχώρος",
+	"form-submit": "Μετάβαση",
+	"form-reset": "Επαναφορά",
+	"years": "{{PLURAL: $1|έτος|έτη}}",
+	"months": "{{PLURAL:$1|μήνας|μήνες}}",
+	"weeks": "$1 {{PLURAL:$1|εβδομάδα|εβδομάδες}}",
+	"days": "($1 {{PLURAL: $1|ημέρα|ημέρες}})",
+	"hours": "{{PLURAL: $1|ώρα|ώρες}}",
+	"minutes": "{{PLURAL: $1|λεπτό|λεπτά}}",
+	"seconds": "{{PLURAL: $1|δευτερόλεπτο|δευτερόλεπτα}}",
+	"last-modified-date": "Τελευταία επεξεργασία: $1",
+	"view-source": "Εμφάνιση κώδικα",
+	"and": "&#32;και"
+}

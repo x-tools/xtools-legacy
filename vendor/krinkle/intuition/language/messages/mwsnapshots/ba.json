@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Sagan"
+		]
+	},
+	"title-overview": "Фотоһүрәт",
+	"title-error": "Хата",
+	"title-updatelog": "яңыртыу яҙмаһы",
+	"updatelog-intro": "Сәғәт һайын яңыртыла.Түбәндә һуңғы яңыртыу отчёты бирелгән.",
+	"updatelog-active": "Әлеге ваҡытта яңыртыу башҡарыла. Бөтә журналды ҡарау өсөн һуңыраҡ керегеҙ.",
+	"download-button": "$1 файлын тейәп аларғы",
+	"download-directlink": "туры һылтанма",
+	"title-downloadpage": "Тейәп алырға: $1",
+	"err-snapshotindex": "Фотоһүрәт индексы ваҡытлыса ҡатмарлы. Зинһар өсөн, һуңырыҡ ҡабатлап ҡарағыҙ.",
+	"err-invalid-repo": "Билдәһеҙ һаҡлағыс: \"$1\"",
+	"err-invalid-branch": "\"$2\" һаҡлағысында билдәһеҙ тармаҡ \"$1\".",
+	"err-nosnapshot": "Фоторәсемдәр бер нисә сәғәт һайын даими эшләнә. \"$1\" өсөн сираттағы фоторәсемде эшләгән ваҡытта хата китте. Зинһар өсөн, һыңарыҡ кабатлап ҡарағыҙ.",
+	"err-noupdatelog": "Яңыртыу яҙмалары табылманы.",
+	"repo-site-link": "Веб-сайт",
+	"repo-browse-link": "Репозиторийҙы байҡау",
+	"repo-branches-label": "Тармаҡтар:",
+	"repo-lastmoddate-label": "Дата:",
+	"branches-submit-button": "Алырға!",
+	"updatelog-link": "яңыртыу яҙмаһы",
+	"tablehead-repo": "Репозиторий",
+	"tablehead-snapshots": "Фотоһүрәт",
+	"tablehead-branch": "Тармаҡ",
+	"tablehead-filesize": "Файл күләме",
+	"tablehead-hash": "Тикшереү суммаһы"
+}

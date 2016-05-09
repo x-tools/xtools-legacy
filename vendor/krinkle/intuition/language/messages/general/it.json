@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Nemo bis",
+			"Platonides",
+			"Rippitippi"
+		]
+	},
+	"hello": "Ciao",
+	"welcome": "Benvenuto/a",
+	"toolversion": "Versione $1",
+	"toolversionstamp": "Versione $1 ($2)",
+	"etc": "ecc.",
+	"namespace": "Namespace",
+	"form-submit": "Vai",
+	"form-reset": "Reimposta",
+	"years": "{{PLURAL: $1|anno|anni}}",
+	"months": "{{PLURAL: $1|mese|mesi}}",
+	"weeks": "{{PLURAL: $1|settimana|settimane}}",
+	"days": "{{PLURAL:$1|giorno|giorni}}",
+	"hours": "{{PLURAL:$1|ora|ore}}",
+	"minutes": "{{PLURAL:$1|minuto|minuti}}",
+	"seconds": "{{PLURAL:$1|secondo|secondi}}",
+	"last-modified-date": "Ultima modifica: $1",
+	"view-source": "Visualizza sorgente",
+	"and": "&#32;e"
+}

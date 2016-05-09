@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"voiceintro-toolbar-record-label": "录制",
+	"voiceintro-toolbar-stop-label": "停止",
+	"voiceintro-toolbar-clear-label": "清除",
+	"voiceintro-toolbar-upload-label": "上传",
+	"voiceintro-webaudio-not-supported": "WebAudio API与此浏览器不兼容",
+	"voiceintro-upload-publish-succeeded": "录音上传成功：",
+	"voiceintro-upload-publish-failed": "录音未能上传。",
+	"voiceintro-information-label": "信息",
+	"voiceintro-information-speaker-label": "发言者姓名：",
+	"voiceintro-information-language-label": "语言：",
+	"voiceintro-mic-access-notify": "点击“同意”以允许浏览器使用您的麦克风。",
+	"voiceintro-recording-notify": "录音......"
+}

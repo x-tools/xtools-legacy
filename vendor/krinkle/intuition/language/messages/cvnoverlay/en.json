@@ -1,0 +1,9 @@
+{
+	"@metadata": [],
+	"adder": "Adder",
+	"adder-empty": "Unknown",
+	"expiry": "Expiry",
+	"globalwatched": "Globally watched",
+	"reason": "Reason",
+	"reason-empty": "No reason found"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"label-page": "გვერდი",
+	"label-namespace": "სახელთა სივრცე",
+	"label-limit": "შეზღუდვა",
+	"button-submit": "მიდი",
+	"isfile": "ფაილის ბმული",
+	"linksearch": "ბმულის ძიება",
+	"section-links": "ბმულები",
+	"section-iwlinks": "ენათშორისი ბმულები",
+	"section-extlinks": "გარე ბმულები",
+	"section-categories": "კატეგორიები"
+}

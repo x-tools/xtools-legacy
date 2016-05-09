@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="intuition">
+	<rule ref="../../vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
+		<exclude name="MediaWiki.NamingConventions.ValidGlobalName.wgPrefix" />
+	</rule>
+</ruleset>

@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa",
+			"Subi",
+			"Sator"
+		]
+	},
+	"hello": "Kaixo",
+	"welcome": "Ongi etorri",
+	"toolversion": "$1 bertsioa",
+	"toolversionstamp": "Bertsioa $1 ($2)",
+	"etc": "etab.",
+	"namespace": "Izen-tartea",
+	"form-submit": "Joan",
+	"form-reset": "Hasieratu",
+	"years": "{{PLURAL: $1|urte|urte}}",
+	"months": "{{PLURAL: $1|month|months}}",
+	"weeks": "{{PLURAL: $1|aste|aste}}",
+	"days": "{{PLURAL: $1|egun|egun}}",
+	"hours": "{{PLURAL: $1|ordu|ordu}}",
+	"minutes": "{{PLURAL: $1|minutu|minutu}}",
+	"seconds": "{{PLURAL: $1|segundu|segundu}}",
+	"last-modified-date": "Azken aldaketa: $1",
+	"view-source": "Iturria ikusi",
+	"and": "&#32;eta"
+}

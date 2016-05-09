@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Pbsoft"
+		]
+	},
+	"adder": "添加者",
+	"adder-empty": "未知",
+	"expiry": "时满",
+	"globalwatched": "全域监视",
+	"reason": "原因",
+	"reason-empty": "没有找到任何理由"
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Platonides",
+			"YaronSh",
+			"Yona b"
+		]
+	},
+	"hello": "שלום",
+	"welcome": "ברוך בואך",
+	"toolversion": "גרסה $1",
+	"toolversionstamp": "גרסה $1 ($2)‏",
+	"etc": "וכו׳",
+	"namespace": "מרחב שם",
+	"form-submit": "מעבר",
+	"form-reset": "איפוס",
+	"years": "{{PLURAL: $1|שנה|שנים}}",
+	"months": "{{PLURAL: $1|חודש|חודשים}}",
+	"weeks": "{{PLURAL: $1|שבוע|שבועות}}",
+	"days": "{{PLURAL: $1|יום|ימים}}",
+	"hours": "שע׳",
+	"minutes": "דק׳",
+	"seconds": "שנ׳",
+	"last-modified-date": "שונה לאחרונה: $1",
+	"view-source": "הצגת מקור",
+	"and": "&#32;וגם"
+}

@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikulas1"
+		]
+	},
+	"search-title": "Vyhľadávanie pamiatky",
+	"search-table-th-field": "Pole",
+	"search-table-th-filter": "Filter",
+	"search-table-th-search": "Vyhľadávanie",
+	"filter-all-countries": "Všetky krajiny",
+	"filter-all-languages": "Všetky jazyky",
+	"db-field-country": "Krajina",
+	"db-field-lang": "Jazyk",
+	"db-field-id": "Identifikátor",
+	"db-field-name": "Názov",
+	"db-field-address": "Adresa",
+	"db-field-municipality": "Obec",
+	"db-field-lat": "Zemepisná šírka",
+	"db-field-lon": "Zemepisná dĺžka",
+	"db-field-image": "Obrázok",
+	"db-field-changed": "Zmenené",
+	"db-field-source": "Zdroj",
+	"db-field-monument_article": "Stránka pamiatky",
+	"db-field-st_address": "Adresy",
+	"db-field-st_address_pct": "Adresy %",
+	"db-field-st_coordinates": "Súradnice",
+	"db-field-st_coordinates_pct": "Súradnice %",
+	"db-field-st_image": "Obrázok",
+	"db-field-st_image_pct": "Obrázok %",
+	"db-field-st_municipality": "Obec",
+	"db-field-st_municipality_pct": "Obec %",
+	"db-field-st_name": "Názov",
+	"db-field-st_name_pct": "Názvy %",
+	"db-field-st_total": "Celkový počet",
+	"toolbox-wikilovesmonuments": "Wiki miluje pamiatky",
+	"toolbox-nav-homepage": "Domovská stránka",
+	"toolbox-nav-statistics": "Štatistika",
+	"toolbox-nav-search": "Hľadať",
+	"toolbox-title-searchmonuments": "Vyhľadávanie pamiatky",
+	"location": "Poloha"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salam",
+			"Chuvash2014"
+		]
+	},
+	"begin-translation": "Куҫарма пуҫла",
+	"th-original": "Кӑк тексчӗ",
+	"th-translation": "Куҫару",
+	"th-language": "Чӗлхе",
+	"th-username": "Усă куракан ят",
+	"th-password": "Вӑрттӑн сӑмах",
+	"th-method": "Меслет",
+	"option-oauth": "TUSC (автоматла тиесе яни)",
+	"option-manual": "Алӑпа тиесе яни",
+	"preview": "Ум курӑм",
+	"translate": "Куҫарма",
+	"svginput-label": "SVG файлӗ",
+	"uploading": "Тиесе ярать",
+	"preview-hide": "Ум курӑма пытар",
+	"preview-refresh": "Ум курӑма тӗпре тие"
+}

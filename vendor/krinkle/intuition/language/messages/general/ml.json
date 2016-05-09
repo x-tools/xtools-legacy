@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anoopan",
+			"Platonides",
+			"Suresh.balasubra"
+		]
+	},
+	"hello": "ഹലോ",
+	"welcome": "സ്വാഗതം",
+	"toolversion": "പതിപ്പ് $1",
+	"toolversionstamp": "പതിപ്പ് $1 ($2)",
+	"etc": "മുതലായവ..",
+	"namespace": "നാമമേഖല",
+	"form-submit": "പോകൂ",
+	"form-reset": "പുനഃക്രമീകരിക്കുക",
+	"years": "{{PLURAL:$1|ഒരു വർഷം|$1 വർഷം}}",
+	"weeks": "{{PLURAL:$1|ഒരു ആഴ്ച്ച|$1 ആഴ്ച്ച}}",
+	"days": "{{PLURAL:$1| ദിവസം| ദിവസങ്ങൾ}}",
+	"hours": "({{PLURAL:$1| മണിക്കൂർ| മണിക്കൂറുകൾ}})",
+	"minutes": "{{PLURAL:$1|മിനിറ്റ്|മിനിറ്റുകൾ}}",
+	"seconds": "{{PLURAL:$1|സെക്കന്റ്| സെക്കന്റുകൾ}}",
+	"last-modified-date": "അവസാനമായി മാറ്റങ്ങൾ വരുത്തിയത് : $1",
+	"view-source": "മൂലരൂപം കാണുക",
+	"and": "&#32;ഒപ്പം"
+}

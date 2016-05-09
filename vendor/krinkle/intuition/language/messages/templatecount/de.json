@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Steef389"
+		]
+	},
+	"enter-details": "Details eingeben",
+	"introduction": "Gib den Namen einer Vorlage an (aktuell nur von Wikipedias) und klicke „Ausführen“ – so einfach ist das. Es kann sein, dass gecachte Ergebnisse (ältere Vorlagenversionen) ausgegeben werden. Dies liegt leider außerhalb des Einflussbereichs dieses Hilfsprogramms.",
+	"language-label": "Sprache",
+	"namespace-label": "Namensraum",
+	"pagename-label": "Seitenname (ohne Namensraum)",
+	"transclusion-count-label": "Anzahl der Vorlageneinbindungen",
+	"transclusion-count": "$1 Vorlageneinbindung(en) wurden ermittelt.",
+	"error-suggestion": "Vielleicht wurde der Name der Seite falsch geschrieben (Schreibung und/oder großer Anfangsbuchstabe)?",
+	"time-label": "Benötigte Zeit zur Ausführung der Anweisung"
+}

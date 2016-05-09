@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nasir8891"
+		]
+	},
+	"toolserver-status-short-ok": "$1: ঠিকআছে",
+	"toolserver-status-short-info": "$1: ইনফো",
+	"toolserver-status-short-warn": "$1: সতর্কতা",
+	"toolserver-status-short-down": "$1: ডাউন",
+	"toolserver-status-short-erro": "$1: ত্রুটি",
+	"toolserver-status-short-unknown": "$1: অজানা",
+	"toolserver-status-short-missing": "$1: হারানো গেছে"
+}

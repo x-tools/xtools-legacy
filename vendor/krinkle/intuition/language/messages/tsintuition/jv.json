@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"current-settings": "Pangaturan saiki",
+	"current-language": "Basa pinilih saiki",
+	"settings-legend": "Pangaturan",
+	"choose-language": "Pilih basa",
+	"clear-cookies": "busak kuki",
+	"renew-cookies": "anyari kuki",
+	"cookie-expiration": "Kedaluwarsané kuki",
+	"clearcookies-success": "Mbusak kuki kasil!",
+	"renewcookies-success": "Kuki wis dianyari! Sampéyan siap kanggo $1 sabanjuré.",
+	"tab-overview": "Gambaran",
+	"tab-settings": "Pangaturan",
+	"tab-about": "Bab",
+	"tab-demo": "Démo",
+	"bl-mysettings": "Aturan basa kula",
+	"bl-mysettings-new": "Ganti basa!",
+	"bl-promo": "Terjemahan disengkuyung déning $1 lan $2.",
+	"bl-changelanguage": "Klik kéné kanggo ngganti basané antarmuka saka piranti iki.",
+	"usage": "Piranti iki diterjemahaké déning Intuisi Toolserver.",
+	"help-translate-tool": "Éwangi nerjemahaké piranti iki!",
+	"help-translate-all": "Éwangi nerjemahaké Toolserver!",
+	"help-translate-tooltip": "Éwangi liyané mawa cara nerjemahaké pesen antarmuka nèng basané Sampéyan."
+}

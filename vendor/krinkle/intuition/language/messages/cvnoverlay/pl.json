@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matma Rex",
+			"The Polish"
+		]
+	},
+	"adder": "Dodający",
+	"adder-empty": "Nieznany",
+	"expiry": "Wygasa",
+	"globalwatched": "Śledzona globalnie",
+	"reason": "Powód",
+	"reason-empty": "Nie znaleziono powodu"
+}

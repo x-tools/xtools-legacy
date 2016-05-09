@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"MF-Warburg"
+		]
+	},
+	"hello": "Olá",
+	"toolversionstamp": "Versaun $1 ($2)",
+	"etc": "sst.",
+	"form-submit": "OK",
+	"years": "{{PLURAL: $1|tinan|tinan}}",
+	"weeks": "{{PLURAL: $1|semana|semana}}",
+	"days": "{{PLURAL: $1|loron|loron}}",
+	"hours": "{{PLURAL: $1|oras|oras}}",
+	"last-modified-date": "Mudansa ba dala ikus: $1"
+}

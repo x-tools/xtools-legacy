@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"fullname": "Iwwersetzunge fir Tools",
+	"current-settings": "Aktuell Astellungen",
+	"current-language": "Erausgesicht Sprooch",
+	"settings-legend": "Astellungen",
+	"choose-language": "Sicht eng Sprooch eraus",
+	"clear-cookies": "Cookie läschen",
+	"renew-cookies": "Cookieën erneieren",
+	"cookie-expiration": "Gültegkeetsdauer vum Cookie",
+	"clearcookies-success": "D'Cookie goufe geläscht.",
+	"renewcookies-success": "D'Cookie sinn erneiert! Dir sidd elo nees prett fir déi nächst $1.",
+	"tab-overview": "Iwwersiicht",
+	"tab-settings": "Astellungen",
+	"tab-about": "Iwwer",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Meng Sproochastellungen",
+	"bl-mysettings-new": "Sprooch wiesselen!",
+	"bl-promo": "D'Iwwersetzunge ginn duerch $1 an $2 erméiglecht.",
+	"bl-changelanguage": "Ännert d'Sprooch vum Interface vun dësem Tool.",
+	"usage": "D'Tools déi vun 'Intuition' iwwersat goufen.",
+	"help-translate-tool": "Hëlleft dësen Tool z'iwwersetzen!",
+	"help-translate-all": "Hëlleft Tools z'iwwersetzen!",
+	"help-translate-tooltip": "Hëlleft Aneren domat datt Dir d'Message vum Interface an Är Sprooch iwwersetzt."
+}

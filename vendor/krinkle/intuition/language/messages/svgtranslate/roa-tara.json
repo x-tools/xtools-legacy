@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"title": "Traduzione de l'SVG",
+	"error-tryagain": "$1 Cazze 'u buttone d'u browser tune rrete pe pruvà 'n'otra vote.",
+	"error-nothing": "Ninde da traducere.",
+	"error-notsvg": "Non g'è 'nu file SVG.",
+	"error-unexpected": "'N'errore inaspettate s'a verificate.",
+	"error-notfound": "'U file SVG non ge se pò pigghià da l'URL specificate.",
+	"error-upload": "S'a verificate 'n'errore sus a 'u carecamende.",
+	"begin-translation": "Accuminze 'a traduzione",
+	"th-original": "Origgenale",
+	"th-translation": "Traduzione",
+	"th-language": "Lènghe",
+	"th-username": "Nome utende",
+	"th-password": "Passuord",
+	"th-method": "Metode",
+	"option-oauth": "OAuth (carecamende automateche)",
+	"option-manual": "Carecamende a màne",
+	"preview": "Andeprime",
+	"translate": "Traduce",
+	"translate-instructions": "Le date in ingresse sò accettatte sie cumme nome de file (pe esembie \"$1\") o cumme URL comblete (pe esembie \"$2\"). Ce 'a prime opzione avène ausate, Uicchimedia Commons avène assunde cumme fonde. Pe traducere 'nu SVG da 'n'otre site o uicchi, jè necessarie ausà 'u formate d'a URL indere.",
+	"svginput-label": "File SVG",
+	"stats-footer": "Stu strumende avène ausate pe traducere approssimativamende $1 file da $2.",
+	"uploading": "Stoche a careche",
+	"upload-complete": "'U carecamende ha state fatte. L'immaggine avessa stà sus a $1",
+	"editdescriptionpage": "Cange 'a pàgena nove d'a descrizione",
+	"disclaimer": "Quacche date anonime avènene cugghiute in mode private pe fine statistece. Ce date, le nome utinde OAuth avènene reggistrate pe le case de vandalisme. Le passuord non ge avènene reggistrate.",
+	"author-complete": "Pe piacere comblete le 'mbormaziune de l'autore!",
+	"preview-hide": "Scunne l'andeprime",
+	"preview-refresh": "Aggiorne l'andeprime",
+	"error-must-accept": "Pe condinuà cu 'nu carecamende dirette tu a accettà le termine de l'ause previste.",
+	"description-license": "Scacchie descrizione e licenze",
+	"finalise": "Finalizze le dettaglie"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"error-nothing": "Pas res a traduire.",
+	"error-notsvg": "Pas un fichièr SVG.",
+	"error-unexpected": "Una error imprevista s'es producha.",
+	"begin-translation": "Començar la traduccion",
+	"th-original": "Original",
+	"th-translation": "Traduccion",
+	"th-language": "Lenga",
+	"th-username": "Nom d'utilizaire",
+	"th-password": "Senhal",
+	"th-method": "Metòde",
+	"option-manual": "Telecargament manual",
+	"preview": "Previsualizar",
+	"translate": "Traduire",
+	"svginput-label": "Fichièr SVG",
+	"uploading": "Telecargament",
+	"preview-hide": "Amagar l'apercebut",
+	"preview-refresh": "Actualizar la previsualizacion",
+	"finalise": "Finalizar los detalhs"
+}

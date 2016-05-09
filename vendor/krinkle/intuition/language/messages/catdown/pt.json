@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sarilho1"
+		]
+	},
+	"project": "Projeto:",
+	"category": "Categoria:",
+	"max-width": "Máxima largura:",
+	"max-height": "Máxima altura:",
+	"invalid-width": "Largura inválida",
+	"invalid-height": "Altura inválida",
+	"no-such-project": "Esse projeto não existe",
+	"no-images": "Não há imagens nesta categoria"
+}

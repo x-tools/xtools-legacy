@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Macofe",
+			"Sarrus",
+			"Tjernobyl"
+		]
+	},
+	"title-overview": "Øjebliksbilleder",
+	"title-error": "Fejl",
+	"title-updatelog": "Opdateringslog",
+	"updatelog-intro": "Opdateringsskriptet er planlagt til at køre hver time. Nedenfor er konsol outputtet af den seneste kørsel.",
+	"updatelog-active": "Opdateringsskriptet kører i øjeblikket. Kom tilbage senere for den fuldstændige log.",
+	"download-button": "Download $1",
+	"download-directlink": "direkte link",
+	"title-downloadpage": "Download: $1",
+	"title-downloadpage-repo": "Hent $1",
+	"err-noupdatelog": "Ingen opdateringslog blev fundet.",
+	"repo-site-link": "Hjemmeside",
+	"repo-lastmoddate-label": "Dato:",
+	"branches-submit-button": "Skaf den!",
+	"updatelog-link": "opdateringslog",
+	"tablehead-snapshots": "Øjebliksbilleder",
+	"tablehead-filesize": "Filstørrelse"
+}

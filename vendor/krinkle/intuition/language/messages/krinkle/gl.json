@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(seleccionar o wiki)",
+	"alws-group-mustused": "Wikis máis empregados",
+	"alws-group-allaz": "Todos os wikis en orde alfabética",
+	"form-legend-settings": "Configuracións"
+}

@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"search-title": "歷史搜索",
+	"search-monuments-database": "搜索歷史資料庫",
+	"search-table-th-field": "欄位",
+	"search-table-th-filter": "篩選器",
+	"search-table-th-search": "搜尋",
+	"filter-all-countries": "所有國家",
+	"filter-all-languages": "所有語言",
+	"db-field-country": "國家",
+	"db-field-lang": "語言",
+	"db-field-id": "識別字",
+	"db-field-name": "名稱",
+	"db-field-address": "地址",
+	"db-field-lat": "緯度",
+	"db-field-lon": "經度",
+	"db-field-image": "圖像",
+	"db-field-changed": "已更改",
+	"db-field-source": "來源",
+	"db-field-monument_article": "歷史條目",
+	"db-field-registrant_url": "註冊者url",
+	"toolbox-label-searchtipps": "使用%term或term%或%term%來進行模糊搜索",
+	"toolbox-meta-title": "維基友愛歷史工具箱",
+	"toolbox-main-title": "WLM 工具箱",
+	"toolbox-main-description": "",
+	"toolbox-wikilovesmonuments": "維基友愛歷史",
+	"toolbox-nav-homepage": "首頁",
+	"toolbox-nav-statistics": "統計訊息",
+	"toolbox-nav-search": "搜尋",
+	"toolbox-title-searchmonuments": "搜索歷史"
+}

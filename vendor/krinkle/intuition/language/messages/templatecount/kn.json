@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"M G Harish"
+		]
+	},
+	"enter-details": "ವಿವರಣೆಗಳನ್ನು ತುಂಬಿ",
+	"language-label": "ಭಾಷೆ",
+	"namespace-label": "ನಾಮವರ್ಗ",
+	"pagename-label": "ಪುಟದ ಹೆಸರು (ನಾಮವರ್ಗ ಹೊರತುಪಡಿಸಿ)",
+	"transclusion-count-label": "ಅಡಕಗೊಳ್ಳುವಿಕೆಗಳ ಸಂಖ್ಯೆ",
+	"transclusion-count": "$1 ಅಡಕಗೊಳ್ಳುವಿಕೆ(ಗಳು) ಸಿಕ್ಕಿವೆ.",
+	"error-suggestion": "ನೀವು ಹೆಚ್ಚಾಗಿ ಪುಟದ ಹೆಸರನ್ನು ತಪ್ಪಾಗಿ (ಅಥವಾ ತಪ್ಪು ಕಾಗುಣಿತ) ನಮೂದಿಸಿದ್ದೀರಿ",
+	"time-label": "ಆಣತಿಯನ್ನು ನೆರವೇರಿಸಲು ತೆಗೆದುಕೊಂಡ ಸಮಯ"
+}

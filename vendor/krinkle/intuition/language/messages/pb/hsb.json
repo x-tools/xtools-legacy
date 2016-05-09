@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"pb-about-pb-navi": "Wo",
+	"pb-about-pb-tech": "Techniske podrobnosće",
+	"pb-about-pb-title": "Wo projekće",
+	"pb-change-language": "Rěč změnić",
+	"pb-comment": "Komentar",
+	"pb-confirmations-given": "Date wobkrućenja",
+	"pb-confirmations-taken": "Dóstane wobkrućenja",
+	"pb-current-confirmations": "{{PLURAL:$1|Je $1 wobkrućenje|Stej $1 wobkrućeni|Su $1 wobkrućenja|Je $1 wobkrućenjow}} dohromady, to {{PLURAL:$3|je|stej|su|je}} přibližnje <abbr title=\"$2\">$3</abbr> {{PLURAL:$3|wobkrućenje|wobkrućeni|wobkrućenja|wobkrućenjow}} na dźeń.",
+	"pb-current-figures": "Aktualne ličby",
+	"pb-current-users": "Tuchwilu so $1 {{PLURAL:$1|wužiwar|wužiwarjej|wužiwarjo|wužiwarjow}} na <em>Wosobinskich znajomstwach</em> {{PLURAL:$1|wobdźěluje|wobdźělujetej|wobdźěluja|wobdźěluje}}",
+	"pb-date": "Datum",
+	"pb-home": "Startowa strona",
+	"pb-javascript-notice": "Poručamy, zo zmóžnješ JavaScript za websydło, zo by wužiwarski powjerch polěpšił.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Wobdźěluje so wot",
+	"pb-name": "Wikipedija:Wosobinske znajomstwa",
+	"pb-powered-by-labs": "Spěchowany wot Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Najnowše wobkrućenja",
+	"pb-reconfirmed": "Wróćo wobkrućeny?",
+	"pb-user": "Wužiwar",
+	"pb-user-link-title": "Podrobnosće za wužiwarja $1",
+	"pb-user-heading": "Informacije za <a href=\"$2\" title=\"Wužiwarska strona $1\">$1</a>",
+	"pb-user-title": "Informacije za $1",
+	"pb-users-navi": "Wužiwarjo",
+	"pb-users-title": "Lisćina wobdźělnikow",
+	"pb-users-overview": "{{PLURAL:$1|Tutón $1 wužiwar wobdźěluje|Tutej $1 wužiwarjej wobdźělujetaj|Tući $1 wužiwarjo wobdźěluja|Tutych $1 wužiwarjow wobdźěluje}} so na projekće <em>Wosobinske znajomstwa</em>:",
+	"pb-verified-since": "Přepruwowany wot"
+}

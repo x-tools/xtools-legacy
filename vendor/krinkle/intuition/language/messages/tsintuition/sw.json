@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stephenwanjau"
+		]
+	},
+	"current-settings": "Mpangilio wa sasa",
+	"current-language": "Lugha iliyochaguliwa kwa sasa",
+	"settings-legend": "Mpangilio",
+	"choose-language": "Chagua lugha",
+	"clear-cookies": "Tandua kuki",
+	"clearcookies-success": "Imefaulu kutandua kuki.",
+	"tab-settings": "Mpangilio",
+	"tab-about": "Kuhusu",
+	"bl-mysettings": "Mpangilio wangu wa lugha",
+	"bl-mysettings-new": "Badili lugha",
+	"help-translate-tool": "Saidia kutafsiri kifaa hiki!"
+}

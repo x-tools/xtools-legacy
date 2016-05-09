@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Simon Shek",
+			"LNDDYL"
+		]
+	},
+	"toolserver-status-ok": "數據庫集群沒有任何問題$1 $2",
+	"toolserver-status-info": "集群 $1 使用者通知：$2",
+	"toolserver-status-warn": "叢集 $1 使用者警告：$2",
+	"toolserver-status-down": "數據庫集群$1已被暫時關閉。$2",
+	"toolserver-status-erro": "數據庫集群$1已關閉。$2",
+	"toolserver-status-unknown": "集群$1狀態未知",
+	"toolserver-status-missing": "集群$1不存在",
+	"toolserver-status-short-ok": "$1：正常",
+	"toolserver-status-short-info": "$1：資訊",
+	"toolserver-status-short-warn": "$1：警告",
+	"toolserver-status-short-down": "$1：暫停工作",
+	"toolserver-status-short-erro": "$1：錯誤",
+	"toolserver-status-short-unknown": "$1：不明",
+	"toolserver-status-short-missing": "$1：丟失"
+}

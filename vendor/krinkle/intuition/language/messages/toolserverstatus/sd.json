@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"toolserver-status-short-ok": "$1: ٺيڪ",
+	"toolserver-status-short-info": "$1: معلومات",
+	"toolserver-status-short-warn": "$1: خبردار ڪريو",
+	"toolserver-status-short-down": "$1: هيٺ",
+	"toolserver-status-short-erro": "$1: خرابي",
+	"toolserver-status-short-unknown": "$1: اڻڄاتل",
+	"toolserver-status-short-missing": "$1: غير موجود"
+}

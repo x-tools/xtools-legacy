@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"pb-about-pb-navi": "关于",
+	"pb-about-pb-tech": "技术信息",
+	"pb-about-pb-tech-text": "<p>我们使用 <a href=\"https://zh.wikipedia.org/wiki/Python\">Python</a> 和 <a href=\"https://zh.wikipedia.org/wiki/MySQL\">MySQL</a> 开发此界面。源代码依据<a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU 轻量通用公共许可证 3</a>（LGPL 3）发布，这也可在<a href=\"https://github.com/tool-labs/pb\">GitHub</a>找到。请通过<a href=\"https://github.com/tool-labs/pb/issues/new\">GitHub 问题追踪器</a>或者<a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">维基百科讨论页</a>提交错误报告、功能请求或其他评论。</p>\n    <p>当前的PB数据库转储可在<a href=\"/pb/sql-dumps\">此处</a>找到。</p>\n    <p>我们使用<a href=\"http://glyphicons.com/\" title=\"Glyphicons 首页\">Glyphicons</a>计划制作的一些图标。</p>",
+	"pb-about-pb-text": "<p>本项目代表维基人直接的个人相识。</p>\n    <p>The first implementation was done by Ulli Purwin (interface) and Euku (bot). In the beginning of 2011, Wiegels and Ireas followed Ulli doing the interface. By now, the project is not longer hosted on a private server but on Wikimedia Labs.</p>\n    <p>更多有关此项目的信息请参见德语维基百科的<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>。</p>",
+	"pb-about-pb-title": "关于项目",
+	"pb-change-language": "更改语言",
+	"pb-comment": "评论",
+	"pb-confirmations-given": "给定确认",
+	"pb-confirmations-taken": "收到确认",
+	"pb-current-confirmations": "总共$1次确认，这是关于每天的<abbr title=\"$2\">$3</abbr>次确认。",
+	"pb-current-figures": "目前计数",
+	"pb-current-users": "此时，$1位用户参与了<em>个人相识</em>项目。",
+	"pb-date": "日期",
+	"pb-footer": "工具实验室的<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a>。<a href=\"$1\" title=\"About Wikipedia:Persönliche Bekanntschaften\">更多信息。</a>",
+	"pb-home": "首页",
+	"pb-home-welcome": "欢迎来到<em>个人相识</em>项目（德语<em>Persönliche-Bekanntschaften</em>）！更多此项目的信息可在<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German language Wikipedia\">德语维基百科</a>找到。",
+	"pb-javascript-notice": "我们推荐您在此网站启用JavaScript以改进用户体验。",
+	"pb-labs-name": "维基媒体工具实验室",
+	"pb-participates-since": "参与自从",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "由维基媒体工具实验室提供支持",
+	"pb-recent-confirmations": "最近确认",
+	"pb-reconfirmed": "重新确认？",
+	"pb-user": "用户",
+	"pb-user-link-title": "用户$1的详细信息",
+	"pb-user-heading": "用于<a href=\"$2\" title=\"User page of $1\">$1</a>的信息",
+	"pb-user-title": "用于$1的信息",
+	"pb-users-navi": "用户",
+	"pb-users-title": "参与者列表",
+	"pb-users-overview": "这里的$1位用户参与<em>个人相识</em>项目：",
+	"pb-verified-since": "验证自从"
+}

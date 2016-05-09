@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Andriykopanytsia",
+			"Base",
+			"SteveR",
+			"Ua2004"
+		]
+	},
+	"title-overview": "Знімки",
+	"title-error": "Помилка",
+	"title-updatelog": "Журнал оновлень",
+	"updatelog-intro": "Сценарій оновлення запускається щогодини. Нижче наведений звіт з консолі останнього запуску.",
+	"updatelog-active": "Виконується сценарій оновлення. Зайдіть пізніше, щоб отримати весь журнал.",
+	"download-button": "Завантажити знімок",
+	"download-directlink": "прямі посилання",
+	"title-downloadpage": "Завантажити",
+	"title-downloadpage-repo": "Завантажити $1",
+	"err-snapshotindex": "Індекс знімка тимчасово недоступний. Будь ласка, повторіть спробу пізніше.",
+	"err-invalid-repo": "Невідомий репозиторій: \"$1\".",
+	"err-invalid-branch": "Невідома гілка: \"$1\" у репозиторії \"$2\".",
+	"err-nosnapshot": "Знімки створюються кожні кілька годин. Під час створення знімка для \"$1\" сталася помилка. Будь ласка, повторіть спробу пізніше.",
+	"err-noupdatelog": "Журнал оновлень не знайдено.",
+	"repo-site-link": "Веб-сайт",
+	"repo-browse-link": "Переглянути репозиторій",
+	"repo-branches-label": "Гілки:",
+	"repo-lastmoddate-label": "Дата:",
+	"branches-submit-button": "Отримати!",
+	"updatelog-link": "журнал оновлень",
+	"tablehead-repo": "репозиторій",
+	"tablehead-snapshots": "Знімки",
+	"tablehead-branch": "Гілка",
+	"tablehead-filesize": "Розмір файлу",
+	"tablehead-hash": "Контрольні суми"
+}

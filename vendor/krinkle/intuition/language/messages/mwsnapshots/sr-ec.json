@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"title-overview": "Снимци",
+	"title-error": "Грешка",
+	"title-updatelog": "Дневник ажурирања",
+	"updatelog-intro": "Скрипт врши ажурирања сваког сата. Испод је приказан извод конзоле од последњег ажурирања.",
+	"updatelog-active": "Скрипт тренутно врши ажурирања. Вратите се касније за целокупан дневник.",
+	"download-button": "Преузми снимак",
+	"download-directlink": "директна веза",
+	"title-downloadpage": "Преузми",
+	"title-downloadpage-repo": "Преузми $1",
+	"err-snapshotindex": "Индекс снимака је привремено недоступан. Покушајте касније.",
+	"err-invalid-repo": "Непозната ризница: „$1“.",
+	"err-invalid-branch": "Непозната грана: „$1“ у ризници „$2“.",
+	"err-nosnapshot": "Снимци се генеришу сваких неколико сати. Дошло је до грешке при генерисању снимка „$1“. Покушајте касније.",
+	"err-noupdatelog": "Дневник ажурирања није пронађен.",
+	"repo-site-link": "Сајт",
+	"repo-browse-link": "Прегледај ризницу",
+	"repo-branches-label": "Гране:",
+	"repo-lastmoddate-label": "Датум:",
+	"branches-submit-button": "Преузми",
+	"updatelog-link": "дневник ажурирања",
+	"tablehead-repo": "Ризница",
+	"tablehead-snapshots": "Снимци",
+	"tablehead-branch": "Грана",
+	"tablehead-filesize": "Величина датотеке",
+	"tablehead-hash": "Контролни збир"
+}

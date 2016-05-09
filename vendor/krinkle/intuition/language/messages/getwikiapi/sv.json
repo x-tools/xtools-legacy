@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liftarn",
+			"Lokal Profil"
+		]
+	},
+	"description": "Metainformation om Wikimedias wikis.",
+	"formats-heading": "Utdataformat",
+	"input": "Indata",
+	"label-wikiids": "Wiki-identifierare",
+	"no-matches": "Ingenting matchade \"$1\"",
+	"output": "Utdata för \"$1\""
+}

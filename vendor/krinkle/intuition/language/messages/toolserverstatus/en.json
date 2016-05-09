@@ -1,0 +1,17 @@
+{
+	"@metadata": [],
+	"toolserver-status-ok": "There are no problems in database cluster $1 $2",
+	"toolserver-status-info": "Notice for users of cluster $1: $2",
+	"toolserver-status-warn": "Warning for users of cluster $1: $2",
+	"toolserver-status-down": "The database cluster $1 has been temporarily shutdown. $2",
+	"toolserver-status-erro": "The database cluster $1 is down. $2",
+	"toolserver-status-unknown": "Unknown status of cluster $1",
+	"toolserver-status-missing": "Cluster $1 does not exist",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Warn",
+	"toolserver-status-short-down": "$1: Down",
+	"toolserver-status-short-erro": "$1: Error",
+	"toolserver-status-short-unknown": "$1: Unknown",
+	"toolserver-status-short-missing": "$1: Missing"
+}

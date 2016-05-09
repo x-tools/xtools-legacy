@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo"
+		]
+	},
+	"adder": "Usuario que o engadíu",
+	"adder-empty": "Descoñecido",
+	"expiry": "Caducidade",
+	"globalwatched": "Vixiadas globalmente",
+	"reason": "Motivo",
+	"reason-empty": "Non se atopou ningún motivo"
+}

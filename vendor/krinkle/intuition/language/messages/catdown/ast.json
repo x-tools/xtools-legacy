@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"title": "Descarga d'imaxes por categoría",
+	"subtitle": "La manera fácil de descargar les imaxes d'una categoría",
+	"project": "Proyeutu:",
+	"category": "Categoría:",
+	"thumbnailing": "Miniatures",
+	"max-width": "Anchor máximu:",
+	"max-height": "Altor máximu:",
+	"invalid-width": "Anchor inválidu",
+	"invalid-height": "Altor inválidu",
+	"no-such-project": "Esi proyeutu nun esiste",
+	"no-images": "Nun hai imaxes nesa categoría",
+	"category-is-url": "El nome de categoría conseñáu paez una URL. Tienes de dar el nome de la categoría, non la so URL.",
+	"category-contains-namespace": "Paez qu'incluísti l'espaciu de nomes xunto col nome de la categoría. Col nome dau, la páxina taría disponible como [[Category:$1]].",
+	"zip-failed": "Falló la creación del Zip",
+	"image-area-too-big": "\"$1\" ye demasiao grande pa crear una miniatura. Usando'l tamañu completu.",
+	"download-info": "{{plural: $1|Hai una imaxe|Hai $1 imaxes}}, con un tamañu estimáu de $2",
+	"download": "Descargar",
+	"readme-contents": "El ficheru contenedor $4 llista\nles imaxes de la categoría $1 ($2)$3.\n\n== Instrucciones pa descargar toles imaxes ==\nEl tiempu de descarga pue variar ente unos minutos y delles hores.\n\nWindows:\n Estrái tolos ficheros nel mesmu direutoriu y executa $5\n $6\nLinux/Mac OS:\n Estrái tolos ficheros y abri un terminal nesi direutoriu. Executa sh $5",
+	"non-bundled-wget": "Nota: Esta versión nun inclúi wget pa Windows. Tendrás de descomprimir\na un direutoriu con wget.exe o, d'otra miente, tener wget nel PATH",
+	"wget-info": "Esti ficheru contien una copia de wget $1 (pa la plataforma Windows). Wget ye software llibre,\nbaxo los términos de la LLICENCIA PÚBLICA XENERAL GNU versión 3.\nMas abaxo hai una copia de la llicencia, que tamién ta disponible en http://www.gnu.org/licenses/gpl-3.0.txt\n\nEn casu de que t'interese consiguir el códigu fonte d'esti programa, pues descargalu de\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\no en dalgún otru espeyu de GNU, visita\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", escalaes a un anchor máximu de $1 {{plural:$1|pixel|pixels}}",
+	"scaling-height": ", escalaes a un altor máximu de $1 {{plural:$1|pixel|pixels}}",
+	"scaling-both": ", escalaes a un tamañu máximu de $1x$2 pixels"
+}

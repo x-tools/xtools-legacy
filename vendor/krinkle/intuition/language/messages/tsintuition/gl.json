@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño",
+			"Banjo"
+		]
+	},
+	"fullname": "Internacionalización das ferramentas",
+	"current-settings": "Configuración actual",
+	"current-language": "Lingua escollida",
+	"settings-legend": "Configuracións",
+	"choose-language": "Escolla unha lingua",
+	"clear-cookies": "borrar as cookies",
+	"renew-cookies": "renovar as cookies",
+	"cookie-expiration": "Caducidade das cookies",
+	"clearcookies-success": "As cookies borráronse correctamente.",
+	"renewcookies-success": "Cookies renovadas! Está listo para os vindeiros $1.",
+	"tab-overview": "Vista xeral",
+	"tab-settings": "Configuracións",
+	"tab-about": "Acerca de",
+	"tab-demo": "Demostración",
+	"bl-mysettings": "As miñas opcións de lingua",
+	"bl-mysettings-new": "Cambiar a lingua!",
+	"bl-promo": "As traducións son posibles grazas a $1 e $2.",
+	"bl-changelanguage": "Cambiar a lingua da interface desta ferramenta.",
+	"usage": "Ferramentas traducidas por Intuition.",
+	"help-translate-tool": "Axude a traducir esta ferramenta!",
+	"help-translate-all": "Axude a traducir as ferramentas!",
+	"help-translate-tooltip": "Axude aos outros traducindo á súa lingua as mensaxes da interface."
+}

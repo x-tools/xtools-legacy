@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joachim Mos"
+		]
+	},
+	"db-field-country": "Staat",
+	"db-field-lang": "Spraak",
+	"db-field-name": "Naam",
+	"db-field-image": "Bild",
+	"db-field-st_image": "Bild",
+	"db-field-st_image_pct": "Bild %",
+	"db-field-st_name": "Naams",
+	"db-field-st_name_pct": "Naams %"
+}

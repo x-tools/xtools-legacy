@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"عثمان خان شاہ"
+		]
+	},
+	"hello": "ہیلو",
+	"welcome": "خوش آمدید",
+	"toolversion": "ورژن $1",
+	"toolversionstamp": "ورژن $1 ($2)",
+	"etc": "وغیرہ۔",
+	"form-submit": "چلو",
+	"form-reset": "دوبارہ مرتب کریں",
+	"view-source": "مسودہ دکھائے"
+}

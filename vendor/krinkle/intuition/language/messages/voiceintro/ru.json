@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Запись",
+	"voiceintro-toolbar-stop-label": "Остановить",
+	"voiceintro-toolbar-clear-label": "Очистить",
+	"voiceintro-toolbar-upload-label": "Загрузить",
+	"voiceintro-webaudio-not-supported": "WebAudio API не поддерживается этим браузером",
+	"voiceintro-upload-publish-succeeded": "Запись успешно загружена:",
+	"voiceintro-upload-publish-failed": "Запись не была загружена",
+	"voiceintro-information-label": "Информация",
+	"voiceintro-information-speaker-label": "Имя говорящего:",
+	"voiceintro-information-language-label": "Язык:",
+	"voiceintro-mic-access-notify": "Нажмите кнопку «Разрешить», чтобы разрешить браузеру доступ к вашему микрофону.",
+	"voiceintro-recording-notify": "Запись…"
+}

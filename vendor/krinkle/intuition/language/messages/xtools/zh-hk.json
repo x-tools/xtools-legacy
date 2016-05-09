@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"tool_rfap_desc": "用戶是如何投票的？",
+	"nograph": "用戶未選擇公開資訊。如欲檢視圖表，請用任意內容建立 $1，或建立 $2 以允許跨維基媒體 wiki 項目啟用。",
+	"username": "用戶名稱",
+	"users": "{{PLURAL: $1|用戶}}",
+	"userid": "用戶 ID",
+	"groups": "用戶群組"
+}

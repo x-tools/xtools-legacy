@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu",
+			"Enolp"
+		]
+	},
+	"title": "SVG Translate",
+	"error-tryagain": "$1 Calca nel botón atrás del restolador pa volver a tentalo.",
+	"error-nothing": "Nun hai res que traducir.",
+	"error-notsvg": "Nun ye un ficheru SVG.",
+	"error-unexpected": "Hebo un fallu inesperáu.",
+	"error-notfound": "El ficheru SVG nun se pudo baxar de la URL conseñada.",
+	"error-upload": "Hebo un fallu al xubir.",
+	"begin-translation": "Entamar traducción",
+	"th-original": "Orixinal",
+	"th-translation": "Traducción",
+	"th-language": "Llingua",
+	"th-username": "Nome d'usuariu",
+	"th-password": "Contraseña",
+	"th-method": "Métodu",
+	"option-oauth": "OAuth (xuba automática)",
+	"option-manual": "Xuba manual",
+	"preview": "Vista previa",
+	"translate": "Traducir",
+	"translate-instructions": "S'aceuten entraes como nomes de ficheru (p.ex. \"$1\") o  como URL completes (p.ex. \"$2\"). Si s'usa la primera opción, se tomará como orixe Wikimedia Commons. Pa traducir un SVG d'otru sitiu o wiki, tienes d'usar el formatu d'url completa.",
+	"svginput-label": "Ficheru SVG",
+	"stats-footer": "Esta ferramienta s'usó pa traducir alredor de $1 ficheros dende $2.",
+	"uploading": "Xubiendo",
+	"upload-complete": "La xuba se completó correutamente. La imaxe habría tar anguaño en $1",
+	"editdescriptionpage": "Editar la páxina de descripción nueva",
+	"disclaimer": "Van recoyese dellos datos anónimos con propósitu estadísticu. Si se dan, los nomes d'usuariu OAuth tamién van grabase como ayuda'n casu de vandalismu. Les contraseñes enxamás se grabarán.",
+	"author-complete": "¡Por favor, completa la información del autor!",
+	"preview-hide": "Anubrir vista previa",
+	"preview-refresh": "Refrescar entever",
+	"error-must-accept": "Pa siguir cola xubía direuta tienes d'aceutar los términos d'usu que s'ufren.",
+	"description-license": "Escoyer descripción y llicencia",
+	"finalise": "Finar detalles"
+}

@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fasouzafreitas",
+			"Araceletorres"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">Change language / preferences</a>",
+	"base_jiralink": "<a href=\"https://jira.toolserver.org/browse/REPORTS\">Relatar um erro ou solicitar um recurso</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Wiki</a>",
+	"category_users": "Usuários",
+	"category_articles": "Páginas",
+	"category_images": "Imagens",
+	"category_miscellaneous": "Diversos",
+	"category_wikidata": "WikiData",
+	"select_wiki_title": "Selecionar uma wiki",
+	"select_wiki": "Por favor, insira a wiki para a qual você gostaria de relatar (por exemplo, \"<kbd>en.wikipedia.org</kbd>\"):",
+	"select_wiki_next": "Próximo →",
+	"select_report_title": "Selecione um relatório para ser executado em %(wiki)s",
+	"select_report": "Por favor, selecione um relatório:",
+	"select_report_disabled": "O relatório está indisponível.",
+	"select_report_go_back": "← Alterar wiki",
+	"qvar_title": "Digite as variáveis para sua consulta",
+	"qvar_blurb": "Sua consulta requer que algumas variáveis sejam inseridas",
+	"qvar_next": "Próximo →",
+	"prefs_title": "Preferências de relatórios",
+	"prefs_submit": "OK",
+	"prefs_done": "As suas preferências foram alteradas.",
+	"prefs_langlabel": "Idioma da interface:",
+	"report_wascached": "Este relatório foi armazenado em cache há %(age)s",
+	"report_first_run": "Este relatório está sendo gerado pela primeira vez, por isso não há dados disponíveis ainda.",
+	"report_last_run_duration": "Este relatório foi gerado em %(duration)s.",
+	"report_variables_used": "As seguintes variáveis foram utilizadas para gerar este relatório:",
+	"report_noresults": "Desculpe, este relatório não produziu resultados.",
+	"report_change_report": "<a href=\"%(url)s\">Alterar relatório</a>",
+	"report_change_wiki": "<a href=\"%(url)s\">Alterar wiki</a>"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"file": "عسگ",
+	"country-header": "ولات",
+	"location": "جاگه",
+	"upload-time": "بلم گیر وخت",
+	"deleted": "پاک بیه($1)",
+	"date-unknown": "ناشناس",
+	"total-images": "همه عسگیا:$1",
+	"show-images-all": "همه عسگیا نه نشون بيه",
+	"country-label": "ولات",
+	"all-countries": "همه ولاتیا",
+	"timezone-label": "وخت راساگه",
+	"show-button": "نشون دائن",
+	"bot": "بت",
+	"id-none": "(هيش كوم)",
+	"bic-gallery": "عسگ دونی",
+	"author-heading": "نيسنه",
+	"bic-list-bad": "نشون دائن",
+	"users-list": "ديئن"
+}

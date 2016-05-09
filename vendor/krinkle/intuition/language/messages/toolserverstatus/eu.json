@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Ados",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Oharra",
+	"toolserver-status-short-erro": "$1: Errorea",
+	"toolserver-status-short-unknown": "$1: Ezezaguna",
+	"toolserver-status-short-missing": "$1: Faltan"
+}

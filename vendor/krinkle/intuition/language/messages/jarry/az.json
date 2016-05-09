@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khan27"
+		]
+	},
+	"moretools": "bu müəllifin başqa alətləri",
+	"bugs": "xəta hesabatları və özəl sorğular",
+	"comments": "şərhlər və sorğular",
+	"error-form-empty": "Bir və ya bir neçə məcburi sahə boş qoyulub. Siz onları davam etməzdən əvvəl doldurmalısınız."
+}

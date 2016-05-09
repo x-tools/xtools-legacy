@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"C5st4wr6ch",
+			"Farras"
+		]
+	},
+	"title": "Pengunduhan gambar menurut kategori",
+	"subtitle": "Cara mudah mengunduh gambar dalam sebuah kategori",
+	"project": "Proyek:",
+	"category": "Kategori:",
+	"thumbnailing": "Membuat gambar mini",
+	"max-width": "Lebar maksimum:",
+	"max-height": "Tinggi maksimum:",
+	"invalid-width": "Lebar tidak sah",
+	"invalid-height": "Tinggi tidak sah",
+	"no-such-project": "Tidak ada proyek seperti itu",
+	"no-images": "Tidak ada gambar di kategori tersebut",
+	"category-is-url": "Nama kategori yang dimasukkan tampak seperti URL. Anda perlu memasukkan nama kategorinya, bukan URL-nya.",
+	"category-contains-namespace": "Anda tampaknya memasukkan ruang sama beserta nama kategorinya. Dengan nama seperti itu, halaman ini akan tertampil sebagai [[Category:$1]].",
+	"zip-failed": "Pembuatan zip gagal",
+	"image-area-too-big": "$1 terlalu besar untuk dijadikan gambar ini. Pakai ukuran penuh.",
+	"download-info": "{{plural: $1|Ada satu gambar|Ada $1 gambar}}, dengan ukuran kira-kira $2",
+	"download": "Unduh",
+	"readme-contents": "Berkas lampiran $4 berisi\ngambar di kategori $1 ( $2 )$3.\n\n== Petunjuk untuk mengunduh semua gambar terdaftar ==\nLama pengunduhan bisa bervariasi mulai dari beberapa menit hingga beberapa jam.\n\nWindows:\n Ekstrak semua berkas di folder yang sama dan jalankan $5\n $6\nLinux/Mac OS:\n Ekstrak semua berkas dan buka sebuah terminal di folder tersebut. Jalankan sh $5",
+	"non-bundled-wget": "Catatan: Versi ini tidak mencakup wget untuk Windows. Anda perlu melakukan dekompres ke sebuah folder berisi wget.exe atau pasang wget di PATH",
+	"wget-info": "Berkas ini berisikan salinan wget $1 (untuk platform Windows). Wget adalah Perangkat Lunak Bebas,\ndi bawah persyaratan LISENSI PUBLIK UMUM GNU versi 3.\nAda salinan lisensi di bawah yang juga tersedia di http://www.gnu.org/licenses/gpl-3.0.txt\n\nJika Anda ingin mendapatkan kode sumber program ini, Anda bisa mengunduhnya dari\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\natau GNU Mirror lainnya, lihat\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", dibesarkan hingga lebar maksimum $1 {{plural:$1|piksel|piksel}}",
+	"scaling-height": ", dibesarkan hingga tinggi maksimum $1 {{plural:$1|piksel|piksel}}",
+	"scaling-both": ", dibesarkan hingga ukuran maksimum $1x$2 piksel"
+}

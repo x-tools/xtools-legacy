@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"enter-details": "Isikan butiran",
+	"introduction": "Taipkan nama templat (kegunaan Wikipedia sahaja buat masa ini), kemudian tekan Pergi. Mudah sahaja. Nanti ia akan di-cache-kan (hasil carian akan diingati), tetapi ini adalah di luar kawalan alatan ini dan pemiliknya.",
+	"language-label": "Bahasa",
+	"namespace-label": "Ruang nama",
+	"pagename-label": "Nama laman (tidak termasuk ruang nama)",
+	"transclusion-count-label": "Bilangan transklusi",
+	"transclusion-count": "$1 transklusi dijumpai.",
+	"error-suggestion": "Mungkin anda tersalah eja (atau tersalah letak huruf besar) nama halaman itu.",
+	"time-label": "Masa yang diambil untuk melaksanakan perintah"
+}

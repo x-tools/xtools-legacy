@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"fullname": "جهون گرایی کردن سی اوزاریا",
+	"current-settings": "تنظیمات تازه باو",
+	"current-language": "زون تازه باو انتخاو بیه",
+	"settings-legend": "تنظيمات",
+	"choose-language": "يه گل زون انتخاو بكيد",
+	"clear-cookies": "کوکی یانه پاک بکید",
+	"renew-cookies": "کوکیا نه پاک بکید",
+	"cookie-expiration": "تموم بین ویرگار مصرف کوکی",
+	"clearcookies-success": "کوکیا سی همیشه پاک بیه",
+	"renewcookies-success": "کوکیا ز نو تازه بیه!",
+	"tab-overview": "بیش سیل",
+	"tab-settings": "تنظيمات",
+	"tab-about": "دباره",
+	"tab-demo": "دمو",
+	"bl-mysettings": "تنظيمات زون مه",
+	"bl-mysettings-new": "آلشت كردن زون",
+	"bl-promo": "لرسن قوی بیه وا $1 و $2",
+	"bl-changelanguage": "ایچه بپورنیت تا راوط زون ای اوزار آلشت بوئه",
+	"usage": "اوزاریا لرسه وا نهاد",
+	"help-translate-tool": "سی والرسن ای اوزار هومیار بکید!",
+	"help-translate-all": "هومیاری والرسن اوزاریا",
+	"help-translate-tooltip": "دیه رونه وا لرسن پیغوم راوط د زون خوتو هومیاری بکید"
+}

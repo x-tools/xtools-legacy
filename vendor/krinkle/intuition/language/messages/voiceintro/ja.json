@@ -1,0 +1,14 @@
+{
+	"@metadata": [],
+	"voiceintro-toolbar-record-label": "録音",
+	"voiceintro-toolbar-stop-label": "停止",
+	"voiceintro-toolbar-clear-label": "消去",
+	"voiceintro-toolbar-upload-label": "アップロード",
+	"voiceintro-webaudio-not-supported": "ご使用中のブラウザーは WebAudio API に対応していません",
+	"voiceintro-upload-publish-succeeded": "録音したものをアップロードしました:",
+	"voiceintro-upload-publish-failed": "録音したものをアップロードできませんでした。",
+	"voiceintro-information-label": "情報",
+	"voiceintro-information-language-label": "言語:",
+	"voiceintro-mic-access-notify": "ブラウザーがマイクにアクセスできるように「許可」をクリックしてください",
+	"voiceintro-recording-notify": "録音中..."
+}

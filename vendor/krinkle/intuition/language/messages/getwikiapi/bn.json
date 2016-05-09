@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman",
+			"Wikitanvir"
+		]
+	},
+	"description": "উইকিমিডিয়া উইকিগুলো সম্পর্কে মেটা তথ্য।",
+	"formats-heading": "আউটপুটের কাঠামো",
+	"input": "ইনপুট",
+	"label-wikiids": "উইকি নির্ধারণী",
+	"no-matches": "\"$1\"-এর সাথে কোনো কিছু মেলেনি",
+	"output": "\"$1\"-এর জন্য আউটপুট"
+}

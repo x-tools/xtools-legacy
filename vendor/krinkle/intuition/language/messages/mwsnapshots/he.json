@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"title-overview": "קובצי מאגרים",
+	"title-error": "שגיאה",
+	"title-updatelog": "יומן עדכונים",
+	"updatelog-intro": "תסריט עדכון מתוזמן לרוץ מדי שעה. להלן הפלט של הריצה האחרונה.",
+	"updatelog-active": "תסריט העדכון רץ עכשיו. בואו בהמשך לראות את היומן המלא.",
+	"download-button": "הורדת היטל־בזק",
+	"download-directlink": "קישור ישיר",
+	"title-downloadpage": "הורדה",
+	"title-downloadpage-repo": "הורדת $1",
+	"err-snapshotindex": "מפתח קובצי המאגרים אינו זמין כעת. נא לנסות מאוחר יותר.",
+	"err-invalid-repo": "מאגר בלתי־יודע: „$1”.",
+	"err-invalid-branch": "ענף בלתי־ידוע: „$1” במאגר „$2”.",
+	"err-nosnapshot": "קובצי המאגרים מיוצרים מדי כמה שעות. בעת יצירת הקובץ עבור „$1” התרחשה שגיאה. נא לנסות שוב מאוחר יותר.",
+	"err-noupdatelog": "לא נמצא יומן עדכון.",
+	"repo-site-link": "אתר האינטרנט",
+	"repo-browse-link": "עיון במאגר",
+	"repo-branches-label": "ענפים:",
+	"repo-lastmoddate-label": "תאריך:",
+	"branches-submit-button": "לקבל את זה!",
+	"updatelog-link": "יומן עדכון",
+	"tablehead-repo": "מאגר",
+	"tablehead-snapshots": "קובצי מאגרים",
+	"tablehead-branch": "ענף",
+	"tablehead-filesize": "גודל הקובץ",
+	"tablehead-hash": "סיכומי ביקורת"
+}

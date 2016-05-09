@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"pb-about-pb-tech-text": "<p>We use <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> and <a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a> for this interface. The source code is published under the terms of the <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public Licence 3</a> (LGPL 3) and can be accessed <a href=\"https://github.com/tool-labs/pb\">on GitHub</a>. Please add bug reports, feature requests or other comments <a href=\"https://github.com/tool-labs/pb/issues/new\">to the GitHub issue tracker</a> or report it on the <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">Wikipedia talk page</a>.</p>\n    <p>Current dumps of the PB database can be found <a href=\"/pb/sql-dumps\">here</a>.</p>\n    <p>We use several icons created by the <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a> project.</p>"
+}

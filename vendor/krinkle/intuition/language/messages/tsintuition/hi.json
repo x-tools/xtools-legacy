@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai"
+		]
+	},
+	"fullname": "उपकरणों के लिये अंतर्राष्ट्रीयकरण",
+	"current-settings": "वर्तमान सेटिंग्स",
+	"current-language": "चयनित भाषा",
+	"settings-legend": "सेटिंग्स",
+	"choose-language": "भाषा चुनें",
+	"clear-cookies": "कुकीज़ साफ़ करें",
+	"renew-cookies": "कुकीज़ को नवीनीकृत करें",
+	"cookie-expiration": "कुकी समाप्ति",
+	"clearcookies-success": "कुकीज़ साफ़ कर दी गई हैं।",
+	"renewcookies-success": "कुकीज़ नवीनीकृत हो गयी! अब ये अगले $1 तक चलेंगी।",
+	"tab-overview": "सारांश",
+	"tab-settings": "सेटिंग्स",
+	"tab-about": "विवरण",
+	"tab-demo": "डॅमो",
+	"bl-mysettings": "मेरी भाषा सेटिंग्स",
+	"bl-mysettings-new": "भाषा बदलें!",
+	"bl-promo": "अनुवाद $1 और $2 द्वारा किये गए हैं।",
+	"bl-changelanguage": "इस टूल की अंतरफल भाषा बदलें।",
+	"usage": "इंट्यूशन द्वारा अनूदित टूल",
+	"help-translate-tool": "इस टूल का अनुवाद करने में मदद करें!",
+	"help-translate-all": "उपकरणों का अनुवाद करने में मदद करें!",
+	"help-translate-tooltip": "अपनी भाषा में अंतरफल संदेशों का अनुवाद कर के औरों की मदद करें।"
+}

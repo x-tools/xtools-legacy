@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"LexArt",
+			"Platonides"
+		]
+	},
+	"hello": "Прывітанне",
+	"welcome": "Сардэчна запрашаем",
+	"toolversionstamp": "Версія $1 ( $2 )",
+	"etc": "і г.д.",
+	"namespace": "Прастора назваў",
+	"form-submit": "Перайсці",
+	"form-reset": "Скінуць",
+	"years": "гадоў",
+	"weeks": "тыдняў",
+	"days": "дзён",
+	"hours": "гадзін",
+	"last-modified-date": "Апошнія змены: $1",
+	"view-source": "Паказаць крынічны тэкст",
+	"and": "&#32;і"
+}

@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"attention": "Diqet",
+	"language": "Zıwan",
+	"project": "Proce",
+	"source_file": "Çıme dosya",
+	"target_file": "Hedef dosya",
+	"commons_username": "Namey karber dê Wikimedia Commonsi",
+	"commons_to_project": "Proceyê Wikimedia Commonsi",
+	"categories": "Kategoriy",
+	"tusc_user": "TUSC namey qarwani",
+	"tusc_pass": "Parolay TUSC",
+	"do_it": "Bıke",
+	"error_not_exists": "Dosyaya çımey çıniya!",
+	"error_on_commons": "Çıme dosyay wanayışê  $1!",
+	"original_wikitext": "Metnê wikiyo oricinal",
+	"new_wikitext": "wiki metino newe",
+	"new_filename": "Newe namey dosya:",
+	"upload_submit": "Bar ke!",
+	"target_wiki": "Menzil wiki",
+	"help_mail": "$1 rê e-poste bırışe"
+}

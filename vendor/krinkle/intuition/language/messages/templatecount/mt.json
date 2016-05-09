@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli",
+			"Leli Forte"
+		]
+	},
+	"enter-details": "Daħħal id-dettalji",
+	"language-label": "Lingwa",
+	"namespace-label": "Spazju tal-ismijiet",
+	"pagename-label": "Isem tal-paġna (barra l-ispazju tal-isem)",
+	"transclusion-count-label": "Numru ta' inklużjonijiet",
+	"transclusion-count": "$1 inklużjonijiet misjuba."
+}

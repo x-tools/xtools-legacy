@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Liftarn",
+			"Lokal Profil"
+		]
+	},
+	"title": "SVG-översättning",
+	"error-tryagain": "$1 Tryck på webbläsarens tillbaka-knapp för att försöka igen.",
+	"error-nothing": "Inget att översätta.",
+	"error-notsvg": "Inte en SVG-fil.",
+	"error-unexpected": "Ett oväntat fel uppstod.",
+	"error-notfound": "SVG-filen kunde inte hämtas från den angivna adressen.",
+	"error-upload": "Ett fel uppstod under uppladdningen.",
+	"begin-translation": "Börja översättning",
+	"th-original": "Original",
+	"th-translation": "Översättning",
+	"th-language": "Språk",
+	"th-username": "Användarnamn",
+	"th-password": "Lösenord",
+	"th-method": "Metod",
+	"option-oauth": "OAuth (automatisk uppladdning)",
+	"option-manual": "Manuell uppladdning",
+	"preview": "Förhandsgranska",
+	"translate": "Översätt",
+	"translate-instructions": "Indata accepteras som antingen filnamn (t.ex. \"$1\") eller fullständig URL-adress (t.ex. \"$2\"). Om det första alternativet används kommer Wikimedia Commons antas vara källa. För att översätta en SVG-fil från en annan webbplats eller wiki, måste du använda det fullständiga URL-adressen.",
+	"svginput-label": "SVG-fil",
+	"stats-footer": "Detta verktyg har använts för att översätta cirka $1 filer sedan $2 .",
+	"uploading": "Laddar upp",
+	"upload-complete": "Uppladdningen har slutförts. Bilden bör nu finnas på $1",
+	"editdescriptionpage": "Redigera den nya beskrivningssidan",
+	"disclaimer": "Viss anonym data kommer att privat samlas in för statistiska ändamål. Om angivet, kommer OAuth-användarnamn också registreras för att hjälpa vid händelse av vandalism. Lösenord kommer aldrig registreras.",
+	"author-complete": "Vänligen fyll i författarinformationen!",
+	"preview-hide": "Dölj förhandsgranskning",
+	"preview-refresh": "Uppdatera förhandsvisningen",
+	"error-must-accept": "För att fortsätta med en direkt uppladdning måste du acceptera användningsvilkoren.",
+	"description-license": "Välj beskrivning och licens",
+	"finalise": "Färdigställ detaljer"
+}

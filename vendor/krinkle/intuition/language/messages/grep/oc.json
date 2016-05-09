@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"explanation": "explicacion",
+	"regex": "Expression regulara",
+	"enter-details": "Entratz los detalhs",
+	"results": "Resultats",
+	"language-label": "Lenga",
+	"namespace-label": "Espaci de noms",
+	"project-label": "Projècte",
+	"pattern-label": "Patron",
+	"redirects-label": "Inclure las redireccions"
+}

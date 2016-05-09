@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tacsipacsi",
+			"Dj"
+		]
+	},
+	"adder-empty": "Ismeretlen",
+	"expiry": "Lejárat",
+	"globalwatched": "Globálisan figyelt",
+	"reason": "Ok",
+	"reason-empty": "Nem található ok"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"form-label-language": "भाषा :",
+	"form-label-template": "फलकनाम :",
+	"feedback-total-count": "योगः : $1",
+	"link-edit": "सम्पाद्यताम्",
+	"link-create": "सृष्टम्"
+}

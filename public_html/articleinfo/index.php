@@ -22,25 +22,25 @@ function delayer(){
 
 //Requires
     set_include_path( get_include_path() . PATH_SEPARATOR . '/data/project/xtools/public_html/articleinfo');
-    require_once( '/data/project/xtools/modules/WebTool.php' );
+    require_once( '/Users/aziemba/Sites/MusikAnimal/xtools/modules/WebTool.php' );
 
 
 //Load WebTool class
-    $wt = new WebTool( 'articleinfo' ); 
+    $wt = new WebTool( 'articleinfo' );
     $wt->setLimits( 600,45 );
     $wt->getPageTemplate( "form" );
-    
+
     $article = $wgRequest->getVal( 'article' );
     $article = $wgRequest->getVal( 'page', $article );
     $pageid = $wgRequest->getVal( 'pageid', null );
     $article = ($pageid) ? null : $article;
-    
+
     $begintime = $wgRequest->getVal( 'begin' );
     $endtime = $wgRequest->getVal( 'end' );
     $nofollow = !$wgRequest->getBool( 'nofollowredir');
     $editorlimit = $wgRequest->getVal( 'editorlimit', 30 );
     $reloadpurge = $wgRequest->getVal('reloadpurge', null);
-    
+
     $wi = $wt->wikiInfo;
         $lang = $wi->lang;
         $wiki = $wi->wiki;
@@ -52,8 +52,8 @@ function delayer(){
     }
 
     require_once( 'ArticleInfo.php' );
-    
-    
+
+
 //Start dbr, site = global Objects init in WebTool
     $m1 = microtime( true );
 
@@ -61,46 +61,46 @@ function delayer(){
     $reloadhash = XTOOLS_REDIS_FLUSH_TOKEN.'002'.hash('crc32', $lang.$wiki.$article.$begintime.$endtime.$nofollow.$pageid);
     $hash = "xtoolsAI".$reloadhash;
     $lc = $redis->get($hash);
-    
+
     if ($lc === false || $reloadhash == $reloadpurge ){
         $dbr = $wt->loadDatabase( $lang, $wiki );
         $ai = new ArticleInfo( $dbr, $wi, $article, $begintime, $endtime, $nofollow, $pageid );
         if( $ai->historyCount > 60000 ) { $ttl = 1800; }
         if( $ai->historyCount > 100000 ) { $ttl = 86400; }
         if( !$ai->error ) { $redis->setex( $hash, $ttl, serialize( $ai ) ); }
-        
-    }    
+
+    }
     else{
         $ai = unserialize( $lc );
         unset( $lc );
         $perflog->add('AI', 0, 'from Redis');
     }
-    
-    
-$perflog->add('create ai', microtime(true) - $m1 ); 
-    
+
+
+$perflog->add('create ai', microtime(true) - $m1 );
+
     if( $ai->historyCount == 0 ) {
-        $wt->toDie( 'norevisions', $article ); 
+        $wt->toDie( 'norevisions', $article );
     }
     if( $ai->error ) {
         $wt->toDie( 'error' , $ai->error ) ;
     }
 
     require_once( 'Graph.php' );
-    
+
 
 
 //Now we can assign the Smarty variables!
     $wt->content = getPageTemplate( "result" );
-    
+
     $wt->assign( 'reloadpurge', '');
     #$wt->assign( 'reloadpurge', '<a title="reload & purge" href="//'.XTOOLS_BASE_WEB_DIR."/articleinfo/?".$_SERVER["QUERY_STRING"]."&reloadpurge=".$reloadhash."0".'"><img height=15px src="//upload.wikimedia.org/wikipedia/commons/d/dd/Reload_Icon_Red.svg" /></a>'  );
-    
+
     $msgMonth = $I18N->msg('months', array("variables" => array(1) ));
     $msgYear = $I18N->msg('years', array("variables" => array(1) ));
     $wt->assign( 'avgeditspermonth', $I18N->msg('avg_edits_per_time_sign', array("variables" => array($msgMonth) )) );
     $wt->assign( 'avgeditsperyear', $I18N->msg('avg_edits_per_time_sign', array("variables" => array($msgYear) )) );
-    
+
     $wt->assign( "page", $ai->pagetitleFull );
     $wt->assign( "urlencodedpage", $ai->pagetitleFullUrl );
     $wt->assign( 'pageid', $ai->pageid );
@@ -129,7 +129,7 @@ $perflog->add('create ai', microtime(true) - $m1 );
     $wt->assign( "maxdeluser", $ai->data['max_del']['user'] );
     $wt->assign( "maxdelnum", $wt->numFmt($ai->data['max_del']['size'] ) );
     $wt->assign( "maxdeldiff", $ai->data['max_del']['revid'] );
-    
+
     $wt->assign( "timebwedits", $wt->numFmt($ai->data['average_days_per_edit'] ,1).' '.$I18N->msg('days', array("variables" => array(2))));
     $wt->assign( "editspermonth", $wt->numFmt($ai->data['edits_per_month'] , 1));
     $wt->assign( "editsperyear", $wt->numFmt($ai->data['edits_per_year'] , 1));
@@ -140,42 +140,42 @@ $perflog->add('create ai', microtime(true) - $m1 );
     $wt->assign( "editsperuser", $wt->numFmt( $ai->data['edits_per_editor'],1 ));
     $wt->assign( "toptencount", $wt->numFmt( $ai->data['top_ten']['count'] ) );
     $wt->assign( "toptenpct", $wt->numFmt( ( $ai->data['top_ten']['count'] / $ai->data['count'] ) * 100, 1 ) );
-    
+
     $wt->assign( 'pagewatchers', $ai->pagewatchers );
     $wt->assign( 'pageviews60', @$wt->numFmt( $ai->pageviews->sumhits ) );
     $wt->assign( 'pageviews_days', '(60 '.$I18N->msg('days', array("variables" => array(2))).')' );
     $wt->assign( "totalauto", $ai->data["automated_count"]);
 
     $wt->assign( 'linkLanguageTool', ' <a href="//tools.wmflabs.org/languagetool/pageCheck/index?lang='.$wi->lang.'&url='.$ai->pagetitleFullUrl.'" >LanguageTool WikiCheck</a>' );
-    
+
     $wdlink = "–";
     if ( $ai->wikidataItemID ){
         $wdlink = '<span><a href="//www.wikidata.org/wiki/'.$ai->wikidataItemID.'#sitelinks-wikipedia" >'.$ai->wikidataItemID.'</a> &middot; '.count($ai->wikidataItems).' Items</span>';
     }
     $wt->assign( 'wikidatalink', $wdlink );
     $wt->assign( 'linkreasonator', ( $ai->wikidataItemID )  ? '<a href="//tools.wmflabs.org/reasonator/?q='.$ai->wikidataItemID.'" >Reasonator (Wikidata)</a> &middot;&nbsp;' : '' );
-    
+
     $disamblink = '';
     if ($ai->isDisamb ){
         $disamblink = '<span><img height=16px src="//upload.wikimedia.org/wikipedia/commons/c/c3/Disambiguation.svg" alt="disambiguation" />
                         <a href="//tools.wmflabs.org/wikiviewstats/?locale='.$wt->uselang.'&lang='.$wi->lang.'&project='.$wi->wiki.'&type=disamb&page='.$ai->pagetitleFullUrl.'&latest=30" >'.$I18N->msg('disambPage', 'wikiviewstats').'</a></span>';
     }
     $wt->assign( 'disamblink', $disamblink );
-    
+
     $exportlink ='';
 #    if ($wt->debug ){
         $exportimg = '<img style="height:30px; padding-right:5px;" src="//upload.wikimedia.org/wikipedia/commons/3/30/Exporte.svg" />';
         $exportlink = $exportimg . '<a href="//'.XTOOLS_BASE_WEB_DIR.'/Export.php?token='.$reloadhash.'" >Export as Wikitable<sup style="color:green"> beta</sup></a>';
 #    }
     $wt->assign( 'exportlink', $exportlink);
-    
+
     $wt->assign('enwp10table', $ai->enwp10Html );
-    
-    
+
+
 //Colors
-    $pixelcolors = array( 
-                'all' => '3399FF', 
-                'anon' => '66CC00', // 55FF55', 
+    $pixelcolors = array(
+                'all' => '3399FF',
+                'anon' => '66CC00', // 55FF55',
                 'minor' => 'cc9999',
                 'size' => '999999',
                 'protect' => 'ff3300',
@@ -189,37 +189,37 @@ $perflog->add('create ai', microtime(true) - $m1 );
     $graphmajorpct = number_format( 100 - $graphminorpct, 1 );
     $graphtoptenpct = number_format( ( $ai->data['top_ten']['count'] / $ai->data['count'] ) * 100, 1 );
     $graphbottomninetypct = number_format( 100 - $graphtoptenpct, 1 );
-    
+
     $gcolor1 = '99CCFF';
     $gcolor2 = '99CC00';
-    
+
     $mdata = array( $graphuserpct, $graphanonpct );
     $mlabels = array( $I18N->msg('users', array("variables"=>array(2))).' ('.$graphuserpct.'%)' , $I18N->msg('ips').' ('.$graphanonpct.'%)' );
     $mcolors = array( $gcolor1, $gcolor2 );
     $graphuser = '<img alt="bla" src="'.xGraph::makeMiniPie( $mdata, $mlabels, $mcolors, $wi->lang ).'" />';
     $wt->assign( 'graphuser', $graphuser );
-    
+
     $mdata = array( $graphmajorpct, $graphminorpct );
     $mlabels = array( $I18N->msg('major').' ('.$graphmajorpct.'%)' , $I18N->msg('minor').' ('.$graphminorpct.'%)' );
     $mcolors = array( $gcolor1, $gcolor2 );
     $graphminor = '<img alt="bla" src="'.xGraph::makeMiniPie( $mdata, $mlabels, $mcolors, $wi->lang ).'" />';
     $wt->assign( 'graphminor', $graphminor );
-    
+
     $mdata = array( $graphtoptenpct, $graphbottomninetypct );
     $mlabels = array( $I18N->msg('topten').' ('.$graphtoptenpct.'%)' , $I18N->msg('bottomninety').' ('.$graphbottomninetypct.'%)' );
     $mcolors = array( $gcolor1, $gcolor2 );
     $graphtopten = '<img alt="bla" src="'.xGraph::makeMiniPie( $mdata, $mlabels, $mcolors, $wi->lang ).'" />';
     $wt->assign( 'graphtopten', $graphtopten );
-    
-    unset($mdata, $mlabels, $graphtopten, $graphminor, $graphuser );
-    
-    
 
-//Year counts 
+    unset($mdata, $mlabels, $graphtopten, $graphminor, $graphuser );
+
+
+
+//Year counts
     //$yearpixels = $ai->getYearPixels();
     $chartImgYears = xGraph::makeChartArticle("year", $ai->data['year_count'], $ai->pageLogs["years"], $pixelcolors );
     $wt->assign('chartImgYears', "<img class='img-responsive' src='$chartImgYears' alt='bla' />" );
-    
+
     $list = '
         <tr>
         <th>{#years#}</th>
@@ -244,24 +244,24 @@ $perflog->add('create ai', microtime(true) - $m1 );
 
             if ( !isset($ai->pageLogs["years"][ $year ]) ){ $ai->pageLogs["years"][ $year ] = array(); }
             ksort( $ai->pageLogs["years"][ $year ] );
-            
+
             $actions = array();
             foreach ( $ai->pageLogs["years"][ $year ] as $logaction => $count ){
                 $actions[] = "$logaction: $count";
             }
-            
+
         $list .= "<td>".implode(" &middot; ", $actions)."</td>";
         $list .= '</tr>';
     }
     $wt->assign( "yearcountlist", $list);
     unset( $list, $yearpixels );
-        
-        
-//Month graphs    
+
+
+//Month graphs
     $monthpixels = $ai->getMonthPixels();
 #    $wt->assign( "monthpixels", $monthpixels );
 #    $wt->assign( "evenyears", $ai->getEvenYears() );
-    
+
     $list = '';
     foreach ( $ai->data['year_count'] as $key => $val ){
         $list .= '
@@ -273,9 +273,9 @@ $perflog->add('create ai', microtime(true) - $m1 );
             <th>{#minor#}</th>
             <th>{#minor#} %</th>
             <th>
-                <span class=legendicon style="background-color:#'.$pixelcolors["all"].' !important"> </span> {#alledits#} &nbsp;&bull;&nbsp; 
-                <span class=legendicon style="background-color:#'.$pixelcolors["anon"].'"> </span> {#ips#} &nbsp;&bull;&nbsp; 
-                <span class=legendicon style="background-color:#'.$pixelcolors["minor"].'"> </span> {#minor#} 
+                <span class=legendicon style="background-color:#'.$pixelcolors["all"].' !important"> </span> {#alledits#} &nbsp;&bull;&nbsp;
+                <span class=legendicon style="background-color:#'.$pixelcolors["anon"].'"> </span> {#ips#} &nbsp;&bull;&nbsp;
+                <span class=legendicon style="background-color:#'.$pixelcolors["minor"].'"> </span> {#minor#}
             </th>
             </tr>
           ';
@@ -304,16 +304,16 @@ $perflog->add('create ai', microtime(true) - $m1 );
     $wt->assign( "monthcountlist", $list);
     unset( $list, $monthpixels );
 
-    
-//usertable    
+
+//usertable
 
     $list = '';
     $countrevs = 0;
     $count = 0;
     foreach( $ai->data['editors'] as $user => $info ){
-        
+
         $textshare = ( isset($ai->data["textshares"][$user]["all"]) ) ? $ai->data["textshares"][$user]["all"] : 0;
-        
+
         $list .= '
             <tr>
             <td><a href="//{$domain}/wiki/User:'.$info["urlencoded"].'" >'.$user.'</a></td>
@@ -341,20 +341,20 @@ $perflog->add('create ai', microtime(true) - $m1 );
                     <td colspan=2 >'. ($ai->data['editor_count'] - $count).' {#others#}</td>
                     <td class=tdnum >'. $wt->numFmt( ($ai->data['count'] - $countrevs) ).'</td>
                     <td colspan=22 ><a href="//tools.wmflabs.org'. $_SERVER['REQUEST_URI'] .'&editorlimit='.$newlimit.'#topeditors" >&nbsp;&nbsp;-{#more#}-</a></td>
-                </tr>    
+                </tr>
                 ';
-            break;                    
+            break;
         }
     }
 #<td class=tdnum >'.$info["size"].' KB</td>
     $wt->assign( "usertable", $list );
-    
-    
+
+
     $chartImgTopEditors = xGraph::makePieTopEditors( $I18N->msg('toptenbyedits'), $ai->data["count"], $ai->data["editors"], $wi->lang );
     $wt->assign( 'chartTopEditorsByCount', "<img src='$chartImgTopEditors' alt='bla' />" );
     $chartImgTopEditors = xGraph::makePieTopEditors( $I18N->msg('toptenbytext'), $ai->data["textshare_total"], $ai->data["textshares"], $wi->lang );
     $wt->assign( 'chartTopEditorsByText', "<img src='$chartImgTopEditors' alt='bla' />" );
-    
+
 
 //bots list
     $list = '';
@@ -369,27 +369,27 @@ $perflog->add('create ai', microtime(true) - $m1 );
                 </tr>';
     }
     $wt->assign( 'botslist', $list );
-    
+
     unset($list);
-    
+
 //maintenance list
     $list = '';
     if ( $ai->checkResults['list'] ){
-        
+
         $edit['checkwiki'] ='<span ><a target="_new" href="//'.$domain.'/w/index.php?title='.$ai->pagetitleFullUrl.'&action=edit ">Edit</a>';
         $edit['languagetool'] = $edit['checkwiki'];
         $edit['wikidata']  ='<span ><a target="_new" href="//www.wikidata.org/wiki/'.$ai->wikidataItemID.'?uselang='.$wi->lang.'">Edit</a>';
-        
+
         $list = '<tr>
             <th>Prio</th>
             <th>Name</th>
             <th>Notice</th>
             <th>Edit</th>
             <th>Explanation</th>
-            
+
             </tr>
             ';
-    
+
         foreach( $ai->checkResults['list'] as $i => $row ){
             $list .= '<tr>
                     <td>'.$row["prio"].'</td>
@@ -408,9 +408,9 @@ $perflog->add('create ai', microtime(true) - $m1 );
     $wt->assign( 'maintenance', $list );
     $wt->assign( 'numbugs', count($ai->checkResults['list'] ) );
     $wt->assign( 'imgbugs', $imgbugs );
-    
+
     unset($list);
-    
+
 
 //Pageviews
 
@@ -418,19 +418,19 @@ $perflog->add('create ai', microtime(true) - $m1 );
     $cImg = xGraph::makeBarPageViews( $charttitle, $ai->pageviews, $wi->lang );
     $chartImgPageviews = "<a href=\"//tools.wmflabs.org/wikiviewstats/?latest=60&amp;lang=$lang&amp;wiki=$wiki&amp;page=$ai->pagetitleFullUrl\" ><img class=\"img-responsive\" src=\"".$cImg."\" alt='bla' /></a>";
     $wt->assign( 'chartImgPageviews', $chartImgPageviews);
-    
+
 
 //Assign links
     foreach ( $ai->links as $link ){
         $wt->assign( $link["type"], $wt->numFmt( $link["value"] ) );
     }
-    
+
 //tools list
     $list = '<table>';
     foreach( $ai->data["tools"] as $tool => $count ){
         $list .= '<tr><td>'.$tool.'</td><td> &middot; '.$wt->numFmt($count).'</td></tr>';
     }
-    $list .= '</table>';            
+    $list .= '</table>';
     $wt->assign( 'toolslist', $list );
 
 
@@ -439,7 +439,7 @@ $perflog->add('create ai', microtime(true) - $m1 );
     $wt->assign( "lang", $lang );
     $wt->assign( "wiki", $wiki );
     $wt->assign( 'days', $I18N->msg('days', array("variables"=>array(2) ) ) );
-    
+
 
 unset( $ai, $list );
 
@@ -461,7 +461,7 @@ function getPageTemplate( $type ){
         <div class="panel-heading">
             <p class="xt-heading-top" >
                 <a href="//{$domain}/wiki/{$urlencodedpage}">{$page}</a>
-                <small><span style="padding-left:10px;" > &bull;&nbsp; {$domain} </span></small> 
+                <small><span style="padding-left:10px;" > &bull;&nbsp; {$domain} </span></small>
             </p>
         </div>
         <div class="panel-body xt-panel-body-top"  >
@@ -471,9 +471,9 @@ function getPageTemplate( $type ){
                 {$linkreasonator}
                 {$reloadpurge}
             </p>
-        
-    
-    
+
+
+
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4  class="topcaption" >{#generalstats#} <span class="showhide" onclick="javascript:switchShow( \'generalstats\', this )">[{#hide#}]</span></h4>
@@ -488,7 +488,7 @@ function getPageTemplate( $type ){
                     <tr><td style="border-left:1px solid blue" >{#totaledits#}:</td><td class="tdtop1" >{$totaledits}</td></tr>
                     <tr><td style="border-left:1px solid blue" ><a href="#topeditors" >{#editorcount#}:</a></td><td class="tdtop1" >{$editorcount}</td></tr>
                     <tr><td colspan=20 >&nbsp;</td></tr>
-        
+
                     <tr><td>{#minoredits#}:</td><td class="tdtop1" >{$minoredits} &nbsp;&middot;&nbsp;({$minorpct}%)</td></tr>
                     <tr><td>{#anonedits#}:</td><td class="tdtop1" >{$anonedits} &nbsp;&middot;&nbsp;({$anonpct}%)</td></tr>
                     <tr><td>{#botedits#}:</td><td class="tdtop1" >{$botedits} &nbsp;&middot;&nbsp;({$boteditspct}%)</td></tr>
@@ -538,7 +538,7 @@ function getPageTemplate( $type ){
             </table>
         </div>
     </div>
-    
+
     <!-- yeargraphs -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -554,7 +554,7 @@ function getPageTemplate( $type ){
             <br />
         </div>
     </div>
-    
+
     <!-- pageviews -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -565,7 +565,7 @@ function getPageTemplate( $type ){
             <br />
         </div>
     </div>
-    
+
     <!-- $usertable -->
     <a id="topeditors"></a>
     <div class="panel panel-default">
@@ -614,7 +614,7 @@ function getPageTemplate( $type ){
             </div>
         </div>
     </div>
-            
+
     <!-- maimtenance -->
     <a id="maintenance"></a>
     <a id="bugs"></a>
@@ -647,7 +647,7 @@ function getPageTemplate( $type ){
             {$enwp10table}
         </div>
     </div>
-            
+
     <!-- monthgraphs -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -660,11 +660,11 @@ function getPageTemplate( $type ){
         </div>
     </div>
 
-</div>            
+</div>
 </div>
     ';
-    
-        
+
+
     if( $type == "form" ) { return $templateForm; }
     if( $type == "result" ) { return $templateResult; }
 }

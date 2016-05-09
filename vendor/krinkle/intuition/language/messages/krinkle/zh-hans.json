@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra"
+		]
+	},
+	"alws-label": "维基",
+	"alws-selectwiki": "（选择维基）",
+	"alws-group-mustused": "使用最多的维基",
+	"alws-group-allaz": "所有的维基按字母顺序",
+	"form-legend-settings": "设置"
+}

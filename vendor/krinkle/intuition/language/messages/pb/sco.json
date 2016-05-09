@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"pb-about-pb-navi": "Aneat",
+	"pb-about-pb-tech": "Techneecal deetails",
+	"pb-about-pb-tech-text": "<p>We uise <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> n <a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a> fer this interface. The soorce code is publeeshed unner the terms o the <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Publeec License 3</a> (LGPL 3) n can be accessed <a href=\"https://github.com/tool-labs/pb\">on GitHub</a>. Please eik bug reports, featur requests or ither comments <a href=\"https://github.com/tool-labs/pb/issues/new\">til the GitHub issue tracker</a> or report it oan the <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">Wikipædia tauk page</a>.</p>\n    <p>The Nou dumps o the PB database can be foond <a href=\"/pb/sql-dumps\">here</a>.</p>\n    <p>We uise several icons cræftit bi the <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a> waurk.</p>",
+	"pb-about-pb-text": "<p>This waurk represents personal acquaintances atween Wikimedians.</p>\n    <p>The firstwhile implementation wis dun bi Ulli Purwin (interface) n Euku (bot). At the sairt o 2011, Wiegels n Ireas follaeed Ulli daein the interface. Bi now, the waurk is naw langer hosted oan ae preevate server but oan Wikimedia Labs.</p>\n    <p>Mair information aneat this waurk can be foond in the German Wikipædia oan the page <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Aneat the waurk",
+	"pb-change-language": "Chynge lied",
+	"pb-comment": "Comment",
+	"pb-confirmations-given": "Gien confirmations",
+	"pb-confirmations-taken": "Receeved confirmations",
+	"pb-current-confirmations": "Thaur's $1 confirmations in total, this is aboot <abbr title=\"$2\">$3</abbr> confirmations ae day.",
+	"pb-current-figures": "Figures the nou",
+	"pb-current-users": "At the nou, $1 uisers parteecipate in the <em>Personal Acquaintances</em> waurk.",
+	"pb-date": "Date",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German Wikipædia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> oan Tuil Labs. <a href=\"$1\" title=\"Aneat Wikipedia:Persönliche Bekanntschaften\">Mair information.</a>",
+	"pb-home": "Hame",
+	"pb-home-welcome": "Weelcome til the <em>Personal Acquaintances</em> waurk (<em>Persönliche-Bekanntschaften</em> in German)!  Mair information aneat this waurk can be foond <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German leid Wikipædia\">in the German leid Wikipædia</a>.",
+	"pb-javascript-notice": "We recommend that ye enable JavaScript fer this wabsite tae impruiv the uiser interface.",
+	"pb-labs-name": "Wikimedia Tuil Labs",
+	"pb-participates-since": "Parteecipates sin",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "Pwred bi Wikimedia Tuil Labs",
+	"pb-recent-confirmations": "Reecent confirmations",
+	"pb-reconfirmed": "Reeconfirmed?",
+	"pb-user": "Uiser",
+	"pb-user-link-title": "Details fer uiser $1",
+	"pb-user-heading": "Information fer <a href=\"$2\" title=\"Uiser page o $1\">$1</a>",
+	"pb-user-title": "Information fer $1",
+	"pb-users-navi": "Uisers",
+	"pb-users-title": "Leet o parteecipaters",
+	"pb-users-overview": "Thae $1 uisers parteeceepate in the <em>Personal Acquaintance</em> waurk:",
+	"pb-verified-since": "Vereefied sin"
+}

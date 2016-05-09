@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr"
+		]
+	},
+	"moretools": "flere verktøy",
+	"homepage-title": "Indroduksjon",
+	"bugs": "feilrapporter og funksjonsforespørsler",
+	"comments": "kommentarer og spørringer",
+	"error-form-empty": "En eller flere obligatoriske felt er fortsatt tomme. Du bør fylle dem ut før du fortsetter."
+}

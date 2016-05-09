@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64"
+		]
+	},
+	"dateformat": "%d %B %Y",
+	"hello": "Hallo",
+	"welcome": "Willkommen",
+	"toolversion": "Version $1",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "usw.",
+	"namespace": "Namensraum",
+	"form-submit": "Ausführen",
+	"form-reset": "Zurücksetzen",
+	"years": "{{PLURAL: $1|Jahr|Jahre}}",
+	"months": "{{PLURAL: $1|Monat|Monate}}",
+	"weeks": "{{PLURAL: $1|Woche|Wochen}}",
+	"days": "{{PLURAL: $1|Tag|Tage}}",
+	"hours": "{{PLURAL: $1|Stunde|Stunden}}",
+	"minutes": "{{PLURAL: $1|Minute|Minuten}}",
+	"seconds": "{{PLURAL: $1|Sekunde|Sekunden}}",
+	"last-modified-date": "Zuletzt geändert: $1",
+	"view-source": "Quelltext anzeigen",
+	"comma-separator": ",&#32;",
+	"word-separator": "&#32;",
+	"and": "&#32;und"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Faren",
+			"Ty221"
+		]
+	},
+	"title": "Grep tytułu artykułu (beta)",
+	"explanation": "wyjaśnienie",
+	"regex": "Wyrażenie regularne",
+	"enter-details": "Wprowadź szczegóły",
+	"results": "Wyniki",
+	"language-label": "Język",
+	"namespace-label": "Przestrzeń nazw",
+	"project-label": "Projekt",
+	"pattern-label": "Wzór",
+	"redirects-label": "Zawiera przekierowania",
+	"limit-label": "Ogranicz wyświetlanie do pierwszych 100 wyników",
+	"error-zeroresults": "Nie ma stron w tej przestrzeni nazw, które pasują do twojego wyrażenia regularnego.",
+	"match-count": "{{PLURAL:$1|$1 strona|$1 stron}} pasuje do twojego wyrażenia regularnego."
+}

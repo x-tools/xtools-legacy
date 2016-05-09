@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nayvik",
+			"VASANTH S.N."
+		]
+	},
+	"explanation": "ವಿವರಣೆ",
+	"enter-details": "ವಿವರಣೆಗಳನ್ನು ತುಂಬಿ",
+	"results": "ಫಲಿತಾಂಶಗಳು",
+	"language-label": "ಭಾಷೆ",
+	"namespace-label": "ನಾಮವರ್ಗ",
+	"project-label": "ಯೋಜನೆ",
+	"pattern-label": "ವಿನ್ಯಾಸ",
+	"redirects-label": "ಪುನರ್ನಿರ್ದೇಶನಗಳನ್ನು ಸೇರಿಸಿ",
+	"limit-label": "ಪ್ರದರ್ಶನವನ್ನು ಮೊದಲ ೧೦೦ ಫಲಿತಾಂಶಗಳಿಗೆ ಮಿತಿಗೊಳಿಸು"
+}

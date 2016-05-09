@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"form-label-language": "ენა:",
+	"form-label-template": "თარგის სახელი:",
+	"feedback-total-count": "სულ: $1",
+	"link-edit": "რედაქტირება",
+	"link-create": "შექმნა",
+	"error-language": "უცნობი ენის კოდი."
+}

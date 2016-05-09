@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"පසිඳු කාවින්ද",
+			"බිඟුවා"
+		]
+	},
+	"toolserver-status-ok": "ක්ලස්ටර් $1 $2 හි කිසිදු දෝෂයක් නොමැත",
+	"toolserver-status-info": "$1 ස්තබකයෙහි පරිශීලකයන් සඳහා නිවේදනය: $2",
+	"toolserver-status-warn": "$1 ස්තබකයෙහි පරිශීලකයන් සඳහා රැඳෙමින්: $2",
+	"toolserver-status-down": "දත්ත සංචිත ස්තබකය $1 තාවකාලිකව වසා දමා ඇත. $2",
+	"toolserver-status-erro": "දත්ත සංචිත ස්තබකය $1 මැඩ පවත්වා ඇත. $2",
+	"toolserver-status-unknown": "$1 ස්තබකයේ නොදන්නා තත්වය",
+	"toolserver-status-missing": "$1 ස්තබකය නොපවතියි",
+	"toolserver-status-short-ok": "$1: හරි",
+	"toolserver-status-short-info": "$1: තොරතුරු",
+	"toolserver-status-short-warn": "$1: අනතුරු හඟවනවා",
+	"toolserver-status-short-down": "$1: විරහිතයි",
+	"toolserver-status-short-erro": "$1: දෝෂය",
+	"toolserver-status-short-unknown": "$1: නොදත්",
+	"toolserver-status-short-missing": "$1: දක්නට නොමැත"
+}

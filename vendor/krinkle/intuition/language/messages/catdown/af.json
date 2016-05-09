@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"project": "Projek:",
+	"category": "Kategorie:",
+	"max-width": "Maksimum breedte:",
+	"max-height": "Maksimum hoogte:",
+	"invalid-width": "Ongeldige breedte",
+	"invalid-height": "Ongeldige hoogte",
+	"no-such-project": "Daa is nie so 'n projek nie",
+	"download": "Laai af"
+}

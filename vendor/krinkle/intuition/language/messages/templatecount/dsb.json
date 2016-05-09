@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"enter-details": "Drobnostki zapódaś",
+	"introduction": "Zapiš mě pśedłogi (tuchylu jano Wikipedije) a klikni na \"Pytaś\", Tak jadnore to jo.  Su pufrowane wuslědki, ale to njepódlažy bóžko pód wliwom rěda a jogo wobsejźerja.",
+	"language-label": "Rěc",
+	"namespace-label": "Mjenjowy rum",
+	"pagename-label": "Mě boka (bźez mjenjowego ruma)",
+	"transclusion-count-label": "Licba transkluzijow",
+	"transclusion-count": "{{PLURAL:$1|1 transkluzija jo se namakała|$1 transkluziji stej se namakałej|$1 transkluzije su se namakali|$1 transkluzijow jo se namakało}}.",
+	"error-suggestion": "Snaź sy mě boka wopak (abo z wopacnym wjelikopisanim) napisał?",
+	"time-label": "Trěbny cas za wuwjeźenje pśikaza"
+}

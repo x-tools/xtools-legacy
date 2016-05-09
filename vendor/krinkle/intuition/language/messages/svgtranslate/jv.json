@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"error-tryagain": "$1 Pencèt tombol balik nèng pramban Sampéyan kanggo njajal manèh.",
+	"error-nothing": "Ora ana sing diterjemahaké.",
+	"error-notsvg": "Udu berkas SVG.",
+	"error-unexpected": "Ana kasalahan sing ora kinira.",
+	"error-notfound": "Berkas SVG ora bisa dijupuk saka URL sing diawèhaké.",
+	"error-upload": "Ana kasalahan nalika ngunggah.",
+	"begin-translation": "Lekas terjemahaké",
+	"th-original": "Asli",
+	"th-translation": "Terjamahan",
+	"th-language": "Basa",
+	"th-username": "Jeneng panganggo",
+	"th-password": "Tembung sandhi",
+	"th-method": "Tata cara",
+	"option-oauth": "TUSC (ngunggah otomatis)",
+	"option-manual": "Ngunggah manual",
+	"preview": "Pratayang",
+	"translate": "Terjemahna",
+	"svginput-label": "Berkas SVG",
+	"stats-footer": "Piranti iki wis dianggo kanggo nerjemahaké kira-kira $1 berkas kawit $2.",
+	"uploading": "Ngunggah",
+	"upload-complete": "Pangunggahan rampung kanthi sukses. Gambar saiki kuduné nèng $1",
+	"editdescriptionpage": "Sunting kaca dèskripsi anyar",
+	"disclaimer": "Sebagéyan data anonim bakal diklempakaké sacara pribadi kanggo panjangka statistik. Yèn sumadhiya, jeneng panganggo OAuth uga bakal direkam kanggo ngéwangi yèn ana kadadéan pangrusakan. Tembung sandhi ora bakal direkam.",
+	"author-complete": "Mangga lengkapi informasi panganggit!",
+	"preview-hide": "Dhelikna pratayang",
+	"preview-refresh": "Anyari pratayang",
+	"error-must-accept": "Kanggo mbanjuraké mawa unggahan langsung, Sampéyan kudu nrima syarat panganggoan sing sumadhiya.",
+	"description-license": "Pilih dèskripsi lan lisènsi",
+	"finalise": "Rampungaké rincian"
+}

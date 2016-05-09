@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"title": "דפים המקושרים מכאן",
+	"title-leaveshere": "קישורים שיוצאים מהדף \"$1\"",
+	"sub-leaveshere": "הדפים הבאים מקושרים מהדף $1",
+	"label-page": "דף",
+	"label-namespace": "מרחב שם",
+	"label-limit": "מגבלה",
+	"button-submit": "קדימה",
+	"noleaveshere": "אין שום קישור מהדף $1",
+	"link-whatleaveshere": "דפים המקושרים מכאן",
+	"tooltip-whatleaveshere": "רשימה של כל מה שמקושר מכאן",
+	"whatlinkshere": "דפים המקושרים לכאן",
+	"whatlinkshere-whatleaveshere": "מה יוצא מכאן?",
+	"istemplate": "הכללה",
+	"isfile": "קישור לקובץ",
+	"linksearch": "חיפוש קישורים",
+	"section-links": "קישורים",
+	"section-iwlinks": "קישורי בינוויקי",
+	"section-extlinks": "קישורים חיצוניים",
+	"section-categories": "קטגוריות"
+}

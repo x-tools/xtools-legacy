@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harsh4101991"
+		]
+	},
+	"search-table-th-field": "ક્ષેત્ર",
+	"search-table-th-filter": "ચાળણી",
+	"search-table-th-search": "શોધો",
+	"filter-all-countries": "બધા દેશ",
+	"filter-all-languages": "બધી ભાષાઓ",
+	"db-field-country": "દેશ",
+	"db-field-lang": "ભાષા",
+	"db-field-name": "નામ",
+	"db-field-address": "સરનામું",
+	"db-field-lat": "અક્ષાંશ",
+	"db-field-lon": "રેખાંશ",
+	"db-field-image": "ચિત્ર",
+	"db-field-source": "સ્રોત",
+	"db-field-st_image": "ચિત્ર",
+	"db-field-st_image_pct": "ચિત્ર %",
+	"db-field-st_name": "નામ",
+	"db-field-st_name_pct": "નામ %",
+	"db-field-st_total": "કુલ આંકડો",
+	"toolbox-nav-homepage": "મુખપૃષ્ઠ",
+	"toolbox-nav-search": "શોધો",
+	"location": "સ્થળ"
+}

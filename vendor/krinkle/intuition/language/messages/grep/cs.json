@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron"
+		]
+	},
+	"explanation": "vysvětlení",
+	"regex": "Regulární výraz",
+	"enter-details": "Přidejte podrobnosti",
+	"results": "Výsledky",
+	"language-label": "Jazyk",
+	"namespace-label": "Jmenný prostor",
+	"project-label": "Projekt",
+	"pattern-label": "Vzor",
+	"redirects-label": "Zahrnout přesměrování",
+	"limit-label": "Omezit zobrazení na prvních 100 výsledků",
+	"error-zeroresults": "Ve jmenném prostoru nejsou žádné stránky, které odpovídají vašemu regulárnímu výrazu"
+}

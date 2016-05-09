@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"SPQRobin",
+			"Siebrand"
+		]
+	},
+	"enter-details": "Gegevens invoeren",
+	"introduction": "Geef de naam in van een sjabloon (werkt alleen voor Wikipedia's op het moment) en klik op \"OK\". Zo eenvoudig is het. Er wordt gebruik gemaakt van cachen (onthouden van resultaten), maar daar heeft dit hulpprogramma geen invloed op.",
+	"language-label": "Taal",
+	"namespace-label": "Naamruimte",
+	"pagename-label": "Paginanaam (zonder de naamruimte)",
+	"transclusion-count-label": "Aantal sjablonen",
+	"transclusion-count": "$1 sjablo(o)n(en) gevonden.",
+	"error-suggestion": "Misschien hebt u de paginanaam verkeerd ingevoerd (denk aan hoofdletters en dergelijke)?",
+	"time-label": "Uitvoertijd van het commando"
+}

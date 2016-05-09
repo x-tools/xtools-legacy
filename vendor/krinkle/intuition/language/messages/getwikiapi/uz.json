@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"CoderSI"
+		]
+	},
+	"formats-heading": "Chiqish formatlari",
+	"input": "Kirish",
+	"label-wikiids": "Viki-identifikatorlar",
+	"no-matches": "\"$1\" bilan mosliklar yoʻq",
+	"output": "\"$1\" uchun chiqish"
+}

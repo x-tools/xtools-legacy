@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj"
+		]
+	},
+	"apply": "Alkalmaz",
+	"asc": "Növekvő",
+	"changelog": "Mi újság?",
+	"clear": "töröl",
+	"currentedit": "Aktuálisan kijelölt szerkesztés",
+	"cvn-adder-empty": "Ismeretlen",
+	"cvn-reason": "Indoklás",
+	"cvn-reason-empty": "Nincs indoklás",
+	"desc": "Csökkenő",
+	"documentation": "Dokumentáció",
+	"filter": "Szűrő",
+	"helpicon-tooltip": "Tudj meg többet erről a szolgáltatásról",
+	"lastupdate-cvn": "Utolsó frissítés:$1",
+	"lastupdate-rc": "Utolsó frissítés:$1",
+	"limit": "Korlát",
+	"months": "január, február, március, április, május, június, július, augusztus, szeptember, október, november, december",
+	"mypatrollog": "járőr naplóm",
+	"namespace": "Névtér",
+	"select-placeholder-none": "(semmi)",
+	"showAnonOnly": "Csak névtelen",
+	"showUnpatrolledOnly": "Csak ellenőrizetlen",
+	"skippededit": "Kihagyott szerkesztés",
+	"tag": "Címke",
+	"time-from": "Ettől",
+	"time-untill": "Eddig",
+	"timeframe": "Időkeret",
+	"type": "Típus",
+	"typeEdit": "Szerkesztések",
+	"typeNew": "Új lapok",
+	"userfilter": "Felhasználói szűrő"
+}

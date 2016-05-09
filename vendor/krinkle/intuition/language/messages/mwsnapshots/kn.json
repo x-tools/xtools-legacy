@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Akoppad",
+			"M G Harish",
+			"Ananth subray"
+		]
+	},
+	"title-overview": "ಮುನ್ನೋಟಗಳು",
+	"title-error": "ದೋಷ",
+	"title-updatelog": "ದಿನಚರಿ ನವೀಕರಿಸಿ",
+	"updatelog-intro": "ನವೀಕರಣವು ಪ್ರತಿ ಘಂಟೆ ಜಾರಿಗೊಳ್ಳುವಂತೆ ವ್ಯವಸ್ಥೆ ಮಾಡಲಾಗಿದೆ. ಕೆಳಗಿರುವುದು ಕೊನೆಯ ಬಾರಿ ಜಾರಿಗೊಂಡಾಗಿನ ಫಲಿತಾಂಶ.",
+	"updatelog-active": "ನವೀಕರಣವು ನಡೆಯುತ್ತಿದೆ. ಸಂಪೂರ್ಣ ದಿನಚರಿಗಾಗಿ ನಂತರ ಬನ್ನಿ.",
+	"download-button": "ಡೌನ್ಲೋಡ್ ಸ್ನ್ಯಾಪ್ಶಾಟ್",
+	"download-directlink": "ನೇರ ಕೊಂಡಿ",
+	"title-downloadpage": "ಡೌನ್ಲೋಡ್",
+	"title-downloadpage-repo": "ಡೌನ್ಲೋಡ್ $1",
+	"err-snapshotindex": "ಮುನ್ನೋಟಗಳ ಪರಿವಿಡಿ ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ.",
+	"err-invalid-repo": "ಅಪರಿಚಿತ ಸಂಪುಟ: \"$1\".",
+	"err-invalid-branch": "\"$2\" ಸಂಪುಟದಲ್ಲಿ ಅಪರಿಚಿತ ಶಾಖೆ: \"$1\"",
+	"err-nosnapshot": "ಪ್ರತಿ ಘಂಟೆಯೂ ಮುನ್ನೋಟಗಳನ್ನು ನಿರ್ಮಿಸಲಾಗುತ್ತದೆ. \"$1\"ಗಾಗಿ ಮುನ್ನೋಟವನ್ನು ನಿರ್ಮಿಸುವಾಗ ಒಂದು ದೋಷವುಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ.",
+	"err-noupdatelog": "ನವೀಕರಣ ದಿನಚರಿ ಸಿಗಲಿಲ್ಲ.",
+	"repo-site-link": "ಜಾಲತಾಣ",
+	"repo-browse-link": "ಉಗ್ರಾಣ ಶೋಧ ಮಾಡು",
+	"repo-branches-label": "ಶಾಖೆಗಳು",
+	"repo-lastmoddate-label": "ದಿನಾಂಕ:",
+	"branches-submit-button": "ಅದನ್ನು ಪಡೆ",
+	"updatelog-link": "ದಿನಚರಿ ನಕಲೆರಿಸು",
+	"tablehead-repo": "ಉಗ್ರಾಣ",
+	"tablehead-snapshots": "ಮುನ್ನೋಟ",
+	"tablehead-branch": "ಶಾಖೆ",
+	"tablehead-filesize": "ಕಡತದ ಗಾತ್ರ",
+	"tablehead-hash": "ತಾಳೆಮೊತ್ತಗಳು"
+}

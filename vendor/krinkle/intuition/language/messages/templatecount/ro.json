@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"enter-details": "Introduceți detalii",
+	"introduction": "Introduceți numele unui format (pentru moment funcționează doar pentru Wikipedia, ne pare rău) și apăsați Du-te. Atât de simplu. Trebuie spus că se rețin și informații în memoria cache (date care țin de rezultate), dar, din păcate, acest lucru nu poate fi controlat de către această unealtă sau de către deținătorul ei.",
+	"language-label": "Limbă",
+	"namespace-label": "Spațiu de nume",
+	"pagename-label": "Numele paginii (fără spațiul de nume)",
+	"transclusion-count-label": "Număr de transcluderi",
+	"transclusion-count": "$1 transcluderi(e) găsite(ă).",
+	"error-suggestion": "Poate că ați ortografiat greșit numele paginii (sau ați folosit în mod eronat majuscula/minuscula inițială)?",
+	"time-label": "Timpul necesar executării comenzii"
+}

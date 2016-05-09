@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matasg",
+			"Zygimantus"
+		]
+	},
+	"title": "SVG vertimas",
+	"error-tryagain": "$1 Paspauskite naršyklės perkrovimo mygtuką pabandyti iš naujo.",
+	"error-nothing": "Nėra, ko versti.",
+	"error-notsvg": "Tai nėra SVG failas.",
+	"error-unexpected": "Įvyko netikėta klaida.",
+	"error-notfound": "SVG failas negali būti gautas iš nurodyto URL.",
+	"error-upload": "Įvyko klaida įkeliant.",
+	"begin-translation": "Pradėti versti",
+	"th-original": "Originalas",
+	"th-translation": "Vertimas",
+	"th-language": "Kalba",
+	"th-username": "Vartotojo vardas",
+	"th-password": "Slaptažodis",
+	"th-method": "Metodas",
+	"option-oauth": "OAuth (automatinis įkėlimas)",
+	"option-manual": "Rankinis įkėlimas",
+	"preview": "Peržiūra",
+	"translate": "Versti",
+	"translate-instructions": "Galite įvesti failo pavadinimą (pvz., \"$1\") ar pilną adresą (pvz., \"$2\"). Jei pirmasis variantas yra naudojamas, šaltiniu bus laikoma Wikimedia Commons. Norėdami versti iš kitos svetainės ar wiki, turite naudoti pilno adreso formatą.",
+	"svginput-label": "SVG failas",
+	"stats-footer": "Ši priemonė buvo naudojama išversti maždaug $1 failų nuo $2.",
+	"uploading": "Įkeliama",
+	"upload-complete": "Sėkmingai įkelta. Paveikslėlis dabar turėtų būti šiuo adresu: $1",
+	"editdescriptionpage": "Redaguoti naują aprašymo puslapį",
+	"disclaimer": "Kai kurie anoniminiai duomenys bus privačiai renkami statistikos tikslais. Jei pateikėte, OAuth vardai taip pat bus registruojami dėl galimo vandalizmo. Slaptažodžiai niekada nebus įrašyti.",
+	"author-complete": "Prašome užpildyti autoriaus informaciją!",
+	"preview-hide": "Slėpti peržiūrą",
+	"preview-refresh": "Atnaujinti peržiūrą",
+	"description-license": "Pasirinkite aprašymą ir licenciją",
+	"finalise": "Užbaigti informaciją"
+}

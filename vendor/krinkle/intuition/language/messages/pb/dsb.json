@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"pb-about-pb-navi": "Wó",
+	"pb-about-pb-tech": "Techniske drobnostki",
+	"pb-about-pb-title": "Wo projekśe",
+	"pb-change-language": "Rěc změniś",
+	"pb-comment": "Komentar",
+	"pb-confirmations-given": "Dane wobkšuśenja",
+	"pb-confirmations-taken": "Dostane wobkšuśenja",
+	"pb-current-confirmations": "{{PLURAL:$1|Jo $1 wobkšuśenje|Stej $1 wobkšuśeni|Su $1 wobkšuśenja|Jo $1 wobkšuśenjow}} dogromady, to {{PLURAL:$3|jo|stej|su|jo}} něźi <abbr title=\"$2\">$3</abbr> {{PLURAL:$3|wobkšuśenje|wobkšuśeni|wobkšuśenja|wobkšuśenjow}} na źeń.",
+	"pb-current-figures": "Aktualne licby",
+	"pb-current-users": "Tuchylu $1 {{PLURAL:$1|wužywaŕ|wužywarja|wužywarje|wužywarjow}} {{PLURAL:$1|wobźělujo|wobźělujotej|wobźěluju|wobźělujo}} se na <em>Wósobinskich znaśach</em>",
+	"pb-date": "Datum",
+	"pb-home": "Startowy bok",
+	"pb-javascript-notice": "Pórucujomy, až zmóžnjaš JavaScript za websedło, aby wužywarski pówjerch polěpšył.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Wobźělujo se wót",
+	"pb-name": "Wikipedija:Wósobinske znaśa",
+	"pb-powered-by-labs": "Spěchowany wót Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Nejnowše wobkšuśenja",
+	"pb-reconfirmed": "Slědk wobkšuśony?",
+	"pb-user": "Wužywaŕ",
+	"pb-user-link-title": "Drobnostki za wužywarja $1",
+	"pb-user-heading": "Informacije za <a href=\"$2\" title=\"Wužywarski bok $1\">$1</a>",
+	"pb-user-title": "Informacije za $1",
+	"pb-users-navi": "Wužywarje",
+	"pb-users-title": "Lisćina wobźělnikow",
+	"pb-users-overview": "{{PLURAL:$1|Toś ten $1 wužywaŕ wobźělujo|Toś tej $1 wužywarja wobźělujotej|Toś te $1 wužywarje wobźěluju|Toś tych $1 wužywarjow wobźělujo}} se na projekśe <em>Wósobinske znaśa</em>:",
+	"pb-verified-since": "Pśeglědany wót"
+}

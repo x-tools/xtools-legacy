@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"hello": "ज्वजलपा",
+	"welcome": "लसकुस",
+	"toolversionstamp": "संस्करण $1 ($2)",
+	"etc": "आदि",
+	"namespace": "नेमस्पेस:",
+	"form-submit": "झासँ",
+	"form-reset": "रिसेत",
+	"years": "{{PLURAL: $1|दँ|दँ}}",
+	"weeks": "{{PLURAL: $1|वा|वा}}",
+	"days": "{{PLURAL: $1|दिं|दिं}}",
+	"hours": "{{PLURAL: $1|घौ|घौ}}",
+	"minutes": "{{PLURAL: $1|मिनेत|मिनेत}}",
+	"seconds": "{{PLURAL: $1|सेकेन्द|सेकेन्द}}",
+	"last-modified-date": "दकले लिउ संस्करण",
+	"view-source": "स्रोत स्वयादिसँ",
+	"and": "&#32;व"
+}

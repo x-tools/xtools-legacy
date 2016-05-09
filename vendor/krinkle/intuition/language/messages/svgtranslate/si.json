@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"Susith Chandira Gts",
+			"පසිඳු කාවින්ද",
+			"SusithCM"
+		]
+	},
+	"error-tryagain": "නැවත උත්සහ කිරීමට ඔබේ ගවේෂකයෙහි $1 ආපසු බොත්තම ඔබන්න.",
+	"error-nothing": "පරිවර්තනය කිරීමට කිසිවක් නොමැත.",
+	"error-notsvg": "SVG ගොනුවක් නොවේ.",
+	"error-unexpected": "බලපොරොත්තු නොවූ දෝෂයක් හට ගැනුණි.",
+	"error-notfound": "ලබා දුන් URL ලිපිනයෙන් SVG ගොනුව ලබා ගත නොහැක.",
+	"error-upload": "එහි උඩුගත කිරීමේ දෝෂයක් තිබුණි.",
+	"begin-translation": "පරිවර්තනය අරඹන්න",
+	"th-original": "නියම",
+	"th-translation": "පරිවර්තනය",
+	"th-language": "භාෂාව",
+	"th-username": "පරිශීලක නාමය",
+	"th-password": "මුරපදය",
+	"th-method": "ක්‍රමය",
+	"option-oauth": "OAuth (ස්වයංක්‍රිය උඩුගත කිරීම)",
+	"option-manual": "හස්තීය උඩුගතකෙරුම",
+	"preview": "පෙරදසුන",
+	"translate": "පරිවර්තනය කරන්න",
+	"svginput-label": "SVG ගොනුව",
+	"uploading": "උඩුගත කෙරෙමින් පවතී",
+	"upload-complete": "උඩුගත කරීම සාර්ථකව සිදු කරන ලදී. පින්තූරය $1 හිදී ලබා ගත හැක",
+	"editdescriptionpage": "නව විස්තර පිටුව සංස්කරණය කරන්න",
+	"author-complete": "කරුණාකර කතෘ තොරතුරු සම්පූර්ණ කරන්න!",
+	"preview-hide": "පෙරදසුන සඟවන්න",
+	"preview-refresh": "පෙරදසුන ප්‍රතිපූරණය කරන්න",
+	"error-must-accept": "ඍජු උඩුගත කිරීම සමඟ ඉදිරියට යාම සඳහා ඉදිරිපත් කරන ලද කොන්දේසි වලට ඔබ විසින් එකඟත්වය ප්‍රකාශ කල යුතුය.",
+	"description-license": "විස්තරය සහ බලපත්‍රය තෝරාගන්න",
+	"finalise": "අවසන් විස්තර"
+}

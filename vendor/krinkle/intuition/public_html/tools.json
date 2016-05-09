@@ -1,0 +1,77 @@
+{
+	"catdown": {
+		"url": "//toolserver.org/~platonides/catdown/"
+	},
+	"commonshelper2": {
+		"url": "//toolserver.org/~commonshelper2/"
+	},
+	"cvnoverlay": {
+		"url": "https://github.com/countervandalism/mw-gadget-cvnoverlay"
+	},
+	"getwikiapi": {
+		"url": "//tools.wmflabs.org/wikiinfo/"
+	},
+	"grep": {
+		"url": "//tools.wmflabs.org/grep/"
+	},
+	"jarry": {
+		"url": "//tools.wmflabs.org/jarry-common/"
+	},
+	"krinkle": {
+		"url": "//meta.wikimedia.org/wiki/User:Krinkle"
+	},
+	"monumentsapi": {
+		"url": "//toolserver.org/~erfgoed/api/"
+	},
+	"mwsnapshots": {
+		"url": "//tools.wmflabs.org/snapshots/"
+	},
+	"orphantalk2": {
+		"url": "//tools.wmflabs.org/orphantalk/"
+	},
+	"pb": {
+		"url": "https://tools.wmflabs.org/pb/"
+	},
+	"raun": {
+		"url": "https://tools.wmflabs.org/raun/"
+	},
+	"recentanonymousactivity": {
+		"url": "//toolserver.org/~krinkle/recentAnonymousActivity/"
+	},
+	"rtrc": {
+		"url": "https://github.com/Krinkle/mw-gadget-rtrc"
+	},
+	"svgtranslate": {
+		"url": "//toolserver.org/~jarry/svgtranslate/"
+	},
+	"templatecount": {
+		"url": "//toolserver.org/~jarry/templatecount/"
+	},
+	"templatetransclusioncheck": {
+		"url": "//tools.wmflabs.org/templatetransclusioncheck/"
+	},
+	"tsintuition": {
+		"url": "//tools.wmflabs.org/intuition/"
+	},
+	"tsreports": {
+		"url": "//tools.wmflabs.org/tsreports/"
+	},
+	"voiceintro": {
+		"url": "//tools.wmflabs.org/voiceintro/"
+	},
+	"wlm": {
+		"url": "//toolserver.org/~platonides/wlm/"
+	},
+	"wlmsurvey": {
+		"url": "//toolserver.org/~platonides/wlmsurvey/"
+	},
+	"whatleaveshere": {
+		"url": "https://github.com/Krinkle/mw-gadget-whatleaveshere"
+	},
+	"wikiviewstats": {
+		"url": "//tools.wmflabs.org/wikiviewstats/"
+	},
+	"xtools": {
+		"url": "//tools.wmflabs.org/xtools/"
+	}
+}

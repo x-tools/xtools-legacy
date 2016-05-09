@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"attention": "Legg til merkis",
+	"description": "Eitt tók til at flyta fílur frá Wikimedia verkætlanum til Wikimedia Commons",
+	"language": "Mál",
+	"project": "Verkætlan",
+	"source_file": "Keldufíla",
+	"commons_username": "Wikimedia Commons brúkaranavn",
+	"commons_to_project": "Wikimedia Commons til verkætlanina",
+	"move_file_from_com": "Flyt fílur frá Wikimedia Commons til verkætlanina",
+	"categories": "Bólkar",
+	"remove_cats": "Tak burtur verandi bólkar",
+	"use_checkusage": "Nýt $1CommonSense$2 til uppskot um nýggir bólkar",
+	"tusc_user": "TUSC brúkaranavn",
+	"tusc_pass": "TUSC loyniorð",
+	"do_it": "Ger tað",
+	"error_transfer_usr": "Tú hevur ikki valt eitt Wikimedia Commons brúkaranavn",
+	"error_not_exists": "Keldufílan er ikki til!",
+	"error_on_commons": "Keldufílan er longu á $1!",
+	"error_file_exists": "Fílan er longu til á $3 sum \"$1$4$2\"!",
+	"error_meta_no_good": "Metadáta: Ongar góðar fyrimyndir funnar! $1Vinarliga innset/dagfør metadáta fyri verkætlan$2",
+	"original_wikitext": "Upprunaligur wikitekstur",
+	"new_wikitext": "Nýggjur wikitekstur",
+	"new_filename": "Nýtt fílunavn:",
+	"upload_submit": "Legg út!",
+	"target_wiki": "málwikiin",
+	"error_bot_blocked": "Útleggingar-botturin er sperraður á Wikimedia Commons.",
+	"help_mail": "Send ein meyl til $1",
+	"help_commons": "$1Legg eitt innslag á Commons$2"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tifinaghes"
+		]
+	},
+	"hello": "ⴰⵣⵓⵍ",
+	"welcome": "ⴰⵏⵙⵓⴼ",
+	"etc": "ⴰⵔ ⵜⴰⴳⴰⵔⴰ.",
+	"form-submit": "ⴷⴷⵓ",
+	"years": "{{PLURAL:$1|ⴰⵙⴳⴳⵯⴰⵙ|ⵉⵙⴳⴳⵯⴰⵙⵏ}}",
+	"weeks": "{{PLURAL: $1|ⵉⵎⴰⵍⴰⵙⵙ|ⵉⵎⴰⵍⴰⵙⵙⵏ}}",
+	"days": "{{PLURAL: $1|ⴰⵙⵙ|ⵓⵙⵙⴰⵏ}}",
+	"hours": "{{PLURAL: $1|ⵜⴰⵙⵔⴰⴳⵜ|ⵜⵉⵙⵔⴰⴳⵉⵏ}}",
+	"minutes": "{{PLURAL: $1|ⵜⵓⵙⴷⴰⴷⵜ|ⵜⵓⵙⴷⴰⴷⵉⵏ}}",
+	"seconds": "{{PLURAL: $1|ⵜⴰⵙⵏⴰⵜ|ⵜⵉⵙⵏⴰⵜⵉⵏ}}",
+	"last-modified-date": "ⴰⴱⴷⴷⴻⵍ ⴰⵏⴳⴳⴰⵔⵓ: $1",
+	"view-source": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
+	"and": "&#32;ⴷ"
+}

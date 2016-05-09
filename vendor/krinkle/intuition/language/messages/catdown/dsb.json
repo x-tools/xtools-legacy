@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Derbeth",
+			"Michawiki"
+		]
+	},
+	"title": "Wobraze pó kategoriji ześěgnuś",
+	"subtitle": "Jadnora móžnosć, aby wobraze w kategoriji ześěgnuło",
+	"project": "Projekt:",
+	"category": "Kategorija:",
+	"thumbnailing": "Napóranje miniaturnego wobraza",
+	"max-width": "Maksimalna šyrokosć:",
+	"max-height": "Maksimalna wusokosć:",
+	"invalid-width": "Njepłaśiwa šyrokosć",
+	"invalid-height": "Njepłaśiwa wusokosć",
+	"no-such-project": "Projekt njeeksistěrujo",
+	"no-images": "W tej kategoriji wobraze njejsu",
+	"category-is-url": "Pódanaa kategorija wuglěda kaž URL. Musyš mě kategorije pódaś, nic jeje URL.",
+	"category-contains-namespace": "Zda se, až mjenjowy rum z mjenim kategorije zapśimjeł. Z pódanym mjenim by bok ako [[Category:$1]] k dispoziciji stał.",
+	"zip-failed": "Zip-napóranje njejo se raźiło",
+	"image-area-too-big": "$1 jo pśewjeliki, aby miniaturny wobraz napórał. Togodla se połna wjelilkosć wužywa.",
+	"download-info": "{{plural: $1|Jo jaden wobraz|Stej $1 wobraza|Su $1 wobraze|Jo $1 wobrazow}}, z pówobliconeju wjelilkosću $2",
+	"download": "Ześěgnuś",
+	"readme-contents": "Pśipołožona dataja $4 nalicy\nwobraze w kategoriji $1 ( $2 )$3.\n\n== Instrukcije za ześěgowanje wšych naliconych wobrazow ==\nZeśěgowański cas móžo mjazy mało minutami  a někotarymi góźinami wariěrowaś.\n\nWindows:\nZrozpakuj wšykne dataje do togo samskego zarědnika a startuj $5\n$6\n\nLinux/Mac OS:\nZrozpakuj wšykne dataje a wócyń terminal w tom zarědniku. Startuj sh $5",
+	"non-bundled-wget": "Glědaj: Toś ta wersija njewopśimujo wget za Windows. Musyš wobraze z wget.exe do zarědnika dekompriměrowaś abo wget hynac w SĆAŽCE k dispoziciji stajiś",
+	"wget-info": "Toś ta dataja wopśimujo kopiju wót wget $1 (za Windows). Wget jo licha softwara pó licency „GNU GENERAL PUBLIC LICENSE“ we wersiji 3.\nKopija licency jo dołojce, stoj pak teke pód URL http://www.gnu.org/licenses/gpl-3.0.txt k dispoziciji.\n\nJolic sy na žrědłowem coźe toś togo programa zajmowany, móžoš jen wót slědujucych městnow ześěgnuś:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n\nSu teke druge glědałkowe GNU-serwery, glědaj\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", na maksimalnu šyrokosć $1 {{plural:$1|piksela|pikselowu|pikselow}} skalěrowane",
+	"scaling-height": ", na maksimalnu wusokosć $1 {{plural:$1|piksela|pikselowu|pikselow}} skalěrowane",
+	"scaling-both": ", na maksimalnu wjelilkosć $1x$2 pikselow skalěrowane"
+}

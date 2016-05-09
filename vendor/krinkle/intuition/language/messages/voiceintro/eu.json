@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Grabatu",
+	"voiceintro-toolbar-stop-label": "Gelditu",
+	"voiceintro-toolbar-clear-label": "Garbitu",
+	"voiceintro-toolbar-upload-label": "Igo",
+	"voiceintro-information-language-label": "Hizkuntza:",
+	"voiceintro-recording-notify": "Grabatzen..."
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"language": "Fiteny",
+	"project": "Tetikasa",
+	"source_file": "Rakitra loharano",
+	"target_file": "Rakitra tanjona",
+	"commons_username": "Anaram-pikambana Wikimedia Commons",
+	"commons_to_project": "Wikimedia Commons amin'ny tetikasa",
+	"move_file_from_com": "Hanisaka ny rakitra avy amin'i Wikimedia Commons ho ao amin'ny tetikasa",
+	"categories": "Sokajy",
+	"remove_cats": "Hanala ny sokajy efa misy",
+	"use_checkusage": "Mampiasa $1CommonSense$2 raha hanolo-tsosokevi-tsokajy",
+	"tusc_user": "Anaram-pikambana TUSC",
+	"tusc_pass": "Tenimiafina TUSC",
+	"do_it": "Atao",
+	"error_transfer_usr": "Tsy namaritra anaram-pikambana Wikimedia Commons ianao",
+	"error_not_exists": "Tsy misy ny rakitra loharano!",
+	"error_on_commons": "Efa eo amin'i $1 ny rakitra loharano!",
+	"error_file_exists": "Efa misy eo amin'i $3 ho \"$1$4$2\" ny rakitra",
+	"error_diff_exists": "Efa misy eo amin'ny wiki tanjona miaraka amin'ny anarana mitovy ilay rakitra tanjona!",
+	"original_wikitext": "Lahatsoratra wiki taloha",
+	"new_wikitext": "Lahatsoratra wiki vaovao",
+	"new_filename": "Anaran-drakitra vaovao:"
+}

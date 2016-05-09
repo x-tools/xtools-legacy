@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"fullname": "Интеркъаьмнийн гӀирс бан",
+	"current-settings": "Карара гӀирс нисбарш",
+	"current-language": "Хаьржина мотт",
+	"settings-legend": "Параметраш",
+	"choose-language": "Харжа мотт",
+	"clear-cookies": "ДӀаяккха Cookies",
+	"renew-cookies": "Карлаяккха Cookies",
+	"cookie-expiration": "Файла cookie леларан хан",
+	"clearcookies-success": "Cookies файлаш кхиамца дӀацӀанйина.",
+	"renewcookies-success": "Cookie карлаяьхина! ХӀоттина хан $1",
+	"tab-overview": "Гучé",
+	"tab-settings": "Параметраш",
+	"tab-about": "Цуьнах лаьцна",
+	"tab-demo": "Демо",
+	"bl-mysettings": "Сан мотт дIахIотторш",
+	"bl-mysettings-new": "Харжа мотт",
+	"bl-promo": "Гочйина гӀоьнца $1 а, $2 а.",
+	"bl-changelanguage": "ХӀокху гӀирсан интерфейсан мотт хийца.",
+	"usage": "Intuition гӀоьнца гочбина гӀирсаш.",
+	"help-translate-tool": "ГӀодеш хӀара гӀирс гочбан!",
+	"help-translate-all": "ГӀодеш хӀара гӀирсаш гочбан!",
+	"help-translate-tooltip": "ГӀодеш кхечу кепара гӀирс гочбан шайн матте."
+}

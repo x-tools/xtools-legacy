@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"hello": "Cerea",
+	"welcome": "Bin ëvnù",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "e via fòrt",
+	"namespace": "Spassi nominal",
+	"form-submit": "Va",
+	"form-reset": "Spian-a",
+	"years": "{{PLURAL: $1|ann|agn}}",
+	"weeks": "{{PLURAL:$1|sman-a|sman-e}}",
+	"days": "{{PLURAL:$1|di}}",
+	"hours": "{{PLURAL:$1|ora|ore}}",
+	"minutes": "{{PLURAL:$1|minuta|minute}}",
+	"seconds": "{{PLURAL:$1|second}}",
+	"last-modified-date": "Ùltima modìfica: $1",
+	"view-source": "Vardé la sorgiss",
+	"and": "&#32;e"
+}

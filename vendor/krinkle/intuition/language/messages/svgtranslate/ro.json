@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"title": "SVG Translate",
+	"error-tryagain": "$1 Apăsați butonul „Înapoi” al navigatorului dumneavoastră pentru a reîncerca.",
+	"error-nothing": "Nimic de tradus.",
+	"error-notsvg": "Nu este un fișier SVG.",
+	"error-unexpected": "O eroare neașteptată a apărut.",
+	"error-notfound": "Fișierul SVG nu a putut fi preluat de la URL-ul furnizat.",
+	"error-upload": "A apărut o eroare în timpul încărcării.",
+	"begin-translation": "Începeți traducerea",
+	"th-original": "Original",
+	"th-translation": "Traducere",
+	"th-language": "Limbă",
+	"th-username": "Nume de utilizator",
+	"th-password": "Parolă",
+	"th-method": "Metodă",
+	"option-oauth": "OAuth (încărcare automată)",
+	"option-manual": "Încărcare manuală",
+	"preview": "Previzualizare",
+	"translate": "Traducere",
+	"translate-instructions": "Datele de intrare pot reprezenta fie nume de fișiere (ex.: „$1”), fie adrese URL complete (ex.: „$2”). Dacă se recurge la prima variantă, sursa asumată a fișierelor va fi Wikimedia Commons. Pentru a traduce un fișier SVG aflat pe alt site sau wiki, trebuie să introduceți adresa URL completă.",
+	"svginput-label": "fișier SVG",
+	"stats-footer": "Această unealtă a fost folosită la traducerea a aproximativ $1 fișiere, încă din $2.",
+	"uploading": "Se încarcă",
+	"upload-complete": "Încărcarea s-a finalizat cu succes. Imaginea ar trebui să se găsească la $1",
+	"editdescriptionpage": "Modificați noua pagină descriptivă",
+	"disclaimer": "Câteva informații anonime vor fi colectate în mod privat pentru statistici. Dacă sunt furnizate, numele de utilizator OAuth vor fi de asemenea contabilizate pentru ajutor în caz de vandalism. Parolele nu vor fi niciodată reținute.",
+	"author-complete": "Vă rugăm să completați informațiile despre autor!",
+	"preview-hide": "Ascunde previzualizarea",
+	"preview-refresh": "Reîncarcă previzualizarea",
+	"error-must-accept": "Pentru a continua cu încărcarea directă, trebuie să fiți de acord cu termenii de utilizare furnizați.",
+	"description-license": "Selectați descrierea și licența",
+	"finalise": "Finalizează detaliile"
+}

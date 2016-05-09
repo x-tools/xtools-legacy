@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman",
+			"Bellayet",
+			"Wikitanvir"
+		]
+	},
+	"hello": "হ্যালো",
+	"welcome": "স্বাগতম",
+	"toolversion": "সংস্করণ $1",
+	"toolversionstamp": "সংস্করণ $1 ($2)",
+	"etc": "ইত্যাদি।",
+	"namespace": "নামস্থান",
+	"form-submit": "চলো",
+	"form-reset": "আদি অবস্থায় ফেরত",
+	"years": "{{PLURAL: $1|বছর|বছর}}",
+	"months": "{{PLURAL: $1|মাস}}",
+	"weeks": "{{PLURAL: $1|সপ্তাহ|সপ্তাহ}}",
+	"days": "{{PLURAL: $1|দিন|দিন}}",
+	"hours": "{{PLURAL: $1|ঘণ্টা|ঘণ্টা}}",
+	"minutes": "{{PLURAL: $1|মিনিট|মিনিট}}",
+	"seconds": "{{PLURAL: $1|সেকেন্ড|সেকেন্ড}}",
+	"last-modified-date": "সর্বশেষ পরিবর্তন: $1",
+	"view-source": "উৎস দেখুন",
+	"and": "&#32;এবং"
+}

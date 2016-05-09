@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"dataset-live-title": "Truy cập trực tiếp",
+	"dataset-live-description": "Phiên bản dữ liệu trực tiếp có các thực thể và thuộc tính. Chỉ có các định dạng không bị phản đối được liệt kê là bản phân phối.",
+	"dataset-dump-title": "Bản lưu các thực thể vào $1",
+	"dataset-dump-description": "Bản lưu tĩnh có tất cả các thực thể vào ngày cụ thể.",
+	"distribution-dump-description": "Tập tin $1 nén bằng gzip."
+}

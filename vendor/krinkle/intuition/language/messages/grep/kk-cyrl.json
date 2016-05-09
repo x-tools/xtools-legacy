@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"title": "Grep мақала атауы (бета)",
+	"explanation": "түсіндірме",
+	"regex": "Жүйелі өрнек",
+	"enter-details": "Егжей-тегжейін енгізіңіз",
+	"results": "Нәтижелер",
+	"language-label": "Тіл",
+	"namespace-label": "Есім кеңістігі",
+	"project-label": "Жоба",
+	"pattern-label": "Үлгі",
+	"redirects-label": "Бағыттағыштарды кірістіру",
+	"limit-label": "Көрсетілетін шегі: алғашқы 100 нәтиже",
+	"match-count": "Сіздің жүйелі өрнегіңізге {{PLURAL:$1|$1 бет|$1 бет}} сәйкес келеді."
+}

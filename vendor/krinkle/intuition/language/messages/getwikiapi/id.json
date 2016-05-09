@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aldnonymous",
+			"Kenrick95"
+		]
+	},
+	"description": "Informasi meta tentang wiki Wikimedia.",
+	"formats-heading": "Format keluaran:",
+	"input": "Masukan",
+	"label-wikiids": "Pengidentifikasi wiki",
+	"no-matches": "Tidak ada yang cocok \" $1 \"",
+	"output": "Output untuk \" $1 \""
+}

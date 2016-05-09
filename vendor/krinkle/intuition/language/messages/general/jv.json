@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"hello": "Halo",
+	"welcome": "Sugeng rawuh",
+	"toolversionstamp": "Vèrsi $1 ($2)",
+	"etc": "lsp.",
+	"namespace": "Bilik jeneng",
+	"form-submit": "Kirim",
+	"form-reset": "Rèsèt",
+	"years": "{{PLURAL: $1|taun|taun}}",
+	"weeks": "{{PLURAL: $1|minggu|minggu}}",
+	"days": "{{PLURAL: $1|dina|dina}}",
+	"hours": "{{PLURAL: $1|jam|jam}}",
+	"minutes": "{{PLURAL: $1|menit|menit}}",
+	"seconds": "{{PLURAL: $1|detik|detik}}",
+	"last-modified-date": "Pungkasan diowah: $1",
+	"view-source": "Delok sumber"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Obaid Raza"
+		]
+	},
+	"form-label-language": "زبان:",
+	"form-label-template": "سانچے کا نام:",
+	"form-label-template2": "(فضائے نام کے ساتھ)",
+	"form-label-complete": "مکمل رپورٹ حاصل کریں:",
+	"feedback-template-missing": "سانچہ  $1 موجود نہیں۔",
+	"feedback-result": " $1 کے نتائج",
+	"feedback-header-redirects": "رجوع مکررات والے ربط",
+	"feedback-total-count": "کل:  $1",
+	"feedback-header-links": "سانچے سے ربط والے صفحات",
+	"link-edit": "ترمیم",
+	"link-create": "بنائیں",
+	"link-complete": "مکمل رپورٹ۔ ۔ ۔",
+	"footer-stats": "حاصل کریں:  $1۔ دورانیہ: $2 {{PLURAL:$2|سیکنڈ|سیکنڈ}}۔",
+	"error-language": "نامعلوم زبان کا کوڈ۔"
+}

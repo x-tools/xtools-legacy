@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike",
+			"Olli"
+		]
+	},
+	"title": "SVG-käännin",
+	"error-tryagain": "$1 Yritä uudelleen napsauttamalla selaimen takaisin-painiketta.",
+	"error-nothing": "Ei käännettävää.",
+	"error-notsvg": "Tiedosto ei ole SVG-tiedosto.",
+	"error-unexpected": "Tuntematon virhe tapahtui.",
+	"error-notfound": "SVG-tiedostoa ei voitu hakea annetusta osoitteesta.",
+	"error-upload": "Tallennuksessa tapahtui virhe.",
+	"begin-translation": "Aloita kääntäminen",
+	"th-original": "Alkuperäinen",
+	"th-translation": "Käännös",
+	"th-language": "Kieli",
+	"th-username": "Käyttäjätunnus",
+	"th-password": "Salasana",
+	"th-method": "Tapa",
+	"option-oauth": "OAuth (automaattinen tallennus)",
+	"option-manual": "Manuaalinen tallennus",
+	"preview": "Esikatsele",
+	"translate": "Käännä",
+	"translate-instructions": "Voit syöttää joko tiedostonimen (esim. \"$1\") tai koko osoitteen (esim. \"$2\"). Jos käytät ensimmäistä vaihtoehtoa, oletetaan, että Wikimedia Commons on lähde. Jos haluat kääntää SVG-tiedoston toiselta sivustolta tai wikistä, sinun täytyy käyttää täydellistä osoitetta.",
+	"svginput-label": "SVG-tiedosto",
+	"stats-footer": "Tällä työkalulla on käännetty noin $1 tiedostoa $2 alkaen.",
+	"uploading": "Tallennetaan",
+	"upload-complete": "Lataus onnistui. Tiedoston pitäisi löytyä nyt osoitteesta $1",
+	"editdescriptionpage": "Muokkaa uutta kuvaussivua",
+	"disclaimer": "Joitakin nimettömiä tietoja kerätään tilastokäyttöön. Annetut OAuth-käyttäjätunnukset tallennetaan häiriköinnin tutkintaa varten. Salasanoja ei koskaan tallenneta.",
+	"author-complete": "Täytä tekijän tiedot!",
+	"preview-hide": "Piilota esikatselu",
+	"preview-refresh": "Päivitä esikatselu",
+	"error-must-accept": "Jatkaaksesi suoraa latausta sinun täytyy hyväksyä käyttöehdot.",
+	"description-license": "Valitse kuvaus ja lisenssi",
+	"finalise": "Viimeistele tiedot"
+}

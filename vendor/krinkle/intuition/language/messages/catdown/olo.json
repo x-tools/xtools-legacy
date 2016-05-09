@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos"
+		]
+	},
+	"project": "Projektu:",
+	"category": "Kategourii:",
+	"thumbnailing": "Kuvahaine",
+	"max-width": "Suurin levevys:",
+	"max-height": "Suurin korgevus:",
+	"invalid-width": "Pädemätöi levevys",
+	"invalid-height": "Pädemätöi korgevus",
+	"no-such-project": "Nengomua projektua ei ole olemas",
+	"no-images": "Täs kategouries ei ole kuvua",
+	"category-is-url": "Tämän kategourien nimi on URL-adressi. Sinul pidäy tarkendua kategourien nimi, ei adressii.",
+	"download": "Ladata"
+}

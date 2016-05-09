@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Akhilan",
+			"Anoopan"
+		]
+	},
+	"title-overview": "ലഘുചിത്രം",
+	"title-error": "പിഴവ്",
+	"download-button": "$1 ആയി ഡൗൺലോഡ് ചെയ്യുക",
+	"download-directlink": "നേർ കണ്ണി",
+	"title-downloadpage": "ഡൗൺലോഡ്: $1",
+	"repo-site-link": "വെബ്‌സൈറ്റ്:",
+	"repo-branches-label": "ശാഖകൾ:",
+	"repo-lastmoddate-label": "തീയതി:",
+	"tablehead-repo": "റെപ്പോസിറ്ററി:",
+	"tablehead-branch": "ശാഖ",
+	"tablehead-filesize": "പ്രമാണത്തിന്റെ വലിപ്പം",
+	"tablehead-hash": "ചെൿസമ്മുകൾ"
+}

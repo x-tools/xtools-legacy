@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"category_users": "सदस्य",
+	"category_articles": "पृष्ठ",
+	"category_images": " चित्र",
+	"category_miscellaneous": "विविध",
+	"category_wikidata": "वकिडेटा",
+	"select_wiki_title": "विकि-परियोजना का चयन करें",
+	"select_wiki_next": "अग्रिम →",
+	"qvar_next": "अग्रिम →",
+	"prefs_submit": "ठीक"
+}

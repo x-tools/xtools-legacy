@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwj2772",
+			"아라"
+		]
+	},
+	"title": "틀 끼워넣기 수",
+	"enter-details": "자세한 정보 입력",
+	"introduction": "틀 이름(현재 위키백과만)을 입력하고 가기를 누르세요. 간단합니다. 몇 가지 캐시(결과 기억)를 하지만, 불행히도 도구와 도구 소유자의 통제 밖입니다.",
+	"language-label": "언어",
+	"namespace-label": "이름공간",
+	"pagename-label": "문서 이름 (이름공간 제외)",
+	"transclusion-count-label": "틀을 포함하는 횟수",
+	"transclusion-count": "$1회의 틀 포함을 확인했습니다.",
+	"error-suggestion": "아마도 문서 이름(또는 대소문자)을 잘못 입력했습니까?",
+	"time-label": "명령을 실행하는 데 걸린 시간"
+}

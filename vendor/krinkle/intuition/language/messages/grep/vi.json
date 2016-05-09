@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"title": "grep tên bài (beta)",
+	"introduction": "Công cụ này hiển thị tất cả các tên bài khớp với một biểu thức chính quy ($1). Việc tìm kiếm theo biểu thức chính quy tốn nhiều tài nguyên. Nếu có thể, xin nhớ sử dụng các dấu tiền tố (^) và hậu tố ($).",
+	"explanation": "giải thích",
+	"regex": "Biểu thức chính quy",
+	"enter-details": "Nhập chi tiết",
+	"results": "Kết quả",
+	"language-label": "Ngôn ngữ",
+	"namespace-label": "Không gian tên",
+	"project-label": "Dự án",
+	"pattern-label": "Mẫu",
+	"redirects-label": "Bao gồm trang đổi hướng",
+	"limit-label": "Chỉ hiển thị 100 kết quả đầu tiên",
+	"error-zeroresults": "Không gian tên này không có trang nào có tên khớp với biểu thức chính quy.",
+	"match-count": "$1 trang khớp với biểu thức chính quy."
+}

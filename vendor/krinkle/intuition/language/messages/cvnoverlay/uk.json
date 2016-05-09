@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Base"
+		]
+	},
+	"adder": "Додавач",
+	"adder-empty": "Невідомий",
+	"expiry": "Закінчення",
+	"globalwatched": "Глобально спостерігається",
+	"reason": "Причина",
+	"reason-empty": "Не знайдено причин"
+}

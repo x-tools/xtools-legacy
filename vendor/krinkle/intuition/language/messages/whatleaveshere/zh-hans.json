@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"title": "链出页面",
+	"title-leaveshere": "来自“$1”的链接",
+	"sub-leaveshere": "以下页面链接自$1",
+	"label-page": "页面",
+	"label-namespace": "名字空间",
+	"label-limit": "限制",
+	"button-submit": "提交",
+	"noleaveshere": "没有链接自$1",
+	"link-whatleaveshere": "链出页面",
+	"tooltip-whatleaveshere": "自此链接的页面列表",
+	"whatlinkshere": "链入页面",
+	"whatlinkshere-whatleaveshere": "链出页面？",
+	"istemplate": "嵌入",
+	"isfile": "文件链接",
+	"linksearch": "链接搜索",
+	"section-links": "链接",
+	"section-iwlinks": "跨维基连接",
+	"section-extlinks": "外部链接",
+	"section-categories": "分类"
+}

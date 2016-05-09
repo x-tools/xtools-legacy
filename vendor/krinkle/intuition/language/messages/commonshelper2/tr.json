@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Suelnur"
+		]
+	},
+	"attention": "Dikkat",
+	"description": "Wikimedia projelerinden Wikimedia Commons'a dosya taşımada kolaylık sağlayan bir araç",
+	"language": "Dil",
+	"project": "Proje",
+	"source_file": "Kaynak dosya",
+	"target_file": "Hedef dosya",
+	"commons_username": "Wikimedia Commons kullanıcı adı",
+	"categories": "Kategoriler",
+	"tusc_user": "TUSC kullanıcı adı",
+	"tusc_pass": "TUSC şifresi",
+	"original_wikitext": "Özgün viki metni",
+	"new_wikitext": "Yeni wiki metni",
+	"new_filename": "Yeni dosya adı:",
+	"upload_submit": "Yükle!",
+	"target_wiki": "hedef viki",
+	"help_mail": "$1 adresine bir e-posta gönderin."
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Opnemen",
+	"voiceintro-toolbar-stop-label": "Stoppen",
+	"voiceintro-toolbar-clear-label": "Wissen",
+	"voiceintro-toolbar-upload-label": "Uploaden",
+	"voiceintro-webaudio-not-supported": "De API voor WebAudio wordt niet ondersteund in deze browser",
+	"voiceintro-upload-publish-succeeded": "Opname geüpload:",
+	"voiceintro-upload-publish-failed": "De opname is niet geüpload.",
+	"voiceintro-information-label": "Gegevens",
+	"voiceintro-information-speaker-label": "Naam spreker:",
+	"voiceintro-information-language-label": "Taal:",
+	"voiceintro-mic-access-notify": "Klik op \"Toestaan\" om uw browser toegang te geven tot uw microfoon.",
+	"voiceintro-recording-notify": "Bezig met opnemen..."
+}

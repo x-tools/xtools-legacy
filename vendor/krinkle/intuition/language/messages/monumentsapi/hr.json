@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ex13"
+		]
+	},
+	"search-title": "Pretraživanje spomenika",
+	"search-monuments-database": "Pretraživanje baze podataka sa spomenicima",
+	"search-table-th-field": "Polje",
+	"search-table-th-filter": "Filtar",
+	"search-table-th-search": "Traži",
+	"filter-all-countries": "Sve zemlje",
+	"filter-all-languages": "Svi jezici",
+	"db-field-country": "Zemlja",
+	"db-field-lang": "Jezik",
+	"db-field-id": "Oznaka",
+	"db-field-name": "Naziv",
+	"db-field-address": "Adresa",
+	"db-field-municipality": "Općina",
+	"db-field-lat": "Geografska širina",
+	"db-field-lon": "Geografska dužina",
+	"db-field-image": "Slika",
+	"db-field-changed": "Promjenjeno",
+	"db-field-source": "Izvor",
+	"db-field-monument_article": "Članak o spomeniku",
+	"db-field-registrant_url": "URL u registru",
+	"db-field-st_address": "Adrese",
+	"db-field-st_address_pct": "Adrese %",
+	"db-field-st_coordinates": "Koordinate"
+}

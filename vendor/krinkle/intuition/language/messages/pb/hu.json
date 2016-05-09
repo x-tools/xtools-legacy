@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega",
+			"Dj"
+		]
+	},
+	"pb-about-pb-navi": "Névjegy",
+	"pb-about-pb-tech": "Technikai részletek",
+	"pb-about-pb-title": "A projektről",
+	"pb-change-language": "Nyelv módosítása",
+	"pb-comment": "Megjegyzés",
+	"pb-confirmations-given": "Adott jóváhagyások",
+	"pb-confirmations-taken": "Kapott jóváhagyások",
+	"pb-current-figures": "Jelenlegi számok",
+	"pb-date": "Dátum",
+	"pb-home": "Kezdőlap",
+	"pb-user": "Felhasználó",
+	"pb-users-navi": "Felhasználók"
+}

@@ -1,0 +1,134 @@
+/* Require JS */
+
+.requirejs-msg {
+    display: none;
+}
+
+.client-requirejs.client-nojs body > * {
+    display: none;
+}
+
+.client-requirejs.client-nojs body > .requirejs-msg {
+    display: block;
+}
+
+/* Tables */
+
+@media (max-width: 768px) {
+    .table-xs-stack {
+        table-layout: fixed;
+        width: 100%;
+        border-left: 0;
+        border-right: 0;
+    }
+
+    .table-xs-stack colgroup,
+    .table-xs-stack th,
+    .table-xs-stack td {
+        display: block;
+        width: 100%;
+    }
+
+    .table-xs-stack tr {
+        display: block;
+    }
+
+    /* Undo double borders (top and bottom) */
+    .table-xs-stack > tbody > tr > td {
+        border-bottom: 0;
+    }
+
+    .table-xs-stack tbody tr {
+        margin-top: 10px; /* paragraph margin */
+        border-bottom: 1px solid #ddd; /* @table-border-color */
+    }
+}
+
+/* Top nav */
+
+.base-nav {
+    margin-bottom: 0;
+    background-color: #fff;
+    border-bottom: 0
+}
+
+/* Header */
+
+.base-header {
+    position: relative;
+    padding: 30px 15px;
+    color: #cdbfe3;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    background-color: #6f5499;
+    background-image: -webkit-linear-gradient(top,#563d7c 0,#6f5499 100%);
+    background-image: linear-gradient(to bottom,#563d7c 0,#6f5499 100%);
+    background-repeat: repeat-x;
+
+    margin-bottom: 40px;
+    font-size: 20px
+}
+
+.base-header h1 {
+    margin-top: 0;
+    color: #fff
+}
+
+.base-header p {
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 1.4
+}
+
+@media (min-width: 768px) {
+    .base-header {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 24px;
+        text-align: left
+    }
+
+    .base-header h1 {
+        font-size: 60px;
+        line-height: 1
+    }
+}
+
+@media (min-width: 992px) {
+    .base-header h1,.base-header p {
+        margin-right: 380px
+    }
+}
+
+/* Footer */
+
+.base-footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 100px;
+    background: #f9f9f9;
+    color: #777;
+    text-align: center;
+    border-top: 1px solid #e5e5e5
+}
+
+.base-footer-links {
+    margin-top: 20px;
+    padding-left: 0;
+    color: #999
+}
+
+.base-footer-links li {
+    display: inline;
+    padding: 0 2px
+}
+
+.base-footer-links li:first-child {
+    padding-left: 0
+}
+
+@media (min-width: 768px) {
+    .base-footer p {
+        margin-bottom:0
+    }
+}

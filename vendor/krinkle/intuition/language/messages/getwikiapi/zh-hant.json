@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lauhenry",
+			"Simon Shek"
+		]
+	},
+	"formats-heading": "輸出格式",
+	"input": "輸入",
+	"label-wikiids": "Wiki標識符",
+	"no-matches": "找不到 \"$1\"",
+	"output": "輸出為\" $1 \""
+}

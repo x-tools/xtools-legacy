@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Ontsed",
+			"RonktanG"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Registra",
+	"voiceintro-toolbar-stop-label": "Ferma",
+	"voiceintro-toolbar-clear-label": "Pulisci",
+	"voiceintro-toolbar-upload-label": "Carica",
+	"voiceintro-webaudio-not-supported": "WebAudio API non è supportata per questo browser",
+	"voiceintro-upload-publish-succeeded": "Registrazione caricata correttamente:",
+	"voiceintro-upload-publish-failed": "La registrazione non è stata caricata.",
+	"voiceintro-information-label": "Informazioni",
+	"voiceintro-information-speaker-label": "Nome dell'oratore:",
+	"voiceintro-information-language-label": "Lingua:",
+	"voiceintro-mic-access-notify": "Fai clic su \"Consenti\" per permettere al browser di accedere al microfono.",
+	"voiceintro-recording-notify": "Registro..."
+}

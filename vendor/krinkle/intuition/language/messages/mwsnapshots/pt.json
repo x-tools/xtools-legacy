@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas",
+			"Sarilho1",
+			"Vitorvicentevalente"
+		]
+	},
+	"title-error": "Erro",
+	"title-downloadpage": "Descarregar",
+	"title-downloadpage-repo": "Descarregar $1",
+	"repo-lastmoddate-label": "Data:",
+	"tablehead-filesize": "Tamanho do arquivo"
+}

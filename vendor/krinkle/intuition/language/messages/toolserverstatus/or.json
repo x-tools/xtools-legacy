@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jnanaranjan Sahu"
+		]
+	},
+	"toolserver-status-short-ok": "$1: ଠିକ ଅଛି",
+	"toolserver-status-short-info": "$1: ତଥ୍ୟ",
+	"toolserver-status-short-warn": "$1: ସତର୍କିତ",
+	"toolserver-status-short-down": "$1: ଖରାପ",
+	"toolserver-status-short-erro": "$1: ଭୁଲ",
+	"toolserver-status-short-unknown": "$1: ଅଜଣା",
+	"toolserver-status-short-missing": "$1: ମିଳୁନାହିଁ"
+}

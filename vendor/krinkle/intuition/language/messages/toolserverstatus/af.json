@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"toolserver-status-short-ok": "$1: OK",
+	"toolserver-status-short-info": "$1: info",
+	"toolserver-status-short-warn": "$1: waarskuwing",
+	"toolserver-status-short-down": "$1: nie beskikbaar nie",
+	"toolserver-status-short-erro": "$1: foutmelding",
+	"toolserver-status-short-unknown": "$1: onbekend",
+	"toolserver-status-short-missing": "$1: ontbreek"
+}

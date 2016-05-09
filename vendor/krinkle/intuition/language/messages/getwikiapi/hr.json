@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ex13"
+		]
+	},
+	"formats-heading": "Izlazni formati",
+	"input": "Unos",
+	"label-wikiids": "Wiki identifikatori",
+	"no-matches": "Ništa ne odgovara \"$1\"",
+	"output": "Izlaz za \"$1\""
+}

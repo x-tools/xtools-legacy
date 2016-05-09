@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"title-overview": "Ritratti istantanji",
+	"title-error": "Żball",
+	"title-updatelog": "Aġġorna r-reġistru",
+	"updatelog-intro": "L-aġġornament iseħħ kull siegħa. Hawn taħt hemm ir-riżultat tal-''console'' tal-aħħar aġġornament.",
+	"updatelog-active": "L-aġġornament qiegħed isir bħalissa. Ejja iktar tard għar-reġistru sħiħ.",
+	"download-button": "Niżżel $1",
+	"download-directlink": "ħolqa diretta",
+	"title-downloadpage": "Niżżel: $1",
+	"err-snapshotindex": "Indiċi tar-ritratt istantanju attwalment mhuwiex disponibbli. Jekk jogħġbok erġa' pprova iktar tard.",
+	"err-invalid-repo": "Repożitorju mhux magħruf: \"$1\".",
+	"err-invalid-branch": "Sezzjoni mhux magħrufa: \"$1\" fir-repożitorju \"$2\".",
+	"err-nosnapshot": "Ir-ritratti istantanji huma ġenerati kull ftit sigħat. Waqt il-ġenerazzjoni tar-ritratti istantanji għal \"$1\", inqalgħet problema. Erġa' pprova iktar tard.",
+	"err-noupdatelog": "L-ebda reġistru tal-aġġornament ma nstab.",
+	"repo-site-link": "Sit elettroniku",
+	"repo-browse-link": "Qalleb fir-repożitorju",
+	"repo-branches-label": "Sezzjonijiet:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Iksbu!",
+	"updatelog-link": "reġistru tal-aġġornament",
+	"tablehead-repo": "Repożitorju",
+	"tablehead-snapshots": "Ritratti istantanji",
+	"tablehead-branch": "Sezzjoni",
+	"tablehead-filesize": "Daqs tal-fajl",
+	"tablehead-hash": "Checksums"
+}

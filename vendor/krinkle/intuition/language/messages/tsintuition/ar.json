@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"DRIHEM",
+			"Meno25",
+			"OsamaK",
+			"أحمد"
+		]
+	},
+	"fullname": "أقلمة واجهة مستخدم Toolserver",
+	"current-settings": "الإعدادات الحالية",
+	"current-language": "اللغة المختارة",
+	"settings-legend": "الإعدادات",
+	"choose-language": "اختر لغة",
+	"clear-cookies": "امسح الكوكيز",
+	"renew-cookies": "جدد الكوكيز",
+	"cookie-expiration": "تاريخ انتهاء الكوكيز",
+	"clearcookies-success": "تم حذف كل الكوكيز بنجاح.",
+	"renewcookies-success": "تم تجديد الكوكيز! أنت الآن جاهز للنص $1.",
+	"tab-overview": "نظرة عامة",
+	"tab-settings": "الإعدادات",
+	"tab-about": "عن",
+	"tab-demo": "تجربة",
+	"bl-mysettings": "إعدادات لغتي",
+	"bl-mysettings-new": "غير اللغة!",
+	"bl-promo": "يدعم هذه الترجمات كل من $1 و $2.",
+	"bl-changelanguage": "غير لغة الواجهة لهذه الأداة.",
+	"usage": "الأدوات التي تمت ترجمتها بواسطة Intuition.",
+	"help-translate-tool": "ساعد في ترجمة هذه الأداة!",
+	"help-translate-all": "ساعد في ترجمة الأدوات!",
+	"help-translate-tooltip": "ساعد الآخرين بترجمة رسائل الواجهة إلى لغتك الأم."
+}

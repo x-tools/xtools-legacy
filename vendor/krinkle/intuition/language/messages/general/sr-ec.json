@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Platonides",
+			"Rancher"
+		]
+	},
+	"dateformat": "%d %B %Y",
+	"hello": "Здраво",
+	"welcome": "Добро дошли",
+	"toolversion": "Верзија $1",
+	"toolversionstamp": "Верзија $1 ($2)",
+	"etc": "итд.",
+	"colon-separator": ":",
+	"namespace": "Именски простор",
+	"form-submit": "Иди",
+	"form-reset": "Поништи",
+	"years": "{{PLURAL: $1|година|године|година}}",
+	"weeks": "{{PLURAL: $1|недеља|недеље|недеља}}",
+	"days": "{{PLURAL: $1|дан|дана}}",
+	"hours": "{{PLURAL: $1|сат|сата|сати}}",
+	"minutes": "{{PLURAL: $1|минут|минута}}",
+	"seconds": "{{PLURAL: $1|секунд|секунде|секунди}}",
+	"last-modified-date": "Последња измена: $1",
+	"view-source": "Изворни кôд",
+	"parentheses": "($1)",
+	"comma-separator": ",&#32;",
+	"word-separator": "&#32;",
+	"and": "&#32;и"
+}

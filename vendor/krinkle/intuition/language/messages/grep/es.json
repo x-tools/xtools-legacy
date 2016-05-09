@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kingpowl",
+			"Macofe",
+			"VegaDark",
+			"Steef"
+		]
+	},
+	"title": "Grep del título del artículo (beta)",
+	"introduction": "Esta herramienta muestra todos los títulos de los artículos que coinciden con un patrón de expresión regular ($1). Buscar usando una expresión regular consume muchos recursos. Si es posible, recuerda usar los indicadores de prefijo (^) y sufijo ($).",
+	"explanation": "explicación",
+	"regex": "Expresión regular",
+	"enter-details": "Introduce los detalles",
+	"results": "Resultados",
+	"language-label": "Idioma",
+	"namespace-label": "Espacio de nombres",
+	"project-label": "Proyecto",
+	"pattern-label": "Patrón",
+	"redirects-label": "Incluir redirecciones",
+	"limit-label": "Limitar la visualización a los primeros 100 resultados",
+	"error-zeroresults": "No hay páginas en ese espacio de nombres con títulos que coincidan con tu expresión regular.",
+	"match-count": "{{PLURAL:$1|$1 página coincide|$1 páginas coinciden}} con tu expresión regular."
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo"
+		]
+	},
+	"explanation": "explicación",
+	"regex": "Expresión regular",
+	"enter-details": "Insira os detalles",
+	"results": "Resultados",
+	"language-label": "Lingua",
+	"namespace-label": "Espazo de nomes",
+	"project-label": "Proxecto",
+	"pattern-label": "Padrón",
+	"redirects-label": "Incluír redireccións",
+	"match-count": "{{PLURAL:$1|$1 páxina coincide|$1 páxinas coinciden}} coa súa expresión regular."
+}

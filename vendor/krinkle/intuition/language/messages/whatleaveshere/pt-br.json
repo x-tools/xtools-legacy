@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tooguether",
+			"Araceletorres"
+		]
+	},
+	"sub-leaveshere": "Os seguintes links de páginas de $1",
+	"label-page": "Página",
+	"label-namespace": "Espaço de nome",
+	"label-limit": "Limite",
+	"button-submit": "Ir",
+	"noleaveshere": "Nenhum link de $1",
+	"istemplate": "transclusão",
+	"isfile": "link para o arquivo",
+	"linksearch": "LinkSearch",
+	"section-links": "Links",
+	"section-iwlinks": "Links interwiki",
+	"section-extlinks": "Links externos",
+	"section-categories": "Categorias"
+}

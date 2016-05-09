@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krinkle",
+			"Siebrand"
+		]
+	},
+	"title-overview": "Snapshots",
+	"title-error": "Fout",
+	"title-updatelog": "Updatelogboek",
+	"updatelog-intro": "Het updatescript wordt volgens planning ieder uur uitgevoerd. Hieronder is de uitvoer van de console van de laatste uitvoering te bekijken.",
+	"updatelog-active": "Het updatescript wordt op het moment uitgevoerd. Kom op een later moment terug voor het complete logboek.",
+	"download-button": "Snapshot downloaden",
+	"download-directlink": "directe koppeling",
+	"title-downloadpage": "Downloaden",
+	"title-downloadpage-repo": "$1 downloaden",
+	"err-snapshotindex": "De snapshotindex is tijdelijk niet beschikbaar. Probeer het later opnieuw.",
+	"err-invalid-repo": "Onbekende repository: \"$1\".",
+	"err-invalid-branch": "Onbekende branch: \"$1\" in repository \"$2\".",
+	"err-nosnapshot": "De snapshots worden iedere paar uur aangemaakt. Tijdens het aanmaken van het snapshot voor \"$1\" is een fout opgetreden. Probeer het later opnieuw.",
+	"err-noupdatelog": "Er is geen updatelogboek beschikbaar.",
+	"repo-site-link": "Website",
+	"repo-browse-link": "Repository bekijken",
+	"repo-branches-label": "Branches:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Downloaden!",
+	"updatelog-link": "updatelogboek",
+	"tablehead-repo": "Repository",
+	"tablehead-snapshots": "Snapshots",
+	"tablehead-branch": "Branch",
+	"tablehead-filesize": "Bestandsgrootte",
+	"tablehead-hash": "Hash"
+}

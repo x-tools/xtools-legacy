@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Aufzeichnen",
+	"voiceintro-toolbar-stop-label": "Stop",
+	"voiceintro-toolbar-clear-label": "Löschen",
+	"voiceintro-toolbar-upload-label": "Hochladen",
+	"voiceintro-webaudio-not-supported": "Die WebAudio-API wird für diesen Browser nicht unterstützt",
+	"voiceintro-upload-publish-succeeded": "Die Aufnahme wurde erfolgreich hochgeladen:",
+	"voiceintro-upload-publish-failed": "Die Aufnahme wurde nicht hochgeladen",
+	"voiceintro-information-label": "Information",
+	"voiceintro-information-speaker-label": "Name des Sprechers:",
+	"voiceintro-information-language-label": "Sprache:",
+	"voiceintro-mic-access-notify": "Klicke auf „Erlauben“, um dem Browser den Zugriff auf dein Mikrofon zu gestatten.",
+	"voiceintro-recording-notify": "Aufnahme …"
+}

@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fohanno",
+			"Fulup"
+		]
+	},
+	"fullname": "Etrebroadeladur an ostilhoù",
+	"current-settings": "Arventennoù red",
+	"current-language": "Yezh diuzet",
+	"settings-legend": "Arventennoù",
+	"choose-language": "Dibab ar yezh",
+	"clear-cookies": "riñsañ an toupinoù",
+	"renew-cookies": "reneveziñ an toupinoù",
+	"cookie-expiration": "Termen an toupin",
+	"clearcookies-success": "Diverket eo bet an toupinoù ervat.",
+	"renewcookies-success": "Nevesaet eo bet an toupinoù. Barrek oc'h evit ur prantad a $1.",
+	"tab-overview": "Brassell",
+	"tab-settings": "Arventennoù",
+	"tab-about": "Diwar-benn",
+	"tab-demo": "Amprouadenn",
+	"bl-mysettings": "Ma arventennoù yezh",
+	"bl-mysettings-new": "Cheñch yezh !",
+	"bl-promo": "Pourchaset eo an troidigezhioù gant $1 ha $2",
+	"bl-changelanguage": "Cheñch yezh etrefas an ostilh-mañ.",
+	"usage": "Ostilhoù troet gant Intuition.",
+	"help-translate-tool": "Hor skoazellit da dreiñ an ostilh-mañ !",
+	"help-translate-all": "Hor skoazellit da dreiñ an ostilhoù !",
+	"help-translate-tooltip": "Skoazellit ar re all en ur reiñ dorn da dreiñ kemennadennoù an etrefas en ho yezh."
+}

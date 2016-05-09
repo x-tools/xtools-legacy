@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"no-matches": "Onki samsvaraði \"$1\"",
+	"output": "Útdáta fyri \"$1\""
+}

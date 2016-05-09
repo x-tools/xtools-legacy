@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tifinaghes"
+		]
+	},
+	"search-table-th-field": "ⵉⴳⵔ",
+	"search-table-th-filter": "ⴰⵎⵙⵜⴰⵢ",
+	"search-table-th-search": "ⴰⵔⵣⵣⵓ",
+	"filter-all-countries": "ⵎⴰⵕⵕⴰ ⵜⵉⵎⵉⵣⴰⵔ",
+	"filter-all-languages": "ⵎⴰⵕⵕⴰ ⵜⵓⵜⵍⴰⵢⵉⵏ",
+	"db-field-country": "ⵜⴰⵎⵓⵔⵜ",
+	"db-field-lang": "ⵜⵓⵜⵍⴰⵢⵜ",
+	"db-field-name": "ⴰⵙⵙⴰⵖ",
+	"db-field-address": "ⴰⵣⵡⵉⵍ",
+	"db-field-municipality": "ⵜⴰⵖⵉⵡⴰⵏⵜ",
+	"db-field-image": "ⵜⴰⵡⵍⴰⴼⵜ",
+	"db-field-changed": "ⴱⴷⴷⴻⵍ",
+	"db-field-source": "ⴰⵖⴱⴰⵍⵓ",
+	"db-field-st_address": "ⵉⵣⵡⵉⵍⵏ",
+	"db-field-st_address_pct": "ⵉⵣⵡⵉⵍⵏ %",
+	"db-field-st_image": "ⵜⴰⵡⵍⴰⴼⵜ",
+	"db-field-st_image_pct": "ⵜⴰⵡⵍⴰⴼⵜ %",
+	"db-field-st_name": "ⴰⵙⵙⴰⵖⵏ",
+	"db-field-st_name_pct": "ⴰⵙⵙⴰⵖⵏ %"
+}

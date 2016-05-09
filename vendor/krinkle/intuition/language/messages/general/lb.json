@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Platonides",
+			"Robby"
+		]
+	},
+	"dateformat": "%d %B %Y",
+	"hello": "Salut",
+	"welcome": "Wëllkomm",
+	"toolversion": "Versioun $1",
+	"toolversionstamp": "Versioun $1 ($2)",
+	"etc": "asw.",
+	"namespace": "Nummraum",
+	"form-submit": "Lass",
+	"form-reset": "Zrécksetzen",
+	"years": "{{PLURAL: $1|Joer|Joer}}",
+	"months": "{{PLURAL: $1|Mount|Méint}}",
+	"weeks": "{{PLURAL: $1|Woch|Wochen}}",
+	"days": "{{PLURAL: $1|Dag|Deeg}}",
+	"hours": "{{PLURAL: $1|Stonn|Stonnen}}",
+	"minutes": "{{PLURAL: $1|Minutt|Minutten}}",
+	"seconds": "{{PLURAL: $1|Sekonn|Sekonnen}}",
+	"last-modified-date": "Lescht Ännerung: $1",
+	"view-source": "Quellcode weisen",
+	"and": "&#32;a(n)"
+}

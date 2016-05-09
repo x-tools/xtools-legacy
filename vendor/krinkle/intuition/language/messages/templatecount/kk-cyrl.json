@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"enter-details": "Егжей-тегжейін енгізіңіз",
+	"language-label": "Тіл",
+	"namespace-label": "Есім кеңістігі",
+	"pagename-label": "Бет атауы (есім кеңістігін қоспағанда)",
+	"transclusion-count-label": "Кірістірілімдер саны",
+	"transclusion-count": "$1 кірістірілім табылды."
+}

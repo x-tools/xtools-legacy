@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gagnabil"
+		]
+	},
+	"pb-about-pb-navi": "حول",
+	"pb-about-pb-tech": "التفاصيل التقنية",
+	"pb-about-pb-title": "حول المشروع",
+	"pb-change-language": "تغيير اللغة",
+	"pb-comment": "تعليق",
+	"pb-confirmations-given": "التأكيدات المعطاة",
+	"pb-confirmations-taken": "التأكيدات المتوصّل بها",
+	"pb-current-confirmations": "هناك  $1  تأكيدات في المجموع، حوالي <abbr title=\"<span class=\" notranslate\"=\"\" translate=\"no\">$2 \"> $3  </abbr> تأكيد لليوم الواحد.",
+	"pb-current-figures": "الأوجه الحاليّة",
+	"pb-current-users": "هؤلاء  المستخدمون $1 شاركوا في مشروع <em>المعارف الشخصية</em> :",
+	"pb-date": "التاريخ",
+	"pb-home": "الرئيسية",
+	"pb-javascript-notice": "نوصي بتمكين جافا سكريبت لهذا الموقع لتحسين واجهة المستخدم.",
+	"pb-labs-name": "مختبرات أدوات ويكيميديا",
+	"pb-participates-since": "يشارك منذ",
+	"pb-powered-by-labs": "مدعومة من طرف مختبر أدوات ويكيميديا",
+	"pb-recent-confirmations": "التأكيدات الحديثة",
+	"pb-reconfirmed": "تمّت إعادة التأكيد؟",
+	"pb-user": "مستخدم",
+	"pb-user-link-title": "تفاصيل المستخدم $1",
+	"pb-user-heading": "معلومات حول <a href=\"$2\" title=\"صفحة المستخدم $1\">$1</a>",
+	"pb-user-title": "معلومات عن $1",
+	"pb-users-navi": "مستخدمون",
+	"pb-users-title": "قائمة المشاركين",
+	"pb-users-overview": "هؤلاء  المستخدمون $1 شاركوا في مشروع <em>المعارف الشخصية</em> :",
+	"pb-verified-since": "تمّ التحقّق منها منذ"
+}

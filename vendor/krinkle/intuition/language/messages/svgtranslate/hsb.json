@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"error-tryagain": "$1 Klikń na tłóčatko \"Wróćo\" swojeho wobhladowaka, zo by hišće raz spytał.",
+	"error-nothing": "Njeje ničo za přełožowanje.",
+	"error-notsvg": "To SVG-dataja njeje.",
+	"error-unexpected": "Njewočakowany zmylk je wustupił.",
+	"error-notfound": "SVG-dataja njeda so wot podateho URL wotwołać.",
+	"error-upload": "Při nahrawanju je zmylk wustupił.",
+	"begin-translation": "Přełožowanje započeć",
+	"th-original": "Original",
+	"th-translation": "Přełožk",
+	"th-language": "Rěč",
+	"th-username": "Wužiwarske mjeno",
+	"th-password": "Hesło",
+	"th-method": "Metoda",
+	"option-oauth": "TUSC (awtomatiske nahraće)",
+	"option-manual": "Manuelne nahraće",
+	"preview": "Přehlad",
+	"translate": "Přełožić",
+	"translate-instructions": "Zapodaća akceptuja so pak jako datajowe mjena (na př. \"$1\")  pak jako dospołny URL (na př. \"$2\"). Jeli so prěnja opcija wužiwa, budźe so Wikimedia Commons jako žórło předpokładować. Zo by SVG z druheho sydła abo wikija přełožił, dyrbiš format z dospołnym URL wužiwać.",
+	"svginput-label": "SVG-dataja",
+	"stats-footer": "Tutón nastroj je so wužił, zo by so na wšě $1 datajow wot $2 přełožiło.",
+	"uploading": "Nahrawa so...",
+	"upload-complete": "Nahraće je wuspěšnje zakónčene. Wobraz dyrbjał nětko pod $1 k dispoziciji stać.",
+	"editdescriptionpage": "Nowu wopisansku stronu wobdźěłać",
+	"disclaimer": "Někotre anonymne daty so za statistiske zaměry zběraja. Jeli k dispoziciji, wužiwarske mjena OAuth so tež zapřijimaja, jako pomocny srědk přećiwo wandalizmej. Hesła so ženje njezapřijimaja.",
+	"author-complete": "Prošu wudospołń informacije wo awtorje!",
+	"preview-hide": "Přehlad schować",
+	"preview-refresh": "Přehlad aktualizować",
+	"error-must-accept": "Zo by z direktnym nahraćom pokročował, dyrbiš slědowace wužiwanske wuměnjenja akceptować.",
+	"description-license": "Wopisanje a licencu wubrać",
+	"finalise": "Podrobnosće wudospołnić"
+}

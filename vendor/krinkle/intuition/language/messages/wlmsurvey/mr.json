@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"BPositive",
+			"V.narsikar"
+		]
+	},
+	"2013-header-demographics": "ग्राहक तपशील",
+	"2013-question-country": "आपण कोण्त्या देशात राहता?",
+	"2013-other-country-lives": "इतर देश:",
+	"2013-question-birth-year": "आपला जन्म कोणत्या साली झाला?",
+	"2013-birth-year": "वर्ष:",
+	"2013-hide-birth-year": "मी हे उघडकीस  आणण्यात पसंद नाही करणार",
+	"2013-question-gender": "आपले लिंग काय आहे?",
+	"2013-gender-male": "पुरुष",
+	"2013-gender-female": "स्त्री",
+	"2013-gender-other": "इतर/ मी हे उघडकीस  आणण्यात पसंद नाही करणार",
+	"2013-header-wikimedia-activity": "Wikimedia कार्य",
+	"2013-question-wlm-participation": "तुम्ही Wiki Loves Monuments मध्ये यापूर्वी कोणत्या साली भाग घेतला ?",
+	"2013-header-competition": "प्रतियोगिता",
+	"2013-question-discovered-wlm": "तुम्हाला Wiki Loves Monuments 2013 बद्दल कसे माहित पडले?",
+	"2013-discovered-sitenotice": "विकिपीडिया अथवा इतर विकिमिडिया प्रकल्पांमधील घोषणाफलकांमधून.",
+	"2013-discovered-other": "इतर",
+	"2013-other-country-upload": "इतर देश:",
+	"2013-photos-taken-sep-2013": "मी अधिकतर फोटो सप्टेंबर २०१३ मध्ये घेतले",
+	"2013-photos-taken-jan-aug-2013": "मी अधिकतर फोटो जानेवारी आणि ऑगस्ट २०१३ च्या  दरम्यान घेतले.",
+	"2013-photos-taken-2000-2012": "मी अधिकतर फोटो २००० आणि २०१२ च्या  दरम्यान घेतले",
+	"2013-photos-taken-before-2000": "मी अधिकतर फोटो २००० सालाच्या अगोदर घेतले.",
+	"2013-header-motivation": "प्रेरणास्तोत्र",
+	"2013-motivation-prize": "बक्षीस जिंकणे",
+	"2013-motivation-help": "विकिपीडिया ला मदत करणे",
+	"2013-motivation-fun": "मजेसाठी",
+	"2013-motivation-other": "इतर",
+	"2013-scale-difficult-1-text": "खूप सोप्पे",
+	"2013-scale-difficult-2-text": "सोप्पे",
+	"2013-scale-difficult-3-text": "सामान्य",
+	"2013-scale-difficult-4-text": "अवघड",
+	"2013-scale-difficult-5-text": "खूप अवघड"
+}

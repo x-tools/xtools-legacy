@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"form-label-language": "語言：",
+	"form-label-template": "模板名稱：",
+	"feedback-total-count": "總計：$1"
+}

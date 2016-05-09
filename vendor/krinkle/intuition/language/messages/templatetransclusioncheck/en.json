@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon"
+		]
+	},
+	"title": "Template linking and transclusion check",
+	"description": "Checks and reports which articles that transclude a template are not linked from the template, and which articles that are linked from a template do not transclude it.",
+	"form-label-language": "Language:",
+	"form-label-template": "Template name:",
+	"form-label-template2": "(including namespace)",
+	"form-label-complete": "Generate complete report:",
+	"feedback-template-missing": "Template $1 does not exist.",
+	"feedback-template-noaccess": "Template $1 seems to exists, but it is not available from the database. This might be a temporary database issue. Database used: $2.",
+	"feedback-result": "Results for $1",
+	"feedback-header-mismatch": "Mismatch between transclusions and links",
+	"feedback-header-no-link": "Transclusion but no link",
+	"feedback-header-no-transclusion": "Link but no transclusion",
+	"feedback-header-redirects": "Links to redirects",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-complete": "Complete transclusion and link overview",
+	"feedback-header-transclusions": "Transclusions of the template",
+	"feedback-header-links": "Links from the template",
+	"link-edit": "edit",
+	"link-create": "create",
+	"link-complete": "Complete report...",
+	"footer-stats": "Generated: $1. Duration: $2 {{PLURAL:$2|second|seconds}}.",
+	"error-language": "Unknown language code."
+}

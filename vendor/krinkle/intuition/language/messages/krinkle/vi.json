@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(chọn wiki)",
+	"alws-group-mustused": "Các wiki được sử dụng nhiều nhất",
+	"alws-group-allaz": "Tất cả các wiki theo thứ tự chữ cái",
+	"form-legend-settings": "Tùy chọn"
+}

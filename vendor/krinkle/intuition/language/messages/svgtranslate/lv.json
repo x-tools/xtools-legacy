@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"th-username": "Lietotājvārds",
+	"th-password": "Parole",
+	"th-method": "Metode",
+	"svginput-label": "SVG fails",
+	"uploading": "Augšupielādē"
+}

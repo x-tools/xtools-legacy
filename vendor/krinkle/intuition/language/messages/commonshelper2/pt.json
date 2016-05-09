@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Analuisa",
+			"Luckas"
+		]
+	},
+	"attention": "Atenção",
+	"language": "Língua",
+	"project": "Projeto",
+	"categories": "Categorias",
+	"remove_cats": "Remover categorias existentes",
+	"new_filename": "Novo nome do arquivo:",
+	"upload_submit": "Upload!",
+	"target_wiki": "o wiki alvo"
+}

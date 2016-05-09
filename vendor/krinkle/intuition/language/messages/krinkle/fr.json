@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crochet.david",
+			"Peter17",
+			"Verdy p"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(sélectionner le wiki)",
+	"alws-group-mustused": "Wikis les plus utilisés",
+	"alws-group-allaz": "Tous les wikis par ordre alphabétique",
+	"form-legend-settings": "Configuration"
+}

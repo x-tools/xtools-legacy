@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"2012-header-introduction": "Giới thiệu",
+	"2012-header-demographics": "Nhân khẩu",
+	"2012-question-country": "Bạn ở nước nào?",
+	"2012-other-country-lives": "Nước khác:",
+	"2012-question-birth-year": "Bạn sinh năm nào?",
+	"2012-birth-year": "Năm:",
+	"2012-hide-birth-year": "Tôi không muốn cho biết.",
+	"2012-gender-male": "Nam",
+	"2012-gender-female": "Nữ",
+	"2012-gender-other": "Khác / Tôi không muốn cho biết",
+	"2012-header-wikimedia-activity": "Hoạt động Wikimedia",
+	"2012-discovered-news": "Qua tin tức (trực tuyến hoặc trên giấy).",
+	"2012-discovered-other": "Khác:",
+	"2012-question-countries-uploaded": "Bạn đã tải lên hình từ các nước nào?",
+	"2012-other-country-upload": "Nước khác:",
+	"2012-motivation-help": "Để giúp đỡ Wikipedia",
+	"2012-motivation-other": "Khác:",
+	"2012-scale-difficult-1-text": "Rất dễ",
+	"2012-scale-difficult-2-text": "Dễ",
+	"2012-scale-difficult-3-text": "Vừa vừa",
+	"2012-scale-difficult-4-text": "Khó",
+	"2012-scale-difficult-5-text": "Rất khó",
+	"2012-header-future": "Tương lai",
+	"2012-username": "Tên người dùng:",
+	"2012-email": "Địa chỉ thư điện tử:"
+}

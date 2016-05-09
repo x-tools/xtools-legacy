@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fohanno"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Enrollañ",
+	"voiceintro-toolbar-stop-label": "Paouez",
+	"voiceintro-toolbar-clear-label": "Riñsañ",
+	"voiceintro-toolbar-upload-label": "Enporzhiañ",
+	"voiceintro-information-label": "Titouroù",
+	"voiceintro-information-speaker-label": "Anv ar prezeger :",
+	"voiceintro-information-language-label": "Yezh :",
+	"voiceintro-recording-notify": "Oc'h enrollañ..."
+}

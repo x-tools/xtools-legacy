@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"toolserver-status-ok": "Không có vấn đề trong cụm cơ sở dữ liệu $1 $2",
+	"toolserver-status-info": "Thông báo cho những người dùng cụm $1: $2",
+	"toolserver-status-warn": "Cảnh báo cho những người dùng cụm $1: $2",
+	"toolserver-status-down": "Cụm cơ sở dữ liệu $1 đã bị tắt tạm thời. $2",
+	"toolserver-status-erro": "Cụm cơ sở dữ liệu $1 đang tắt: $2",
+	"toolserver-status-unknown": "Trạng thái của cụm $1 không rõ",
+	"toolserver-status-missing": "Cụm $1 không tồn tại",
+	"toolserver-status-short-ok": "$1: OK",
+	"toolserver-status-short-info": "$1: Thông báo",
+	"toolserver-status-short-warn": "$1: Cảnh báo",
+	"toolserver-status-short-down": "$1: Tắt",
+	"toolserver-status-short-erro": "$1: Lỗi",
+	"toolserver-status-short-unknown": "$1: Không rõ",
+	"toolserver-status-short-missing": "$1: Không có"
+}

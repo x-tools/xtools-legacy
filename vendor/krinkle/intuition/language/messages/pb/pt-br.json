@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amgauna"
+		]
+	},
+	"pb-about-pb-navi": "Sobre",
+	"pb-about-pb-tech": "Detalhes técnicos",
+	"pb-about-pb-tech-text": "<p>Nós Usamos <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> e <a href=\"https://es.wikipedia.org/wiki/MySQL\">MySQL</a> para esta interface. O código fonte está publicado abaixo no términos da licença <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) e pode ser acessado <a href=\"https://github.com/tool-labs/pb\">en GitHub</a>. Por favor, adicione novos relatórios de bugs, solicitações de características ou outros comentários <a href=\"https://github.com/tool-labs/pb/issues/new\">para o seguimento dos relatórios de GitHub</a> o relatório está em <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">página de discussão na Wikipedia</a>.</p>\n    <p>Os respaldos atuais da base de dados de PB pode encontrar-se em <a href=\"/pb/sql-dumps\">aquí</a>.</p>\n    <p>Utilizamos vários icones criados pelo projeto <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Este projeto representa conhecimentos pessoais entre Wikimedians.</p>\n    <p>A primeira implementação foi feita por Ulli Purwin (interfaz) e Euku (bot). No início de 2011, Wiegels e Ireas seguiu o Ulli fazendo a interface. Por hora, o projeto não está alojado em um servidor privado, mas na Wikimedia Labs.</p>\n    <p>Pode encontrar-se mais informações deste projeto na Wikipedia Alemana em sua página <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Sobre o projeto",
+	"pb-change-language": "Alterar o idioma",
+	"pb-comment": "Comentário",
+	"pb-confirmations-given": "confirmação data",
+	"pb-confirmations-taken": "confirmação recebida",
+	"pb-current-confirmations": "Tem $1 confirmações no total, trata-se de <abbr title=\"$2\">$3</abbr> confirmações diárias.",
+	"pb-current-figures": "Figuras atuais",
+	"pb-current-users": "No momento, $1 usuário participou do projeto de <em>Conhecimentos Pessoais</em>.",
+	"pb-date": "Data",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften en la Wikipedia Alemana\">[[Wikipedia:Persönliche Bekanntschaften]]</a> em Tool Labs. <a href=\"$1\" title=\"Acerca de Wikipedia:Persönliche Bekanntschaften\">Mais informações.</a>",
+	"pb-home": "Casa",
+	"pb-home-welcome": "Bem-vindo ao projeto <em>Conhecimentos Pessoais</em> ¡(<em>Persönliche-Bekanntschaften</em> en alemán)! Mais informações acerca deste projeto pode encontrar-se <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German language Wikipedia\">no idioma Alemão na Wikipedia</a>.",
+	"pb-javascript-notice": "Nós recomendamos ativar o JavaScript para este website, para melhorar a interface de usuário.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Participa desde",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "Potencializado por Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Confirmações recentes",
+	"pb-reconfirmed": "Reconfirmar?",
+	"pb-user": "Usuário",
+	"pb-user-link-title": "Detalhes para o usuário $1",
+	"pb-user-heading": "Informação para <a href=\"$2\" title=\"Página de usuário de $1\">$1</a>",
+	"pb-user-title": "Informação sobre \"$1\"",
+	"pb-users-navi": "Usuários",
+	"pb-users-title": "Lista de participantes",
+	"pb-users-overview": "Estes $1 de usuários participam do projeto <em>Conhecimentos Pessoais</em>.",
+	"pb-verified-since": "Verificado desde"
+}

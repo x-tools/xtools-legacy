@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"toolserver-status-short-ok": "$1: კარგი",
+	"toolserver-status-short-info": "$1: ინფორმაცია",
+	"toolserver-status-short-warn": "$1: გაფრთხილება",
+	"toolserver-status-short-down": "$1: ხელმიუწვდომელია",
+	"toolserver-status-short-erro": "$1: შეცდომა",
+	"toolserver-status-short-unknown": "$1: უცნობი",
+	"toolserver-status-short-missing": "$1: დაკარგული"
+}

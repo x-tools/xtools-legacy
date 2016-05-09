@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Gianfranco"
+		]
+	},
+	"title": "Conteggio delle transclusioni dei template",
+	"enter-details": "Precisa i dettagli",
+	"introduction": "Scrivi il nome di un template (solo versioni di Wikipedia, al momento) e premi su vai. È davvero semplice, proprio così. C'è qualche memorizzazione nella cache (memoria di precedenti risultati), ma questo purtroppo va oltre la capacità di controllo di questo tool e del suo gestore.",
+	"language-label": "Lingua",
+	"namespace-label": "Namespace",
+	"pagename-label": "Nome della pagina (escluso il namespace)",
+	"transclusion-count-label": "Numero di inclusioni",
+	"transclusion-count": "$1 inclusioni trovate.",
+	"error-suggestion": "Per caso hai sbagliato a scrivere il nome della pagina (o le maiuscole)?",
+	"time-label": "Tempo impiegato per eseguire l'operazione"
+}

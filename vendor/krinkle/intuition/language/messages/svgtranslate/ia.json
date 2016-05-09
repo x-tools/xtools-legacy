@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"title": "Traduction SVG",
+	"error-tryagain": "$1 Preme le button Retro de tu navigator del web pro reprobar.",
+	"error-nothing": "Nihil a traducer.",
+	"error-notsvg": "Non es un file SVG.",
+	"error-unexpected": "Un error inexpectate ha occurrite.",
+	"error-notfound": "Le file SVG non poteva esser cargate del URL fornite.",
+	"error-upload": "Un error occurreva durante le incargamento.",
+	"begin-translation": "Comenciar traduction",
+	"th-original": "Original",
+	"th-translation": "Traduction",
+	"th-language": "Lingua",
+	"th-username": "Nomine de usator",
+	"th-password": "Contrasigno",
+	"th-method": "Methodo",
+	"option-oauth": "TUSC (incargamento automatic)",
+	"option-manual": "Incargamento manual",
+	"preview": "Previsualisation",
+	"translate": "Traducer",
+	"translate-instructions": "Es possibile entrar un nomine de file (p.ex. \"$1\") o un URL complete (p.ex. \"$2\"). Si le prime option es usate, Wikimedia Commons es assumite como fonte. Pro traducer un file SVG de un altere sito o wiki, tu debe usar le URL complete.",
+	"svginput-label": "File SVG",
+	"stats-footer": "Iste instrumento ha essite usate pro traducer circa $1 files depost $2.",
+	"uploading": "Incargamento in curso",
+	"upload-complete": "Le incargamento ha succedite. Le imagine debe ora esser presente a $1",
+	"editdescriptionpage": "Modificar le nove pagina de description",
+	"disclaimer": "Certe datos anonyme essera colligite in private pro alimentar nostre statisticas. Si fornite, le nomines de usator de OAuth etiam essera registrate pro assister in caso de vandalismo. Le contrasignos nunquam essera registrate.",
+	"author-complete": "Per favor completa le informationes del autor.",
+	"preview-hide": "Celar previsualisation",
+	"preview-refresh": "Refrescar previsualisation",
+	"error-must-accept": "Pro continuar con un incargamento directe, es necessari acceptar le conditiones de uso pertinente.",
+	"description-license": "Selige description e licentia",
+	"finalise": "Finalisar detalios"
+}

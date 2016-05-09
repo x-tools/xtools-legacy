@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Shirayuki"
+		]
+	},
+	"toolserver-status-ok": "Message formatting for when the cluster status is 'ok'. Params: cluster ($1) and informative text ($2), which should be empty",
+	"toolserver-status-info": "Message formatting for when the cluster status is 'info'. Params: cluster ($1) and informative text ($2)",
+	"toolserver-status-warn": "Message formatting for when the cluster status is 'warn'. Params: cluster ($1) and informative text ($2)",
+	"toolserver-status-down": "Message formatting for when the cluster status is 'down' (eg. a planned maintenance). Params: cluster ($1) and informative text ($2)",
+	"toolserver-status-erro": "Message formatting for when the cluster status is 'erro' (eg. a unplanned maintenance). Params: cluster ($1) and informative text ($2)",
+	"toolserver-status-unknown": "Message formatting for when the status file doesn't deliver any information about the status (a toolserver admin wrote it wrong). Params: cluster ($1) and empty informative text ($2)",
+	"toolserver-status-missing": "Message formatting for when the cluster name doesn't exist (invalid name passed by the calling program)",
+	"toolserver-status-short-ok": "A short status text for when the status is 'ok'. Params: cluster name ($1)\n{{Identical|OK}}",
+	"toolserver-status-short-info": "A short status text for when the status is 'info'. Params: cluster name ($1)\n{{Identical|Info}}",
+	"toolserver-status-short-warn": "A short status text for when the status is 'warn'. Params: cluster name ($1)",
+	"toolserver-status-short-down": "A short status text for when the status is 'down'. Params: cluster name ($1)\n{{Identical|Down}}",
+	"toolserver-status-short-erro": "A short status text for when the status is 'erro'. Params: cluster name ($1)\n{{Identical|Error}}",
+	"toolserver-status-short-unknown": "A short status text for when the status file doesn't deliver any information about the status (a toolserver admin wrote it wrong).\n\nParameters:\n* $1 - cluster name\n{{Identical|Unknown}}",
+	"toolserver-status-short-missing": "A short status text for when the cluster name doesn't exist (invalid name passed by the calling program)\n{{Identical|Missing}}"
+}

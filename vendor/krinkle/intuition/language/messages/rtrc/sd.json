@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"apply": "درخواست ڏيو",
+	"changelog": "نئون ڇا آهي",
+	"clear": "ختم ڪريو",
+	"cvn-adder": "شامل ڪندڙ",
+	"cvn-adder-empty": "اڻڄاتل",
+	"cvn-reason": "سبب",
+	"cvn-reason-empty": "ڪو به سبب نه لڌو",
+	"documentation": "دستاويزسازي",
+	"limit": "حد",
+	"select-placeholder-none": "(ڪو به نه)",
+	"showAnonOnly": "صرف گمنام",
+	"skippededit": "ڇڏيل ترميم",
+	"tag": "ٽيگ",
+	"time-from": "طرفان",
+	"time-untill": "جيسيتائي",
+	"type": "قسم",
+	"typeEdit": "ترميمون",
+	"typeNew": "نوان صفحا"
+}

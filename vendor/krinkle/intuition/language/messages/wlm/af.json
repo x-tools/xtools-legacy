@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"title": "WLM-lêers",
+	"file": "Beeld",
+	"monument-type": "Monumenttipe",
+	"monument-id": "Monument-ID",
+	"province": "Provinsie",
+	"comarque": "Comarca",
+	"competes": "In wedstryd",
+	"author": "Outeur",
+	"country-header": "Land",
+	"location": "Ligging",
+	"upload-time": "Oplaaityd",
+	"deleted": "Geskrap ($1)",
+	"concursa": "Neem deel aan WLM",
+	"no-concursa": "Buite WLM-wedstryd",
+	"not-available": "Nie beskikbaar nie",
+	"date-unknown": "Onbekend",
+	"total-images": "Totale aantal beelde: $1",
+	"show-images-all": "Wys alle beelde",
+	"search-monuments": "Soek monumente",
+	"view-frequency": "Gewilde monumente",
+	"view-province": "Wys volgens provinsie",
+	"id-label": "Monument-ID:",
+	"id-none": "(Geen)",
+	"monument-heading": "Monument",
+	"count-heading": "Foto's",
+	"bic-list": "Lys",
+	"bic-gallery": "Galery",
+	"author-heading": "Outeur",
+	"bic-list-bad": "Wys",
+	"bic-list-all": "Volledige lys",
+	"unregistered": "Nie geregistreer nie",
+	"users-list": "Wys",
+	"distict-monuments": "Unieke monumente",
+	"province-heading": "Provinsie",
+	"province-none": "(Onbekend)",
+	"ccaa-heading": "CC.AA."
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleferen",
+			"Salam"
+		]
+	},
+	"toolserver-status-ok": "Нет никаких проблем в кластере базы данных $1 $2",
+	"toolserver-status-info": "Уведомление для пользователей кластера $1: $2",
+	"toolserver-status-warn": "Предупреждение для пользователей кластера $1: $2",
+	"toolserver-status-down": "Кластер базы данных $1 временно выключен. $2",
+	"toolserver-status-erro": "Кластер базы данных $1 недоступен. $2",
+	"toolserver-status-unknown": "Неизвестное состояние кластера $1",
+	"toolserver-status-missing": "Кластер $1 не существует",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Информация",
+	"toolserver-status-short-warn": "$1: Предупреждение",
+	"toolserver-status-short-down": "$1: Недоступен",
+	"toolserver-status-short-erro": "$1: Ошибка",
+	"toolserver-status-short-unknown": "$1: Неизвестно",
+	"toolserver-status-short-missing": "$1: Отсутствует"
+}

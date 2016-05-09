@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Snemaj",
+	"voiceintro-toolbar-stop-label": "Ustavi",
+	"voiceintro-toolbar-clear-label": "Počisti",
+	"voiceintro-toolbar-upload-label": "Naloži",
+	"voiceintro-webaudio-not-supported": "Ta brskalnik ne podpira WebAudio API",
+	"voiceintro-upload-publish-succeeded": "Posnetek se je uspešno naložil:",
+	"voiceintro-upload-publish-failed": "Posnetek se ni naložil",
+	"voiceintro-information-label": "Informacije",
+	"voiceintro-information-speaker-label": "Ime govorca:",
+	"voiceintro-information-language-label": "Jezik:",
+	"voiceintro-mic-access-notify": "Kliknite »Dovolim«, da bo brskalnik lahko dostopal do vašega mikrofona.",
+	"voiceintro-recording-notify": "Snemanje ..."
+}

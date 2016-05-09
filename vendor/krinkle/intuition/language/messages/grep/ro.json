@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"title": "Grep pentru titluri de articole (beta)",
+	"introduction": "Acest instrument afișează toate titlurile de articole care corespund unui model de expresie regulată ($1). Căutarea folosind o expresie regulată este mare consumatoare de resurse. Dacă este posibil, nu uitați să folosiți indicatorii pentru prefix (^) și sufix ($).",
+	"explanation": "explicație",
+	"regex": "Expresie regulată",
+	"enter-details": "Introduceți detalii",
+	"results": "Rezultate",
+	"language-label": "Limbă",
+	"namespace-label": "Spațiu de nume",
+	"project-label": "Proiect",
+	"pattern-label": "Model",
+	"redirects-label": "Include redirecționări",
+	"limit-label": "Limitează afișarea la primele 100 de rezultate",
+	"error-zeroresults": "Nu există pagini în acel spațiu de nume cu titluri care să corespundă expresiei regulate.",
+	"match-count": "{{PLURAL:$1|$1 pagină corespunde|$1 pagini corespund|$1 de pagini corespund}} expresiei regulate."
+}

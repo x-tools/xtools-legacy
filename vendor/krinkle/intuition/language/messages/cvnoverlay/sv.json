@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"WikiPhoenix"
+		]
+	},
+	"adder": "Tilläggare",
+	"adder-empty": "Okänd",
+	"expiry": "Utgången",
+	"globalwatched": "Globalt bevakad",
+	"reason": "Orsak",
+	"reason-empty": "Ingen orsak hittades"
+}

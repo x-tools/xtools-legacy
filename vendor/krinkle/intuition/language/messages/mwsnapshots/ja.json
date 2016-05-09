@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"title-overview": "スナップショット",
+	"title-error": "エラー",
+	"title-updatelog": "更新記録",
+	"updatelog-intro": "更新スクリプトを毎時間実行するようスケジュールされています。下記は前回の実行でのコンソール出力です。",
+	"updatelog-active": "更新スクリプトを現在実行中です。あとで完了記録を確認してください。",
+	"download-button": "スナップショットをダウンロード",
+	"download-directlink": "直接リンク",
+	"title-downloadpage": "ダウンロード",
+	"title-downloadpage-repo": "$1 のダウンロード",
+	"err-snapshotindex": "スナップショットのインデックスは一時的に利用できません。あとでもう一度やり直してください。",
+	"err-invalid-repo": "不明なリポジトリ:「$1」",
+	"err-invalid-branch": "不明なブランチ: リポジトリ「$2」内の「$1」",
+	"err-nosnapshot": "スナップショットは数時間ごとに生成されます。「$1」のスナップショット生成中にエラーが発生しました。あとでもう一度やり直してください。",
+	"err-noupdatelog": "更新記録が見つかりませんでした。",
+	"repo-site-link": "ウェブサイト",
+	"repo-browse-link": "リポジトリを参照",
+	"repo-branches-label": "ブランチ:",
+	"repo-lastmoddate-label": "日時:",
+	"branches-submit-button": "取得する",
+	"updatelog-link": "更新記録",
+	"tablehead-repo": "リポジトリ",
+	"tablehead-snapshots": "スナップショット",
+	"tablehead-branch": "ブランチ",
+	"tablehead-filesize": "ファイル サイズ",
+	"tablehead-hash": "チェックサム"
+}

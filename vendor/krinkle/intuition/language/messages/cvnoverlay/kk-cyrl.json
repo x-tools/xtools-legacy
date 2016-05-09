@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"adder": "Қосушы",
+	"adder-empty": "Белгісіз",
+	"expiry": "Мерзімі бітпек:",
+	"globalwatched": "Ғаламдық бақыланған",
+	"reason": "Себебі",
+	"reason-empty": "Себебі табылмады"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Liftarn",
+			"Lokal Profil"
+		]
+	},
+	"fullname": "Internationalisering av verktyg",
+	"current-settings": "Aktuella inställningar",
+	"current-language": "Valt språk",
+	"settings-legend": "Inställningar",
+	"choose-language": "Välj ett språk",
+	"clear-cookies": "rensa kakor",
+	"renew-cookies": "förnya kakor",
+	"cookie-expiration": "Kakors förfallodatum",
+	"clearcookies-success": "Lyckades rensa kakor.",
+	"renewcookies-success": "Kakor förnyade! Du är klar för de nästa $1.",
+	"tab-overview": "Översikt",
+	"tab-settings": "Inställningar",
+	"tab-about": "Om",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mina språkinställningar",
+	"bl-mysettings-new": "Byt språk!",
+	"bl-promo": "Översättningar drivs av $1 och $2.",
+	"bl-changelanguage": "Klicka här för att ändra gränssnittsspråket för detta verktyg.",
+	"usage": "Verktyg översatt av Intuition.",
+	"help-translate-tool": "Hjälp till att översätta detta verktyg!",
+	"help-translate-all": "Hjälp till att översätta verktyg!",
+	"help-translate-tooltip": "Hjälp andra genom att översätta gränssnittsmeddelanden till ditt språk."
+}

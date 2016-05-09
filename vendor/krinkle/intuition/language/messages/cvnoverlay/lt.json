@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"adder": "Pridėjo",
+	"adder-empty": "Nežinomas",
+	"expiry": "Galiojimo laikas",
+	"globalwatched": "Visame pasaulyje stebėjo",
+	"reason": "Priežastis",
+	"reason-empty": "Nerasta priežastis"
+}

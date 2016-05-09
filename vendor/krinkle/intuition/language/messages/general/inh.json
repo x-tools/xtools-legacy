@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sapral Mikail",
+			"Умар"
+		]
+	},
+	"hello": "Салам",
+	"welcome": "Маьрша доагIалда",
+	"namespace": "ЦIерий аренаш",
+	"form-submit": "Кхоачашде",
+	"form-reset": "Юхаоттар",
+	"years": "{{PLURAL: $1|шу|шера|шераш}}",
+	"weeks": "{{PLURAL: $1|к|иранди|к|иранден|к|иранденош}}",
+	"days": "{{PLURAL: $1|ди|ден|денош}}",
+	"hours": "{{PLURAL: $1|сахьт}}"
+}

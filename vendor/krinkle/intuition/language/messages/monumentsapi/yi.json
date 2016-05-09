@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"search-table-th-field": "פעלד",
+	"search-table-th-filter": "פֿילטער",
+	"search-table-th-search": "זוכן",
+	"filter-all-countries": "אלע לענדער",
+	"filter-all-languages": "אלע שפראַכן",
+	"db-field-country": "לאַנד",
+	"db-field-lang": "שפראַך",
+	"db-field-id": "אידענטיפֿיצירער",
+	"db-field-name": "נאָמען",
+	"db-field-address": "אַדרעס",
+	"db-field-municipality": "מוניציפאליטעט",
+	"db-field-lat": "גארטל־ליניע",
+	"db-field-lon": "געאגראַפֿישע לענג",
+	"db-field-image": "בילד",
+	"db-field-changed": "געטוישט",
+	"db-field-source": "מקור",
+	"db-field-monument_article": "מאנומענט בלאט",
+	"toolbox-nav-homepage": "היימבלאט",
+	"toolbox-nav-statistics": "סטאַטיסטיק",
+	"toolbox-nav-search": "זוכן",
+	"location": "אָרט"
+}

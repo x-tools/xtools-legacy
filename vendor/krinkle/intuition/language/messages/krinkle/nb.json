@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(velg wiki)",
+	"alws-group-mustused": "Mest brukte wikier",
+	"alws-group-allaz": "Alle wikier i alfabetisk orden",
+	"form-legend-settings": "Innstillinger"
+}

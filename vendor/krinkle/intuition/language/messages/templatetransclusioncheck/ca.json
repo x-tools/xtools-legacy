@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"F3RaN"
+		]
+	},
+	"form-label-language": "Llengua:",
+	"form-label-template": "Nom de la plantilla:",
+	"form-label-template2": "(incloent-hi els espais de noms)",
+	"form-label-complete": "Generar informe complet:",
+	"feedback-template-missing": "La plantilla $1 no existeix.",
+	"feedback-template-noaccess": "La plantilla $1 sembla existir, però no està disponible mitjançant la base de dades. Podria tractar-se d'un problema temporal de la base de dades. Base de dades utilitzada: $2.",
+	"feedback-result": "Resultats de $1",
+	"feedback-header-mismatch": "Desajust entre transclusions i enllaços",
+	"feedback-header-no-transclusion": "Enllaç però no transclusió",
+	"feedback-header-redirects": "Enllaça a redireccions",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-links": "Enllaços des de la plantilla",
+	"link-edit": "modifica",
+	"link-create": "crea",
+	"link-complete": "Informe complet...",
+	"footer-stats": "Generat: $1. Durada: de 2$ {{PLURAL:$2|segon|segons}}.",
+	"error-language": "Llenguatge del codi desconegut."
+}

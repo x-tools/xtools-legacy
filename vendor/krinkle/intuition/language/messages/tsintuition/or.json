@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jnanaranjan Sahu",
+			"Shisir 1945"
+		]
+	},
+	"current-settings": "ବର୍ତ୍ତମାନର ସଜାଣି",
+	"current-language": "ବର୍ତ୍ତମାନ ବାଛିଥିବା ଭାଷା",
+	"settings-legend": "ସଜାଣି",
+	"choose-language": "ଭାଷା ଚୟନ କରନ୍ତୁ",
+	"clear-cookies": "କୁକିସ କାଢି ଦିଅନ୍ତୁ",
+	"renew-cookies": "କୁକିସ ପୁନାରମ୍ଭ କରନ୍ତୁ",
+	"cookie-expiration": "କୁକି ସମାପ୍ତ",
+	"clearcookies-success": "କୁକିସଗୁଡିକୁ ସଫଳ ଭାବେ କାଢି ଦିଆ ଯାଇଛି ।",
+	"renewcookies-success": "କୁକି ନବୀକୃତ ହେଲା! ଆପଣ ଆଗାମୀ $1 ପାଇଁ ଉପଯୁକ୍ତ.",
+	"tab-overview": "ନିରୀକ୍ଷଣ",
+	"tab-settings": "ସଜାଣି",
+	"tab-about": "ବିଷୟରେ",
+	"tab-demo": "ଦେଖଣା",
+	"bl-mysettings": "ମୋ ଭାଷା ସଜାଣି",
+	"bl-mysettings-new": "ଭାଷା ବଦଳାନ୍ତୁ !",
+	"bl-promo": "ଅନୁବାଦଟି $1 ଏବଂ $2 ଦ୍ଵାରା କରାଯାଇଛି ।",
+	"bl-changelanguage": "ଏହି ଟୁଲର ଭାଷା ବଦଳାଇବା ପାଇଁ ଏଠାରେ କ୍ଲିକ କରନ୍ତୁ ।",
+	"help-translate-tool": "ଏହି ଯନ୍ତ୍ରାଂଶଟିର ଅନୁବାଦରେ ସ‌ହଯୋଗ କରିବେ ।",
+	"help-translate-all": "ଟୁଲ୍‌ସର୍ଭର୍‌ ଅନୁବାଦ କରନ୍ତୁ",
+	"help-translate-tooltip": "ଏହି ମେସେଜକୁ ନିଜ ଭାଷାରେ ବଦଳାଇ ଅନ୍ୟମାନଙ୍କୁ ସାହାଯ୍ୟ କରନ୍ତୁ"
+}

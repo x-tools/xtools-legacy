@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt"
+		]
+	},
+	"moretools": "pi d'utiss dal midem autor",
+	"bugs": "rapòrt d'eror e arceste ëd funsion",
+	"comments": "coment e arceste",
+	"error-form-empty": "Un o pi camp obligatòri a son stàit lassà veuid. A dev completeje prima ëd continué."
+}

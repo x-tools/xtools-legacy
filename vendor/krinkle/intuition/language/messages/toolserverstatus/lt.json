@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Gerai",
+	"toolserver-status-short-info": "$1: Informacija",
+	"toolserver-status-short-warn": "$1: Įspėti",
+	"toolserver-status-short-down": "$1: Žemyn",
+	"toolserver-status-short-erro": "$1: Klaida",
+	"toolserver-status-short-unknown": "$1: Nežinomas",
+	"toolserver-status-short-missing": "$1: Trūksta"
+}

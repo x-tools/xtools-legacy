@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"category_users": "Utinde",
+	"category_articles": "Pàggene",
+	"category_images": "Immaggine",
+	"category_miscellaneous": "Misckate",
+	"category_wikidata": "Uicchidata",
+	"select_wiki_title": "Scacchie 'na uicchi",
+	"select_wiki_next": "Prossime →",
+	"select_report": "Pe piacere scacchie 'nu report:",
+	"select_report_disabled": "Stu report nonn g'è disponibbile.",
+	"prefs_submit": "OK"
+}

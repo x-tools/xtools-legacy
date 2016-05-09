@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"voiceintro-toolbar-stop-label": "रोक्ने",
+	"voiceintro-toolbar-clear-label": "हटाउने",
+	"voiceintro-toolbar-upload-label": "अपलोड गर्ने",
+	"voiceintro-information-label": "जानकारी",
+	"voiceintro-information-speaker-label": "वक्ताको नाम:",
+	"voiceintro-information-language-label": "भाषा:"
+}

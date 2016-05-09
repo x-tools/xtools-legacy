@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"title": "Niżżel l-istampi mill-kategorija",
+	"subtitle": "L-iktar mod sempliċi biex tniżżel l-istampi f'kategorija",
+	"project": "Proġett:",
+	"category": "Kategorija:",
+	"max-width": "Wisa massimu:",
+	"max-height": "Tul massimu:",
+	"invalid-width": "Wisa' mhux valida",
+	"invalid-height": "Tul mhux valida",
+	"no-such-project": "Dan il-proġett ma jeżistix",
+	"no-images": "M'hemm l-ebda stampa f'din il-kategorija",
+	"category-is-url": "L-isem mogħti għal din il-kategorija jidher qisu URL. Trid tispeċifika l-isem tal-kategorija, mhux il-URL tagħha.",
+	"category-contains-namespace": "Jidher li daħħalt l-isem tal-ispazju flimkien mal-isem tal-kategorija. Flimkien mal-isem mogħti, il-paġna tkun disponibbli bħala [[Category:$1]].",
+	"zip-failed": "Kreazzjoni taż-zip falliet",
+	"image-area-too-big": "$1 huwa wisq kbir biex isir minjatura. Id-daqs sħiħ se jiġi wżat.",
+	"download-info": "{{plural: $1|Hemm stampa waħda|Hemm $1 stampi}}, b'daqs stmat ta' $2",
+	"download": "Niżżel",
+	"non-bundled-wget": "Nota: Din il-verżjoni ma tinkudix wget għal Windows. Hemm bżonn li tneħħi l-kompressjoni tal-folder b'wget.exe jew inkella jkollok wget fil-PATH",
+	"scaling-width": ", mqassra għal wisa' massima ta' $1 {{plural:$1|pixel|pixels}}"
+}

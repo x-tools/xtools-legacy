@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin0van0der0vliet",
+			"Robin van der Vliet"
+		]
+	},
+	"toolserver-status-short-ok": "$1: OK",
+	"toolserver-status-short-info": "$1: ynfo",
+	"toolserver-status-short-warn": "$1: warskôging",
+	"toolserver-status-short-erro": "$1: Flater",
+	"toolserver-status-short-unknown": "$1: ûnbekend",
+	"toolserver-status-short-missing": "$1: ûntbrekst"
+}

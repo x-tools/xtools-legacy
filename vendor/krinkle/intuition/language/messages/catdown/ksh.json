@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"title": "Belder pä Saachjrobb eronger laade",
+	"subtitle": "Ene eijnfache Wääsch, de Belder en ene Saachjrobb eronger ze lahde",
+	"project": "Projäk:",
+	"category": "Saachjropp:",
+	"thumbnailing": "Minni-Belldsche",
+	"max-width": "De jrüüßte Breide:",
+	"max-height": "De jrüüßte Hühde:",
+	"invalid-width": "Di Breide es nit jöltesch.",
+	"invalid-height": "Di Hühde es nit jöltesch.",
+	"no-such-project": "Esu e Projäk ham_mer nit.",
+	"no-images": "En dä Saachjropp sinn_er kein Bellder.",
+	"category-is-url": "Di aanjejovve Saachjropp süht wi ene URL uß, Donn dä Name vun dä Saachjropp aanjävve.",
+	"category-contains-namespace": "Do häs ene Name vun enenm Apachtemang met dä Saachjropp zosamme aanjejovve. Met dämm Nahme däht di Sigg [[Category:$1]] heiße.",
+	"zip-failed": "Mer kunnte di ZIP-Dattei nit aanlääje.",
+	"image-area-too-big": "Di Dattei $1 es zoh jruuß förr e Minnnibeldhsce druß ze maache. Mer nämme di Dattei wi se es.",
+	"download-info": "Mer han {{PLURAL:$1|ei Beld|$1 Belder|kein Belder}} mem Jesampömfang vun $2",
+	"download": "Eronger laade",
+	"readme-contents": "En dä Dattei $4 heh sin de Belder uß dä Saachjropp $1 dren zosammejefaß$3.\nDi Saachjropp fengk mer onger däm URL:\n$2\n\n== Wie mer di Belder eronger laade kann ==\nDat Eronger Laade kann e paa Menutte, ävver och e paa Schtonde doore.\n\nMet <i lang=\"en\">Windows</i>:\n Alle Dateije en et sällve Verzeichneß ußpacke un dann doh dren ußföhre:\n Doh dren ußföhre: <code>$5</code>\n $6\nMet <i lang=\"en\">Linux</i> udder <i lang=\"en\">Mac OS</i>:\n Alle Dateije ußpacke un e <i lang=\"en\">Terminal</i>-Finster op maache.\n Dabb ußföhre lohße: <code>sh $5</code>",
+	"non-bundled-wget": "Opjepaß: En heh dä Version es <code lang=\"en\">wget</code> fö <i lang=\"en\">Windows</i> nit derbei. Do moß se met <code lang=\"en\">wget.exe</code> en enem Verzischneß ußpacke udder <code lang=\"en\">wget</code> moß övver der Paad zom Projramme Söhke jefonge wääde künne.",
+	"wget-info": "En dä Dattei es <code lang=\"en\">wget</code> $1 för <i lang=\"en\">Windows</i> met enjebonge. Wget es e frei Projramm un et es ze han onger dä Version 3 vun GNU General Public License (dä alljemeine öffentlesche Lezänz vun dä GNU)\nWigger onge kütt di Lezänz ob heh dä Sigg, ävver mer kann se och beloore op: http://www.gnu.org/licenses/gpl-3.0.txt verfügbar.\n\nWä däm Projramm singe Quällkood krijje well, kann dä eronger laade vun ongerscheidlijje Schtälle:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nudder och vun ander Schpeejel-ẞööver. Luuer op:\n http://www.gnu.org/prep/ftp.htmlt",
+	"scaling-width": ", obb ene jrüüßte Breide vun {{PLURAL:$1|einem Pixel|$1 Pixelle|keinem Pixel}} ömjeräschnet",
+	"scaling-height": ", obb ene jrüüßte Hühde vun {{PLURAL:$1|einem Pixel|$1 Pixelle|keinem Pixel}} ömjeräschnet",
+	"scaling-both": ", obb ene jrüüßte Ömfang vun $1x$2 Pixelle ömjeräschnet",
+	"readme-filename": "README.txt"
+}

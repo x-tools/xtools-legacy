@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"hello": "Сәлом",
+	"welcome": "Хәш омәјшон!",
+	"toolversionstamp": "Рәвојәт $1 ($2)",
+	"namespace": "Номон мәкон",
+	"form-submit": "Давардеј",
+	"form-reset": "Тәмиз кардеј",
+	"years": "{{PLURAL: $1|сор|сор}}",
+	"weeks": "{{PLURAL: $1|һәфтә|һәфтә}}",
+	"days": "{{PLURAL: $1|руж|руж}}",
+	"hours": "{{PLURAL: $1|саат|саат}}",
+	"minutes": "{{PLURAL: $1|дәғиғә|дәғиғә}}",
+	"last-modified-date": "Охонә дәгиши тарых: $1"
+}

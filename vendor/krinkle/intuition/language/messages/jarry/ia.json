@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"moretools": "altere instrumentos",
+	"homepage-title": "Introduction",
+	"bugs": "reportos de defectos e requestas de functionalitate",
+	"comments": "commentos e questiones",
+	"error-form-empty": "Un o plus campos obligatori ha essite lassate vacue. Es necessari completar los ante de continuar."
+}

@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Lokal Profil"
+		]
+	},
+	"pb-about-pb-navi": "Om",
+	"pb-about-pb-tech": "Tekniska detaljer",
+	"pb-about-pb-tech-text": "<p>Vi använder <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> och <a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a> för detta gränssnitt. Källkoden är publicerad under vilkoren i <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) och kan nås via <a href=\"https://github.com/tool-labs/pb\">på GitHub</a>. Vänligen lägg till buggrapporter, funktionsförfrågningar eller andra kommentarer <a href=\"https://github.com/tool-labs/pb/issues/new\">till GitHubs problemspåraren</a> eller rapportera in det på <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">diskussionssidan på Wikipedia</a>.</p>\n    <p>Nuvarande dumpar av PB-databasen kan hittas <a href=\"/pb/sql-dumps\">här</a>.</p>\n    <p>Vi använder flera ikoner som skapas av projektet <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Detta projekt representerar personliga bekantskaper mellan wikimedianer.</p>\n<p>Det första implementeringen gjordes av Ulli Purwin (gränssnitt) och Euku (bot). I början av 2011 började även Wiegels och Ireas att arbeta tillsammans med Ulli med gränssnittet. Nu ligger projektet inte längre på en privat server utan på Wikimedia Labs.</p>\n<p>Mer information om projektet kan hittas på tyskspråkiga Wikipedia på sidan<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Om projektet",
+	"pb-change-language": "Ändra språk",
+	"pb-comment": "Kommentar",
+	"pb-confirmations-given": "Givna bekräftelser",
+	"pb-confirmations-taken": "Mottagna bekräftelser",
+	"pb-current-confirmations": "Det finns  totalt $1 bekräftelser, det handlar om <abbr title=\"$2\">$3</abbr>$3</abbr> bekräftelser per dag.",
+	"pb-current-figures": "Aktuella siffror",
+	"pb-current-users": "Just nu deltar $1 användare i projektet <em>Personliga bekantskaper</em>.",
+	"pb-date": "Datum",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften på tyskspråkiga Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> på Tool Labs. <a href=\"$1\" title=\"About Wikipedia:Persönliche Bekanntschaften\">Mer information.</a>",
+	"pb-home": "Hem",
+	"pb-home-welcome": "Välkommen till projektet <em>Personliga bekantskaper</em> (<em>Persönliche-Bekanntschaften</em> på tyska)! Mer information om detta projekt kan hittas <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German language Wikipedia\">på den tyska språkversionen av Wikipedia</a>.",
+	"pb-javascript-notice": "Vi rekommenderar aktivering av JavaScript på denna webbplats då det förbättrar användargränssnittet.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Deltar sedan",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "Drivs av Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Senaste bekräftelser",
+	"pb-reconfirmed": "Återbekräftade?",
+	"pb-user": "Användare",
+	"pb-user-link-title": "Detaljer för användare $1",
+	"pb-user-heading": "Information om <a href=\"$2\" title=\"$1s användarsida\">$1</a>",
+	"pb-user-title": "Information om $1",
+	"pb-users-navi": "Användare",
+	"pb-users-title": "Deltagarlista",
+	"pb-users-overview": "Dessa $1 användare deltar i projektet <em>Personliga bekantskaper</em>:",
+	"pb-verified-since": "Verifierad sedan"
+}

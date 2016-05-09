@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(selectați un wiki)",
+	"alws-group-mustused": "Cele mai utilizate wikiuri",
+	"alws-group-allaz": "Toate wikiurile ordonate alfabetic",
+	"form-legend-settings": "Setări"
+}

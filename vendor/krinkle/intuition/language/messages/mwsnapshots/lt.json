@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200",
+			"Zygimantus"
+		]
+	},
+	"title-error": "Klaida",
+	"title-updatelog": "Atnaujinimų įrašai",
+	"download-button": "Atsisiųsti $1",
+	"download-directlink": "tiesioginė nuoroda",
+	"title-downloadpage": "Atsisiųsti",
+	"title-downloadpage-repo": "Atsisiųsti $1",
+	"err-invalid-repo": "Nežinoma saugykla: \"$1\".",
+	"repo-site-link": "Tinklalapis",
+	"repo-browse-link": "Naršyti saugykloje",
+	"repo-branches-label": "Šakos:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Gauti jį!",
+	"updatelog-link": "atnaujinti žurnalą",
+	"tablehead-repo": "Saugykla",
+	"tablehead-snapshots": "Nuotraukos",
+	"tablehead-branch": "Šaka",
+	"tablehead-filesize": "Failo dydis",
+	"tablehead-hash": "Kontrolines sumos"
+}

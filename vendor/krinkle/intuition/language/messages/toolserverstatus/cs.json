@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"toolserver-status-ok": "Databázový cluster $1 nemá žádné problémy $2",
+	"toolserver-status-info": "Informace pro uživatele clusteru $1: $2",
+	"toolserver-status-warn": "Upozornění pro uživatele clusteru $1: $2",
+	"toolserver-status-down": "Databázový cluster $1 byl dočasně vypnut. $2",
+	"toolserver-status-erro": "Databázový cluster $1 je mimo provoz. $2",
+	"toolserver-status-unknown": "Neznámý stav clusteru $1",
+	"toolserver-status-missing": "Cluster $1 neexistuje",
+	"toolserver-status-short-ok": "$1: OK",
+	"toolserver-status-short-info": "$1: Informace",
+	"toolserver-status-short-warn": "$1: Upozornění",
+	"toolserver-status-short-down": "$1: Mimo provoz",
+	"toolserver-status-short-erro": "$1: Chyba",
+	"toolserver-status-short-unknown": "$1: Neznámý",
+	"toolserver-status-short-missing": "$1: Chybí"
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<title>Intuition Test Suite</title>
+	<!-- Source code dependencies -->
+	<script src="../../libs/jquery/jquery.js"></script>
+	<!-- Bootstrap -->
+	<script>
+	/*global mw:true */
+	(function () {
+		function Map(values) {
+			values = values || {};
+			this.set = function (key, value) {
+				values[key] = value;
+			};
+			this.get = function (key) {
+				return values[key];
+			};
+		}
+		function Message(messages, key /* , params... */) {
+			var rawMsg = messages.get(key);
+			this.toString = function () {
+				return rawMsg;
+			};
+		}
+		mw = {
+			config: new Map({
+				wgUserLanguage: 'en'
+			}),
+			libs: {},
+			messages: new Map(),
+			Message: Message,
+			message: function (key) {
+				return new Message(mw.messages, key);
+			}
+		};
+	}());
+	</script>
+	<!-- Source code -->
+	<script src="../../includes/js-env/intuition-standalone.js"></script>
+	<script src="../../includes/js-env/intuition-mw.js"></script>
+	<!-- Test framework -->
+	<link rel="stylesheet" href="../../libs/qunitjs/qunit.css">
+	<script src="../../libs/qunitjs/qunit.js"></script>
+	<script src="../../libs/sinonjs/sinon.js"></script>
+	<!-- Test suites -->
+	<script src="./test.utils.js"></script>
+	<script src="./standalone.test.js"></script>
+	<script src="./mw.test.js"></script>
+</head>
+<body>
+	<div id="qunit"></div>
+</body>
+</html>

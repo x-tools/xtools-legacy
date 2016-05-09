@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Platonides"
+		]
+	},
+	"hello": "Apa khabar",
+	"welcome": "Selamat datang",
+	"toolversion": "Versi $1",
+	"toolversionstamp": "Versi $1 ($2)",
+	"etc": "dsb.",
+	"namespace": "Ruang nama",
+	"form-submit": "Pergi",
+	"form-reset": "Set semula",
+	"years": "{{PLURAL: $1|tahun|tahun}}",
+	"months": "{{PLURAL: $1|bulan}}",
+	"weeks": "{{PLURAL: $1|minggu|minggu}}",
+	"days": "{{PLURAL: $1|hari|hari}}",
+	"hours": "{{PLURAL: $1|jam|jam}}",
+	"minutes": "{{PLURAL: $1|minit|minit}}",
+	"seconds": "{{PLURAL: $1|saat|saat}}",
+	"last-modified-date": "Kali terakhir diubah: $1",
+	"view-source": "Lihat sumber",
+	"and": "&#32;dan"
+}

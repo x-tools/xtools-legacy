@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avjoska",
+			"Pikne"
+		]
+	},
+	"error-tryagain": "$1 – klõpsa võrgulehitseja ''tagasi''-nuppu ja proovi uuesti.",
+	"error-nothing": "Pole midagi tõlkida.",
+	"error-notsvg": "Pole SVG-fail.",
+	"error-unexpected": "Ilmnes ootamatu tõrge.",
+	"error-notfound": "Ette antud internetiaadressi kaudu ei saanud SVG-faili hankida.",
+	"error-upload": "Tõrge üleslaadimisel.",
+	"begin-translation": "Alusta tõlkimist",
+	"th-original": "Algupärand",
+	"th-translation": "Tõlge",
+	"th-language": "Keel",
+	"th-username": "Kasutajanimi",
+	"th-password": "Parool",
+	"th-method": "Viis",
+	"option-oauth": "TUSC (automaatne üleslaadimine)",
+	"option-manual": "Käsitsi üleslaadimine",
+	"preview": "Eelvaade",
+	"translate": "Tõlgi",
+	"translate-instructions": "Sisend võib olla kas failinimi (nt \"$1\") või internetiaadress (nt \"$2\"). Kui kasutad esimest varianti, eeldatakse, et allikas on Wikimedia Commons. Et tõlkida teiselt saidilt või teisest vikist pärit SVG-fail, pead kasutama internetiaadressi.",
+	"svginput-label": "SVG-fail",
+	"stats-footer": "Selle tööriistaga on tõlgitud umbes $1 faili (kasutusel alates: $2).",
+	"uploading": "Üleslaadimine",
+	"upload-complete": "Edukalt üles laaditud. Pilt peaks olema nüüd asukohas $1.",
+	"editdescriptionpage": "Redigeeri uut kirjelduslehekülge",
+	"disclaimer": "Osa nimeta andmeid kogutakse isiklikuks kasutamiseks statistilistel eesmärkidel. Ka OAuthi kasutajanimi talletatakse, kui selle sisestad, sest see on abiks võimaliku vandalismi korral. Paroole ei talletata kunagi.",
+	"author-complete": "Palun lisa autoriteave!",
+	"preview-hide": "Peida eelvaade",
+	"preview-refresh": "Uuenda eelvaade",
+	"error-must-accept": "Et jätkata otsese üleslaadimisega, pead nõustuma toodud tingimustega.",
+	"description-license": "Kirjelduse ja litsentsi valimine",
+	"finalise": "Üksikasjade lõplik vormistus"
+}

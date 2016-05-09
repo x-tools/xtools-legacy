@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Temam",
+	"toolserver-status-short-info": "$1: Malumat",
+	"toolserver-status-short-warn": "$1: Şık berz cı",
+	"toolserver-status-short-down": "$1: Vınibyaye",
+	"toolserver-status-short-erro": "$1: Xeta",
+	"toolserver-status-short-unknown": "$1: Xeribo",
+	"toolserver-status-short-missing": "$1: kemiyo"
+}

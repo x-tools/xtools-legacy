@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aldnonymous",
+			"IvanLanin",
+			"Kenrick95"
+		]
+	},
+	"hello": "Halo",
+	"welcome": "Selamat datang",
+	"toolversion": "Versi $1",
+	"toolversionstamp": "Versi $1 ($2)",
+	"etc": "dll.",
+	"namespace": "Ruang nama",
+	"form-submit": "Kirim",
+	"form-reset": "Reset",
+	"years": "{{PLURAL: $1|Tahun|Tahun}}",
+	"months": "{{PLURAL: $1|bulan|bulan}}",
+	"weeks": "{{PLURAL: $1|Minggu|minggu}}",
+	"days": "{{PLURAL: $1|hari|hari}}",
+	"hours": "{{PLURAL: $1|Jam|jam}}",
+	"minutes": "{{PLURAL: $1|Menit|menit}}",
+	"seconds": "{{PLURAL: $1|Detik|detik}}",
+	"last-modified-date": "Terakhir diubah: $1",
+	"view-source": "Lihat sumber",
+	"and": "&#32;dan"
+}

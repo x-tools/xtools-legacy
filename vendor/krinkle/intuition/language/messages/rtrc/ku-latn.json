@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bikarhêner",
+			"George Animal"
+		]
+	},
+	"cvn-adder-empty": "Nenas",
+	"cvn-reason": "Sedem",
+	"cvn-reason-empty": "Ti sedem nehate dîtin",
+	"documentation": "Belgekirin",
+	"filter": "Parzûn",
+	"lastupdate-cvn": "Rojanekirina dawî: $1",
+	"lastupdate-rc": "Rojanekirina dawî: $1",
+	"limit": "Sînor",
+	"namespace": "Valahiya nav",
+	"time-from": "Ji",
+	"time-untill": "Heta",
+	"type": "Cure",
+	"typeNew": "Rûpelên nû"
+}

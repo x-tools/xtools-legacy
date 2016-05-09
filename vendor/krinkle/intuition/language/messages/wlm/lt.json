@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"title": "WLM failai",
+	"file": "Paveikslėlis",
+	"author": "Autorius",
+	"location": "Vieta",
+	"upload-time": "Įkėlimo laikas",
+	"deleted": "Ištrintas ($1)",
+	"not-available": "Neprieinamas",
+	"date-unknown": "Nežinomas",
+	"total-images": "Iš viso vaizdų: $1",
+	"show-images-all": "Rodyti visus atvaizdus",
+	"country-label": "Šalis:",
+	"all-countries": "Visos šalys",
+	"limit-label": "Vaizdas rodymui:",
+	"timezone-label": "Laiko juosta:",
+	"show-button": "Rodyti",
+	"id-none": "(Nėra)",
+	"count-heading": "Nuotraukos",
+	"photographer-count-heading": "Fotografai",
+	"bic-list": "Sąrašai",
+	"bic-gallery": "Galerija",
+	"author-heading": "Autorius",
+	"bic-list-bad": "Rodyti",
+	"bic-list-all": "Pilnas sąrašas",
+	"unregistered": "Neregistruotas",
+	"users-list": "Žiūrėti",
+	"province-heading": "Provincija",
+	"province-none": "(Nežinomas)",
+	"ccaa-heading": "CC.AA.",
+	"nomail-user-count": "$1 vartotojai"
+}

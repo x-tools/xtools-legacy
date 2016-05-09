@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron"
+		]
+	},
+	"category_users": "Uživatelé",
+	"category_articles": "Stránky",
+	"category_images": "Obrázky",
+	"category_miscellaneous": "Různé",
+	"category_wikidata": "WikiData",
+	"select_wiki_title": "Vyberte wiki",
+	"select_wiki_next": "Následující →",
+	"prefs_langlabel": "Jazyk rozhraní:"
+}

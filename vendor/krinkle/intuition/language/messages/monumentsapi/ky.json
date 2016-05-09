@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Growingup",
+			"Викиней"
+		]
+	},
+	"search-table-th-filter": "Чыпка",
+	"search-table-th-search": "Издөө",
+	"filter-all-countries": "Бардык өлкөлөр",
+	"filter-all-languages": "Бардык тилдер",
+	"db-field-country": "Өлкө",
+	"db-field-lang": "Тили",
+	"db-field-id": "Идентификатор",
+	"db-field-name": "Ат",
+	"db-field-address": "Дарек",
+	"db-field-lat": "Кеңдик",
+	"db-field-lon": "Узундук",
+	"db-field-image": "Сүрөт",
+	"db-field-changed": "өзгөртүлдү",
+	"db-field-source": "Булагы",
+	"db-field-st_address": "Даректерди"
+}

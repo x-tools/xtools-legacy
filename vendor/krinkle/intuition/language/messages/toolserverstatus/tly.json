@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Мәлумот",
+	"toolserver-status-short-erro": "$1: Сәһв"
+}

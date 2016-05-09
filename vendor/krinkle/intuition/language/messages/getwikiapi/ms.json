@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"description": "Maklumat meta mengenai wiki-wiki Wikimedia.",
+	"formats-heading": "Format output",
+	"input": "Input",
+	"label-wikiids": "Pengenal wiki",
+	"no-matches": "Tiada yang sepadan dengan \"$1\"",
+	"output": "Output untuk \"$1\""
+}

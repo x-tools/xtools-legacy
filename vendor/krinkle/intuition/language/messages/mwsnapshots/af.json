@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"title-error": "Fout",
+	"download-button": "Laai $1 af",
+	"download-directlink": "direkte skakel",
+	"title-downloadpage": "Laai af: $1",
+	"repo-site-link": "Webtuiste",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Kry dit!"
+}

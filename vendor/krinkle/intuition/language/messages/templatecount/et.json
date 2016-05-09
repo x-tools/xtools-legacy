@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avjoska",
+			"Pikne"
+		]
+	},
+	"enter-details": "Üksikasjade sisestamine",
+	"introduction": "Sisesta malli nimi (praegu ainult Vikipeediatele) ja klõpsa \"Mine\". Nii lihtne ongi. Mõned tulemused võivad jääda vahemällu, aga sellest hoidumine pole paraku selle tööriista abil võimalik ega tööriista arendaja võimuses.",
+	"language-label": "Keel",
+	"namespace-label": "Nimeruum",
+	"pagename-label": "Lehekülje nimi (nimeruumita)",
+	"transclusion-count-label": "Kasutamiste arv",
+	"transclusion-count": "Kasutamisi leitud: $1.",
+	"error-suggestion": "Võib-olla kirjutasid või suurtähestasid lehekülje nime valesti?",
+	"time-label": "Käsu täitmiseks kulunud aeg"
+}

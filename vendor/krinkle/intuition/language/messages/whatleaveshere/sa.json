@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"label-page": "पृष्ठम्",
+	"label-namespace": "नामाकाशः",
+	"label-limit": "सीमा",
+	"button-submit": "गम्यताम्",
+	"istemplate": "अन्यलेखभागः (transclusion)",
+	"isfile": "सञ्चिकापरिसन्धिः",
+	"linksearch": "परिसन्धिः अन्विष्यताम्",
+	"section-links": "परिसन्धयः",
+	"section-iwlinks": "आन्तरविकि परिसन्धयः",
+	"section-extlinks": "बाह्यसम्पर्कतन्तुः",
+	"section-categories": "वर्गाः"
+}

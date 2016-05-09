@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mousa"
+		]
+	},
+	"title-overview": "شکیل‌لر",
+	"title-error": "خطا",
+	"title-updatelog": "گونجل‌لمک قئیدلری",
+	"updatelog-intro": "گونجل‌لمک اسکریپتی هر ساعات‌دا بیر دفعه چالیشماغا پلانلانیب‌دیر. آشاغیدا اونون سون چالیشماسینین کونسول چیختیسینی گؤرونور.",
+	"updatelog-active": "گونجل‌لمک اسکریپتی ایندی چالیشماقدادیر. بوتون قئیدلر اوچون سنرا قاییتین.",
+	"download-button": "$1-ی اندیر",
+	"download-directlink": "موستقیم باغلانتی",
+	"title-downloadpage": "اندیر: $1",
+	"err-snapshotindex": "شکیل ایندِکسی گئچیجی اولاراق ال‌ده دئییل. لوطفاً سونرا یئنی‌دن چالیشین.",
+	"err-invalid-repo": "تانیلمایان آنبار: «$1».",
+	"err-invalid-branch": "تانیلمایان بوداق: «$2» آنباریندا «$1».",
+	"err-nosnapshot": "شکیل‌لر هر نئچه ساعاتدان بیر یارادیلیرلار. «$1»-ه شکیل یاراداندا، بیر خطا قاباغا گلدی. لوطفاً سونرا یئنی‌دن چالیشین.",
+	"err-noupdatelog": "هئچ گونجل‌لمک قئدی تاپیلمادی.",
+	"repo-site-link": "سایت",
+	"repo-browse-link": "گزماق آنباری",
+	"repo-branches-label": "بوداقلار:",
+	"repo-lastmoddate-label": "تاریخ:",
+	"branches-submit-button": "اونو گؤتور!",
+	"updatelog-link": "گونجل‌لمک قئیدلری",
+	"tablehead-repo": "آنبار",
+	"tablehead-snapshots": "شکیل‌لر",
+	"tablehead-branch": "بوداق",
+	"tablehead-filesize": "فایل اؤلچو",
+	"tablehead-hash": "ساغلاما توپلاملاری"
+}

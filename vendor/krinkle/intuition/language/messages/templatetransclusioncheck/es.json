@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"Csbotero"
+		]
+	},
+	"title": "Verificación de enlace y transclusión de plantillas",
+	"description": "Verifica e informa cuáles artículos que transcluyen una plantilla, pero no están enlazados desde esta y cuáles artículos que están enlazados de una plantilla, pero no la transcluyen.",
+	"form-label-language": "Idioma:",
+	"form-label-template": "Nombre de la plantilla:",
+	"form-label-template2": "(incluyendo espacio de nombres)",
+	"form-label-complete": "Generar un informe completo:",
+	"feedback-template-missing": "La plantilla $1 no existe.",
+	"feedback-template-noaccess": "La plantilla $1 parece existir, pero no está disponible en la base de datos. Puede ser un problema temporal. Base de datos utilizada: $2.",
+	"feedback-result": "Resultado de $1",
+	"feedback-header-mismatch": "Discordancia entre transclusiones y enlaces",
+	"feedback-header-no-link": "Transclusión, pero sin enlace",
+	"feedback-header-no-transclusion": "Enlace, pero sin transclusión",
+	"feedback-header-redirects": "Enlaces a redirecciones",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-complete": "Resumen completo de transclusión y enlazado",
+	"feedback-header-transclusions": "Transclusiones de la plantilla",
+	"feedback-header-links": "Enlaces de la plantilla",
+	"link-edit": "editar",
+	"link-create": "crear",
+	"link-complete": "Informe completo...",
+	"footer-stats": "Generado: $1. Duración: $2 {{PLURAL:$2|segundo|segundos}}.",
+	"error-language": "Código de idioma desconocido"
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"SPQRobin",
+			"Siebrand",
+			"Sjoerddebruin"
+		]
+	},
+	"title": "Koppelingen vanaf deze pagina",
+	"title-leaveshere": "Pagina's die verwijzen vanaf \"$1\"",
+	"sub-leaveshere": "De volgende pagina's verwijzen vanaf $1",
+	"label-page": "Pagina",
+	"label-namespace": "Naamruimte",
+	"label-limit": "Limiet",
+	"button-submit": "OK",
+	"noleaveshere": "Geen verwijzingen vanaf $1",
+	"link-whatleaveshere": "Koppelingen vanaf deze pagina",
+	"tooltip-whatleaveshere": "Lijst van alle verwijzingen vanaf deze pagina",
+	"whatlinkshere": "Koppelingen naar deze pagina",
+	"whatlinkshere-whatleaveshere": "Koppelingen vanaf deze pagina?",
+	"istemplate": "ingevoegd als sjabloon",
+	"isfile": "bestand",
+	"linksearch": "Externe koppelingen zoeken",
+	"section-links": "Koppelingen",
+	"section-iwlinks": "Interwikilinks",
+	"section-extlinks": "Externe koppelingen",
+	"section-categories": "Categorieën"
+}

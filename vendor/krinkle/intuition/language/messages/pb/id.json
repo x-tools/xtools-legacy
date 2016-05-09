@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"C5st4wr6ch",
+			"Kenrick95"
+		]
+	},
+	"pb-about-pb-navi": "Tentang",
+	"pb-about-pb-tech": "Rincian teknis",
+	"pb-about-pb-text": "<p>Proyek ini menggambarkan perkenalan perorangan antara Wikimediawan.</p>\n    <p>Penerapan pertama telah dilakukan oleh Ulli Purwin (antarmuka) dan Euku (bot). Pada awal tahun 2011, Wiegels dan Ireas mengikuti Ulli mengerjakan antarmukanya. Sekarang, proyek tidak lagi di-hosting pada server pribadi namun pada Lab Wikimedia.</p>\n    <p>Informasi lebih lanjut tentang proyek ini dapat ditemukan di Wikipedia Jerman pada halaman <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Tentang proyek",
+	"pb-change-language": "Ganti bahasa",
+	"pb-comment": "Komentar",
+	"pb-current-users": "Saat ini, ada $1 pengguna yang ikut serta dalam proyek <em>Perkenalan Pribadi</em>.",
+	"pb-date": "Tanggal",
+	"pb-home": "Utama",
+	"pb-javascript-notice": "Kami menganjurkan untuk mengaktifkan JavaScript pada situs web ini untuk meningkatkan antarmuka pengguna.",
+	"pb-participates-since": "Berpartisipasi sejak",
+	"pb-powered-by-labs": "Didukung oleh Wikimedia Tool Labs",
+	"pb-user": "Pengguna",
+	"pb-user-link-title": "Rincian untuk pengguna $1"
+}

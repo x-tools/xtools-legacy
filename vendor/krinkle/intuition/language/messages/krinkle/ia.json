@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(selige un wiki)",
+	"alws-group-mustused": "Wikis le plus usate",
+	"alws-group-allaz": "Tote le wikis in ordine alphabetic",
+	"form-legend-settings": "Configurationes"
+}

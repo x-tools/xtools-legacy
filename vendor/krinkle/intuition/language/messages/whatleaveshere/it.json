@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"FRacco"
+		]
+	},
+	"title": "Partono da qui",
+	"title-leaveshere": "Collegamenti che partono da \"$1\"",
+	"sub-leaveshere": "Le seguenti pagine sono collegate da $1",
+	"label-page": "Pagina",
+	"label-namespace": "Namespace",
+	"label-limit": "Limite",
+	"button-submit": "Vai",
+	"noleaveshere": "Nessun collegamento da $1",
+	"link-whatleaveshere": "Partono da qui",
+	"tooltip-whatleaveshere": "Elenco di tutto ciò che è collegato da qui",
+	"whatlinkshere": "Puntano qui",
+	"whatlinkshere-whatleaveshere": "Cosa parte da qui?",
+	"istemplate": "inclusione",
+	"isfile": "collegamento a file",
+	"linksearch": "Ricerca collegamenti esterni",
+	"section-links": "Collegamenti",
+	"section-iwlinks": "Collegamenti interwiki",
+	"section-extlinks": "Collegamenti esterni",
+	"section-categories": "Categorie"
+}

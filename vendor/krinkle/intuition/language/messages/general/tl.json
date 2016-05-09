@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw",
+			"Platonides"
+		]
+	},
+	"hello": "Kumusta",
+	"welcome": "Maligayang pagdating",
+	"toolversionstamp": "Bersyong $1 ($2)",
+	"etc": "at iba pa",
+	"namespace": "Puwang ng pangalan",
+	"form-submit": "Pumunta",
+	"form-reset": "Muling itakda",
+	"years": "{{PLURAL: $1|taon|mga taon}}",
+	"weeks": "{{PLURAL: $1|linggo|mga linggo}}",
+	"days": "{{PLURAL: $1|araw|mga araw}}",
+	"hours": "{{PLURAL: $1|oras|mga oras}}",
+	"minutes": "{{PLURAL:$1 |minuto|mga minuto}}",
+	"seconds": "{{PLURAL: $1|segundo|mga segundo}}",
+	"last-modified-date": "Huling nabago noong: $1",
+	"view-source": "Tingnan ang pinagmulan",
+	"and": ",&#32;at"
+}

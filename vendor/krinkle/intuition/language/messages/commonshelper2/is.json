@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"attention": "Athugið",
+	"description": "Tól til að færa skrár frá Wikimedia verkefnum til Wikimedia Commons",
+	"change_meta": "Breyta $1 flokk og sniða stillingum $2 fyrir $3",
+	"jira_link": "Tilkynna villu eða stinga upp á virkni",
+	"language": "Tungumál",
+	"project": "Verkefni",
+	"source_file": "Upprunaleg skrá",
+	"commons_username": "Notendanafn á Wikimedia Commons",
+	"commons_to_project": "Wikimedia Commons til verkefnis",
+	"move_file_from_com": "Færa skrá frá Wikimedia Commons á verkefni",
+	"categories": "Flokkar"
+}

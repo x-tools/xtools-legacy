@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"attention": "Терго",
+	"description": "Викимедиа проектаийн чура Викигулам чу файлаш яхаран гӀирс",
+	"language": "Мотт",
+	"project": "Проект",
+	"source_file": "ДIайолалун файл",
+	"target_file": "Ӏалашон файл",
+	"commons_to_project": "Викигулам чура проектан чу",
+	"move_file_from_com": "Викигулам чура файл проектан чуяккха",
+	"categories": "Категореш",
+	"remove_cats": "ДӀаяха йолуш йолу категореш",
+	"use_checkusage": "Лелае $1CommonSense$2, керла категореш кховдаян",
+	"tusc_user": "TUSC чохь йолу декъашхочун цӀе",
+	"tusc_pass": "TUSC пароль",
+	"do_it": "Де хӀара",
+	"error_transfer_usr": "Викигулам чура декъашхочун цӀе язйина яц",
+	"error_not_exists": "ДӀайолалун файл яц",
+	"error_on_commons": "ДӀайолалун файл хӀинцале $1 чохь ю!",
+	"error_file_exists": "Файл йолуш ю $3 \"$1$4$2\" санна!",
+	"original_wikitext": "Оригиналан вики-йоза",
+	"new_wikitext": "Керла вики-йоза",
+	"new_filename": "Файлан керла цӀе:",
+	"upload_submit": "Чуяккха",
+	"target_wiki": "Ӏалашон вики",
+	"error_bot_blocked": "Чуйохучу ботана Викигулам чохь блоктоьхна",
+	"error_tusc_failed": "TUSC талла йиш цахилира!",
+	"error_only_commons": "Дуьхьала чуяхаро Викигулам чохь бен болх ца бо!",
+	"help_mail": "$1 тӀе кехат дахьийта",
+	"help_commons": "$1ТӀетоха хаам Commons$2 чу"
+}

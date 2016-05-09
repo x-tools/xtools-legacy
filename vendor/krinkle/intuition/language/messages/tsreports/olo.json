@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"category_users": "Käyttäjät",
+	"category_articles": "Sivut",
+	"category_images": "Kuvat",
+	"category_wikidata": "WikiData",
+	"select_wiki_title": "Valliče wiki",
+	"select_wiki_next": "Tulii →",
+	"select_report_disabled": "Tämä raportu ei ole suadavannu.",
+	"qvar_next": "Tulii →",
+	"prefs_done": "Sinun azetukset vaihtettih.",
+	"report_noresults": "Pahakse mielekse tämä raportu ei andanuh tuloksii."
+}

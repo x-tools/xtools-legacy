@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vikoula5"
+		]
+	},
+	"date": "Azmez",
+	"days": "{{PLURAL: $1|ass|ussan}}",
+	"years": "{{PLURAL: $1|asseggas|iseggasen}}"
+}

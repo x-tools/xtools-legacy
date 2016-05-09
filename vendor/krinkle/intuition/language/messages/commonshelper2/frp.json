@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"attention": "Atencion",
+	"language": "Lengoua",
+	"project": "Projèt",
+	"source_file": "Fichiér sôrsa",
+	"target_file": "Fichiér ciba",
+	"commons_username": "Nom d’utilisator de Wikimedia Commons",
+	"commons_to_project": "De Wikimedia Commons u projèt",
+	"categories": "Catègories",
+	"remove_cats": "Enlevar les catègories ègzistentes",
+	"tusc_user": "Nom d’utilisator TUSC",
+	"tusc_pass": "Contresegno TUSC",
+	"do_it": "Lo fâre",
+	"error_not_exists": "Lo fichiér sôrsa ègziste pas !",
+	"error_on_commons": "Fichiér sôrsa ja dessus $1 !",
+	"error_file_exists": "Lo fichiér ègziste ja dessus $3 coment « $1$4$2 » !",
+	"original_wikitext": "Vouiquitèxto originâl",
+	"new_wikitext": "Vouiquitèxto novél",
+	"new_filename": "Novél nom de fichiér :",
+	"upload_submit": "Tèlèchargiér !",
+	"target_wiki": "lo vouiqui ciba",
+	"error_bot_blocked": "Lo robot de tèlèchargement est blocâ dessus Wikimedia Commons.",
+	"error_tusc_failed": "Lo contrôlo TUSC at pas reussi !",
+	"error_only_commons": "Lo tèlèchargement drêt fonccione ren que dessus Wikimedia Commons !",
+	"error_upload_file": "Lo fichiér originâl pôt pas étre tèlèchargiê.",
+	"help_jira": "$1JIRA (vos dête avêr un compto)$2 (Projèt : Commonshelper2)",
+	"help_mail": "Mandar un mèssâjo a $1",
+	"help_commons": "$1Apondre un mèssâjo dessus Commons$2"
+}

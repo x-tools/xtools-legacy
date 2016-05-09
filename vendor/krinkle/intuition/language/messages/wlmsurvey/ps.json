@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"2012-header-introduction": "پېژندنه",
+	"2012-question-country": "په کوم هېواد کې اوسېږې؟",
+	"2012-other-country-lives": "بل هېواد:",
+	"2012-question-birth-year": "په کوم کال کې زېږېدلی يې؟",
+	"2012-birth-year": "کال:",
+	"2012-hide-birth-year": "زه يې څرګندول نه غواړم",
+	"2012-question-gender": "جنس مو څه دی؟",
+	"2012-gender-male": "نارينه",
+	"2012-gender-female": "ښځه",
+	"2012-header-competition": "سيالي",
+	"2012-discovered-other": "بل:",
+	"2012-other-country-upload": "بل هېواد:",
+	"2012-motivation-other": "بل:",
+	"2012-header-usability": "کاروړتيا",
+	"2012-scale-difficult-1-text": "ډېر آسانه",
+	"2012-scale-difficult-2-text": "آسانه",
+	"2012-scale-difficult-3-text": "نورمال",
+	"2012-scale-difficult-4-text": "سخته",
+	"2012-scale-difficult-5-text": "ډېر سخته",
+	"2012-header-future": "راتلونکی",
+	"2012-header-comments": "نورې تبصرې",
+	"2012-username": "کارن-نوم:",
+	"2012-email": "برېښليک پته:"
+}

@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"title": "Lengks un Oprohve vun ene Schablohn udder Schablohne pröhve",
+	"description": "Pröhf wat för en Sigge, di en Schablohn oprohfe, en dä Schblohn nit verlengk sin, un wat för en Sigge, di vun ener Schablohn verlengk sin, di Schblohn ävver nit oprohfe, un bereesch doh drövver.",
+	"form-label-language": "Schprohch:",
+	"form-label-template": "Dä Schablohn iere Nahme:",
+	"form-label-template2": "(mem Appachtemang)",
+	"form-label-complete": "Maach ene kumplätte Bereesch:",
+	"feedback-template-missing": "En Schablohn „$1“ jidd_et nit.",
+	"feedback-template-noaccess": "de Schablohn „$1“ schingk doh ze sin, ävver se es nit uß de Dahtebangk ze holle. Dat künnd e mommäntahn Problehm met de Dahtebangk sin. Mer han de Dahtebangk „$2“ befrohch.",
+	"feedback-result": "Wat för $1 eruß kohm",
+	"feedback-header-mismatch": "Oprohve un Lengks paße nit zersamme",
+	"feedback-header-no-link": "Oprohve der ohne Lengk",
+	"feedback-header-no-transclusion": "Lengk der ohne Oprohv",
+	"feedback-header-redirects": "lenks op Ömleidonge",
+	"feedback-total-count": "Jesamp: $1",
+	"feedback-header-complete": "Der kumplätte Övverbleck övver de Oprohve un de Lengks",
+	"feedback-header-transclusions": "Oprohve vun dä Schablohn",
+	"feedback-header-links": "Lenks vun dä Schablohn",
+	"link-edit": "ändere",
+	"link-create": "aanlähje",
+	"link-complete": "Der kumplätte Bereesch&nbsp;…",
+	"footer-stats": "Generated: $1. Duration: $2 {{PLURAL:$2|Sekond|Sekonde|Sekonde}}.<!--\nhttps://translatewiki.net/wiki/Thread:Support/About_Intuition:Templatetransclusioncheck-footer-stats/ksh\n-->",
+	"error-language": "Dat Schprohche-Köözel es onbikannt."
+}

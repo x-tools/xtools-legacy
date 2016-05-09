@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon222"
+		]
+	},
+	"pb-about-pb-navi": "Om",
+	"pb-about-pb-tech": "Teknisk informasjon",
+	"pb-about-pb-tech-text": "<p>Vi bruker <a href=\"//no.wikipedia.org/wiki/Python\">Python</a> og <a href=\"//no.wikipedia.org/wiki/MySQL\">MySQL</a> for dette grensesnittet. Kildekoden er publisert under vilkårene for <a href=\"//www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) og er tilgjengelig på <a href=\"//github.com/tool-labs/pb\">GitHub</a>. Vennligst rapporter feil, ønsker om ny funksjonalitet eller andre kommentarer på <a href=\"//github.com/tool-labs/pb/issues/new\">Githubs sakoppfølgingssystem</a> eller ta det opp på <a href=\"//de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">Wikipedia diskusjonsside</a>.</p>\n<p>Nylige dumper av PB databasen finner man <a href=\"/pb/sql-dumps\">her</a>.</p>\n<p>Vi bruker flere ikoner laget av <a href=\"//glyphicons.com/\" title=\"Glyphicons' nettsted\">Glyphiconsprosjektet</a>.</p>",
+	"pb-about-pb-text": "<p>Dette prosjektet representerer personlige kjennskap mellom Wikipedianere.</p>\n<p>Den første implementasjonen ble utført av Ulli Purwin (grensesnitt) og Euku (bot). I starten av 2011 overtok Wiegels og Ireas utviklingen av grensesnittet. Nå ligger ikke prosjektet lengre på private tjenere, men på Wikimedia Labs.</p>\n<p>Mer informasjon om prosjektet kan bli funnet på tysk Wikipedia på siden <a href=\"//de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Om prosjektet",
+	"pb-change-language": "Endre språk",
+	"pb-comment": "Kommentar",
+	"pb-confirmations-given": "Avgitte bekreftelser",
+	"pb-confirmations-taken": "Mottatte bekreftelser",
+	"pb-current-confirmations": "Det er totalt $1 bekreftelser, dette er rundt <abbr title=\"$2\">$3</abbr> bekreftelser per dag.",
+	"pb-current-figures": "Aktuelle tall",
+	"pb-current-users": "Fortiden deltar $1 bidragsytere i prosjektet for <em>Personlige bekjentskaper</em>.",
+	"pb-date": "Dato",
+	"pb-footer": "<a href=\"//de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften på tysk Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> på Tool Labs. <a href=\"$1\" title=\"Om Wikipedia:Personlige bekjentskaper\">Mer informasjon.</a>",
+	"pb-home": "Hjem",
+	"pb-home-welcome": "Velkommen til prosjektet for <em>Personlige bekjentskaper</em> (<em>Persönliche-Bekanntschaften</em> på tysk)! Mer informasjon om dette prosjektet finner man <a href=\"//de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Personlige bekjentskaper på tysk Wikipedia\">på tysk Wikipedia</a>.",
+	"pb-javascript-notice": "Vi anbefaler å aktivere JavaScript for dette nettstedet fordi det forbedrer brukergrensesnittet.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Deltar siden",
+	"pb-name": "Wikipedia:Personlige bekjentskaper",
+	"pb-powered-by-labs": "Drives av Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Nylige bekreftelser",
+	"pb-reconfirmed": "Bekreftet igjen?",
+	"pb-user": "Bidragsyter",
+	"pb-user-link-title": "Detaljer for bidragsyter $1",
+	"pb-user-heading": "Informasjon om <a href=\"$2\" title=\"Brukersiden til $1\">$1</a>",
+	"pb-user-title": "Informasjon om $1",
+	"pb-users-navi": "Bidragsytere",
+	"pb-users-title": "Deltakerliste",
+	"pb-users-overview": "Disse $1 bidragsyterene deltar i prosjektet for <em>Personlige bekjentskaper</em>:",
+	"pb-verified-since": "Bekreftet siden"
+}

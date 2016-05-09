@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"title": "<i title=\"Söhke noh rejjolähre Ußdrök\">Jräppe</i> en Övverschreffte vun Sigge (betta)",
+	"introduction": "Heh dat Wärkzüsch zeisch Siggetetelle, di obb en $1 paße donn. Esuh söhke es düür. Wann müjjelesch, donn de Zeische ^ un $ benöze.",
+	"explanation": "Äklierong",
+	"regex": "rejolähre Ußdrok",
+	"enter-details": "Jiff Einzelheite enn",
+	"results": "Erus es jekume:",
+	"language-label": "Et Schprohcheköözel",
+	"namespace-label": "Et Appachtemang",
+	"project-label": "Dat Projäk",
+	"pattern-label": "Et Moster",
+	"redirects-label": "Ömleidonge metnämme",
+	"limit-label": "Bloß de eeude honder aanzeije",
+	"error-zeroresults": "mer han kein Sigge en dämm Appachtemang met Övverschreffte, woh Dinge rejolähre Ußdrok drop paß.",
+	"match-count": "{{PLURAL:$1|Eine Sigg|$1 Sigge|Kein Sigg}} iehr Övverschreff paß op dä rejjolähre Ußdrok."
+}

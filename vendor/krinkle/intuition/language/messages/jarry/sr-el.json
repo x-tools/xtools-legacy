@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"moretools": "više alatki od istog autora",
+	"bugs": "prijava grešaka i zahtevi za nove mogućnosti",
+	"comments": "komentari i upiti",
+	"error-form-empty": "Niste popunili sva obavezna polja. Uradite to pre nego što nastavite."
+}

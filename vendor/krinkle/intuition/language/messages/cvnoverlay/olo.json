@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"adder": "Ližiäjy",
+	"adder-empty": "Tundematoi",
+	"expiry": "Voimasoloaigu",
+	"reason": "Syy",
+	"reason-empty": "Syydy ei löydynyh"
+}

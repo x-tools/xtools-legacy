@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"pb-about-pb-navi": "Apie",
+	"pb-about-pb-tech": "Techniniai duomenys",
+	"pb-about-pb-title": "Apie projektą",
+	"pb-change-language": "Keisti kalbą",
+	"pb-comment": "Komentaras",
+	"pb-confirmations-taken": "Gauti patvirtinimai",
+	"pb-date": "Data",
+	"pb-user": "Naudotojas",
+	"pb-user-link-title": "Naudotojo $1 detalės",
+	"pb-user-title": "Informacija $1",
+	"pb-users-navi": "Naudotojai",
+	"pb-users-title": "Dalyvių sąrašas",
+	"pb-verified-since": "Patvirtinta nuo"
+}

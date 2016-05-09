@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Gianfranco",
+			"Nemo bis"
+		]
+	},
+	"description": "Meta informazioni sui wiki di Wikimedia.",
+	"formats-heading": "Formati in uscita",
+	"input": "Input",
+	"label-wikiids": "Identificativi wiki",
+	"no-matches": "Nessuna corrispondenza per \"$1\"",
+	"output": "Risultati per \"$1\""
+}

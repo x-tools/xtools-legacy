@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"Dj",
+			"Tacsipacsi"
+		]
+	},
+	"hello": "Szia",
+	"welcome": "Üdvözlet",
+	"toolversion": "$1 verzió",
+	"toolversionstamp": "Verzió: $1 ($2)",
+	"etc": "stb.",
+	"namespace": "Névtér",
+	"form-submit": "Gyerünk",
+	"form-reset": "Alaphelyzet",
+	"years": "{{PLURAL: $1|év|év}}",
+	"months": "{{PLURAL:$1|hónap}}",
+	"weeks": "{{PLURAL: $1|hét|hét}}",
+	"days": "{{PLURAL: $1|nap|nap}}",
+	"hours": "{{PLURAL: $1|óra|óra}}",
+	"minutes": "{{PLURAL: $1|perc|perc}}",
+	"seconds": "{{PLURAL: $1|másodperc|másodperc}}",
+	"last-modified-date": "Utolsó módosítás ideje: $1",
+	"view-source": "Forrás megtekintése",
+	"and": "&#32;és"
+}

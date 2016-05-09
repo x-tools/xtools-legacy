@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki",
+			"Protnet"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Εγγραφή",
+	"voiceintro-toolbar-stop-label": "Διακοπή",
+	"voiceintro-toolbar-clear-label": "Εκκαθάριση",
+	"voiceintro-toolbar-upload-label": "Ανέβασμα",
+	"voiceintro-webaudio-not-supported": "Το WebAudio API δεν υποστηρίζεται από αυτό το πρόγραμμα περιήγησης",
+	"voiceintro-upload-publish-succeeded": "Η εγγραφή ανέβηκε επιτυχώς:",
+	"voiceintro-upload-publish-failed": "Η εγγραφή δεν ανέβηκε.",
+	"voiceintro-information-label": "Πληροφορίες",
+	"voiceintro-information-speaker-label": "Όνομα ομιλητή:",
+	"voiceintro-information-language-label": "Γλώσσα:",
+	"voiceintro-mic-access-notify": "Κάντε κλικ στο κουμπί «Αποδοχή» για να επιτρέψετε στο πρόγραμμα περιήγησης να αποκτήσει πρόσβαση στο μικρόφωνό σας.",
+	"voiceintro-recording-notify": "Γίνεται εγγραφή..."
+}

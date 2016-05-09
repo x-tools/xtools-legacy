@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Marmase",
+			"Mirzali"
+		]
+	},
+	"hello": "Merheba",
+	"welcome": "Xeyr amey",
+	"toolversion": "Versiyon $1",
+	"toolversionstamp": "Versiyon $1 ($2)",
+	"etc": "ws.",
+	"namespace": "Heruna nami",
+	"form-submit": "Şo",
+	"form-reset": "Reset kerê",
+	"years": "{{PLURAL: $1|serre|serri}}",
+	"weeks": "{{PLURAL: $1|hefte|heftey}}",
+	"days": "{{PLURAL: $1|roc|roci}}",
+	"hours": "($1 {{PLURAL:$1|seate|seati}})",
+	"minutes": "{{PLURAL: $1|deqe|deqey}}",
+	"seconds": "{{PLURAL:$1|saniye|saniyeyan}}",
+	"last-modified-date": "Vurnayışo peên: $1",
+	"view-source": "Çımey bıvêne",
+	"and": "&#32;u"
+}

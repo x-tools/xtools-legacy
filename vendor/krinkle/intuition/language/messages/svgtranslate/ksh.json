@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"title": "<i lang=\"en\">SVG</i> Övversäze",
+	"error-tryagain": "$1 Donn dä „Retuur“-Knopp en Dingem Brauser nämme, un dann versöhg_et norr_ens.",
+	"error-nothing": "Nix zom Övversäze draan.",
+	"error-notsvg": "Dat es jaa kein <i lang=\"en\">SVG</i>-Dattei.",
+	"error-unexpected": "Ene Fähler es opjetrodde, woh mer nit met jerääschnet hatte.",
+	"error-notfound": "Onger däm aanjejovve <i lang=\"en\">URL</i> ham_mer kein <i lang=\"en\">SVG</i>-Dattei jefonge.",
+	"error-upload": "Beim Huhlaade es ene Fähler opjetrodde.",
+	"begin-translation": "Mem Övversäze aanfange",
+	"th-original": "Ojinahl",
+	"th-translation": "Övversäzong",
+	"th-language": "Schprohch",
+	"th-username": "Metmaacher_Nahme",
+	"th-password": "Paßwoot",
+	"th-method": "Metood",
+	"option-oauth": "<i lang=\"en\" xml:lang=\"en\" title=\"OAuth\">OAuth</i> (automattesch Huhlaade)",
+	"option-manual": "vun Hand huhlaade",
+	"preview": "Vör-Aansich zeije",
+	"translate": "Övversäze",
+	"translate-instructions": "Enjangsdateije kam_mer met dänne iehr Name aanjävve (för e Beishpell „<code lang=\"en\">$1</code>“) udder med enem kumplätte <i lang=\"en\">URL</i> (för e Beishpell „<code lang=\"en\">$2</code>“). Em eezde Fall looere mer op <i lang=\"en\">Wikimedia Commons</i> donoh. Em zweite Fall kam_mer en <i lang=\"en\">SVG</i>-Dattei fun ene ander ẞait udder uss_enem andere Wiki övversäze.",
+	"svginput-label": "De <i lang=\"en\">SVG</i>-Dattei",
+	"stats-footer": "Heh dat Projramm es jebruch woode, öm ätwa {{PLURAL:$1|ein Dattei|$1 Datteije|noll Datteije}} zick $2 ze övversäze.",
+	"uploading": "Aam Huhlaade",
+	"upload-complete": "Dat Huhlaade hät jeflupp, un dat Beld sullt jäz onger „$1“ shtonn.",
+	"editdescriptionpage": "Donn di Sigg övver dat Beld op der neue Shtand bränge!",
+	"disclaimer": "E paa Daate wääde för en Schtateßtek faßjehallde, ävver nit öffentlesch jemaat, un se donn sesch och ob keine beschtemmpte Metmaacher beträcke. Wann se aanjejovve sin, wääde och de Metmaachernahme vum <i lang=\"en\" xml:lang=\"en\" title=\"OAuth\">OAuth</i> faßjehallde, öm ze hällefe, falls ens Eine jät kapott jemaat hät. Paßwööter wääde nimohls faßjehallde.",
+	"author-complete": "Bes esu joot, un donn de Aanjabe övver der Maacher vum Beld kumplätt maaache!",
+	"preview-hide": "Vör-Aansesch verschteische",
+	"preview-refresh": "Donn de Vör-Aansesch op der neue Shtand bränge!",
+	"error-must-accept": "Öm med em tiräk Huhlaade wiggger ze maache. moß De dä Bedengonge för der Jebruch zohshtemme.",
+	"description-license": "Donn di Dattei koot beschrihve un en Lezännz ußwähle",
+	"finalise": "Donn de Einzelheite kumplätt maache"
+}

@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"search-title": "Pieminekļu meklēšana",
+	"search-monuments-database": "Meklēt pieminekļu datubāzē",
+	"search-table-th-field": "Lauks",
+	"search-table-th-filter": "Filtrs",
+	"search-table-th-search": "Meklēt",
+	"filter-all-countries": "Visas valstis",
+	"filter-all-languages": "Visas valodas",
+	"db-field-country": "Valsts",
+	"db-field-lang": "Valoda",
+	"db-field-id": "Identifikators",
+	"db-field-name": "Nosaukums",
+	"db-field-address": "Adrese",
+	"db-field-municipality": "Pašvaldība",
+	"db-field-lat": "Ģeogrāfiskais platums",
+	"db-field-lon": "Ģeogrāfiskais garums",
+	"db-field-image": "Attēls",
+	"db-field-changed": "Mainīts",
+	"db-field-source": "Avots",
+	"db-field-monument_article": "Pieminekļa raksts",
+	"db-field-registrant_url": "Reģistratora URL",
+	"db-field-st_address": "Adreses",
+	"db-field-st_address_pct": "Adreses %",
+	"db-field-st_coordinates": "Koordinātas:",
+	"db-field-st_coordinates_pct": "Koordinātas %",
+	"db-field-st_image": "Attēls",
+	"db-field-st_image_pct": "Attēls %",
+	"db-field-st_municipality": "Pašvaldība",
+	"db-field-st_municipality_pct": "Pašvaldība %",
+	"db-field-st_name": "Nosaukumi",
+	"db-field-st_name_pct": "Nosaukumi %",
+	"db-field-st_total": "Kopējais skaits",
+	"toolbox-nav-statistics": "Statistika",
+	"toolbox-nav-search": "Meklēt",
+	"toolbox-title-searchmonuments": "Meklēt pieminekļus",
+	"location": "Atrašanās vieta"
+}

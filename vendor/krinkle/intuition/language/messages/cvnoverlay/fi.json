@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvonen"
+		]
+	},
+	"adder": "Lisääjä",
+	"adder-empty": "Tuntematon",
+	"reason": "Syy"
+}

@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Linforest",
+			"Liuxinyu970226",
+			"Mys 721tx",
+			"Simon Shek",
+			"Xiaomingyan",
+			"Yfdyh000"
+		]
+	},
+	"title": "按分类下载图片",
+	"subtitle": "从一个分类中下载图片的简单方式",
+	"project": "项目：",
+	"category": "分类：",
+	"thumbnailing": "缩小图片",
+	"max-width": "最大宽度：",
+	"max-height": "最大高度：",
+	"invalid-width": "无效宽度",
+	"invalid-height": "无效高度",
+	"no-such-project": "此项目不存在",
+	"no-images": "该分类中没有图片",
+	"category-is-url": "所填写分类名称似乎是一个URL，您需要指明分类名称而不是其URL",
+	"category-contains-namespace": "您似乎在分类名称中包含了名字空间。使用此名称时页面将会显示为[[Category:$1]]",
+	"zip-failed": "Zip创建失败",
+	"image-area-too-big": "$1 对于缩略图过大，使用其实际大小。",
+	"download-info": "{{plural: $1|有$1个图像}}，估计大小为$2",
+	"download": "下载",
+	"readme-contents": "文件$4包括下列内容：\n分类$1<$2>$3中的图片。\n\n==下载所有列出图片指南 ==\n\n下载过程可能消耗几分钟至若干小时时间。\n\nWindows：\n将所有文件解压缩至同一文件夹，运行 $5\n $6\nLinux/Mac OS：\n解压所有文件，在终端中依此文件夹运行 sh $5",
+	"non-bundled-wget": "注： 此版本不包括Windows版本的wget。您需要解压缩到一个有wget.exe的文件夹，或在PATH中包含有wget。",
+	"wget-info": "此文件作为wget的副本$1（用于Windows平台）而打包。Wget是自由软件，\n根据GNU通用公共许可证第3版授权。\n这里有一个许可证副本，可在这个网站查看：http://www.gnu.org/licenses/gpl-3.0.txt\n\n如果您有兴趣获得此程序的源代码，您可以在此下载\nhttp://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\nhttp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n或者其他GNU镜像，参见\nhttp://www.gnu.org/prep/ftp.html",
+	"scaling-width": "缩放到最大宽度 $1 {{plural:$1|像素}}",
+	"scaling-height": "缩放到最大高度 $1 {{plural:$1|像素}}",
+	"scaling-both": ", 缩放到最大尺寸 $1x$2 像素"
+}

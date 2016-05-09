@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"toolserver-status-ok": "Нема проблема у кластеру базе података $1 $2",
+	"toolserver-status-info": "Напомена за кориснике кластера $1: $2",
+	"toolserver-status-warn": "Упозорење за кориснике кластера $1: $2",
+	"toolserver-status-down": "Кластер базе података $1 је привремено искључен. $2",
+	"toolserver-status-erro": "Кластер базе података $1 је изненадно пао. $2",
+	"toolserver-status-unknown": "Непознато стање кластера $1",
+	"toolserver-status-missing": "Кластер $1 не постоји",
+	"toolserver-status-short-ok": "$1: У реду",
+	"toolserver-status-short-info": "$1: Подаци",
+	"toolserver-status-short-warn": "$1: Напомена",
+	"toolserver-status-short-down": "$1: Пад",
+	"toolserver-status-short-erro": "$1: Грешка",
+	"toolserver-status-short-unknown": "$1: Непознато",
+	"toolserver-status-short-missing": "$1: Недостаје"
+}

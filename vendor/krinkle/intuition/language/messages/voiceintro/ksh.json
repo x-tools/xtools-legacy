@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Opzeischne",
+	"voiceintro-toolbar-stop-label": "Aanhallde",
+	"voiceintro-toolbar-clear-label": "Läddesch maache",
+	"voiceintro-toolbar-upload-label": "Huhlaade",
+	"voiceintro-webaudio-not-supported": "Heh dä Brauser kann de <i lang=\"en\" xml:lang=\"en\">WebAudio API</i> nit.",
+	"voiceintro-upload-publish-succeeded": "Di Opzeischnong es huhjelahde:",
+	"voiceintro-upload-publish-failed": "Di Opzeischnong kunnt nit huhjelahde wääde.",
+	"voiceintro-information-label": "Enfommazjuhn",
+	"voiceintro-information-speaker-label": "Däm Schpräscher singe Nahme:",
+	"voiceintro-information-language-label": "Schprohch:",
+	"voiceintro-mic-access-notify": "Do moß noch med enem Kleck zohlohße, dat Dinge Brauser Ding Mikrofohn affhühre darref.",
+	"voiceintro-recording-notify": "Aam opzeischne&nbsp;.."
+}

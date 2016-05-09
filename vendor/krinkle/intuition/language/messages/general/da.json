@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Peter Alberti",
+			"Platonides",
+			"Sarrus"
+		]
+	},
+	"hello": "Hej",
+	"welcome": "Velkommen",
+	"toolversion": "Version $1",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "osv.",
+	"namespace": "Navnerum",
+	"form-submit": "Udfør",
+	"form-reset": "Nulstil",
+	"years": "{{PLURAL: $1|år|år}}",
+	"weeks": "{{PLURAL: $1|uge|uger}}",
+	"days": "{{PLURAL: $1|dag|dage}}",
+	"hours": "{{PLURAL: $1|time|timer}}",
+	"minutes": "{{PLURAL: $1|minut|minutter}}",
+	"seconds": "{{PLURAL: $1|sekund|sekunder}}",
+	"last-modified-date": "Senest ændret: $1",
+	"view-source": "Vis kildekode",
+	"and": "&#32;og"
+}

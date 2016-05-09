@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Robby"
+		]
+	},
+	"adder": "Label for the user that added this item to the CVN database.",
+	"adder-empty": "Placeholder text for when the adder is unknown.\n{{Identical|Unknown}}\n\nSee also:\n* {{msg-intuition|cvnoverlay-adder}}",
+	"expiry": "Date when the this item expires from the CVN database.\n{{Identical|Expiry}}",
+	"globalwatched": "Description of a page that is on the cross-wiki watchlist.",
+	"reason": "Label for the comment left by the user who added this item to the CVN database.\n{{Identical|Reason}}",
+	"reason-empty": "Placeholder text when no reason was found\n\nSee also:\n* {{msg-intuition|cvnoverlay-reason}}"
+}

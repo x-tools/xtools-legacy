@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon222"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Ta opp",
+	"voiceintro-toolbar-stop-label": "Stopp",
+	"voiceintro-toolbar-clear-label": "Tøm",
+	"voiceintro-toolbar-upload-label": "Last opp",
+	"voiceintro-webaudio-not-supported": "WebAudio API støttes ikke av denne webleseren",
+	"voiceintro-upload-publish-succeeded": "Opplastningen av opptaket var vellykket:",
+	"voiceintro-upload-publish-failed": "Opptaket ble ikke lastet opp.",
+	"voiceintro-information-label": "Informasjon",
+	"voiceintro-information-speaker-label": "Talerens navn:",
+	"voiceintro-information-language-label": "Språk:",
+	"voiceintro-mic-access-notify": "Klikk «Tillat» for å gi webleseren tilgang til mikrofonen din.",
+	"voiceintro-recording-notify": "Tar opp..."
+}

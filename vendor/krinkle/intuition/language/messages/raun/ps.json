@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"close": "تړل",
+	"help": "لارښود",
+	"filter": "چاڼگر",
+	"settings": "امستنې",
+	"stat": "شمارنې",
+	"settings_tool": "اوزارونه",
+	"language": "ژبه",
+	"project": "پروژه",
+	"save": "خوندي کول",
+	"settings_pause": "درول",
+	"settings_show": "ښکاره کول",
+	"settings_wiki": "ويکي",
+	"settings_redirects": "مخ گرځېدلي مخونه",
+	"settings_new_pages": "نوي مخونه",
+	"stat_pages": "مخونه",
+	"stat_files": "پورته شوې دوتنې",
+	"stat_active_users": "فعاله کارنان",
+	"stat_admins": "پازوالان",
+	"separator_thousands": "،",
+	"separator_decimals": ".",
+	"main_page": "مخ",
+	"main_user": "کارن",
+	"main_info": "مالومات",
+	"new": "نوی",
+	"redirect": "مخ گرځېدنه",
+	"bot": "روبوټ",
+	"editor": "سمونگر",
+	"admin": "پازوال",
+	"color": "رنگ",
+	"about": "په اړه",
+	"information": "مالومات"
+}

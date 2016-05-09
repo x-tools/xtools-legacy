@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ravichandra",
+			"Veeven"
+		]
+	},
+	"search-table-th-search": "వెతుకు",
+	"filter-all-countries": "అన్నీ",
+	"filter-all-languages": "అన్ని భాషలు",
+	"db-field-country": "దేశం",
+	"db-field-lang": "భాష",
+	"db-field-name": "పేరు",
+	"db-field-address": "చిరునామా",
+	"db-field-lat": "అక్షాంశం",
+	"db-field-lon": "రేఖాంశం",
+	"db-field-image": "బొమ్మ",
+	"db-field-changed": "మార్చబడినది",
+	"db-field-source": "మూలం",
+	"db-field-st_address": "చిరునామాలు",
+	"db-field-st_name": "పేర్లు",
+	"db-field-st_name_pct": "పేర్లు %",
+	"db-field-st_total": "మొత్తం సంఖ్య",
+	"toolbox-nav-statistics": "గణాంకాలు",
+	"toolbox-nav-search": "వెతుకు",
+	"location": "ప్రాంతం"
+}

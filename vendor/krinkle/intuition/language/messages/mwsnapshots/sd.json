@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"title-error": "خرابي",
+	"title-downloadpage": "لاهيو",
+	"title-downloadpage-repo": "لاهيو $1",
+	"repo-site-link": "ويب سائيٽ",
+	"repo-branches-label": "شاخون:",
+	"repo-lastmoddate-label": "تاريخ:",
+	"tablehead-branch": "شاخ",
+	"tablehead-filesize": "فائيل جي ماپ"
+}

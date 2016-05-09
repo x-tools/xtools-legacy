@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"formats-heading": "Formà ëd surtìa",
+	"input": "Anseriment",
+	"label-wikiids": "Identificador ëd wiki",
+	"no-matches": "Gnun-a rëspondensa për «$1»",
+	"output": "Surtìa për \"$1\""
+}

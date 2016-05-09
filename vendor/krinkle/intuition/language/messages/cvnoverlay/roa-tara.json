@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"adder": "Aggiunde",
+	"adder-empty": "Scanusciute",
+	"expiry": "Scadenze",
+	"globalwatched": "Viste globbale",
+	"reason": "Mutive",
+	"reason-empty": "Nisciune mutive acchiate"
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"search-table-th-field": "ميدان",
+	"search-table-th-search": "ڳوليو",
+	"filter-all-countries": "سڀ ملڪ",
+	"filter-all-languages": "سڀ ٻوليون",
+	"db-field-country": "ملڪ",
+	"db-field-lang": "ٻولي",
+	"db-field-name": "نالو",
+	"db-field-address": "پتو",
+	"db-field-image": "عڪس",
+	"db-field-changed": "تبديل ٿيل",
+	"db-field-source": "ذريعو",
+	"db-field-st_address": "پتا",
+	"db-field-st_address_pct": "پتا %",
+	"db-field-st_image": "عڪس",
+	"db-field-st_image_pct": "عڪس %",
+	"db-field-st_name": "نالا",
+	"db-field-st_name_pct": "نالا %",
+	"toolbox-nav-homepage": "گهرو صفحو",
+	"toolbox-nav-statistics": "انگ اکر",
+	"toolbox-nav-search": "ڳوليو",
+	"location": "جڳھ"
+}

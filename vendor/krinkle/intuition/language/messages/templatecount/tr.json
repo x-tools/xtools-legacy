@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Khutuck",
+			"Vito Genovese"
+		]
+	},
+	"enter-details": "Detayları girin",
+	"introduction": "Şablon adını yazın (şu an sadece Vikipediler) ve Gönder düğmesine basın. Bu kadar basit. Önbellek kullanımı (sonuçların hatırlanması) söz konusu; ancak bu, işbu araç ve sahibinin kontrolü dışında bir durum.",
+	"language-label": "Dil",
+	"namespace-label": "Alan adı",
+	"pagename-label": "Sayfa adı (alan adı hariç)",
+	"transclusion-count-label": "Görüntüleme sayısı",
+	"transclusion-count": "$1 görüntüleme bulundu.",
+	"error-suggestion": "Belki de sayfanın adını yanlış yazdınız (ya da büyük-küçük harf kullanımında hata var)?",
+	"time-label": "Komutu yürütmek için geçen süre"
+}

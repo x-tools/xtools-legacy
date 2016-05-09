@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"error-nothing": "Ren a traduire.",
+	"error-notsvg": "Pas un fichiér SVG.",
+	"error-unexpected": "Na fôta emprèvua est arrevâye.",
+	"th-original": "Originâl",
+	"th-translation": "Traduccion",
+	"th-language": "Lengoua",
+	"th-username": "Nom d’utilisator",
+	"th-password": "Contresegno",
+	"th-method": "Mètoda",
+	"option-oauth": "TUSC (tèlèchargement ôtomatico)",
+	"option-manual": "Tèlèchargement manuèl",
+	"preview": "Prèvisualisacion",
+	"translate": "Traduire",
+	"svginput-label": "Fichiér SVG",
+	"uploading": "Tèlèchargement",
+	"preview-hide": "Cachiér la prèvisualisacion"
+}

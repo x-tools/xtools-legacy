@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"title": "Titole d'a vôsce grep (beta)",
+	"introduction": "Stu strumende face vedè tutte le titole de le vôsce ca soddisfane 'nu pattern de 'n'espressione regolare ($1). Cercanne, ausanne 'n'espressione regolare jè intensive cumme resorse. Ce tutte possibbile, arrecuérdete de ausà le indicature de prefisse (^) e suffisse ($)",
+	"explanation": "spegazione",
+	"regex": "Espressione regolare",
+	"enter-details": "Mitte le dettaglie",
+	"results": "Resultate",
+	"language-label": "Lènghe",
+	"namespace-label": "Namespace",
+	"project-label": "Proggette",
+	"pattern-label": "Pattern",
+	"redirects-label": "'Nglude le redirezionaminde",
+	"limit-label": "Limite 'a visualizzazzione a le prime 100 resultate",
+	"error-zeroresults": "Non ge stonne pàggene jndr'à stu namespace cu 'u titole ca soddisfe l'espressione regolare",
+	"match-count": "{{PLURAL:$1|$1 pàgene|$1 pàggene}} soddisfane l'espressiona regolare toje"
+}

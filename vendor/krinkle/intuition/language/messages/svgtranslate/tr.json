@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Khutuck",
+			"Violetanka",
+			"Vito Genovese",
+			"Rapsar"
+		]
+	},
+	"title": "SVG Çevir",
+	"error-tryagain": "$1 Yeniden denemek için tarayıcınızın geri düğmesine basın.",
+	"error-nothing": "Çevirecek bir şey yok.",
+	"error-notsvg": "Bir SVG dosyası değil.",
+	"error-unexpected": "Beklenmedik bir hata meydana geldi.",
+	"error-notfound": "Verilen URL'den SVG dosyası alınamadı.",
+	"error-upload": "Yüklemede hata oldu.",
+	"begin-translation": "Çeviriye başla",
+	"th-original": "Özgün",
+	"th-translation": "Çeviri",
+	"th-language": "Dil",
+	"th-username": "Kullanıcı adı",
+	"th-password": "Şifre",
+	"th-method": "Yöntem",
+	"option-oauth": "OAuth (otomatik yükleme)",
+	"option-manual": "Manuel yükleme",
+	"preview": "Ön izleme",
+	"translate": "Çevir",
+	"translate-instructions": "Girişler, ya dosya adı (örn: \"$1\") ya da tam URL (örn: \"$2\") olarak kabul edilmektedir. İlk seçeneğin kullanılması durumunda, Wikimedia Commons kaynak olarak varsayılacaktır. Diğer bir site ya da vikiden alınan bir SVG'yi çevirmek istiyorsanız, tam URL formatını kullanmalısınız.",
+	"svginput-label": "SVG dosyası",
+	"stats-footer": "Bu araç, $2 tarihinden bu yana yaklaşık olarak $1 dosyanın çevrilmesi için kullanıldı.",
+	"uploading": "Yükleniyor",
+	"upload-complete": "Yükleme başarıyla tamamlandı. Görüntüyü şimdi $1 adresinde olmalı.",
+	"editdescriptionpage": "Yeni açıklama sayfasını değiştir",
+	"disclaimer": "İstatistiksel amaçlarla bazı anonim bilgiler kaydedilecektir. Eğer belirtilirse, OAuth kullanıcı adları suiistimale karşı mücadelede kullanılacaktır. Şifreler asla kaydedilmeyecektir.",
+	"author-complete": "Lütfen yazar bilgilerini doldurunuz!",
+	"preview-hide": "Önizleme gizle",
+	"preview-refresh": "Önizleme görüntüsünü yenileyin",
+	"error-must-accept": "Doğrudan yükleme ile devam etmek için kullanım koşullarını kabul etmeniz gerekir.",
+	"description-license": "Açıklama ve lisans seçin",
+	"finalise": "Ayrıntıları tamamlayın"
+}

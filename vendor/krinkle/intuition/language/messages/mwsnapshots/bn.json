@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman",
+			"Nasir8891"
+		]
+	},
+	"title-overview": "ছবি",
+	"title-error": "ত্রুটি",
+	"title-updatelog": "হালনাগাদ লগ",
+	"updatelog-intro": "হালনাগাদ স্ক্রিপ্ট প্রতি ঘন্টায় চালানোর জন্য নির্ধারিত। নীচে শেষ চালানোর কনসোল আউটপুট রয়েছে।",
+	"updatelog-active": "হালনাগাদ স্ক্রিপ্ট বর্তমানে চলমান। সম্পূর্ণ লগের জন্য পরে আবার ফিরে আসুন।",
+	"download-button": "স্ন্যাপশট ডাউনলোড করুন",
+	"download-directlink": "সরাসরি লিংক",
+	"title-downloadpage": "ডাউনলোড",
+	"title-downloadpage-repo": "$1 ডাউনলোড",
+	"err-snapshotindex": "স্ন্যাপশট সূচীটি সাময়িকভাবে পাওয়া যাচ্ছে না। অনুগ্রহ করে পুনরায় চেষ্টা করুন।",
+	"err-invalid-repo": "অপরিচিত সংগ্রহস্থল: \"$1\".",
+	"err-invalid-branch": "\"$2\" সংগ্রহস্থলে অপরিচিত শাখা: \"$1\"।",
+	"err-nosnapshot": "স্ন্যাপশট প্রতি কয়েক ঘন্টার উত্পন্ন করা হয়। \"$1\"-এর জন্য স্ন্যাপশট উত্পন্ন করার সময়, একটি ত্রুটি ঘটেছে। দয়া করে পরে আবার চেষ্টা করুন।",
+	"err-noupdatelog": "কোনো হালনাগাদ লগ পাওয়া যায়নি।",
+	"repo-site-link": "ওয়েবসাইট",
+	"repo-browse-link": "সংগ্রহস্থল ব্রাউজ",
+	"repo-branches-label": "শাখাসমূহ:",
+	"repo-lastmoddate-label": "তারিখ:",
+	"branches-submit-button": "পাওয়া গেছে!",
+	"updatelog-link": "হালনাগাদ লগ",
+	"tablehead-repo": "রিপোজিটরি",
+	"tablehead-snapshots": "স্ন্যপশট",
+	"tablehead-branch": "শাখা",
+	"tablehead-filesize": "ফাইলের আকার",
+	"tablehead-hash": "চেকসাম"
+}

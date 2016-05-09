@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Veeven"
+		]
+	},
+	"title": "SVG అనువాదం",
+	"error-nothing": "అనువదించడానికి ఏమీలేదు.",
+	"error-notsvg": "అది SVG దస్త్రం కాదు.",
+	"error-unexpected": "ఏదో గుర్తుతెలియని పొరపాటు జరిగింది.",
+	"error-upload": "ఎక్కించడంలో ఏదో పొరపాటు జరిగింది.",
+	"begin-translation": "అనువాదం మొదలుపెట్టండి",
+	"th-original": "అసలు",
+	"th-translation": "అనువాదం",
+	"th-language": "భాష",
+	"th-username": "వాడుకరి పేరు",
+	"th-password": "సంకేతపదం",
+	"th-method": "పద్ధతి",
+	"preview": "మునుజూపు",
+	"translate": "అనువదించు",
+	"svginput-label": "SVG దస్త్రం",
+	"stats-footer": "$2 నుండి దాదాపు $1 దస్త్రాలను అనువదించడానికి ఈ పనిముట్టుని ఉపయోగించారు.",
+	"author-complete": "దయచేసి రచయిత సమాచారాన్ని పూరించండి!",
+	"preview-hide": "మునుజూపును దాచు"
+}

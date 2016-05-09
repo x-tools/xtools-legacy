@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon222"
+		]
+	},
+	"title": "Artikkeltittel-grep (beta)",
+	"introduction": "Dette verktøyet viser alle artikkeltitler som passer et regulært uttrykk ($1). Søking ved bruk av regulære uttrykk er ressurskrevende. Dersom det overhodet er mulig så bruk indikatorene for prefiks (^) og suffiks ($).",
+	"explanation": "forklaring",
+	"regex": "Regulært uttrykk",
+	"enter-details": "Skriv inn detaljer",
+	"results": "Resultater",
+	"language-label": "Språk",
+	"namespace-label": "Navnerom",
+	"project-label": "Prosjekt",
+	"pattern-label": "Mønster",
+	"redirects-label": "Inkluder omdirigeringer",
+	"limit-label": "Begrens visningen til de første 100 resultatene",
+	"error-zeroresults": "Det er ingen sider i det navnerommet med titler som passer ditt regulære uttrykk.",
+	"match-count": "{{PLURAL:$1|$1 side|$1 sider}} passer ditt regulære uttrykk."
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hosseinblue"
+		]
+	},
+	"adder": "اضافه‌کننده",
+	"adder-empty": "ناشنا/نادیار",
+	"expiry": "زمان سرآمدن",
+	"globalwatched": "پیگیری‌های سراسری",
+	"reason": "دةلیل",
+	"reason-empty": "هیچ دلیلی یافت نشد"
+}

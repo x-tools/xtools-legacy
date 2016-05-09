@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"title": "WLM檔",
+	"file": "圖像",
+	"monument-type": "歷史類型",
+	"monument-id": "歷史id",
+	"competes": "完整性",
+	"author": "作者",
+	"upload-time": "上載時間",
+	"deleted": "已刪除($1)",
+	"no-concursa": "外來WLM競爭",
+	"not-available": "不可用",
+	"date-unknown": "未知",
+	"total-images": "圖像總數:$1",
+	"view-uncategorized-images": "查看未分類圖像",
+	"show-images-all": "顯示所有圖像",
+	"search-monuments": "搜索歷史",
+	"id-label": "歷史id:",
+	"id-none": "（無）",
+	"count-heading": "照片",
+	"bic-list": "列表",
+	"bic-gallery": "圖庫",
+	"author-heading": "作者",
+	"bic-list-bad": "顯示",
+	"bic-list-all": "完整列表",
+	"unregistered": "未註冊",
+	"users-list": "檢視",
+	"province-none": "（未知）",
+	"ccaa-heading": "CC.AA."
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Batyrbek.kz",
+			"Arystanbek"
+		]
+	},
+	"hello": "Сәлем",
+	"welcome": "Қош келдіңіз!",
+	"toolversion": "$1 нұсқасы",
+	"toolversionstamp": "Нұсқасы: $1 ($2)",
+	"etc": "т.б",
+	"namespace": "Есім кеңістігі",
+	"form-submit": "Өту",
+	"years": "{{PLURAL: $1|жыл|жыл}}",
+	"months": "{{PLURAL: $1|ай|ай}}",
+	"weeks": "{{PLURAL:$1|апта|апта}}",
+	"days": "{{PLURAL:$1|күн|күн}}",
+	"hours": "{{PLURAL: $1|сағат|сағат}}",
+	"minutes": "{{PLURAL:$1|минут|минут}}",
+	"seconds": "{{PLURAL: $1|секунд|секунд}}",
+	"last-modified-date": "Соңғы өзгертілуі: $1",
+	"view-source": "Қайнарын қарау",
+	"and": "&#32;және"
+}

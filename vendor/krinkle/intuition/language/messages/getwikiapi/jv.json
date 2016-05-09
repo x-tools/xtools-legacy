@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"formats-heading": "Format weton",
+	"input": "Lebon",
+	"label-wikiids": "Pangidèntipikasi wiki",
+	"no-matches": "Ora ana sing cocok \"$1\"",
+	"output": "Weton kanggo \"$1\""
+}

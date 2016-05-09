@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Platonides",
+			"Rancher"
+		]
+	},
+	"dateformat": "%d %B %Y",
+	"hello": "Zdravo",
+	"welcome": "Dobro došli",
+	"toolversionstamp": "Izdanje $1 ($2)",
+	"etc": "itd.",
+	"colon-separator": ":",
+	"namespace": "Imenski prostor",
+	"form-submit": "Idi",
+	"form-reset": "Poništi",
+	"years": "{{PLURAL: $1|godina|godine|godina}}",
+	"weeks": "{{PLURAL: $1|nedelja|nedelje|nedelja}}",
+	"days": "{{PLURAL: $1|dan|dana|dana}}",
+	"hours": "{{PLURAL: $1|sat|sata|sati}}",
+	"minutes": "{{PLURAL: $1|minut|minuta|minuta}}",
+	"seconds": "{{PLURAL: $1|sekund|sekunde|sekundi}}",
+	"last-modified-date": "Poslednja izmena: $1",
+	"view-source": "Izvorni kod",
+	"parentheses": "($1)",
+	"and": "&#32;i"
+}

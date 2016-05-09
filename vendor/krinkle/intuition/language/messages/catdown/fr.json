@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crochet.david",
+			"Gomoko",
+			"Linedwell",
+			"VIGNERON"
+		]
+	},
+	"title": "Téléchargement d’images par catégorie",
+	"subtitle": "La manière simple pour télécharger les images dans une catégorie",
+	"project": "Projet :",
+	"category": "Catégorie :",
+	"thumbnailing": "Vignettage",
+	"max-width": "Largeur maximale :",
+	"max-height": "Hauteur maximale :",
+	"invalid-width": "Largeur non valide",
+	"invalid-height": "Hauteur non valide",
+	"no-such-project": "Ce projet n’existe pas",
+	"no-images": "Il n'y a pas d’images dans cette catégorie",
+	"category-is-url": "Le nom de catégorie fourni ressemble à une URL. Vous devez spécifier le nom de la catégorie, non pas son URL.",
+	"category-contains-namespace": "Il semble que vous avez inclus l’espace de nom avec le nom de la catégorie. Avec le nom fourni, la page serait disponible à [[Category:$1]].",
+	"zip-failed": "Échec de la création du zip",
+	"image-area-too-big": "$1 est trop gros pour créer une vignette. Utilisez la taille réelle.",
+	"download-info": "Il y a {{plural: $1|une image|$1 images}}, avec une taille estimée de $2",
+	"download": "Télécharger",
+	"readme-contents": "Le fichier conteneur $4 liste les images de la catégorie $1 ( $2 )$3.\n\n== Instructions pour télécharger toutes les images listées ==\nLe temps de téléchargement peut varier de quelques minutes à plusieurs heures.\n\nWindows :\n Extraire tous les fichier dans le même répertoire et lancez $5\n $6\nLinux/Mac OS :\n Extraire tous les fichiers et ouvrir un terminal dans ce répertoire. Lancez sh $5",
+	"non-bundled-wget": "Note : Cette version ne comprend pas wget pour Windows. Vous devez décompresser dans un répertoire avec wget.exe ou avoir wget dans le PATH",
+	"wget-info": "Le fichier comprend une copie de wget $1 (pour plateformes Windows). Wget est un logiciel libre, sous licence de la GNU GENERAL PUBLIC LICENSE version 3.\nVous trouverez une copie de cette licence ci-dessous, et elle est également disponible à http://www.gnu.org/licenses/gpl-3.0.txt\n\nSi vous êtes intéressés par le code source de ce programme, vous pouvez le télécharger depuis\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nou un autre miroir GNU, voyez\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", mis à l’échelle avec une largeur maximale de $1 pixel{{plural:$1||s}}",
+	"scaling-height": ", mis à l’échelle avec une hauteur maximale de $1 pixel{{plural:$1||s}}",
+	"scaling-both": ", mis à l’échelle avec une taille maximale de $1x$2 pixels"
+}

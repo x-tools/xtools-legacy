@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"toolserver-status-ok": "資料庫群集$1中沒有任何問題$2",
+	"toolserver-status-down": "資料庫群集$1已被暫時關閉。$2",
+	"toolserver-status-erro": "資料庫群集$1已關閉。$2",
+	"toolserver-status-unknown": "群集$1的狀態未知",
+	"toolserver-status-missing": "群集$1不存在",
+	"toolserver-status-short-ok": "$1:良好",
+	"toolserver-status-short-info": "$1:資訊",
+	"toolserver-status-short-warn": "$1:警告",
+	"toolserver-status-short-down": "$1:停止工作",
+	"toolserver-status-short-erro": "$1:錯誤",
+	"toolserver-status-short-unknown": "$1:未知",
+	"toolserver-status-short-missing": "$1:丢失"
+}

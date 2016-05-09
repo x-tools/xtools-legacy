@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"title-overview": "किपात",
+	"title-error": "इरर",
+	"title-updatelog": "अपदेत धलः",
+	"err-noupdatelog": "अपदेत धलः मलूगु।",
+	"repo-site-link": "जाःथाय्",
+	"repo-branches-label": "कचात:",
+	"repo-lastmoddate-label": "तिथि"
+}

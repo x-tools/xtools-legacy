@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr",
+			"Chameleon222"
+		]
+	},
+	"hello": "Hallo",
+	"welcome": "Velkommen",
+	"toolversion": "Versjon $1",
+	"toolversionstamp": "Versjon $1 ($2)",
+	"etc": "osv.",
+	"namespace": "Navnerom",
+	"form-submit": "Gå",
+	"form-reset": "Nullstill",
+	"years": "{{PLURAL: $1|år|år}}",
+	"months": "{{PLURAL: $1|måned|måneder}}",
+	"weeks": "{{PLURAL: $1|uke|uker}}",
+	"days": "{{PLURAL: $1|dag|dager}}",
+	"hours": "{{PLURAL: $1|time|timer}}",
+	"minutes": "{{PLURAL: $1|minutt|minutter}}",
+	"seconds": "{{PLURAL: $1|sekund|sekunder}}",
+	"last-modified-date": "Sist endret: $1",
+	"view-source": "Vis kilde",
+	"and": "&#32;og"
+}

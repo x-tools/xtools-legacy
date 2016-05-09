@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stephenwanjau"
+		]
+	},
+	"error-notsvg": "Sio faili ya SVG.",
+	"error-upload": "Kulikuwa na hitilafu kupakia.",
+	"begin-translation": "Anza tafsiri",
+	"th-original": "Asili",
+	"th-translation": "Tafsiri",
+	"th-language": "Lugha",
+	"th-username": "Jina la mtumiaji",
+	"th-password": "Nywila",
+	"th-method": "Mbinu",
+	"option-manual": "Pakia kwa mikono",
+	"preview": "Onyesha hakikisho",
+	"translate": "Tafsiri",
+	"svginput-label": "Faili ya SVG",
+	"uploading": "Inapakia",
+	"upload-complete": "Kupakia kumefaulu. Picha lazima iwe katika $1",
+	"editdescriptionpage": "Hariri ukurasa mpya wa maelezo",
+	"author-complete": "Tafadgali kamilisha habari ya mwandishi!"
+}

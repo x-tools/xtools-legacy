@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"hello": "Hallo",
+	"welcome": "Velkommen",
+	"toolversionstamp": "Versjon $1 ($2)",
+	"etc": "osv.",
+	"namespace": "Navnerom",
+	"form-submit": "Gå",
+	"form-reset": "Nullstill",
+	"years": "{{PLURAL: $1|år|år}}",
+	"weeks": "{{PLURAL: $1|uke|uker}}",
+	"days": "{{PLURAL: $1|dag|dager}}",
+	"hours": "{{PLURAL: $1|time|timer}}",
+	"minutes": "{{PLURAL: $1|minutt|minutter}}",
+	"seconds": "{{PLURAL: $1|sekund|sekunder}}",
+	"last-modified-date": "Sist endret: $1",
+	"view-source": "Vis kilde"
+}

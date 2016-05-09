@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jnanaranjan Sahu",
+			"Psubhashish"
+		]
+	},
+	"error-tryagain": "$1 ଆଉଥରେ ଚେଷ୍ଟା କରିବା ପାଇଁ ଆପଣଙ୍କ ବ୍ରାଉଜରରେ ପଛ ବଟନ କ୍ଲିକ କରନ୍ତୁ ।",
+	"error-nothing": "ଅନୁବାଦ କରିବା ପାଇଁ କିଛି ନାହିଁ ।",
+	"error-notsvg": "SVG ଫାଇଲ ନୁହେଁ ।",
+	"error-unexpected": "କିଛି ଗୋଟେ ଅଜଣା ଅସୁବିଧା ହେଲା ।",
+	"error-notfound": "ଦିଆଯାଇଥିବା URLଟିରେ SVG ଫାଇଲଟି ମିଳୁନାହି ।",
+	"error-upload": "ଅପଲୋଡ କଲାବେଳେ ଅସୁବିଧା ଦେଖା ଦେଲା ।",
+	"begin-translation": "ଅନୁବାଦ ଆରମ୍ଭ କରିବେ",
+	"th-original": "ପ୍ରକୃତ",
+	"th-translation": "ଅନୁବାଦ",
+	"th-language": "ଭାଷା",
+	"th-username": "ବ୍ୟବହାରକାରୀ ନାମ",
+	"th-password": "ପାସୱାର୍ଡ଼",
+	"th-method": "ଧାରା",
+	"option-oauth": "TUSC (ଆପେ ଆପେ ଅପଲୋଡ)",
+	"option-manual": "ଆପଣ ନିଜଦ୍ଵାରା ଅପଲୋଡ କରିବେ",
+	"preview": "ଦେଖଣା",
+	"translate": "ଅନୁବାଦ",
+	"svginput-label": "SVG ଫାଇଲ",
+	"uploading": "ଅପଲୋଡ଼ ହେଉଛି",
+	"upload-complete": "ଅପଲୋଡ ସଫଳ ହେଲା । ଛବିଟି ବର୍ତ୍ତମାନ $1ରେ ଅଛି ।",
+	"editdescriptionpage": "ନୂଆ ବିବରଣୀ ପୃଷ୍ଠାଟିକୁ ବଦଳାଇବେ",
+	"author-complete": "ଲେଖକଙ୍କ ବିଷୟରେ ଥିବା ତଥ୍ୟଗୁଡିକୁ ସମ୍ପୁର୍ଣ୍ଣ କରନ୍ତୁ !",
+	"preview-hide": "ଦେଖଣାଟିକୁ ଲୁଚାଇବେ",
+	"preview-refresh": "ଦେଖଣାଟିକୁ ରିଫ୍ରେସ କରିବେ",
+	"error-must-accept": "ଆପଣଙ୍କୁ ସିଧାସଳଖ ଅପଲୋଡ଼ କରିବା ପାଇଁ ଆପଣଙ୍କୁ ବ୍ୟବହାର ନିୟମ ମାନିବାକୁ ପଡିବ ।",
+	"description-license": "ବର୍ଣ୍ଣନା ଏବଂ ଲାଇସେନ୍ସ ବାଛନ୍ତୁ",
+	"finalise": "ବିବରଣୀ ନିଶ୍ଚିତ କରନ୍ତୁ"
+}

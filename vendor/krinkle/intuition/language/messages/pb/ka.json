@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"pb-about-pb-navi": "პროექტის შესახებ",
+	"pb-about-pb-tech": "ტექნიკური დეტალები",
+	"pb-about-pb-title": "პროექტის შესახებ",
+	"pb-change-language": "ენის შეცვლა",
+	"pb-comment": "კომენტარი",
+	"pb-date": "თარიღი",
+	"pb-home": "მთავარი",
+	"pb-user": "მომხმარებელი",
+	"pb-user-link-title": "დეტალური ინფორმაცია მომხმარებელზე $1",
+	"pb-users-navi": "მომხმარებლები",
+	"pb-users-title": "მონაწილეთა სია"
+}

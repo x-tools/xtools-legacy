@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon222"
+		]
+	},
+	"title": "Hva lenker herfra",
+	"title-leaveshere": "Lenker som forlater «$1»",
+	"sub-leaveshere": "Følgende sider lenker fra $1",
+	"label-page": "Side",
+	"label-namespace": "Navnerom",
+	"label-limit": "Grense",
+	"button-submit": "Gå",
+	"noleaveshere": "Ingenting lenker fra $1",
+	"link-whatleaveshere": "Hva lenker herfra",
+	"tooltip-whatleaveshere": "Liste over alt som lenker herfra",
+	"whatlinkshere": "Lenker hit",
+	"whatlinkshere-whatleaveshere": "Hva lenker herfra?",
+	"istemplate": "transklusjon",
+	"isfile": "fillenke",
+	"linksearch": "Lenkesøk",
+	"section-links": "Lenker",
+	"section-iwlinks": "Interwikilenker",
+	"section-extlinks": "Eksterne lenker",
+	"section-categories": "Kategorier"
+}

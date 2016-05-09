@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Erdemaslancan",
+			"Incelemeelemani",
+			"Khutuck",
+			"Uğurkent"
+		]
+	},
+	"search-title": "Anıt arama",
+	"search-monuments-database": "Anıtlar veritabanında arama",
+	"search-table-th-field": "Alan",
+	"search-table-th-filter": "Süzgeç",
+	"search-table-th-search": "Ara",
+	"filter-all-countries": "Bütün ülkeler",
+	"filter-all-languages": "Bütün diller",
+	"db-field-country": "Ülke",
+	"db-field-lang": "Dil",
+	"db-field-id": "Tanımlayıcı",
+	"db-field-name": "Ad",
+	"db-field-address": "Adres",
+	"db-field-municipality": "Belediye",
+	"db-field-lat": "Enlem",
+	"db-field-lon": "Boylam",
+	"db-field-image": "Resim",
+	"db-field-source": "Kaynak",
+	"db-field-st_address": "Adresler",
+	"db-field-st_address_pct": "Adresleri %",
+	"db-field-st_coordinates": "Koordinatlar",
+	"db-field-st_coordinates_pct": "Koordinatları %",
+	"db-field-st_image": "Resim",
+	"db-field-st_image_pct": "Resim %",
+	"db-field-st_municipality": "Belediye",
+	"db-field-st_municipality_pct": "Belediye %",
+	"db-field-st_name": "İsimler",
+	"db-field-st_name_pct": "İsimler %",
+	"db-field-st_total": "Toplam sayı",
+	"toolbox-nav-homepage": "Ana sayfa",
+	"toolbox-nav-statistics": "İstatistikler",
+	"location": "Konum"
+}

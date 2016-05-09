@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alan ffm",
+			"Ty221"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Rekord",
+	"voiceintro-toolbar-stop-label": "Stop",
+	"voiceintro-toolbar-clear-label": "Wyczyść",
+	"voiceintro-toolbar-upload-label": "Załaduj",
+	"voiceintro-webaudio-not-supported": "WebAudio API nie jest obsługiwany przez tą przeglądarkę.",
+	"voiceintro-upload-publish-succeeded": "Nagranie przesłane pomyślnie:",
+	"voiceintro-upload-publish-failed": "Nagranie nie zostało przesłane.",
+	"voiceintro-information-label": "Informacja",
+	"voiceintro-information-speaker-label": "Imię i nazwisko prelegenta:",
+	"voiceintro-information-language-label": "Język:",
+	"voiceintro-mic-access-notify": "Kliknij \"Włącz\", aby zezwolić przeglądarce na dostęp do swojego mikrofonu.",
+	"voiceintro-recording-notify": "Nagrywanie..."
+}

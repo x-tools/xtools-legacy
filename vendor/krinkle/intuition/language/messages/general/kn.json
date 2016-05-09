@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"M G Harish",
+			"Nayvik",
+			"Platonides"
+		]
+	},
+	"hello": "ನಮಸ್ಕಾರ",
+	"welcome": "ಸುಸ್ವಾಗತ",
+	"toolversion": "ಆವೃತ್ತಿ $1",
+	"toolversionstamp": "ಆವೃತ್ತಿ $1 ($2)",
+	"etc": "ಇತ್ಯಾದಿ",
+	"namespace": "ನಾಮವರ್ಗ",
+	"form-submit": "ಹೋಗು",
+	"form-reset": "ಮರುಹೊಂದಿಸು",
+	"years": "$1 {{PLURAL:$1|ವರ್ಷ|ವರ್ಷಗಳು}}",
+	"weeks": "$1 {{PLURAL:$1|ವಾರ|ವಾರಗಳು}}",
+	"days": "$1 {{PLURAL:$1|ದಿನ|ದಿನಗಳು}}",
+	"hours": "$1 {{PLURAL:$1|ಘಂಟೆ|ಘಂಟೆಗಳು}}",
+	"minutes": "$1 {{PLURAL:$1|ನಿಮಿಷ|ನಿಮಿಷಗಳು}}",
+	"seconds": "$1 {{PLURAL:$1|ಕ್ಷಣ|ಕ್ಷಣಗಳು}}",
+	"last-modified-date": "ಕೊನೆಯ ಬದಲಾವಣೆ: $1",
+	"view-source": "ಆಕರ ವೀಕ್ಷಿಸಿ",
+	"and": "&#32;ಮತ್ತು"
+}

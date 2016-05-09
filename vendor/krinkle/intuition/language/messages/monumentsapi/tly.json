@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Гусейн"
+		]
+	},
+	"search-table-th-filter": "Филтр",
+	"search-table-th-search": "Нәве",
+	"filter-all-languages": "Һәммәј зывонон",
+	"db-field-country": "Мәмләкәт",
+	"db-field-lang": "Зывон",
+	"db-field-name": "Ном",
+	"db-field-address": "Унвон",
+	"db-field-lat": "Һовужи",
+	"db-field-image": "Шикил",
+	"db-field-changed": "Дәгиш кардә быә",
+	"db-field-source": "Сәвон",
+	"db-field-st_image": "Шикил",
+	"db-field-st_image_pct": "Шикил %",
+	"db-field-st_name": "Номон",
+	"db-field-st_name_pct": "Номон %",
+	"toolbox-nav-homepage": "Әсосә сәһифә",
+	"toolbox-nav-search": "Нәве"
+}

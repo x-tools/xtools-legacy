@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"fullname": "Құралдар үшін халықаралықтандыру",
+	"current-settings": "Қазіргі баптаулар",
+	"current-language": "Таңдалған тіл",
+	"settings-legend": "Баптаулар",
+	"choose-language": "Тілді таңдау",
+	"clear-cookies": "cookies-ті жою",
+	"renew-cookies": "cookies-ті жаңалау",
+	"cookie-expiration": "Cookie әрекет ету мерзімі",
+	"clearcookies-success": "Cookie файлдар тазартылды.",
+	"renewcookies-success": "Cookie файлдар жаңартылды! $1 деп мерземі тоқтатылды.",
+	"tab-overview": "Шолу",
+	"tab-settings": "Баптаулар",
+	"tab-about": "Қолданба туралы",
+	"tab-demo": "Демо",
+	"bl-mysettings": "Менің тіл баптауларым",
+	"bl-mysettings-new": "Тілді өзгерту!",
+	"bl-promo": "Аударма $1 және $2 арқылы жасалды",
+	"bl-changelanguage": "Мына баптаудың инетерфейс тілін өзгерту",
+	"usage": "Баптаулар Intuition арқылы аударылды",
+	"help-translate-tool": "Мына бартауларды аударуға көмек!",
+	"help-translate-all": "Баптауларды аударуға көмек!",
+	"help-translate-tooltip": "Интерфейс хабарламаларды өз тілінде аудару арқылы басқаларға көмек ету."
+}

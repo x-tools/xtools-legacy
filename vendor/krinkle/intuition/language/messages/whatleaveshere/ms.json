@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"title": "Pautan dari laman ini",
+	"title-leaveshere": "Pautan-pautan dari \"$1\"",
+	"sub-leaveshere": "Laman-laman berikut berpautan dari $1",
+	"label-page": "Laman",
+	"label-namespace": "Ruang nama",
+	"label-limit": "Had",
+	"button-submit": "Pergi",
+	"noleaveshere": "Tiada yang berpaut dari $1",
+	"link-whatleaveshere": "Pautan dari laman ini",
+	"tooltip-whatleaveshere": "Senarai semuanya yang berpaut dari sini",
+	"whatlinkshere": "Pautan ke laman ini",
+	"whatlinkshere-whatleaveshere": "Dari sini ada apa?",
+	"istemplate": "transklusi",
+	"isfile": "pautan fail",
+	"linksearch": "CariPautan",
+	"section-links": "Pautan",
+	"section-iwlinks": "Pautan antara wiki",
+	"section-extlinks": "Pautan luar",
+	"section-categories": "Kategori"
+}

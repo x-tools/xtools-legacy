@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"title": "Soo deji sawirka hadba nuuca uu yahay",
+	"subtitle": "Sida ugu fudud ee soo dejinta sawirada hab isku nuuc ah",
+	"project": "Mashruuc:",
+	"category": "Nuuc",
+	"thumbnailing": "Yareynta",
+	"max-width": "Aad u yareynta",
+	"max-height": "Joogga ugu dheer",
+	"invalid-width": "Ballac aan suura gal ahayn",
+	"invalid-height": "Dherer aan la aqbali karin",
+	"no-such-project": "Mashruuc aan jirin",
+	"no-images": "Qaybtaan wax sawir ah kuma jiraan",
+	"category-is-url": "Magacaan aad soo jeedisay ee qaybtan waxa uu shaabahaa URL. Waxaa lagaa doonayaa inaad magaca ku muujisid qaybta. Maya ULK kiisa",
+	"category-contains-namespace": "Waxaa muuqata inaad ku dartay booska magaca mid Qayb kale ah. Magacaan, waxa uu noqonayaa sidaan [[Category:$1]].",
+	"zip-failed": "Zip kii samayntiisa waa lagu suuroobi waysay",
+	"image-area-too-big": "$1 aad ayuu u wayn yahay si loo habeeyo sawir yar. waa in la adeegsadaa cabir dhamaystiran.",
+	"download-info": "{{plural: $1|Waa hal sawir|Waa $1 Sawirro}}, Qiyaastii cabir ah $2",
+	"download": "Soo daji",
+	"readme-contents": "Fileka la xiriira  $4 liiska\nee sawirada yaala $1 Qaybta ( $2 )$3.\n\n== Dhismaha soo dajinta ee liiska sawirada ==\nWay is gafi karaan waqtiga soo dajinta diqiiqado ilaa iyo saacado.\n\nWindows:\n Ka soo dhaxsaar Garbadyada isla Fileka dhaxdiisa kadibna shid  $5\n $6\nLinux/Mac OS\nkasoo dhaxsaar dhamaan garbadyada kadibna fur daaqad kale . kadib shid sh $5",
+	"non-bundled-wget": "Fiira gaar ah: Nuskhadaan kamid maaha wget ee Windows. Waxaad ubaahantahay inaad sii fur furto\ngarbadka sida wget.exe ama hadi kale sidaan wget u rog PATH",
+	"wget-info": "Fileka waxa uu kulmiyaa wget $1 (ee Windows platform). Wget waa Software bilaash ah,\nWaxa uu rabaa shuruud ah GNU nuskhad guud 3.\nNuqul ka mid ah waxaad ka heli kartaan hoostaan, Sidoo kale waxaad ka heli kartaa http://www.gnu.org/licenses/gpl-3.0.txt\n\nHadii aad ubaahato inaad heshid (source code) ee program kaan, Waxaad kasoo degsan kartaa halkaan\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nor some other GNU Mirror, see\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", Dooro ballaca ugu badan ee $1 {{plural:$1|pixel|pixels}}",
+	"scaling-height": ", Dooro joogga ugu dheer ee $1 {{plural:$1|pixel|pixels}}",
+	"scaling-both": ", Dooro muuqaalka ugu wayn $1x$2 pixels"
+}

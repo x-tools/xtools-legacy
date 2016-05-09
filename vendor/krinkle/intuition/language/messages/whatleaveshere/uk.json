@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Base"
+		]
+	},
+	"label-page": "Сторінка",
+	"label-namespace": "Простір назв",
+	"label-limit": "Обмеження",
+	"button-submit": "Виконати",
+	"noleaveshere": "Нічого не посилається із $1",
+	"link-whatleaveshere": "Що звідси виходить",
+	"tooltip-whatleaveshere": "Перелік усього, на що посилання звідси",
+	"whatlinkshere": "Посилання сюди",
+	"whatlinkshere-whatleaveshere": "Що звідси виходить?",
+	"istemplate": "включення",
+	"isfile": "посилання на файл",
+	"section-links": "Посилання",
+	"section-iwlinks": "Інтервікі-посилання",
+	"section-extlinks": "Зовнішні посилання",
+	"section-categories": "Категорії"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"title-overview": "Njejapke fota",
+	"title-error": "Zmylk",
+	"title-updatelog": "Aktualizowanski protokol",
+	"updatelog-intro": "Aktualizowanski skript so kóždu hodźinu wuwjedźe. Deleka je wudaće konsole za posledni běh.",
+	"updatelog-active": "Aktualizowanski skript tuchwilu běži. Wróć so prošu pozdźišo, zo by sej dospołny protokol wobhladał.",
+	"download-button": "$1 sćahnyć",
+	"download-directlink": "direktny wotkaz",
+	"title-downloadpage": "Sćehnjenje: $1",
+	"err-snapshotindex": "Indeks njejapkich fotow nachwilu k dispoziciji njesteji. Prošu spytaj pozdźišo hišće raz.",
+	"err-invalid-repo": "Njeznaty repozitorij: \"$1\".",
+	"err-invalid-branch": "Njeznata hałuza: \"$1\" w repozitoriju \"$2\".",
+	"err-nosnapshot": "Njejapke foto so kóžde por hodźin generuja. Za generowanje njejapkeho fota za \"$1\" je zmylk wustupił. Prošu spytaj pozdźišo hišće raz.",
+	"err-noupdatelog": "Aktualizowanski protokol njeje so namakał.",
+	"repo-site-link": "Websydło",
+	"repo-browse-link": "Repozitorij přepytać",
+	"repo-branches-label": "Hałuzy:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Sćahnyć",
+	"updatelog-link": "aktualizowanski protokol",
+	"tablehead-repo": "Repozitorij",
+	"tablehead-snapshots": "Njejapke fota",
+	"tablehead-branch": "Hałuza",
+	"tablehead-filesize": "Wulkosć dataje",
+	"tablehead-hash": "Hash"
+}

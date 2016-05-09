@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike",
+			"Olli",
+			"Pxos",
+			"Silvonen",
+			"Stryn"
+		]
+	},
+	"hello": "Moikka",
+	"welcome": "Tervetuloa",
+	"toolversion": "Versio $1",
+	"toolversionstamp": "Versio $1 ($2)",
+	"etc": "jne.",
+	"namespace": "Nimiavaruus",
+	"form-submit": "Mene",
+	"form-reset": "Tyhjennä",
+	"years": "{{PLURAL: $1|vuosi|vuotta}}",
+	"weeks": "{{PLURAL: $1|viikko|viikkoa}}",
+	"days": "{{PLURAL: $1|päivä|päivää}}",
+	"hours": "{{PLURAL: $1|tunti|tuntia}}",
+	"minutes": "{{PLURAL: $1|minuutti|minuuttia}}",
+	"seconds": "{{PLURAL: $1|sekunti|sekuntia}}",
+	"last-modified-date": "Viimeksi muokattu $1",
+	"view-source": "Näytä lähdekoodi",
+	"and": "&#32;ja"
+}

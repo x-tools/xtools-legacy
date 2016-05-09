@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31",
+			"Jfblanc"
+		]
+	},
+	"current-settings": "Paramètres actuals",
+	"current-language": "Lenga seleccionada",
+	"settings-legend": "Paramètres",
+	"choose-language": "Causissètz una lenga",
+	"clear-cookies": "escafar los cookies",
+	"renew-cookies": "renovelar los cookies",
+	"cookie-expiration": "Expiracion del cookie",
+	"tab-overview": "Vista d'ensemble",
+	"tab-settings": "Paramètres",
+	"tab-about": "A prepaus",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mos paramètres de lenga",
+	"bl-mysettings-new": "Cambiar de lenga !",
+	"help-translate-tool": "Ajudatz a traduire aquesta aisina !",
+	"help-translate-all": "Ajudatz a traduire las aisinas !"
+}

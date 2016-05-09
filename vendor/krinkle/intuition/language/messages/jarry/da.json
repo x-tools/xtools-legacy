@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Peter Alberti"
+		]
+	},
+	"moretools": "flere værktøjer",
+	"homepage-title": "Introduktion",
+	"bugs": "fejlrapporter og anmodninger om ny funktionalitet",
+	"comments": "kommentarer og spørgsmål",
+	"error-form-empty": "Et eller flere obligatoriske felter er efterladt tomt. Du bør udfylde dem, før du fortsætter."
+}

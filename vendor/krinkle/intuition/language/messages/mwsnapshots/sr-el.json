@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"title-overview": "Snimci",
+	"title-error": "Greška",
+	"title-updatelog": "Dnevnik ažuriranja",
+	"updatelog-intro": "Skript ažurira svakog sata. Ispod je prikazan izvod konzole od poslednjeg ažuriranja.",
+	"updatelog-active": "Skript je trenutno pokrenut. Navratite kasnije za celokupan dnevnik.",
+	"download-button": "Preuzmi $1",
+	"download-directlink": "direktna veza",
+	"title-downloadpage": "Preuzimanje: $1",
+	"err-snapshotindex": "Popis snimaka je privremeno nedostupan. Pokušajte kasnije.",
+	"err-invalid-repo": "Nepoznata riznica: „$1“.",
+	"err-invalid-branch": "Nepoznata grana: „$1“ u riznici „$2“.",
+	"err-nosnapshot": "Snimci se stvaraju svakih nekoliko sati. Došlo je do greške pri stvaranju snimka „$1“. Pokušajte kasnije.",
+	"err-noupdatelog": "Ne mogu da pronađem dnevnik ažuriranja.",
+	"repo-site-link": "Sajt",
+	"repo-browse-link": "Pregledaj riznicu",
+	"repo-branches-label": "Grane:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Preuzmi",
+	"updatelog-link": "dnevnik ažuriranja",
+	"tablehead-repo": "Riznica",
+	"tablehead-snapshots": "Snimci",
+	"tablehead-branch": "Grana",
+	"tablehead-filesize": "Veličina datoteke",
+	"tablehead-hash": "Kontrolni zbir"
+}

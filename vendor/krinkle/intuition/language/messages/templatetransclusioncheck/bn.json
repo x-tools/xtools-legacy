@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"title": "টেমপ্লেট সংযোগ এবং অন্তর্ভুক্তি পরীক্ষা",
+	"form-label-language": "ভাষা:",
+	"form-label-template": "টেমপ্লেটের নাম:",
+	"form-label-template2": "(নামস্থানসহ)",
+	"form-label-complete": "সম্পূর্ণ প্রতিবেদন উৎপন্ন করুন:",
+	"feedback-template-missing": "টেমপ্লেট $1 বিদ্যমান নয়।",
+	"feedback-result": "$1-এর ফলাফল",
+	"feedback-header-no-transclusion": "সংযুক্ত কিন্তু অন্তর্ভুক্ত নয়",
+	"feedback-total-count": "মোট: $1",
+	"feedback-header-complete": "সম্পূর্ণ অন্তর্ভুক্তি এবং সংযোগের সংক্ষিপ্ত বিবরণ",
+	"feedback-header-transclusions": "টেমপ্লেটের অন্তর্ভুক্তি",
+	"feedback-header-links": "টেমপ্লেট থেকে সংযোগ",
+	"link-edit": "সম্পাদনা",
+	"link-create": "তৈরি করো",
+	"footer-stats": "উত্পন্ন: $1। স্থায়িত্ব: $2 {{PLURAL:$2|সেকেন্ড}}।",
+	"error-language": "অজানা ভাষা কোড।"
+}

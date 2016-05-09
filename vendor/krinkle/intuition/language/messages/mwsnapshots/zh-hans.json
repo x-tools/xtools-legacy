@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra",
+			"Liangent",
+			"Liuxinyu970226"
+		]
+	},
+	"title-overview": "快照",
+	"title-error": "错误",
+	"title-updatelog": "更新日志",
+	"updatelog-intro": "更新脚本每小时运行一次。下面是最后一次运行的控制台输出。",
+	"updatelog-active": "更新脚本正在运行。稍后回来查看完整日志。",
+	"download-button": "下载快照",
+	"download-directlink": "直接链接",
+	"title-downloadpage": "下载",
+	"title-downloadpage-repo": "下载$1",
+	"err-snapshotindex": "快照索引暂时不可用。请稍后再试。",
+	"err-invalid-repo": "未知的版本库：“$1”。",
+	"err-invalid-branch": "版本库“$2”中未知的分支：“$1”。",
+	"err-nosnapshot": "快照每隔几个小时生成一次。在为“$1”生成快照时出现了一个错误。请稍后再试。",
+	"err-noupdatelog": "没有找到更新日志。",
+	"repo-site-link": "网站",
+	"repo-browse-link": "浏览版本库",
+	"repo-branches-label": "分支：",
+	"repo-lastmoddate-label": "日期：",
+	"branches-submit-button": "获取它！",
+	"updatelog-link": "更新日志",
+	"tablehead-repo": "版本库",
+	"tablehead-snapshots": "快照",
+	"tablehead-branch": "分支",
+	"tablehead-filesize": "文件大小",
+	"tablehead-hash": "校验和"
+}

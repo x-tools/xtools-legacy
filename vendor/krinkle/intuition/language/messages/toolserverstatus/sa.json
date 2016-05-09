@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"toolserver-status-short-ok": "$1: अस्तु",
+	"toolserver-status-short-info": "$1: सूचना",
+	"toolserver-status-short-warn": "$1: पूर्वसूचना",
+	"toolserver-status-short-down": "$1: अधः",
+	"toolserver-status-short-erro": "$1: दोषः",
+	"toolserver-status-short-unknown": "$1: अज्ञातम्",
+	"toolserver-status-short-missing": "$1: अप्राप्तम्"
+}

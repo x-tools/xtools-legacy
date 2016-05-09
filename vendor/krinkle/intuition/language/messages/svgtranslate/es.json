@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe",
+			"Platonides"
+		]
+	},
+	"title": "SVG Translate",
+	"error-tryagain": "$1 Pulsa el botón Atrás de tu navegador para volver a intentarlo.",
+	"error-nothing": "No hay nada que traducir.",
+	"error-notsvg": "No es un archivo SVG.",
+	"error-unexpected": "Ocurrió un error inesperado.",
+	"error-notfound": "No se pudo recuperar el archivo SVG desde la URL proporcionada.",
+	"error-upload": "Se ha producido un error de carga.",
+	"begin-translation": "Comenzar traducción",
+	"th-original": "Original",
+	"th-translation": "Traducción",
+	"th-language": "Idioma",
+	"th-username": "Nombre de usuario",
+	"th-password": "Contraseña",
+	"th-method": "Método",
+	"option-oauth": "OAuth (carga automática)",
+	"option-manual": "Carga manual",
+	"preview": "Previsualización",
+	"translate": "Traducir",
+	"translate-instructions": "La entrada puede proporcionarse tanto como un nombre de archivo (como \"$1\") como usando una URL completa (como \"$2\"). En el primer caso se tomará como origen Wikimedia Commons. Para traducir una imagen SVG de otro sitio o wiki, es preciso usar una url completa.",
+	"svginput-label": "Archivo SVG",
+	"stats-footer": "Esta herramienta se ha utilizado para traducir aproximadamente $1 archivos desde $2 .",
+	"uploading": "Subiendo",
+	"upload-complete": "La carga ha finalizado correctamente. La imagen debe estar ahora en $1",
+	"editdescriptionpage": "Editar la nueva página de descripción",
+	"disclaimer": "Se recopilarán de forma privada algunos datos anónimos para propósitos estadísticos. En caso de proporcionarse, los nombres de usuario de OAuth también se almacenarán como asistencia en caso de vandalismo. Las contraseñas nunca se almacenan.",
+	"author-complete": "¡Por favor, completa la información del autor!",
+	"preview-hide": "Ocultar previsualización",
+	"preview-refresh": "Actualizar previsualización",
+	"error-must-accept": "Para continuar con una carga directa debes aceptar los términos de uso provistos.",
+	"description-license": "Selecciona la descripción y licencia",
+	"finalise": "Finalizar detalles"
+}

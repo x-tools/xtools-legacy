@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"M G Harish"
+		]
+	},
+	"toolserver-status-short-ok": "$1: ಸರಿ",
+	"toolserver-status-short-info": "$1: ಮಾಹಿತಿ",
+	"toolserver-status-short-warn": "$1: ಎಚ್ಚರಿಕೆ",
+	"toolserver-status-short-down": "$1: ವಿಫಲ",
+	"toolserver-status-short-erro": "$1: ದೋಷ",
+	"toolserver-status-short-unknown": "$1: ಅಜ್ಞಾತ",
+	"toolserver-status-short-missing": "$1: ನಷ್ಟ"
+}

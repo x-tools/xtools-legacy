@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(pasirinkite wiki)",
+	"alws-group-mustused": "Dažniausiai naudojamos wiki",
+	"alws-group-allaz": "Visos wiki abėcėlės tvarka",
+	"form-legend-settings": "Nustatymai"
+}

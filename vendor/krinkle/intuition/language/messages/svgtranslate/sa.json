@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"th-original": "वास्तविकम्",
+	"th-translation": "अनुवादः",
+	"th-language": "भाषा",
+	"th-username": "सदस्यनाम",
+	"th-password": "कूटशब्दः",
+	"th-method": "पद्धतिः",
+	"preview": "प्राग्दृश्यम्",
+	"translate": "अनूद्यताम्",
+	"svginput-label": "SVG सञ्चिका",
+	"uploading": "उपारोपयति",
+	"preview-hide": "प्राग्दृश्यं गोप्यताम्",
+	"preview-refresh": "प्राग्दृश्यं नवीक्रियताम्"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"title": "নিবন্ধের শিরোনাম গ্রেপ (বেটা)",
+	"explanation": "ব্যাখ্যা",
+	"regex": "রেগুলার এক্সপ্রেশন",
+	"enter-details": "বিস্তারিত লিখুন",
+	"results": "ফলাফল",
+	"language-label": "ভাষা",
+	"namespace-label": "নামস্থান",
+	"project-label": "প্রকল্প",
+	"pattern-label": "বিন্যাস",
+	"redirects-label": "পুনঃনির্দেশসহ"
+}

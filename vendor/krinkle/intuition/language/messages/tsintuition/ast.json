@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"fullname": "Internacionalización pa les ferramientes",
+	"current-settings": "Configuración actual",
+	"current-language": "Llingua seleicionada",
+	"settings-legend": "Configuración",
+	"choose-language": "Escueyi una llingua",
+	"clear-cookies": "desaniciar cookies",
+	"renew-cookies": "anovar cookies",
+	"cookie-expiration": "Espiración de la cookie",
+	"clearcookies-success": "Les cookies se desaniciaron correutamente.",
+	"renewcookies-success": "¡S'anovaron les cookies! Tas preparáu pa los siguientes $1.",
+	"tab-overview": "Resume",
+	"tab-settings": "Configuración",
+	"tab-about": "Tocante a",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Les mios preferencies de llingua",
+	"bl-mysettings-new": "¡Camudar llingua!",
+	"bl-promo": "Traducciones feches con $1 y $2.",
+	"bl-changelanguage": "Camudar la llingua de la interfaz d'esta ferramienta.",
+	"usage": "Ferramientes traducíes por Intuition.",
+	"help-translate-tool": "¡Ayuda a traducir esta ferramienta!",
+	"help-translate-all": "¡Ayuda a traducir les ferramientes!",
+	"help-translate-tooltip": "Ayuda a otres persones traduciendo los mensaxes de la interfaz a la to llingua."
+}

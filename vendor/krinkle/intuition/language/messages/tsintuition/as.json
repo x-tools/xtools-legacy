@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia",
+			"Simbu123"
+		]
+	},
+	"current-settings": "বর্তমানৰ পছন্দসমূহ",
+	"settings-legend": "পছন্দসমূহ",
+	"choose-language": "ভাষা নির্বাচন কৰক",
+	"tab-overview": "ভূমিকা",
+	"tab-settings": "পছন্দসমূহ",
+	"tab-about": "বিষয়ে",
+	"tab-demo": "ডেমো",
+	"bl-mysettings": "মোৰ ভাষাৰ ছেটিংসমূহ",
+	"bl-mysettings-new": "ভাষা পৰিবৰ্তন কৰক!",
+	"bl-changelanguage": "এই সঁজুলিৰ ইন্টাৰফেছ ভাষা পৰিৱর্তন কৰিবলৈ ইয়াত ক্লিক কৰক।",
+	"help-translate-tool": "এই সঁজুলিটো অনুবাদ কৰাত সহায় কৰক!",
+	"help-translate-all": "টুলছাৰ্ভাৰ অনুবাদ কৰাত সহায় কৰক!",
+	"help-translate-tooltip": "ইন্টাৰ্ফেছ বার্তাসমূহ আপোনাৰ ভাষাত অনুবাদ কৰি আনসকলক সহায় কৰক ।"
+}

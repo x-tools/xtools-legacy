@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe"
+		]
+	},
+	"enter-details": "Ingresar detalles",
+	"introduction": "Escribe el nombre de una plantilla (solo Wikipedias por el momento, lo siento) y pulsa Ir. Es tan simple como eso. Hay algo de caché (recordar los resultados), pero eso lamentablemente está fuera del control de esta herramienta y de su propietario.",
+	"language-label": "Idioma",
+	"namespace-label": "Espacio de nombres",
+	"pagename-label": "Nombre de la página (sin el espacio de nombres)",
+	"transclusion-count-label": "Número de transclusiones",
+	"transclusion-count": "$1 transclusión(es) encontrada(s).",
+	"error-suggestion": "Quizás has escrito mal el nombre de la página.",
+	"time-label": "Tiempo necesario para ejecutar la orden"
+}

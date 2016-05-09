@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jean-Frédéric",
+			"Od1n",
+			"Seb35"
+		]
+	},
+	"title": "Compteur de transclusions de modèles",
+	"enter-details": "Entrez les détails",
+	"introduction": "Entrez le nom d’un modèle (Wikipédias seulement pour l’instant, désolé), et appuyez sur go. C’est aussi simple que cela. Il y a quelques mise en cache (mémorisation de résultats), mais c’est malheureusement hors du contrôle de cet outil et de son propriétaire.",
+	"language-label": "Langue",
+	"namespace-label": "Espace de noms",
+	"pagename-label": "Nom de la page (sans l’espace de noms)",
+	"transclusion-count-label": "Nombre de tranclusions",
+	"transclusion-count": "$1 transclusion(s) trouvées.",
+	"error-suggestion": "Peut-être avez-vous mal épelé (ou mal capitalisé) le nom de la page ?",
+	"time-label": "Temps pris pour exécuter la commande"
+}

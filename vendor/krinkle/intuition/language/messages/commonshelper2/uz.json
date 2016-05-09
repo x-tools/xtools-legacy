@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"CoderSI",
+			"Sociologist"
+		]
+	},
+	"attention": "Diqqat",
+	"description": "Vikimedia loyihalaridan VikiOmborga fayllarni oʻtkazish uchun asbob",
+	"change_meta": "$3 uchun $1turkum va andoza moslamalari$2ni oʻzgartiring",
+	"jira_link": "Muammo haqida xabar qilish yoki yaxshilashni taklif etish",
+	"language": "Til",
+	"project": "Loyiha",
+	"source_file": "Yuklanayotgan fayl",
+	"target_file": "Moʻljal fayl",
+	"commons_username": "VikiOmbordagi foydalanuvchi nomi",
+	"commons_to_project": "VikiOmbordan loyihaga",
+	"move_file_from_com": "Faylni VikiOmbordan loyihaga koʻchirish",
+	"categories": "Turkumlar",
+	"remove_cats": "Mavjud turkumlarni oʻchirish",
+	"use_checkusage": "Yangi turkumlarni taklif etish uchun $1CommonSense$2dan foydalanish",
+	"use_tusc": "Kirish va fayllarni toʻgʻridan-toʻgʻri oʻtkazish uchun $1TUSC$2dan foydalaning",
+	"tusc_user": "TUSCdagi foydalanuvchi nomi",
+	"tusc_pass": "TUSC paroli",
+	"do_it": "Buni bajarish",
+	"error_transfer_usr": "VikiOmborda foydalanuvchi nomi berilmadi",
+	"error_not_exists": "Manba fayli mavjud emas!",
+	"error_on_commons": "Manba fayli allaqachon $1da!",
+	"error_file_exists": "Fayl allaqachon $3da \"$1$4$2\" sifatida mavjud!",
+	"original_wikitext": "Asl vikimatn",
+	"new_wikitext": "Yangi vikimatn",
+	"new_filename": "Yangi fayl nomi:",
+	"output_information": "Qoʻlda yuklash uchun yuqoridagi matnni toʻgʻrilang (agar zarur boʻlsa), $1fayl$2ni oʻz komputeringizga saqlang, keyin $3uni yuklang$4.",
+	"upload_submit": "Yuklash!",
+	"target_wiki": "moʻljal viki",
+	"error_tusc_failed": "TUSC tekshiruvini bajarishning iloji boʻlmadi!",
+	"error_upload_file": "Asl faylni yuklash iloji boʻlmadi.",
+	"help_jira": "$1JIRA (hisob talab etiladi)$2  (Loyiha: Commonshelper2)",
+	"help_mail": "$1ga maktub joʻnatish",
+	"help_commons": "$1Commonsga xabar qoʻshish$2"
+}

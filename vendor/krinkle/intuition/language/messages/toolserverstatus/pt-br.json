@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fúlvio",
+			"Luckas"
+		]
+	},
+	"toolserver-status-ok": "Não há problemas no cluster $1 $2",
+	"toolserver-status-info": "Informação para os usuários do cluster $1: $2",
+	"toolserver-status-warn": "Aviso para os usuários do cluster $1: $2",
+	"toolserver-status-down": "O cluster $1 está temporariamente desligado. $2",
+	"toolserver-status-erro": "O cluster $1 está desconectado. $2",
+	"toolserver-status-unknown": "É desconhecido o status do cluster $1",
+	"toolserver-status-missing": "O cluster $1 não existe",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Informação",
+	"toolserver-status-short-warn": "$1: Aviso",
+	"toolserver-status-short-down": "$1: Desconectado",
+	"toolserver-status-short-erro": "$1: Erro",
+	"toolserver-status-short-unknown": "$1: Desconhecido",
+	"toolserver-status-short-missing": "$1: Não existe"
+}

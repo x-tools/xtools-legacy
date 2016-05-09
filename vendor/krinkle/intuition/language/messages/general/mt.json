@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli",
+			"Leli Forte"
+		]
+	},
+	"welcome": "Merħba",
+	"toolversionstamp": "Verżjoni $1 ($2)",
+	"etc": "eċċ.",
+	"namespace": "Spazju tal-ismijiet",
+	"form-submit": "Mur",
+	"form-reset": "Irrisettja",
+	"years": "{{PLURAL: $1|sena|snin}}",
+	"weeks": "{{PLURAL: $1|ġimgħa|ġimgħat}}",
+	"days": "{{PLURAL: $1|jum|jiem}}",
+	"hours": "{{PLURAL: $1|siegħa|sigħat}}",
+	"minutes": "{{PLURAL: $1|minuta|minuti}}",
+	"seconds": "{{PLURAL: $1|sekonda|sekondi}}",
+	"last-modified-date": "L-aħħar modifika: $1",
+	"view-source": "Ara s-sors",
+	"and": "&#32;u"
+}

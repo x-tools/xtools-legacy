@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebraminio",
+			"Leyth",
+			"Pouyana",
+			"Reza1615",
+			"ZxxZxxZ"
+		]
+	},
+	"title": "دریافت تصاویر بر اساس رده",
+	"subtitle": "راهی آسان برای دانلود تصاویر در یک رده",
+	"project": "پروژه:",
+	"category": "رده:",
+	"thumbnailing": "کوچک‌سازی",
+	"max-width": "حداکثر پهنا:",
+	"max-height": "حداکثر ارتفاع:",
+	"invalid-width": "عرض نامعتبر",
+	"invalid-height": "ارتفاع نامعتبر",
+	"no-such-project": "چنین پروژه‌ای وجود ندارد",
+	"no-images": "هیچ تصویری در این رده وجود ندارد",
+	"category-is-url": "نام ردهٔ داده‌شده به نظر نشانی اینترنتی است. باید نام رده را مشخص کنید نه نشانی اینترنتی‌اش را.",
+	"category-contains-namespace": "به نظر فضای‌نام را نیز پیش از نام رده قرار داده‌اید. با در نظرگیری این نام صفحهٔ مورد نظر [[Category:$1]] خواهد بود.",
+	"zip-failed": "زیپ ایجاد نشد",
+	"image-area-too-big": "$1 برای ایجاد تصویر بندانگشتی بیش از حد بزرگ است. استفاده از اندازهٔ کامل.",
+	"download-info": "{{plural: $1|یک تصویر وجود دارد|$1 تصویر وجود دارد}}، با اندازهٔ تخمینی $2",
+	"download": "دریافت",
+	"readme-contents": "پروندهٔ پیوندشدهٔ $4 فهرست می‌کند\nتصویرهای ردهٔ $1 ($2)$3.\n\n== راهنما برای بارگیری همهٔ تصویرهای فهرست‌شده ==\nزمان بارگیری امکان دارد از چند دقیقه تا چند ساعت به طول بیانجامد.\n\nویندوز:\nهمه پرونده‌ها را در یک پوشه باز کنید و $5 را اجرا کنید\n$6\n\nلینوکس/مک‌اواس\nهمه پرونده‌ها را باز کنید و ترمینال را در آن پوشه باز کنید و sh $5 را اجرا کنید",
+	"non-bundled-wget": "توجه: این نسخه شامل برنامه wget  برای ویندوز نیست. شما نیاز دارید که آن در پوشه‌ای همراه با wget.exe باز کنید با اینکه آدرس wget.exe را بدهید",
+	"wget-info": "This file bundles a copy of wget $1 (for Windows platform). Wget is Free Software,\nunder the terms of the GNU GENERAL PUBLIC LICENSE version 3.\nThere is a copy of the license below, and it is also available at http://www.gnu.org/licenses/gpl-3.0.txt\n\nIn case you are interested in getting the source code for this program, you can download it from\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nor some other GNU Mirror, see\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": "عرضش به حداکثر $1 {{plural:$1|پیکسل|پیکسل}} تغییر یافت.",
+	"scaling-height": "ارتفاعش به حداکثر $1 {{plural:$1|پیکسل|پیکسل}} پیکسل تغییر یافت.",
+	"scaling-both": "اندازه‌اش به حداکثر $1 در $2 تغییر یافت."
+}

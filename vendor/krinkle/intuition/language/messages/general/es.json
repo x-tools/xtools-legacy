@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Fitoschido",
+			"Platonides",
+			"VegaDark"
+		]
+	},
+	"dateformat": "%d de %B de %Y",
+	"hello": "Hola",
+	"welcome": "Bienvenido/a",
+	"toolversion": "Versión $1",
+	"toolversionstamp": "Versión $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Espacio de nombres",
+	"form-submit": "Ir",
+	"form-reset": "Restablecer",
+	"years": "{{PLURAL: $1|año|años}}",
+	"months": "{{PLURAL: $1|mes|meses}}",
+	"weeks": "{{PLURAL: $1|semana|semanas}}",
+	"days": "{{PLURAL: $1|día|días}}",
+	"hours": "{{PLURAL: $1|hora|horas}}",
+	"minutes": "{{PLURAL: $1|minuto|minutos}}",
+	"seconds": "{{PLURAL: $1|segundo|segundos}}",
+	"last-modified-date": "Última modificación: $1",
+	"view-source": "Ver el código",
+	"and": "&#32;y"
+}

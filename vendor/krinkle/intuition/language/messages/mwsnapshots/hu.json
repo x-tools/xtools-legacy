@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega",
+			"Dj"
+		]
+	},
+	"title-overview": "Pillanatfelvételek",
+	"title-error": "Hiba",
+	"title-updatelog": "Frissítési naplófájl",
+	"updatelog-intro": "A frissítést végző parancsfájl óránként fut le. Alább megtalálod a legutóbbi futtatás konzol outputját.",
+	"updatelog-active": "A frissítést végző parancsfájl jelenleg fut. Gyere vissza később a teljes naplóért.",
+	"download-button": "Pillanatfelvétel letöltése",
+	"download-directlink": "közvetlen hivatkozás",
+	"title-downloadpage": "Letöltés",
+	"title-downloadpage-repo": "$1 letöltése",
+	"err-snapshotindex": "A pillantfelvétel index iőlegesen nem áll rendelkezésre. Kérjük próbáld meg később!",
+	"err-invalid-repo": "Ismeretlen adattár: \"$1\".",
+	"err-invalid-branch": "Ismeretlen ág: \"$1\" az adattárban: \"$2\".",
+	"err-nosnapshot": "A pillanatfelvételek néhány óránként készülnek. A \"$1\" pillanatfelvétel generálása során hiba történt. Kérjük próbálja meg később!",
+	"err-noupdatelog": "Nem található frissítési napló.",
+	"repo-site-link": "Weboldal",
+	"repo-browse-link": "Adattár naplózása",
+	"repo-branches-label": "Ág:",
+	"repo-lastmoddate-label": "Dátum:",
+	"branches-submit-button": "Gyerünk!",
+	"updatelog-link": "frissítési napló",
+	"tablehead-repo": "Adattár",
+	"tablehead-snapshots": "Pillanatfelvételek",
+	"tablehead-branch": "Ág",
+	"tablehead-filesize": "Fájlméret",
+	"tablehead-hash": "Ellenőrzőösszegek"
+}

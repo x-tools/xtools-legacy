@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">ভাষা পরিবর্তন / পছন্দসমূহ</a>",
+	"base_jiralink": "<a href=\"https://jira.toolserver.org/browse/REPORTS\">একটি বাগ অভিযোগ অথবা একটি বৈশিষ্ট্যের অনুরোধ করুন</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">উইকি</a>",
+	"category_users": "ব্যবহারকারী",
+	"category_articles": "পাতা",
+	"category_images": "চিত্র",
+	"category_miscellaneous": "বিবিধ",
+	"category_wikidata": "উইকিউপাত্ত",
+	"select_wiki_title": "একটি উইকি নির্বাচন করুন",
+	"select_wiki": "আপনি যে উইকির জন্য অভিযোগ করতে চাইছেন দয়া করে তা লিখুন (উদা. \"<kbd>bn.wikipedia.org</kbd>\"):",
+	"select_wiki_next": "পরবর্তী →",
+	"select_report_go_back": "← উইকি পরিবর্তন",
+	"qvar_next": "পরবর্তী →",
+	"prefs_submit": "ঠিক আছে",
+	"prefs_langlabel": "ইন্টারফেসের ভাষা:",
+	"report_change_wiki": "<a href=\"%(url)s\">উইকি পরিবর্তন</a>"
+}

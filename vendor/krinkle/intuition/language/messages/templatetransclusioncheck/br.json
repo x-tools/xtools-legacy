@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"form-label-language": "Yezh :",
+	"form-label-template": "Anv ar patrom",
+	"form-label-template2": "(egorenn anvioù e-barzh)",
+	"link-edit": "kemmañ",
+	"link-create": "krouiñ",
+	"link-complete": "Danevell glok...",
+	"footer-stats": "Genet : $1. Pad:$2 {{PLURAL:$2|eilenn|eilennoù}}",
+	"error-language": "Kod yezh dianav."
+}

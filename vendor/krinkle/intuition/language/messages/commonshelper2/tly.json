@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"attention": "Дығғәт",
+	"language": "Зывон",
+	"project": "Нәхшә",
+	"categories": "Категоријон",
+	"remove_cats": "Ијр быә категоријон рәдд кардеј",
+	"tusc_user": "TUSC иштирокәкә ном",
+	"tusc_pass": "Парол TUSC",
+	"do_it": "Ыми кардеј",
+	"error_file_exists": "Фајл һәни һесте бә $3 бәнә \"$1$4$2\"!",
+	"new_wikitext": "Тожә вики мәтн",
+	"new_filename": "Фајли тожә ном:",
+	"upload_submit": "Бо жәј!",
+	"help_mail": "Номә вығәнде бә $1"
+}

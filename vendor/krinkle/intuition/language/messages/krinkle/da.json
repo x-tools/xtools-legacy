@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Peter Alberti"
+		]
+	},
+	"alws-selectwiki": "(vælg wiki)",
+	"alws-group-mustused": "De mest brugte wikier",
+	"alws-group-allaz": "Alle wikier alfabetisk",
+	"form-legend-settings": "Indstillinger"
+}

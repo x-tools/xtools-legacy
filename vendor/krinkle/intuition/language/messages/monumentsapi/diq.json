@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"search-table-th-field": "Ca",
+	"search-table-th-filter": "Avrêc",
+	"search-table-th-search": "Cı geyre",
+	"filter-all-countries": "Dewleti pêro",
+	"filter-all-languages": "Zıwani pêro",
+	"db-field-country": "Dewlet",
+	"db-field-lang": "Zıwan",
+	"db-field-name": "Name",
+	"db-field-address": "Adres",
+	"db-field-municipality": "Belediye",
+	"db-field-lat": "Verıniye",
+	"db-field-lon": "Derganiye",
+	"db-field-image": "Resim",
+	"db-field-changed": "Vurneya",
+	"db-field-source": "Çıme",
+	"db-field-monument_article": "Wesiqey zıyarık",
+	"db-field-st_address": "Adres",
+	"db-field-st_address_pct": "Adresê %",
+	"db-field-st_coordinates": "Koordinati",
+	"db-field-st_coordinates_pct": "Koordinati %",
+	"db-field-st_image": "Resım",
+	"db-field-st_image_pct": "Resım %",
+	"db-field-st_municipality": "Belediya",
+	"db-field-st_municipality_pct": "Belediya %",
+	"db-field-st_name": "Namey",
+	"db-field-st_name_pct": "Nameyê %",
+	"db-field-st_total": "Nımrey pêro",
+	"toolbox-meta-title": "Hacetdora Wiki Loves Monuments",
+	"toolbox-main-title": "Hacetdora WLM",
+	"toolbox-nav-homepage": "Pelaseri",
+	"toolbox-nav-statistics": "İstatistiki",
+	"toolbox-nav-search": "Cı geyre",
+	"location": "Lokasyon"
+}

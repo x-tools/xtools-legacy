@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"voiceintro-toolbar-stop-label": "रोकें",
+	"voiceintro-toolbar-clear-label": "खाली करें",
+	"voiceintro-toolbar-upload-label": "अपलोड करें",
+	"voiceintro-information-label": "जानकारी",
+	"voiceintro-information-speaker-label": "वक्ता का नाम",
+	"voiceintro-information-language-label": "भाषा:"
+}

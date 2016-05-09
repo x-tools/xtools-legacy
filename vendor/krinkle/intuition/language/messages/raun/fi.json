@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvonen",
+			"Pyscowicz"
+		]
+	},
+	"close": "Sulje",
+	"help": "Ohje",
+	"settings": "Asetukset",
+	"fork": "Lähdekoodi",
+	"stat": "Tilastot",
+	"settings_tool": "Työkalu",
+	"language": "Kieli",
+	"project": "Projekti",
+	"save": "Tallenna",
+	"settings_show": "Näytä",
+	"settings_wiki": "Wiki",
+	"settings_redirects": "Ohjaussivut",
+	"settings_new_pages": "Uudet sivut",
+	"stat_depth": "Syvyys",
+	"separator_thousands": "&nbsp;",
+	"separator_decimals": ",",
+	"main_time_utc": "Aika (UTC)",
+	"main_page": "Sivu",
+	"main_user": "Käyttäjä",
+	"new": "uusi",
+	"color": "Väri",
+	"send_feedback": "Lähetä palautetta"
+}

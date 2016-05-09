@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"adder": "Toegevoegd door",
+	"adder-empty": "Onbekend",
+	"expiry": "Vervalt",
+	"globalwatched": "Globaal gevolgd",
+	"reason": "Reden",
+	"reason-empty": "Geen reden gevonden"
+}

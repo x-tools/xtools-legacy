@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Odder",
+			"Sp5uhe",
+			"Ty221"
+		]
+	},
+	"description": "Meta-info o wiki Wikimedia.",
+	"formats-heading": "Formaty wyjścia",
+	"input": "Dane wejściowe",
+	"label-wikiids": "Identyfikatory wiki",
+	"no-matches": "Brak wyników odpowiadających zapytaniu „$1”",
+	"output": "Wynik dla „$1”"
+}

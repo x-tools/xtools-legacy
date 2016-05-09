@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"pb-about-pb-navi": "A prepaus",
+	"pb-about-pb-tech": "Detalhs tecnics",
+	"pb-about-pb-title": "A prepaus del projècte",
+	"pb-change-language": "Cambiar de lenga",
+	"pb-comment": "Comentari",
+	"pb-confirmations-given": "Confirmacions provesidas",
+	"pb-current-figures": "Cifras actualas",
+	"pb-date": "Data",
+	"pb-home": "Pagina d'acuèlh",
+	"pb-user": "Utilizaire",
+	"pb-user-link-title": "Detalhs per l’utilizaire $1",
+	"pb-user-title": "Informacion sus $1",
+	"pb-users-navi": "Utilizaires",
+	"pb-users-title": "Lista dels participants",
+	"pb-verified-since": "Verificat dempuèi"
+}

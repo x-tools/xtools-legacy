@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño",
+			"Vivaelcelta",
+			"Banjo"
+		]
+	},
+	"title": "Tradución SVG",
+	"error-tryagain": "$1 Prema no botón \"Atrás\" do seu navegador para intentalo de novo.",
+	"error-nothing": "Non hai nada que traducir.",
+	"error-notsvg": "Non é un ficheiro SVG.",
+	"error-unexpected": "Produciuse un erro inesperado.",
+	"error-notfound": "Non se puido recuperar o ficheiro SVG desde o enderezo URL proporcionado.",
+	"error-upload": "Houbo un erro de carga.",
+	"begin-translation": "Comezar a tradución",
+	"th-original": "Orixinal",
+	"th-translation": "Tradución",
+	"th-language": "Lingua",
+	"th-username": "Nome de usuario",
+	"th-password": "Contrasinal",
+	"th-method": "Método",
+	"option-oauth": "OAuth (carga automática)",
+	"option-manual": "Carga manual",
+	"preview": "Vista previa",
+	"translate": "Traducir",
+	"translate-instructions": "Acéptanse as entradas como nomes de ficheiro (por exemplo, \"$1\") ou enderezos URL completos (por exemplo, \"$2\"). En caso de empregar a primeira opción, a Wikimedia Commons usarase como fonte. Para traducir un SVG desde outro sitio ou wiki, debe utilizar o formato URL completo.",
+	"svginput-label": "Ficheiro SVG",
+	"stats-footer": "Esta ferramenta empregouse para traducir aproximadamente $1 ficheiros desde $2.",
+	"uploading": "Subindo",
+	"upload-complete": "A carga finalizou correctamente. A imaxe debería estar en $1",
+	"editdescriptionpage": "Editar a nova páxina de descrición",
+	"disclaimer": "Recolleranse de xeito privado algúns datos anónimos para fins estatísticos. Se se proporcionaron, os nomes de usuario OAuth tamén se rexistrarán para axudar a combater o vandalismo. Os contrasinais non se gardan en ningún caso.",
+	"author-complete": "Complete a información do autor!",
+	"preview-hide": "Agochar a vista previa",
+	"preview-refresh": "Actualizar a vista previa",
+	"error-must-accept": "Para continuar a carga directa ten que aceptar as condicións de uso.",
+	"description-license": "Seleccione a descrición e a licenza",
+	"finalise": "Finalizar os detalles"
+}

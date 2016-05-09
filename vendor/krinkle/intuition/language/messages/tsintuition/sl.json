@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"fullname": "Internacionalizacija orodij",
+	"current-settings": "Trenutne nastavitve",
+	"current-language": "Izbran jezik",
+	"settings-legend": "Nastavitve",
+	"choose-language": "Izberite jezik",
+	"clear-cookies": "počisti piškotke",
+	"renew-cookies": "obnovi piškotke",
+	"cookie-expiration": "Potek piškotkov",
+	"clearcookies-success": "Piškotki so uspešno počiščeni.",
+	"renewcookies-success": "Piškotki so obnovljeni! Pripravljeni ste za naslednjih $1.",
+	"tab-overview": "Pregled",
+	"tab-settings": "Nastavitve",
+	"tab-about": "O orodju",
+	"tab-demo": "Predstavitev",
+	"bl-mysettings": "Moje jezikovne nastavitve",
+	"bl-mysettings-new": "Spremeni jezik!",
+	"bl-promo": "Prevode zagotavljata $1 in $2.",
+	"bl-changelanguage": "Spremenite jezik vmesnika tega orodja.",
+	"usage": "Orodja, ki so prevedena z Intuicijo.",
+	"help-translate-tool": "Pomagajte prevesti to orodje!",
+	"help-translate-all": "Pomagajte prevesti orodja!",
+	"help-translate-tooltip": "Pomagajte drugim s prevajanjem sporočil vmesnika v svoj jezik."
+}

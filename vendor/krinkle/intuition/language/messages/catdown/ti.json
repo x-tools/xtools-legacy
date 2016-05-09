@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tigrigna1"
+		]
+	},
+	"max-width": "ዝሰፍሐ ጎኒ",
+	"max-height": "ዝነውሐ ቁመት",
+	"invalid-width": "ጌጋ ጎኒ",
+	"invalid-height": "ጌጋ ቁመት",
+	"no-such-project": "ዝመሳሰል ዕዮ ኣይተረኽበን",
+	"no-images": "ኣብዚ ክፍሊ ዝኾነ ስእሊ ኣይተረኽበን",
+	"download": "ጽዓን"
+}

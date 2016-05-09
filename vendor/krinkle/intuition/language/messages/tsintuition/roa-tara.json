@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"fullname": "'Ndernazzionalizzazzione de le struminde",
+	"current-settings": "'Mbostaziune corrende",
+	"current-language": "Lènga scacchiate",
+	"settings-legend": "'Mbostaziune",
+	"choose-language": "Scacchie 'na lènghe",
+	"clear-cookies": "pulizze le cookie",
+	"renew-cookies": "rennove le cookie",
+	"cookie-expiration": "Scadenze de le cookie",
+	"clearcookies-success": "E' pulezzate tutte le cookie cu successe.",
+	"renewcookies-success": "Cookie rennovate! Tu ste tutte 'mbostate pa prossime $1.",
+	"tab-overview": "Panorameche",
+	"tab-settings": "'Mbostaziune",
+	"tab-about": "Sus a",
+	"tab-demo": "Demo",
+	"bl-mysettings": "'Mbostaziune d'a lènga meje",
+	"bl-mysettings-new": "Cange 'a lènghe!",
+	"bl-promo": "Le traduziune sonde sostenute da $1 e $2.",
+	"bl-changelanguage": "Cange l'inderfacce d'a lènghe de stu strumende.",
+	"usage": "Struminde tradotte da Intuition.",
+	"help-translate-tool": "Danne 'na màne a traducere stu strumende!",
+	"help-translate-all": "Danne 'na màne a traducere le struminde!",
+	"help-translate-tooltip": "Dà 'na màne a l'otre pe traducere le messagge de interfacce jndr'à lènga toje."
+}

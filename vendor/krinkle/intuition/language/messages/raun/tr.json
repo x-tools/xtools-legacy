@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mavrikant",
+			"Uğurkent"
+		]
+	},
+	"close": "Kapat",
+	"project": "Proje",
+	"save": "Kaydet",
+	"settings_pause": "Duraklat",
+	"settings_show": "Göster",
+	"settings_wiki": "Viki",
+	"stat_pages": "Sayfalar",
+	"stat_depth": "Derinlik",
+	"stat_active_users": "Aktif kullanıcılar",
+	"stat_admins": "Hizmetliler",
+	"separator_thousands": ",",
+	"separator_decimals": ".",
+	"main_page": "Sayfa",
+	"main_user": "Kullanıcı",
+	"new": "yeni",
+	"minor": "küçük",
+	"bot": "bot",
+	"editor": "editör",
+	"about": "Hakkında"
+}

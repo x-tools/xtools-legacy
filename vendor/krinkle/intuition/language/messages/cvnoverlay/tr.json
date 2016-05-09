@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Uğurkent"
+		]
+	},
+	"adder-empty": "Bilinmeyen",
+	"expiry": "Bitiş",
+	"reason": "Gerekçe",
+	"reason-empty": "Hiçbir sebep bulunamadı"
+}

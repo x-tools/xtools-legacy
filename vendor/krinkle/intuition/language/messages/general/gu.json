@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harsh4101991",
+			"KartikMistry"
+		]
+	},
+	"hello": "હેલો",
+	"welcome": "સ્વાગત",
+	"etc": "વગેરે",
+	"form-submit": "જાઓ",
+	"form-reset": "ફરી ગોઠવો",
+	"months": "{{PLURAL: $1|મહિનો|મહિનાઓ}}",
+	"view-source": "સ્રોત જુઓ"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"title": "Prenos slik po kategorijah",
+	"subtitle": "Preprost način za prenos slik v kategoriji",
+	"project": "Projekt:",
+	"category": "Kategorija:",
+	"thumbnailing": "Izdelava sličic",
+	"max-width": "Največja širina:",
+	"max-height": "Največja višina:",
+	"invalid-width": "Neveljavna širina",
+	"invalid-height": "Neveljavna višina",
+	"no-such-project": "Takšen projekt ne obstaja",
+	"no-images": "V tej kategoriji ni slik",
+	"category-is-url": "Podano ime kategorije izgleda kot URL. Navesti morate ime kategorije, ne njen URL.",
+	"category-contains-namespace": "Zdi se, da ste poleg imena kategorije vključili tudi imenski prostor. Z navedenim imenom bo stran na razpolago kot [[Category:$1]].",
+	"zip-failed": "Ustvarjanje zipa je spodletelo",
+	"image-area-too-big": "$1 je prevelika za ustvarjanje sličice. Uporabljena bo polna velikost.",
+	"download-info": "{{PLURAL:$1|Obstaja $1 slika|Obstajata $1 sliki|Obstajajo $1 slike|Obstaja $1 slik}}, z velikostjo ocenjeno na $2",
+	"download": "Prenesi",
+	"readme-contents": "Vključena datoteka $4 navaja\nslike v kategoriji $1 ($2)$3.\n\n== Navodila za prenos vseh navedenih slik ==\nČas prenašanja se lahko giblje od nekaj minut do več ur.\n\nWindows:\n Razširite vse datoteke v isto mapo in zaženite $5\n $6\nOS Linux/Mac:\n Razširite vse datoteke in odprite ukazno vrstico v tej mapi. Zaženite sh $5",
+	"non-bundled-wget": "Opozorilo: Ta različica ne vsebuje wget za Windows. Morali boste razširiti\nv mapo z wget.exe ali pa imeti wget v PATH",
+	"wget-info": "Datoteka vključuje kopijo wget $1 (za programsko okolje Windows). Wget je prosto programje\npod pogoji SPLOŠNE JAVNE LICENCE GNU različica 3.\nKopija licence je na razpolago spodaj, prav tako pa tudi na naslovu http://www.gnu.org/licenses/gpl-3.0.txt\n\nČe želite pridobiti izvorno kodo programa, jo lahko prenesete s:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nali s katerega drugega zrcala GNU; glej\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", prilagojene na širino največ $1 {{PLURAL:$1|slikovne pike|slikovnih pik}}",
+	"scaling-height": ", prilagojene na višino največ $1 {{PLURAL:$1|slikovne pike|slikovnih pik}}",
+	"scaling-both": ", prilagojene na velikost največ $1x$2 slikovnih pik"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"عثمان خان شاہ"
+		]
+	},
+	"attention": "خبردار",
+	"language": "زبان",
+	"project": "منصوبہ",
+	"source_file": "مسودہ فائل",
+	"target_file": "ہدف فائل",
+	"commons_username": "ویکیمیڈیا العام صارف نام",
+	"categories": "زمرہ جات",
+	"remove_cats": "موجودہ زمروں کو حذف کریں",
+	"do_it": "اسے کریں",
+	"error_transfer_usr": "آپ نے ویکیمیڈیا العام نام نہیں چُنا ہے",
+	"error_not_exists": "ماخذ صفحہ موجود نہیں",
+	"error_on_commons": "ماخذ فائل پہلے سے $1 پر !",
+	"original_wikitext": "اصلی ویکی ٹکسٹ",
+	"new_wikitext": "نیا ویکی ٹکسٹ",
+	"new_filename": "نیا ملف نام",
+	"upload_submit": "اپ لوڈ کریں!",
+	"target_wiki": "ہدف ویکی",
+	"error_bot_blocked": "اپلوڈ بوٹ ویکیمیڈیا العام پر منع کیا گیا ہے"
+}

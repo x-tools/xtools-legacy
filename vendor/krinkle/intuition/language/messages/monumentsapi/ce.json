@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"filter-all-languages": "Берриге меттанаш",
+	"db-field-lang": "Мотт",
+	"db-field-st_image": "Сурт",
+	"db-field-st_image_pct": "Сурт %"
+}

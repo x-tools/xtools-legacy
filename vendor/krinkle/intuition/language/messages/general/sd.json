@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"hello": "سلام",
+	"welcome": "ڀليڪار",
+	"toolversion": "ورزن $1",
+	"toolversionstamp": "ورزن $1 ($2)",
+	"etc": "وغيره",
+	"form-submit": "وڃو",
+	"form-reset": "ٻيهر ترتيب ڪريو",
+	"years": "{{PLURAL: $1|سال}}",
+	"months": "{{PLURAL: $1|مهينو|مهينا}}",
+	"weeks": "{{PLURAL: $1|هفتو|هفتا}}",
+	"days": "{{PLURAL: $1|ڏينهن}}",
+	"hours": "{{PLURAL: $1|ڪلاڪ}}",
+	"minutes": "{{PLURAL: $1|منٽ}}{{PLURAL: $1|}}",
+	"seconds": "{{PLURAL: $1|سيڪنڊ}}",
+	"last-modified-date": "آخري دفعو سنواريل: $1",
+	"view-source": "ذريعو ڏسو"
+}

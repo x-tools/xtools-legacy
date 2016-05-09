@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(Wiki eraussichen)",
+	"alws-group-mustused": "Meescht benotzte Wikien",
+	"alws-group-allaz": "All Wikien (alphabetesch)",
+	"form-legend-settings": "Astellungen"
+}

@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"enter-details": "Podrobnosće zapodać",
+	"introduction": "Zapisaj mjeno předłohi (tuchwilu jenož Wikipedije) a klikń na \"Pytać\", Tak jednore to je.  Su pufrowane wuslědki, ale to bohužel pod wliwom nastroja a jeho wobsedźerja njepodleži.",
+	"language-label": "Rěč",
+	"namespace-label": "Mjenowy rum",
+	"pagename-label": "Mjeno strony (bjez mjenoweho ruma)",
+	"transclusion-count-label": "Ličba transkluzijow",
+	"transclusion-count": "{{PLURAL:$1|1 transkluzija je so namakała|$1 transkluziji stej so namakałoj|$1 transkluzije su so namakali|$1 transkluzijow je so namakało}}.",
+	"error-suggestion": "Snano sy mjeno strony wopak (abo z wopačnym wulkopisanjom) napisał?",
+	"time-label": "Trěbny čas za wuwjedźenje přikaza"
+}

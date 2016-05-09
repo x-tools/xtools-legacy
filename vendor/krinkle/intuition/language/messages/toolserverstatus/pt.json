@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Informação",
+	"toolserver-status-short-erro": "$1: Erro",
+	"toolserver-status-short-unknown": "$1: Desconhecido",
+	"toolserver-status-short-missing": "$1: Inexistente"
+}

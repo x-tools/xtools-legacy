@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"title-overview": "Ảnh chụp nhanh",
+	"title-error": "Lỗi",
+	"title-updatelog": "Cập nhật nhật trình",
+	"updatelog-intro": "Kịch bản cập nhật được dự định để chạy mỗi giờ một lần. Dưới đây là kết quả trên bảng kiểm soát từ lần chạy vừa rồi.",
+	"updatelog-active": "Kịch bản hiện đang chạy. Hãy trở lại sau để xem nhật trình đầy đủ.",
+	"download-button": "Tải về ảnh chụp nhanh",
+	"download-directlink": "liên kết trục tiếp",
+	"title-downloadpage": "Tải về",
+	"title-downloadpage-repo": "Tải về $1",
+	"err-snapshotindex": "Chỉ mục ảnh chụp nhanh tạm không hoạt động. Xin vui lòng thử lại sau.",
+	"err-invalid-repo": "Kho không rõ: “$1”.",
+	"err-invalid-branch": "Chi nhánh không rõ: “$1” trong kho “$2”.",
+	"err-nosnapshot": "Các ảnh chụp nhanh được tạo ra vài giờ một lần. Xuất hiện lỗi khi tạo ảnh chụp nhanh cho “$1”. Xin vui lòng thử lại sau.",
+	"err-noupdatelog": "Không tìm thấy nhật trình cập nhật.",
+	"repo-site-link": "Trang Web",
+	"repo-browse-link": "Duyệt kho",
+	"repo-branches-label": "Các chi nhánh:",
+	"repo-lastmoddate-label": "Ngày giờ:",
+	"branches-submit-button": "Lấy nó!",
+	"updatelog-link": "nhật trình cập nhật",
+	"tablehead-repo": "Kho",
+	"tablehead-snapshots": "Ảnh chụp nhanh",
+	"tablehead-branch": "Chi nhánh",
+	"tablehead-filesize": "Kích thước tập tin",
+	"tablehead-hash": "Giá trị băm"
+}

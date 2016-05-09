@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"hello": "Bonjorn",
+	"welcome": "Benvenguda",
+	"toolversion": "Version $1",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Espaci de noms",
+	"form-submit": "Validar",
+	"form-reset": "Reïnicializar",
+	"years": "{{PLURAL: $1|annada|annadas}}",
+	"months": "{{PLURAL: $1|mes|meses}}",
+	"weeks": "{{PLURAL: $1|setmana|setmanas}}",
+	"days": "{{PLURAL: $1|jorn|jorns}}",
+	"hours": "{{PLURAL:$1|ora|oras}}",
+	"minutes": "{{PLURAL:$1|minuta|minutas}}",
+	"seconds": "{{PLURAL:$1|segonda|segondas}}",
+	"last-modified-date": "Darrièra modificacion : $1",
+	"view-source": "Veire la font",
+	"and": "&#32;e"
+}

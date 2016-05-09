@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator",
+			"KWiki",
+			"Palapa"
+		]
+	},
+	"hello": "Pozdrav",
+	"welcome": "Dobrodošli",
+	"toolversionstamp": "Verzija $1 ($2)",
+	"etc": "itd.",
+	"namespace": "Imenski prostor",
+	"form-submit": "Idi",
+	"form-reset": "Poništi",
+	"years": "{{PLURAL: $1|godina|godine|godina}}",
+	"weeks": "sedmice",
+	"days": "dani",
+	"hours": "sati",
+	"last-modified-date": "Posljednji put izmijenjeno: $1",
+	"view-source": "Pogledaj izvor"
+}

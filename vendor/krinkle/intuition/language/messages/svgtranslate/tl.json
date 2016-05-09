@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw",
+			"Jojit fb"
+		]
+	},
+	"title": "Pagsasalinwika na SVG",
+	"error-tryagain": "$1 Patamaan ang pindutang pampabalik ng pantingin-tingin mo upang subukang muli.",
+	"error-nothing": "Walang isasalinwika.",
+	"error-notsvg": "Hindi isang talaksang SVG.",
+	"error-unexpected": "Naganap ang isang hindi inaasahang kamalian.",
+	"error-notfound": "Hindi makuhang muli ang talaksang SVG magmula sa ibinigay na URL.",
+	"error-upload": "May isang suliranin sa pagkakargang papaitaas.",
+	"begin-translation": "Simulan ang pagsasalinwika",
+	"th-original": "Orihinal",
+	"th-translation": "Salinwika",
+	"th-language": "Wika",
+	"th-username": "Pangalan ng tagagamit",
+	"th-password": "Password",
+	"th-method": "Pamamaraan",
+	"option-oauth": "TUSC (kusang pagkakarga na paitaas)",
+	"option-manual": "Kinakamay na pagkakargang papaitaas",
+	"preview": "Paunang pagtingin",
+	"translate": "Isalinwika",
+	"translate-instructions": "Ang mga ipinapasok ay tinatanggap bilang mga pangalan ng talaksan (iyon ay \"$1\") o buong URL (iyon ay \"$2\").  Kung ang unang pagpipilian ang ginamit, ipapalagay na ang Wikimedia Commons ang pinagmulan.  Upang maisalinwika ang isang SVG mula sa ibang lugar o wiki, dapat mong gamitin ang anyo ng buong URL.",
+	"svginput-label": "Talaksang SVG",
+	"stats-footer": "Ginamit ang kasangkapang ito upang isalinwika ang tinatayang $1 mga talaksan magmula noong $2.",
+	"uploading": "Ikinakarga",
+	"upload-complete": "Matagumpay na nabuo ang pagkakarga. Ang larawan ay dapat na nasa $1 na ngayon",
+	"editdescriptionpage": "Baguhin ang bagong pahina ng paglalarawan",
+	"disclaimer": "Ilang datong hindi nakikilala ang pribadong lilikumin para sa mga layuning pang-estadistika.  Kapag ibinigay, ang mga pangalan ng tagagamit ng OAuth ay maitatala rin upang makatulong kapag may naganap na pambababoy. Hindi kailanman maitalala ang mga hudyat.",
+	"author-complete": "Mangyaring buuin ang kabatiran sa may-akda!",
+	"preview-hide": "Itago ang paunang tanaw",
+	"preview-refresh": "Sariwain ang paunang tanaw",
+	"error-must-accept": "Upang magpatuloy sa isang tuwirang pagkakargang papaitaas dapat mong tanggapin ang ibinigay na mga tuntunin sa paggamit.",
+	"description-license": "Piliin ang paglalarawan at lisensiya",
+	"finalise": "Buuin na ang mga detalye"
+}

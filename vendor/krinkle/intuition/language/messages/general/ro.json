@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm",
+			"Platonides"
+		]
+	},
+	"hello": "Bună",
+	"welcome": "Bun venit",
+	"toolversion": "Versiunea $1",
+	"toolversionstamp": "Versiunea $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Spațiu de nume",
+	"form-submit": "Du-te",
+	"form-reset": "Resetează",
+	"years": "{{PLURAL: $1|an|ani}}",
+	"months": "{{PLURAL: $1|lună|luni|de luni}}",
+	"weeks": "{{PLURAL: $1|săptămână|săptămâni}}",
+	"days": "{{PLURAL: $1|zi|zile}}",
+	"hours": "{{PLURAL: $1|oră|ore}}",
+	"minutes": "{{PLURAL: $1|minut|minute}}",
+	"seconds": "{{PLURAL: $1|secundă|secunde}}",
+	"last-modified-date": "Ultima modificare: $1",
+	"view-source": "Sursă pagină",
+	"and": "&#32;și"
+}

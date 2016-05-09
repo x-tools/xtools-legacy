@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki",
+			"Sujiniku"
+		]
+	},
+	"moretools": "その他のツール",
+	"homepage-title": "導入",
+	"bugs": "バグ報告と機能リクエスト",
+	"comments": "コメントとクエリ",
+	"error-form-empty": "空欄になっている必須項目があります。続行するには完全に埋める必要があります。"
+}

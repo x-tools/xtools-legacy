@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"fullname": "Pengantarabangsaan untuk peralatan",
+	"current-settings": "Tetapan semasa",
+	"current-language": "Bahasa yang dipilih",
+	"settings-legend": "Tetapan",
+	"choose-language": "Pilih bahasa",
+	"clear-cookies": "padamkan cecikut (cookies)",
+	"renew-cookies": "pulihkan cecikut (cookies)",
+	"cookie-expiration": "Masa luput cecikut (cookies)",
+	"clearcookies-success": "Cecikut berjaya dipadamkan.",
+	"renewcookies-success": "Cecikut dipulihkan! Anda bersedia untuk $1 akan datang.",
+	"tab-overview": "Intisari",
+	"tab-settings": "Tetapan",
+	"tab-about": "Perihal",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Tetapan bahasa saya",
+	"bl-mysettings-new": "Tukar bahasa!",
+	"bl-promo": "Penterjemahahn dijana oleh $1 dan $2.",
+	"bl-changelanguage": "Tukar bahasa antaramuka alat ini.",
+	"usage": "Peralatan yang diterjemahkan oleh Intuition.",
+	"help-translate-tool": "Bantu kami menterjemah alat ini!",
+	"help-translate-all": "Bantu kami menterjemahkan peralatan kami!",
+	"help-translate-tooltip": "Bantu orang lain dengan menterjemah mesej-mesej antara muka kepada bahasa anda."
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha",
+			"Hoo"
+		]
+	},
+	"dataset-live-title": "Tiräkte Zohjang",
+	"dataset-dump-description": "Ene schtattesche Ußworf vun all dä entites  för e förjejovve Dattom.",
+	"distribution-api-description": "Dem MehdijaWikki singe API Ändpongk. Et Fommahd weed mem Parramehter „format“ aanjejovve.",
+	"distribution-dump-description": "En Dattei em Fommaht $1 met gzip kompremmehrt."
+}

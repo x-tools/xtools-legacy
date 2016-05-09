@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라",
+			"Revi"
+		]
+	},
+	"description": "위키미디어 위키에 관한 메타 정보",
+	"formats-heading": "출력 형식",
+	"input": "입력",
+	"label-wikiids": "위키 식별자",
+	"no-matches": "\"$1\"(와)과 일치하지 않습니다",
+	"output": "\"$1\"에 대한 출력"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"error-nothing": "د ژباړلو لپاره څه نشته.",
+	"begin-translation": "ژباړه پيلول",
+	"th-original": "آرنی",
+	"th-translation": "ژباړه",
+	"th-language": "ژبه",
+	"th-username": "کارن-نوم",
+	"th-password": "پټنوم",
+	"preview": "مخليدنه",
+	"translate": "ژباړل",
+	"svginput-label": "د SVG دوتنه",
+	"uploading": "د برسېرېدلو په حال کې...",
+	"preview-hide": "مخليدنه پټول"
+}

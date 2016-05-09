@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen",
+			"Platonides"
+		]
+	},
+	"dateformat": "%d tháng %m năm %Y",
+	"hello": "Xin chào",
+	"welcome": "Hoan nghênh",
+	"toolversion": "Phiên bản $1",
+	"toolversionstamp": "Phiên bản $1 ($2)",
+	"etc": "v.v.",
+	"namespace": "Không gian tên",
+	"form-submit": "Lưu",
+	"form-reset": "Mặc định lại",
+	"years": "{{PLURAL:$1|năm|năm}}",
+	"months": "{{PLURAL:$1|tháng|tháng}}",
+	"weeks": "{{PLURAL:$1|tuần|tuần}}",
+	"days": "{{PLURAL:$1|ngày|ngày}}",
+	"hours": "{{PLURAL:$1|giờ|giờ}}",
+	"minutes": "{{PLURAL:$1|phút|phút}}",
+	"seconds": "{{PLURAL:$1|giây|giây}}",
+	"last-modified-date": "Sửa đổi lần cuối: $1",
+	"view-source": "Xem mã nguồn",
+	"and": "&#32;và"
+}

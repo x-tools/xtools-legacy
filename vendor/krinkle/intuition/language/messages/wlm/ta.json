@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswn",
+			"Balajijagadesh",
+			"Karthi.dr",
+			"Shanmugamp7",
+			"மதனாஹரன்"
+		]
+	},
+	"file": "படம்",
+	"monument-type": "நினைவுச் சின்ன வகை",
+	"author": "ஆசிரியர்",
+	"upload-time": "பதிவேற்ற நேரம்",
+	"deleted": "நீக்கப்பட்டது  ($1)",
+	"not-available": " கிடைக்காது",
+	"date-unknown": "அறியப்படாதது.",
+	"total-images": "மொத்த படங்கள்: $1",
+	"show-images-bad-only": "பட்டியலுக்கு வெளியே உள்ள படங்களை மட்டும் காட்டவும்",
+	"show-images-all": "அனைத்து படங்களையும் காட்டு",
+	"show-images-removed": "போட்டியில் இருந்து நீக்கப்பட்ட படங்களைக் காட்டவும்",
+	"search-monuments": "நினைவுச் சின்னங்களைத் தேடவும்",
+	"view-frequency": "புகழ்பெற்ற நினைவுச் சின்னங்கள்",
+	"country-label": "நாடு:",
+	"all-countries": "அனைத்து நாடுகள்",
+	"limit-label": "காண்பிக்கப்பட வேண்டிய படிமங்கள்:",
+	"timezone-label": "நேர வலயம்:",
+	"show-earlier-first": "மிகஅண்மைய படிமங்களை முதலில் காண்பிக்கவும்",
+	"show-older-first": "மிகமுந்திய படிமங்களை முதலில் காண்பிக்கவும்",
+	"show-button": "காட்டு",
+	"monument-heading": "நினைவுச்சின்னம்",
+	"count-heading": "புகைபடங்கள்",
+	"bic-list": "பட்டியல்",
+	"bic-gallery": "காட்சியகம்",
+	"wall-of-shame-text": "அடையாளம் காண இயலாத புகைப்படங்களைத் தரவேற்றியோர்",
+	"author-heading": "ஆசிரியர்",
+	"bic-list-bad": "காட்டு",
+	"bic-list-all": "முழு பட்டியல்",
+	"unregistered": "பதிவுசெய்யாதவர்",
+	"users-list": "பார்வையிடு",
+	"distict-monuments": "தனித்துவம் வாய்ந்த நினைவுச் சின்னங்கள்",
+	"province-none": "(அறியாதது)"
+}

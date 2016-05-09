@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manuae"
+		]
+	},
+	"fullname": "Iwasedzung vunde Bnudzaowaflesch vum Toolseava",
+	"current-settings": "Agduelli Oischdellunge",
+	"current-language": "Agduell gwehldi Schbrooch",
+	"settings-legend": "Oischdellunge",
+	"choose-language": "Ä Schbrooch wehle",
+	"clear-cookies": "Kuukies lesche",
+	"renew-cookies": "Kuukies eanaijare",
+	"cookie-expiration": "S'Kuukie laafd ab.",
+	"clearcookies-success": "Die Kuukies sind gleschd worre.",
+	"renewcookies-success": "Kuukies isch eanaiad worre! Fa die kummende $1 ischs guud.",
+	"tab-overview": "Iwabligg",
+	"tab-settings": "Oischdellunge",
+	"tab-about": "Iwa",
+	"tab-demo": "Voafierung",
+	"bl-mysettings": "Moin Schbroochoischdellung",
+	"bl-mysettings-new": "Sprache wexsle",
+	"bl-promo": "Iwasedzunge werre vun $1 un $2 eameschlischd.",
+	"bl-changelanguage": "Do drigge, um die Schbrooch fa des Weagzaisch do zu änare.",
+	"usage": "Weagzaisch sin vum Toolseava Intuition iwasedzd worre.",
+	"help-translate-tool": "Hilfs Weagzaisch zu iwasedze.",
+	"help-translate-all": "Hilf de Toolseava zu iwasedze.",
+	"help-translate-tooltip": "Hilf onare indem die Nochrischde vunde Bnudzaowaflesch in doi Schbrooch iwasedze duschd."
+}

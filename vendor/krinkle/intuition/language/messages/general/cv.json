@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salam",
+			"Блокнот",
+			"Chuvash2014"
+		]
+	},
+	"hello": "Салам",
+	"welcome": "Килӗрех",
+	"toolversionstamp": "Верси $1 ($2)",
+	"etc": "т. ыт. те",
+	"namespace": "Ят хушши",
+	"form-submit": "Куҫ",
+	"form-reset": "Тасат",
+	"years": "{{PLURAL: $1|çул}}",
+	"weeks": "{{PLURAL: $1|эрне}}",
+	"days": "{{PLURAL: $1|кун}}",
+	"hours": "{{PLURAL: $1|сехет}}",
+	"minutes": "{{PLURAL: $1|минут}}",
+	"seconds": "{{PLURAL: $1|ҫеккунт}}",
+	"last-modified-date": "Юлашки улшӑну вӑхӑчӗ: $1",
+	"view-source": "Кодне пăх",
+	"and": "&#32;тата"
+}

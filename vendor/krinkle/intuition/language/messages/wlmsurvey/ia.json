@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"title": "Wiki Loves Monuments - Sondage de participante",
+	"survey-mode-preparation": "Iste inquesta es ancora in preparation.\nTu pote testar lo e submitter \"responsas\", ma le resultatos fornite essera radite ante le initio del ver inquesta.",
+	"survey-mode-closed": "Iste inquesta ha essite claudite e non plus pote esser submittite.",
+	"2013-header-introduction": "Introduction",
+	"2013-header-demographics": "Demographia",
+	"2013-question-country": "In qual pais vive tu?",
+	"2013-other-country-lives": "Altere pais:",
+	"2013-question-birth-year": "In qual anno nasceva tu?",
+	"2013-birth-year": "Anno:",
+	"2013-hide-birth-year": "Io prefere non divulgar lo.",
+	"2013-question-gender": "Qual es tu sexo?",
+	"2013-gender-male": "Homine",
+	"2013-gender-female": "Femina",
+	"2013-gender-other": "Altere / Io prefere non divulgar lo.",
+	"2013-header-wikimedia-activity": "Activitate sur Wikimedia",
+	"2013-explanation-select-multiple": "Selige totes que se applica.",
+	"2013-question-wlm-participation": "In qual previe annos participava tu a Wiki Loves Monuments?",
+	"2013-question-edited-wiki": "Ha tu jam modificate Wikipedia/Wikimedia ante de participar al edition de Wiki Loves Monuments de iste anno?",
+	"2013-edited-regularly": "Si, io ha essite un contributor regular (plus de cinque modificationes per mense).",
+	"2013-edited-sporadically": "Si, io ha facite modificationes occasional (minus de cinque modificationes per mense).",
+	"2013-edited-only-photo-contests": "Si, ma solmente in connexion a concursos de photos, como \"Wiki Loves Monuments\" or \"Wiki Loves Public Art\" / \"Wiki Loves Earth\".",
+	"2013-edited-never": "No, io nunquam ha tentate le modification ante de participar al edition de Wiki Loves Monuments de iste anno.",
+	"2013-header-competition": "Concurso"
+}

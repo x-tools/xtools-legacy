@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike",
+			"Silvonen"
+		]
+	},
+	"moretools": "lisää työkaluja",
+	"bugs": "ilmoitukset virheistä ja parannusehdotukset",
+	"comments": "kommentit ja kyselyt",
+	"error-form-empty": "Yksi tai useampia pakollisia kenttiä on täyttämättä. Täytä ne ennen jatkamista."
+}

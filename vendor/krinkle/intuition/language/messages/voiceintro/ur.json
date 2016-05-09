@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Obaid Raza"
+		]
+	},
+	"voiceintro-toolbar-record-label": "ضبط کریں",
+	"voiceintro-toolbar-stop-label": "روکیں",
+	"voiceintro-toolbar-clear-label": "صاف کریں",
+	"voiceintro-toolbar-upload-label": "زبر اثقال کریں/اپلوڈ",
+	"voiceintro-webaudio-not-supported": "ویب آڈیو API اس براؤزر پر نہیں چلتا",
+	"voiceintro-upload-publish-succeeded": "ضبط شدہ مواد کامیابی سے زبر اثقال ہو چکا ہے:",
+	"voiceintro-upload-publish-failed": "ضبط کردہ مواد زبر اثقال نہیں ہو سکا۔",
+	"voiceintro-information-label": "معلومات",
+	"voiceintro-information-speaker-label": "صاحب آواز کا نام:",
+	"voiceintro-information-language-label": "زبان:",
+	"voiceintro-mic-access-notify": "\"Allow\" پر کلک کریں تا کہ آپ کا براؤزر مائیکرو فون تک رسائی دے۔",
+	"voiceintro-recording-notify": "ضابطہ بندی جاری ۔ ۔ ۔"
+}

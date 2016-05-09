@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"explanation": "paaiškinimas",
+	"regex": "Reguliarioji išraiška",
+	"enter-details": "Įveskite detales",
+	"results": "Rezultatai",
+	"language-label": "Kalba",
+	"namespace-label": "Vardų sritis",
+	"project-label": "Projektas",
+	"pattern-label": "Modelis",
+	"redirects-label": "Įtraukti nukreipimus",
+	"limit-label": "Apriboti ekraną 100 pirmųjų rezultatų"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"Bultro",
+			"Beta16"
+		]
+	},
+	"title": "Controllo collegamenti e inclusione dei template",
+	"description": "Controlla ed elenca quali voci che includono un certo template non sono puntate da collegamenti nel template stesso, e quali voci che sono puntate da collegamenti nel template non lo includono.",
+	"form-label-language": "Lingua:",
+	"form-label-template": "Nome template:",
+	"form-label-template2": "(namespace compreso)",
+	"form-label-complete": "Crea resoconto completo:",
+	"feedback-template-missing": "Il template $1 non esiste.",
+	"feedback-template-noaccess": "Il template $1 sembra esistere, ma non è disponibile nel database. Potrebbe trattarsi di un problema temporaneo del database.\nDatabase utilizzato: $2",
+	"feedback-result": "Risultati da $1",
+	"feedback-header-mismatch": "Discrepanze tra inclusioni e collegamenti",
+	"feedback-header-no-link": "Inclusioni senza collegamento",
+	"feedback-header-no-transclusion": "Collegamenti senza inclusione",
+	"feedback-header-redirects": "Collegamenti a redirect",
+	"feedback-total-count": "Totale: $1",
+	"feedback-header-complete": "Panoramica completa di inclusioni e collegamenti",
+	"feedback-header-transclusions": "Inclusioni del template",
+	"feedback-header-links": "Collegamenti dal template",
+	"link-edit": "modifica",
+	"link-create": "crea",
+	"link-complete": "Resoconto completo...",
+	"footer-stats": "Generato: $1. Tempo: $2 {{PLURAL:$2|secondo|secondi}}.",
+	"error-language": "Codice della lingua sconosciuto."
+}

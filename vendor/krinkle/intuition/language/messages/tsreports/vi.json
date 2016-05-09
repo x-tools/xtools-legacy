@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">Thay đổi ngôn ngữ / tùy chọn</a>",
+	"base_jiralink": "<a href=\"https://jira.toolserver.org/browse/REPORTS\">Báo lỗi hoặc yêu cầu tính năng</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Wiki</a>",
+	"category_users": "Người dùng",
+	"category_articles": "Trang",
+	"category_images": "Hình ảnh",
+	"category_miscellaneous": "Khác",
+	"category_wikidata": "Wikidata",
+	"select_wiki_title": "Chọn wiki",
+	"select_wiki_next": "Sau →",
+	"select_report_title": "Chọn bản báo cáo để chạy trên %(wiki)s",
+	"select_report": "Xin hãy chọn bản báo cáo:",
+	"select_report_disabled": "Bản báo cáo này không có sẵn.",
+	"select_report_go_back": "← Thay đổi wiki",
+	"qvar_next": "Sau →",
+	"prefs_title": "Tùy chọn bản báo cáo",
+	"prefs_submit": "OK",
+	"prefs_langlabel": "Ngôn ngữ giao diện:",
+	"report_change_report": "<a href=\"%(url)s\">Thay đổi bản báo cáo</a>",
+	"report_change_wiki": "<a href=\"%(url)s\">Thay đổi wiki</a>"
+}

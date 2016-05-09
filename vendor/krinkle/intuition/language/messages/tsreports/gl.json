@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo",
+			"Macofe"
+		]
+	},
+	"category_users": "Usuarios",
+	"category_articles": "Páxinas",
+	"category_images": "Imaxes",
+	"category_wikidata": "WikiData",
+	"select_wiki_title": "Seleccionar unha wiki",
+	"select_wiki_next": "Seguinte →",
+	"qvar_next": "Seguinte →",
+	"prefs_submit": "Aceptar",
+	"prefs_langlabel": "Lingua da interface:"
+}

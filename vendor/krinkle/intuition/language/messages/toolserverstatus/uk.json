@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Base"
+		]
+	},
+	"toolserver-status-ok": "База даних у кластерах $1 $2 в порядку",
+	"toolserver-status-info": "Повідомлення для користувачів кластерів  $1 :$2",
+	"toolserver-status-warn": "Попередження для користувачів кластерів  $1 :$2",
+	"toolserver-status-down": "База даних кластера $1 тимчасово відключена. $2",
+	"toolserver-status-erro": "База даних кластера $1 недоступна. $2",
+	"toolserver-status-unknown": "Невідомий стан кластера $1",
+	"toolserver-status-missing": "Кластер  $1 не існує",
+	"toolserver-status-short-ok": "$1: Гаразд",
+	"toolserver-status-short-info": "$1: Інформація",
+	"toolserver-status-short-warn": "$1: Попередження",
+	"toolserver-status-short-down": "$1: Вниз",
+	"toolserver-status-short-erro": "$1: Помилка",
+	"toolserver-status-short-unknown": "$1: Невідомо",
+	"toolserver-status-short-missing": "$1: Відсутній"
+}

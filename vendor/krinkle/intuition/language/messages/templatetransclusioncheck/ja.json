@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sujiniku"
+		]
+	},
+	"form-label-language": "言語:",
+	"form-label-template": "テンプレート名:",
+	"feedback-total-count": "合計: $1",
+	"link-edit": "編集",
+	"link-create": "作成",
+	"error-language": "不明な言語コード。"
+}

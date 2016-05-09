@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikulas1"
+		]
+	},
+	"adder": "Pridal/a",
+	"adder-empty": "Neznámy",
+	"expiry": "Vypršanie",
+	"globalwatched": "Globálne sledované",
+	"reason": "Dôvod",
+	"reason-empty": "Bez udaného dôvodu"
+}

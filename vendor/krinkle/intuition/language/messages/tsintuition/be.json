@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"LexArt",
+			"Дзяніс Тутэйшы"
+		]
+	},
+	"fullname": "Інтэрналіцыяналізацыя інтэрфейсу карыстальніка Toolserver",
+	"current-settings": "Цяперашнія наладкі",
+	"current-language": "Цяперашняя выбраная мова",
+	"settings-legend": "Наладкі",
+	"choose-language": "Абярыце мову",
+	"clear-cookies": "Ачысціць квіткі (кукі)",
+	"renew-cookies": "абнавіць квіткі (кукі)",
+	"cookie-expiration": "Квіткі (кукі) пратэрмінаваныя",
+	"clearcookies-success": "Квіткі (кукі) паспяхова выдаленыя.",
+	"renewcookies-success": "Квіткі (кукі) абноўленыя. Усё гатова на тэрмін у $1",
+	"tab-overview": "Агляд",
+	"tab-settings": "Наладкі",
+	"tab-about": "Што гэта?",
+	"tab-demo": "Дэманстрацыя",
+	"bl-mysettings": "Мае моўныя наладкі",
+	"bl-mysettings-new": "Змяніце мову!",
+	"bl-promo": "Пераклады зробленыя на сайтах $1 і $2",
+	"bl-changelanguage": "Націсніце тут для змены мовы для гэтай прылады",
+	"usage": "Прылады перакладзеныя на Toolserver Intuition.",
+	"help-translate-tool": "Дапамажыце з перакладамі для гэтай прылады",
+	"help-translate-all": "Дапамажыце перакласці Toolserver!",
+	"help-translate-tooltip": "Дапамажыце іншым, перакладаючы паведамленні інтэрфейсу на вашу мову."
+}

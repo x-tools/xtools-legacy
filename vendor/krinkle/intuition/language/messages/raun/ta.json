@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"ElangoRamanujam"
+		]
+	},
+	"settings_tool": "கருவி",
+	"language": "மொழி",
+	"project": "திட்டம்",
+	"save": "சேமி",
+	"settings_pause": "இடைநிறுத்து",
+	"settings_run": "ஓடவிடுக!",
+	"settings_show": "காண்பிக்கவும்",
+	"settings_wiki": "விக்கி",
+	"stat_depth": "ஆழம்",
+	"stat_users": "பதிவுற்ற பயனர்கள்",
+	"stat_active_users": "தொடர் பங்களிப்பாளர்கள் (பயனர்கள்)",
+	"stat_admins": "நிர்வாகிகள்",
+	"separator_thousands": ",",
+	"separator_decimals": "."
+}

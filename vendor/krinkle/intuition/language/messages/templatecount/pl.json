@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe",
+			"Kszapsza"
+		]
+	},
+	"enter-details": "Podaj szczegóły",
+	"introduction": "Wpisz nazwę szablonu (w tej chwili wyłącznie z Wikipedii), a następnie kliknij dalej. To banalnie proste. Niektóre informacje mogą być buforowane (zapamiętane wyniki), ale niestety odbywa się to poza kontrolą tego narzędzia i jego autora.",
+	"language-label": "Język",
+	"namespace-label": "Przestrzeń nazw",
+	"pagename-label": "Nazwa strony (bez przestrzeni nazw)",
+	"transclusion-count-label": "Liczba transkluzji (zaciągnięć treści innej strony)",
+	"transclusion-count": "Odnaleziono $1 zaciągnięć treści innej strony.",
+	"error-suggestion": "Możliwe, że zrobiłeś literówkę w nazwie strony (sprawdź wielkość liter).",
+	"time-label": "Czas wykonywania polecenia"
+}

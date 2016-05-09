@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imperadeiro98"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Gravar",
+	"voiceintro-toolbar-stop-label": "Parar",
+	"voiceintro-toolbar-clear-label": "Limpar",
+	"voiceintro-toolbar-upload-label": "Carregar",
+	"voiceintro-webaudio-not-supported": "A API do WebAudio não é suportada por este navegador.",
+	"voiceintro-information-language-label": "Idioma:",
+	"voiceintro-mic-access-notify": "Clique em \"Permitir\" para permitir que o navegador acesse ao seu microfone."
+}

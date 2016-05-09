@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"LNDDYL",
+			"Liuxinyu970226",
+			"Simon Shek",
+			"Wehwei"
+		]
+	},
+	"enter-details": "輸入詳細資料",
+	"introduction": "輸入模板的名稱（現時只限維基百科），然後按提交。就是這麼簡單。可能有些緩存問題（結果回憶），但這不是此工具和其主人可控制的範圍。",
+	"language-label": "語言",
+	"namespace-label": "命名空間",
+	"pagename-label": "頁面名稱 （不包括命名空間）",
+	"transclusion-count-label": "使用數目",
+	"transclusion-count": "找到在$1頁上使用。",
+	"error-suggestion": "可能你錯打了頁面的標題（或大小寫、繁簡體）？",
+	"time-label": "執行命令所需的時間"
+}

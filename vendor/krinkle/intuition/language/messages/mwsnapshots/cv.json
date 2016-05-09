@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salam"
+		]
+	},
+	"title-overview": "Самантлӑ сӑнсем",
+	"title-error": "Йӑнӑш",
+	"title-updatelog": "Ҫӗнетни журналӗ",
+	"download-button": "$1 тиесе ил",
+	"download-directlink": "тӳрӗ каҫӑ",
+	"title-downloadpage": "Тиесе ил: $1",
+	"err-invalid-repo": "Паллӑ мар репозитори: \"$1\".",
+	"err-invalid-branch": "\"$2\" репозиторире \"$1\" тӗрӗс мар турат.",
+	"err-noupdatelog": "Ҫӗнетни журналӗ тупӑнмарӗ.",
+	"repo-site-link": "Сайт",
+	"repo-browse-link": "Репозиторие курасси",
+	"repo-branches-label": "Туратсем:",
+	"repo-lastmoddate-label": "Дата:",
+	"branches-submit-button": "Ил!",
+	"updatelog-link": "ҫӗнетни журналӗ",
+	"tablehead-repo": "Репозитори",
+	"tablehead-snapshots": "Самантлӑ сӑнсем",
+	"tablehead-branch": "Турат",
+	"tablehead-filesize": "Файл виҫи",
+	"tablehead-hash": "Тӗрӗслев хушӑнчӑкӗ"
+}

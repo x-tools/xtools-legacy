@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matik7",
+			"Przemub",
+			"Woytecr"
+		]
+	},
+	"title-overview": "Migawki",
+	"title-error": "Błąd",
+	"title-updatelog": "Rejestr aktualizacji",
+	"updatelog-intro": "Ten skrypt aktualizacji został zaplanowany tak, aby uruchamiał się co godzinę. Poniżej znajduje się wyjście konsoli podczas ostatniego uruchomienia.",
+	"updatelog-active": "Skrypt aktualizacyjny jest aktualnie uruchomiony. Zobacz później aby zobaczyć gotowy rejestr.",
+	"download-button": "Pobierz migawkę",
+	"download-directlink": "link bezpośredni",
+	"title-downloadpage": "Pobierz",
+	"title-downloadpage-repo": "Pobierz $1",
+	"err-snapshotindex": "Indeks migawek tymczasowo niedostępny. Spróbuj ponownie później.",
+	"err-invalid-repo": "Nieznane repozytorium: \"$1\".",
+	"err-invalid-branch": "Nieznany branch: \"$1\" w repozytorium \"$2\".",
+	"err-nosnapshot": "Migawki są generowane co kilka godzin. Podczas generowania migawki \"$1\" wystąpił błąd. Spróbuj ponownie później.",
+	"err-noupdatelog": "Rejestr aktualizacji nie został znaleziony.",
+	"repo-site-link": "Strona internetowa",
+	"repo-browse-link": "Przeglądaj repozytorium",
+	"repo-branches-label": "Branch:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Pobierz ją!",
+	"updatelog-link": "rejestr aktualizacji",
+	"tablehead-repo": "Repozytorium",
+	"tablehead-snapshots": "Migawki",
+	"tablehead-branch": "Branch",
+	"tablehead-filesize": "Rozmiar pliku",
+	"tablehead-hash": "Sumy kontrolne"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"hello": "سلام",
+	"welcome": "خوش اومايت",
+	"toolversion": "نسقه $1",
+	"toolversionstamp": "نسقه $1($2)",
+	"etc": "همچنو.",
+	"namespace": "نوم جا",
+	"form-submit": "رو",
+	"form-reset": "د نو شرو كردن",
+	"years": "{{PLURAL: $1|سال|سالیا}}",
+	"months": "{{PLURAL: $1|ما|مایا}}",
+	"weeks": "{{PLURAL: $1|هفته|هفته یا}}",
+	"days": "{{PLURAL: $1|رو|روزیا}}",
+	"hours": "{{PLURAL: $1|ساعت|ساعتیا}}",
+	"minutes": "{{PLURAL: $1|دئیقە|دئقە یا}}",
+	"seconds": "{{PLURAL: $1|تیه وه یک زنون|تیه وه یک زنون یا}}",
+	"last-modified-date": "آخرین آلشت:$1",
+	"view-source": "سرچشمه نه بوينيت",
+	"and": "&#32;و"
+}

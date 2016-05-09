@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khan27"
+		]
+	},
+	"title": "Kateqoriya üzrə şakilləri yüklə",
+	"subtitle": "Kateqoriyadakı şəkilləri asan yolla yüklə",
+	"project": "Layihə:",
+	"category": "Kateqoriya:",
+	"thumbnailing": "Kiçik rəsim",
+	"max-width": "Maksimum eni:",
+	"max-height": "Maksimum hündürlüyü:",
+	"invalid-width": "Yanlış en",
+	"invalid-height": "Yanlış hündürlük",
+	"no-such-project": "Belə layihə mövcud deyil",
+	"no-images": "Bu kateqoriyada heç bir şəkil yoxdur",
+	"category-is-url": "Kateqoriyanın adı URL ünvanı kimi görünür. Kateqoriyanın adını müəyyən edin, ancaq URL ünvanı kimi yox.",
+	"zip-failed": "Zip yaradılması uğursuz oldu",
+	"image-area-too-big": "$1 miniatür yaratmaq üçün çox böyükdür. Tam ölçüdə istifadə et.",
+	"download": "Yüklə"
+}

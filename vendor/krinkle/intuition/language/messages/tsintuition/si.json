@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Singhalawap",
+			"පසිඳු කාවින්ද",
+			"බිඟුවා"
+		]
+	},
+	"fullname": "Toolserver පරිශීලක අතුරුමුහණත සඳහා ජාත්‍යන්තරකරණය",
+	"current-settings": "වත්මන් සැකසුම්",
+	"current-language": "වත්මන් තෝරාගත් භෂාව",
+	"settings-legend": "පරිස්ථිතීන්",
+	"choose-language": "භාෂාවක් තෝරාගන්න",
+	"clear-cookies": "කුකීස් හිස් කරන්න",
+	"renew-cookies": "කුකීස් නව්‍යකරණය කරන්න",
+	"cookie-expiration": "කුකී ඉකුත් වීම",
+	"clearcookies-success": "කුකීස් සාර්ථකව හිස් කරන ලදී.",
+	"renewcookies-success": "කුකීස් අලුත් කරන ලදී! ඔබ සියල්ලම මීළඟ $1 සඳහා සකසන ලදී.",
+	"tab-overview": "දළ විශ්ලේෂණය",
+	"tab-settings": "සැකසුම්",
+	"tab-about": "පිළිබඳ",
+	"tab-demo": "නිදර්ශනය",
+	"bl-mysettings": "මගේ භාෂා සැකසුම්",
+	"bl-mysettings-new": "භාෂාව වෙනස් කරන්න!",
+	"bl-promo": "පරිවර්තනයන් බල ගන්වන්නේ $1 සහ $2 විසිනි.",
+	"bl-changelanguage": "මෙම මෙවලමේ අතුරුමුහුණත් භාෂාව වෙනස් කිරීම සඳහා මෙතන ක්ලික් කරන්න.",
+	"usage": "Toolserver ප්‍රතිභානය විසින් මෙවලම් පරිවර්තනය කර ඇත.",
+	"help-translate-tool": "මෙම මෙවලම පරිවර්තනය කිරීමට සහය වන්න!",
+	"help-translate-all": "මෙවලම්සර්වරය පරිවර්තනය කිරීමට සහය වන්න!",
+	"help-translate-tooltip": "අතුරුමුහුණත් පණිවුඩ ඔබේ භාෂාවට පරිවර්තනය කිරීමෙන් අනිකුත් පරිශීලකයන් හට උදව් කරන්න."
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron"
+		]
+	},
+	"changelog": "Co je nového",
+	"clear": "Vymazat",
+	"cvn-adder-empty": "Neznámé",
+	"cvn-reason": "Důvod",
+	"documentation": "Dokumentace",
+	"filter": "Filtr",
+	"helpicon-tooltip": "Dozvědět se více o této funkci",
+	"lastupdate-cvn": "poslední aktualizace: $1",
+	"lastupdate-rc": "Poslední aktualizace: $1",
+	"limit": "Limit",
+	"masspatrol-requires-userfilter": "MassPatrol byl deaktivován, vzhledem k tomu, že potřebuje uživatelský filtr, který nebyl nastaven.",
+	"months": "Leden, Únor, Březen, Duben, Květen, Červen, Červenec, Srpen, Září, Říjen, Listopad, Prosinec",
+	"mypatrollog": "Můj záznam prověřování",
+	"namespace": "Jmenný prostor",
+	"navtoggle-tooltip": "Zobrazit postranní panel",
+	"nomatches": "Nejsou relevantní změny pro vaše nastavení.",
+	"showAnonOnly": "Pouze anonymní",
+	"tag": "Tag",
+	"typeNew": "Nové stránky"
+}

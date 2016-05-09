@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"adder": "Responsable de l’apondon",
+	"adder-empty": "Desconegut",
+	"expiry": "Expiracion",
+	"reason": "Motiu",
+	"reason-empty": "Cap de motiu pas trobat"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Besnik b",
+			"FatosMorina"
+		]
+	},
+	"hello": "Tungjatjeta",
+	"welcome": "Mirë se vini",
+	"toolversionstamp": "Versioni $1 ($2)",
+	"etc": "etj.",
+	"namespace": "Hapësira",
+	"form-submit": "Shko",
+	"form-reset": "Rikthe vlerat",
+	"years": "{{PLURAL:$1|vit|vite}}",
+	"weeks": "{{PLURAL:$1|javë|javë}}",
+	"days": "{{PLURAL:$1|ditë|ditë}}",
+	"hours": "{{PLURAL:$1|orë|orë}}"
+}

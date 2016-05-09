@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Veeven"
+		]
+	},
+	"title": "WLM దస్త్రాలు",
+	"province": "ప్రావిన్స్",
+	"country-header": "దేశం",
+	"upload-time": "ఎక్కించిన సమయం",
+	"deleted": "తొలగించారు ($1)",
+	"not-available": "అందుబాటులో లేదు",
+	"date-unknown": "తెలియదు",
+	"total-images": "మొత్తం చిత్రాలు: $1",
+	"country-label": "దేశం:",
+	"all-countries": "అన్ని దేశాలు",
+	"timezone-label": "కాల మండలం:",
+	"show-button": "చూపించు",
+	"id-none": "(ఏమీలేదు)",
+	"count-heading": "ఫొటోలు",
+	"bic-list": "జాబితా",
+	"author-heading": "రచయిత",
+	"bic-list-bad": "చూపించు",
+	"bic-list-all": "పూర్తి జాబితా",
+	"unregistered": "నమోదుకాలేదు",
+	"users-list": "చూడండి",
+	"province-heading": "ప్రావిన్స్",
+	"province-none": "(తెలియదు)"
+}

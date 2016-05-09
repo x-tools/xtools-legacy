@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Sagan"
+		]
+	},
+	"formats-heading": "Сығарыу форматтары",
+	"input": "Инеү",
+	"label-wikiids": "Вики идентификаторҙар",
+	"no-matches": "«$1» менән тап килеүсе юҡ",
+	"output": "«$1» өсөн сығыу"
+}

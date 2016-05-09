@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"pb-about-pb-navi": "За програмот",
+	"pb-about-pb-tech": "Технички подробности",
+	"pb-about-pb-tech-text": "<p>За посредников користиме <a href=\"https://mk.wikipedia.org/wiki/Пајтон_%28програмски_јазик%29\">Python</a> и <a href=\"https://mk.wikipedia.org/wiki/MySQL\">MySQL</a>. Изворниот код се објавува под условите на <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">ГНУ-овата ограничена општа јавна лиценца 3</a> (LGPL 3) и можете да го најдете <a href=\"https://github.com/tool-labs/pb\">на GitHub</a>. Пријавите за грешки, барањата за нови функции и другите примедби упатувајте ги <a href=\"https://github.com/tool-labs/pb/issues/new\">на следачот на проблеми на GitHub</a> или пак известувајќи ги одговорните на <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">страницата за разговор на Википедија</a>.</p>\n    <p>Тековни складирани верзии на базата на „Лични познанства“ ќе најдете <a href=\"/pb/sql-dumps\">тука</a>.</p>\n    <p>Користиме неколку икони направени со проектот <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Овој проект се однесува на личнитете познанства на викимедијанците.</p>\n    <p>Прв пат го спроведоа Ули Пурвин (Ulli Purwin, за посредникот) и Euku (бот). На почетокот на 2011 г, Вигелс (Wiegels) и Ирејас (Ireas) му се придружија на Ули во изработката на посредникот. Сега проектот повеќе не е вдомен во личен осплужувач уку на Викимедиините лаборатории.</p>\n    <p>Повеќе информации за проектов ќе најдете на германската Википедија, и тоа на страницата <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften?uselang=mk\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "За проектот",
+	"pb-change-language": "Смени јазик",
+	"pb-comment": "Коментар",
+	"pb-confirmations-given": "Дадени потврди",
+	"pb-confirmations-taken": "Примени потврди",
+	"pb-current-confirmations": "Има вкупнјо $1 потврди, што претставува околу <abbr title=\"$2\">$3</abbr> дневно.",
+	"pb-current-figures": "Тековни бројки",
+	"pb-current-users": "Во моментов во проектот <em>Лични познанства</em> учествуваат $1 корисници.",
+	"pb-date": "Датум",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften?uselang=mk\" title=\"Wikipedia:Persönliche Bekanntschaften на германската Википедија\">[[Wikipedia:Persönliche Bekanntschaften]]</a> на Лабораториите за алатки (Tool Labs). <a href=\"$1\" title=\"За Wikipedia:Persönliche Bekanntschaften\">Повеќе информации.</a>",
+	"pb-home": "Почетна",
+	"pb-home-welcome": "Добре дојдовте на проектот <em>Лични познанства</em> (гер. <em>Persönliche-Bekanntschaften</em>)!  Повеќе информации за него ќе најдете на страницата <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften?uselang=mk\" title=\"Wikipedia:Persönliche Bekanntschaften на германската Википедија\">на германската Википедија</a>.",
+	"pb-javascript-notice": "Ви порепорачуваме да го овозможите JavaScript за подобар кориснички посредник.",
+	"pb-labs-name": "Викимедиини лаборатории за алатки",
+	"pb-participates-since": "Учествува од",
+	"pb-name": "Википедија:Лични познанства",
+	"pb-powered-by-labs": "Овозможено од Викимедиините лаборатории за алатки",
+	"pb-recent-confirmations": "Скорешни потврди",
+	"pb-reconfirmed": "Препотврдено?",
+	"pb-user": "Корисник",
+	"pb-user-link-title": "Подробоности за корисникот $1",
+	"pb-user-heading": "Информации за <a href=\"$2\" title=\"Корисинчка страница на $1\">$1</a>",
+	"pb-user-title": "Информации за $1",
+	"pb-users-navi": "Корисници",
+	"pb-users-title": "Список на учесници",
+	"pb-users-overview": "Во проектот <em>Лично познанство</em> учествуваат следниве $1 корисници:",
+	"pb-verified-since": "Потврдено на"
+}

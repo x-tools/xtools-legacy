@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sahran"
+		]
+	},
+	"toolserver-status-ok": "ساندان توپلاشتۇرغۇچ $1 $2 دا مەسىلە يوق",
+	"toolserver-status-info": "توپلاشتۇرغۇچنىڭ ئىشلەتكۈچى ئۈچۈن ئىزاھاتى $1: $2",
+	"toolserver-status-warn": "توپلاشتۇرغۇچنىڭ ئىشلەتكۈچى ئۈچۈن ئاگاھلاندۇرۇشى $1: $2",
+	"toolserver-status-down": "ساندان توپلاشتۇرغۇچ $1 ۋاقىتلىق تاقالدى. $2",
+	"toolserver-status-erro": "ساندان توپلاشتۇرغۇچ $1 تاقالدى. $2",
+	"toolserver-status-unknown": "توپلاشتۇرغۇچ $1 نىڭ يوچۇن ھالىتى",
+	"toolserver-status-missing": "توپلاشتۇرغۇچ $1 مەۋجۇت ئەمەس",
+	"toolserver-status-short-ok": "$1: ياخشى",
+	"toolserver-status-short-info": "$1: ئۇچۇر",
+	"toolserver-status-short-warn": "$1: ئاگاھلاندۇرۇش",
+	"toolserver-status-short-down": "$1: توختىدى",
+	"toolserver-status-short-erro": "$1: خاتالىق",
+	"toolserver-status-short-unknown": "$1: يوچۇن",
+	"toolserver-status-short-missing": "$1: كەم"
+}

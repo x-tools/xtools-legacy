@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"asc": "आरुह्",
+	"changelog": "किं नवीनम्",
+	"cvn-adder-empty": "अज्ञातम्",
+	"cvn-reason": "कारणम्",
+	"cvn-reason-empty": "न किमपि कारणं प्राप्तम्",
+	"desc": "अवरुह्",
+	"documentation": "प्रलेखनम्",
+	"filter": "शोधनी",
+	"limit": "सीमा",
+	"namespace": "नामाकाशः",
+	"select-placeholder-none": "(नैकम्)",
+	"showAnonOnly": "अनामकमात्रम्",
+	"tag": "अङ्कनम्",
+	"time-from": "तः",
+	"type": "प्रकारः",
+	"typeEdit": "सम्पादनानि",
+	"typeNew": "नवीनपृष्ठानि",
+	"userfilter": "योजकशोधनी"
+}

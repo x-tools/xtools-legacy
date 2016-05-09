@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"rank": "rangas",
+	"settings": "Nustatymai",
+	"help": "pagalba",
+	"today": "šiandien",
+	"all": "visi",
+	"enterSearchTerm": "įveskite paieškos terminą",
+	"allLang": "Visos kalbos",
+	"popular": "populiarus",
+	"interlang_proj": "tarptautiniai projektai",
+	"other_lang": "kitomis kalbomis",
+	"misc": "įvairūs",
+	"language": "kalba",
+	"myfavs": "Mėgstamiausi",
+	"mycontribs": "Įnašai",
+	"mywatchlists": "Stebimų sąrašas",
+	"myworklist": "Darbo sąrašas",
+	"overall": "Bendras",
+	"discussion": "Aptarimas",
+	"portal": "Portalas",
+	"project": "Projektas",
+	"category": "Kategorija",
+	"template": "Šablonas",
+	"specialPage": "Specialusis puslapis",
+	"helpPage": "Pagalbos puslapis",
+	"wikiThanks": "Ačiū",
+	"log": "žurnalas",
+	"size": "dydis",
+	"revisions": "Peržiūros",
+	"first": "pirmas",
+	"last": "paskutinis",
+	"total": "iš viso",
+	"deleted": "ištrinta",
+	"inPeriod": "laikotarpyje",
+	"links": "Nuorodos",
+	"out": "iš",
+	"in": "į"
+}

@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"title": "Descarga de imaxes por categoría",
+	"subtitle": "Un xeito doado de descargar as imaxes presentes nunha categoría",
+	"project": "Proxecto:",
+	"category": "Categoría:",
+	"thumbnailing": "Miniatura",
+	"max-width": "Ancho máximo:",
+	"max-height": "Altura máxima:",
+	"invalid-width": "Ancho incorrecto",
+	"invalid-height": "Altura incorrecta",
+	"no-such-project": "Ese proxecto non existe",
+	"no-images": "Non hai imaxes na categoría",
+	"category-is-url": "O nome da categoría especificado semella un enderezo URL. Cómpre especificar o nome da categoría, non o seu URL.",
+	"category-contains-namespace": "Semella que incluíu o espazo de nomes xunto ao nome da categoría. Co nome dado, a páxina estaría dispoñible en [[Category:$1]].",
+	"zip-failed": "Erro na creación do ZIP",
+	"image-area-too-big": "\"$1\" é grande de máis para crear unha miniatura. Emprégase o tamaño completo.",
+	"download-info": "{{plural: $1|Hai unha imaxe|Hai $1 imaxes}}, cun tamaño estimado de $2",
+	"download": "Descargar",
+	"readme-contents": "O ficheiro \"$4\" incluído lista\nas imaxes na categoría \"$1\" ($2)$3.\n\n== Instrucións para descargar todas as imaxes ==\nO tempo de descarga pode variar duns minutos a varias horas.\n\nWindows:\n Extraia todos os ficheiros no mesmo cartafol e execute $5\n $6\nLinux/Mac OS:\n Extraia todos os ficheiros e abra un terminal nese cartafol. Execute sh $5",
+	"non-bundled-wget": "Nota: Esta versión non inclúe wget para Windows. Terá que descomprimir\nnun cartafol con wget.exe ou ter wget na RUTA",
+	"wget-info": "Este ficheiro contén unha copia de wget $1 (para a plataforma Windows). Wget é software libre,\nbaixo os termos da LICENZA PÚBLICA XERAL DE GNU versión 3.\nA continuación hai unha copia da licenza e tamén está dispoñible en http://www.gnu.org/licenses/gpl-3.0.txt\n\nEn caso de estar interesado en obter o código fonte deste programa, pode descargalo en\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nou nestoutro espello de GNU\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", escaladas a un ancho máximo de $1 {{plural:$1|píxel|píxeles}}",
+	"scaling-height": ", escaladas a unha altura máxima de $1 {{plural:$1|píxel|píxeles}}",
+	"scaling-both": ", escaladas a un tamaño máximo de $1x$2 píxeles"
+}

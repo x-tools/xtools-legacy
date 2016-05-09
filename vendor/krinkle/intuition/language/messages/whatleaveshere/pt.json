@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"label-page": "Página",
+	"label-namespace": "Domínio",
+	"label-limit": "Limite",
+	"button-submit": "Ir",
+	"whatlinkshere": "Páginas afluentes",
+	"istemplate": "transclusão",
+	"isfile": "ligação para ficheiro",
+	"section-iwlinks": "Ligações interlínguas"
+}

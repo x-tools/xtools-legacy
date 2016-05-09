@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki",
+			"Whym",
+			"Sujiniku"
+		]
+	},
+	"fullname": "ツールの国際化",
+	"current-settings": "現在の設定",
+	"current-language": "選択されている言語",
+	"settings-legend": "設定",
+	"choose-language": "言語を選択",
+	"clear-cookies": "Cookie を消去",
+	"renew-cookies": "Cookie を更新",
+	"cookie-expiration": "Cookie の有効期限",
+	"clearcookies-success": "Cookie を消去しました。",
+	"renewcookies-success": "Cookie を更新しました。今後$1のあいだ有効です。",
+	"tab-overview": "概要",
+	"tab-settings": "設定",
+	"tab-about": "解説",
+	"tab-demo": "デモ",
+	"bl-mysettings": "自分の言語設定",
+	"bl-mysettings-new": "言語を変更",
+	"bl-promo": "翻訳したのは $1 と $2 です。",
+	"bl-changelanguage": "このツールのインターフェイス言語を変更する",
+	"usage": "Intuition が翻訳したツールです。",
+	"help-translate-tool": "このツールの翻訳を手伝う",
+	"help-translate-all": "ツールの翻訳を手伝う",
+	"help-translate-tooltip": "インターフェイスメッセージをあなたの言語に翻訳して他の利用者を助けます。"
+}

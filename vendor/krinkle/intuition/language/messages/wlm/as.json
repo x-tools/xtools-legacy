@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia",
+			"Simbu123"
+		]
+	},
+	"file": "চিত্ৰ",
+	"monument-type": "স্মৃতিস্তম্ভ প্ৰকাৰ",
+	"monument-id": "স্মৃতিস্তম্ভ নম্বৰ",
+	"author": "স্ৰষ্টা",
+	"country-header": "দেশ",
+	"location": "অৱস্থান",
+	"upload-time": "আপল’ড সময়",
+	"deleted": "বিলোপিত ($1)",
+	"not-available": "উপলব্ধ নহয়",
+	"date-unknown": "অজ্ঞাত",
+	"total-images": "মুঠ চিত্ৰৰ সংখ্যা: $1",
+	"view-uncategorized-images": "অশ্ৰেণীভূক্ত চিত্ৰসমূহ চাওক",
+	"show-images-all": "সকলো চিত্ৰ দেখুৱাওক",
+	"search-monuments": "স্মৃতিস্তম্ভ অনুসন্ধান কৰক",
+	"view-frequency": "জনপ্ৰিয় স্মৃতিস্তম্ভ",
+	"country-label": "দেশ:",
+	"all-countries": "সকলো দেশ",
+	"limit-label": "প্রদর্শনৰ বাবে চিত্ৰসমূহ:",
+	"timezone-label": "সময় স্থান:",
+	"show-button": "দেখুৱাওক",
+	"bot": "বট",
+	"id-label": "স্মৃতিস্তম্ভ নং:",
+	"id-none": "(নাই)",
+	"monument-heading": "স্মৃতিস্তম্ভ",
+	"count-heading": "স্থিৰচিত্ৰ",
+	"photographer-count-heading": "আলোকচিত্ৰশিল্পী",
+	"bic-list": "তালিকা",
+	"bic-gallery": "গেলাৰী",
+	"author-heading": "স্ৰষ্টা",
+	"bic-list-bad": "দেখুৱাওক",
+	"bic-list-all": "সম্পূৰ্ণ তালিকা",
+	"unregistered": "অনিবন্ধিত",
+	"users-list": "দেখুৱাওক",
+	"province-none": "(অজ্ঞাত)",
+	"nomail-user-count": "$1 ব্যৱহাৰকাৰী"
+}

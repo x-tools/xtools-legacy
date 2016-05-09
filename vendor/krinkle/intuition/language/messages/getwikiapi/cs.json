@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jezevec",
+			"Vks"
+		]
+	},
+	"formats-heading": "Výstupní formáty",
+	"input": "Vstup",
+	"label-wikiids": "Identifikátory Wiki",
+	"no-matches": "Nic neodpovídá dotazu \"$1\"",
+	"output": "Výstup pro \" $1 \""
+}

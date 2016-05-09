@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Siddhartha Ghai",
+			"NehalDaveND"
+		]
+	},
+	"title-overview": "स्नैपशॉट्स",
+	"title-error": "त्रुटि",
+	"title-updatelog": "अद्यतन लॉग",
+	"download-button": "$1 डाउनलोड करें",
+	"download-directlink": "सीधा लिंक",
+	"title-downloadpage": "डाउनलोड",
+	"title-downloadpage-repo": "डाउनलोड $1",
+	"err-snapshotindex": "स्नैपशॉट सूचकांक अस्थायी रूप से अनुपलब्ध। कृपया बाद में पुनः प्रयास करें।",
+	"err-invalid-repo": "अज्ञात भंडारघर: \"$1\"",
+	"err-noupdatelog": "कोई अद्यतन लॉग नहीं मिली।",
+	"repo-site-link": "वेबसाइट",
+	"repo-browse-link": "भण्डार ब्राउज़ करें",
+	"repo-branches-label": "शाखाएँ:",
+	"repo-lastmoddate-label": "दिनांक:",
+	"branches-submit-button": "समझ में आ गया!",
+	"updatelog-link": "अद्यतन लॉग",
+	"tablehead-repo": "भण्डार",
+	"tablehead-snapshots": "स्नैपशॉट्स",
+	"tablehead-branch": "शाखा",
+	"tablehead-filesize": "फ़ाइल आकार"
+}

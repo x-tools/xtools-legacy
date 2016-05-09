@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"title-overview": "Fòto",
+	"title-error": "Eror",
+	"title-updatelog": "Agiorné ël registr",
+	"updatelog-intro": "Ël copion d'agiornament a l'é programà për marcé tute j'ore. Sì-sota a-i é la surtìa dla plancia dl'ùltima esecussion.",
+	"updatelog-active": "Ël copion d'agiornament a l'é an camin ch'a marcia. Ch'a torna pi tard për ël registr complet.",
+	"download-button": "Dëscaria $1",
+	"download-directlink": "liura direta",
+	"title-downloadpage": "Dëscaria: $1",
+	"err-snapshotindex": "Tàula dle fòto al moment nen disponìbij. Për piasì, ch'a preuva torna pi tard.",
+	"err-invalid-repo": "Depòsit pa conossù: \"$1\".",
+	"err-invalid-branch": "Session pa conossùa: \"$1\" ant ël depòsit \"$2\".",
+	"err-nosnapshot": "Le plance a son generà minca pòche ore. Antramentre ch'as generavo le plance për «$1», a l'é capitaje n'eror. Për piasì, ch'a preuva torna pi tard.",
+	"err-noupdatelog": "Gnun agiornament ëd registr a son stàit trovà.",
+	"repo-site-link": "Sit dl'aragnà",
+	"repo-browse-link": "Navighé ant ël depòsit",
+	"repo-branches-label": "Session:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Otenlo!",
+	"updatelog-link": "agiorné el registr",
+	"tablehead-repo": "Depòsit",
+	"tablehead-snapshots": "Fòto",
+	"tablehead-branch": "Session",
+	"tablehead-filesize": "Amzure dl'archivi",
+	"tablehead-hash": "Gifre ëd contròl"
+}

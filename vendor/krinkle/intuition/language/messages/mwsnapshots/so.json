@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"title-overview": "Ka qaadis",
+	"title-error": "Qalad",
+	"title-updatelog": "Dib u howl galin astaanta",
+	"updatelog-intro": "Dib u howl galinta script si uu saacad walba ushaqeeyo. Hoos waxaa ka heli kartaa wax lagu soo saaro ka shaqayn siintii ugu dambaysay.",
+	"updatelog-active": "Dib u howl galin script waa kan shaqaynaya hadda. Soo laabo hadhoow si aad isu diiwaan galiso.",
+	"download-button": "Soo daji $1",
+	"download-directlink": "Link toos ah",
+	"title-downloadpage": "Soo daji $1",
+	"err-snapshotindex": "Tilmaame qaade lama heli karo hadda. isku day mar kale fadlan.",
+	"err-invalid-repo": "kayd aan la aqoon: \"$1\".",
+	"err-invalid-branch": "Farac aan la aqoon: \"$1\" ee kayd \"$2\".",
+	"err-nosnapshot": "Saacada yar kasta waxaa la qaadaa sawiro. waxaa dhacday cilad markii la sameeynayey qaadidda \"$1\", fadlan isku day mar kale.",
+	"err-noupdatelog": "lama helin wax diiwaan gashay ee dub u howl galin ah.",
+	"repo-site-link": "Website",
+	"repo-browse-link": "Browse kaydka",
+	"repo-branches-label": "Faracyada:",
+	"repo-lastmoddate-label": "Taariikh:",
+	"branches-submit-button": "Hel!",
+	"updatelog-link": "Dib u howl galin astaanta",
+	"tablehead-repo": "Kaydka",
+	"tablehead-snapshots": "Ka qaadis",
+	"tablehead-branch": "Farac",
+	"tablehead-filesize": "Cabirka fileka",
+	"tablehead-hash": "Lagu kalsoonaan karo"
+}

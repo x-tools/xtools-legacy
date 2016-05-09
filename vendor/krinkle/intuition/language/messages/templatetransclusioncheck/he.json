@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"title": "בדיקת קישורים והכללה של תבניות",
+	"description": "בודק ומדווח אילו ערכים שמכלילים תבנית אינם מקושרים מהתבנית, ואילו ערכים שמקושרים מתבנית אינם מכלילים אותה.",
+	"form-label-language": "שפה:",
+	"form-label-template": "שם התבנית:",
+	"form-label-template2": "(כולל מרחב השם)",
+	"form-label-complete": "יצירת דו\"ח מלא:",
+	"feedback-template-missing": "התבנית $1 אינה קיימת.",
+	"feedback-template-noaccess": "נראה שהתבנית $1 קיימת, אבל אינה זמינה ממסד הנתונים. ייתכן שזאת בעיית מסד נתונים זמנית. מסד הנתונים ששימש: $2.",
+	"feedback-result": "תוצאות עבור $1",
+	"feedback-header-mismatch": "חוסר התאמה בין הכללות וקישורים",
+	"feedback-header-no-link": "הכללה ללא קישור",
+	"feedback-header-no-transclusion": "קישור ללא הכללה",
+	"feedback-header-redirects": "קישורים להפניות",
+	"feedback-total-count": "סה\"כ: $1",
+	"feedback-header-complete": "סקירה מלאה של הכללה וקישור",
+	"feedback-header-transclusions": "הכללות של התבנית",
+	"feedback-header-links": "קישורים מהתבנית",
+	"link-edit": "עריכה",
+	"link-create": "יצירה",
+	"link-complete": "דו\"ח מלא...",
+	"footer-stats": "נוצר: $1. משך: {{PLURAL:$2|שנייה אחת|$2 שניות}}.",
+	"error-language": "קוד שפה בלתי־ידוע."
+}

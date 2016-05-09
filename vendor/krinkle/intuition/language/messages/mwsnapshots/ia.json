@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"title-overview": "Instantaneos",
+	"title-error": "Error",
+	"title-updatelog": "Registro de actualisation",
+	"updatelog-intro": "Le script de actualisation es programmate pro esser executate cata hora. Ecce le resultato de consola del ultime execution.",
+	"updatelog-active": "Le script de actualisation es actualmente in execution. Reveni plus tarde pro le registro complete.",
+	"download-button": "Discargar $1",
+	"download-directlink": "ligamine directe",
+	"title-downloadpage": "Discargar: $1",
+	"err-snapshotindex": "Indice de instantaneos temporarimente indisponibile. Per favor reproba plus tarde.",
+	"err-invalid-repo": "Repositorio incognite: \"$1\".",
+	"err-invalid-branch": "Branca incognite: \"$1\" in repositorio \"$2\".",
+	"err-nosnapshot": "Le instantaneos es generate cata poc horas. Durante le generation del instantaneo \"$1\" occurreva un error. Per favor reproba plus tarde.",
+	"err-noupdatelog": "Nulle registro de actualisation ha essite trovate.",
+	"repo-site-link": "Sito web",
+	"repo-browse-link": "Explorar repositorio",
+	"repo-branches-label": "Brancas:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Obtene lo!",
+	"updatelog-link": "registro de actualisation",
+	"tablehead-repo": "Repositorio",
+	"tablehead-snapshots": "Instantaneos",
+	"tablehead-branch": "Branca",
+	"tablehead-filesize": "Dimension del file",
+	"tablehead-hash": "Summas de controlo"
+}

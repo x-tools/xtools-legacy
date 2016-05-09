@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps",
+			"Sp5uhe"
+		]
+	},
+	"moretools": "więcej narzędzi",
+	"homepage-title": "wprowadzenie",
+	"bugs": "raporty o błędach i propozycje zmian",
+	"comments": "uwagi i pytania",
+	"error-form-empty": "Jedno lub więcej wymaganych pól pozostało pustych. Musisz je wypełnić, aby móc kontynuować."
+}

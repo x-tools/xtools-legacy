@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"title-overview": "Тез түсірілген фотосурет",
+	"title-error": "Қате",
+	"title-updatelog": "Журналды жаңарту",
+	"download-button": "Тез түсірілген фотосуретті түсіру",
+	"download-directlink": "Тура сілтеме",
+	"title-downloadpage": "Түсіру",
+	"title-downloadpage-repo": "$1 дегенді жүктеу",
+	"err-snapshotindex": "Тез түсірілген фотосуреттің индексі уақытша белгісіз. Қайта көріңіз.",
+	"err-invalid-repo": "Белгісіз репозтория: «$1».",
+	"err-invalid-branch": "Белгісіз бөлім: «$2» репозоториясындағы «$1» .",
+	"err-noupdatelog": "Жаңарту журналы табылмады.",
+	"repo-site-link": "Уеб сайт",
+	"repo-browse-link": "Репозиторияны шолу",
+	"repo-branches-label": "Бөлімшелер:",
+	"repo-lastmoddate-label": "Ай-күні:",
+	"branches-submit-button": "Мынаны алу!",
+	"updatelog-link": "журналды жаңарту",
+	"tablehead-repo": "Репозитория",
+	"tablehead-snapshots": "Тез түсірілген фотосурет",
+	"tablehead-branch": "Бөлім",
+	"tablehead-filesize": "Файл өлшемі"
+}

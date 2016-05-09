@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"title-overview": "Mga kuha ng kamera",
+	"title-error": "Kamalian",
+	"title-updatelog": "Isapanahon ang talaan",
+	"updatelog-intro": "Ang panitik ng pagsasapanahon ay nakatakdang umandor tuwing isang oras. Nasa ibaba ang lumabas sa entrepanyo mula sa huling pag-andar.",
+	"updatelog-active": "Kasalukuyang umaandar ang panitik na pangpagsasapanahon. Bumalik mamaya para sa buong pagtatala.",
+	"download-button": "Ikargang paibaba ang $1",
+	"download-directlink": "tuwirang kawing",
+	"title-downloadpage": "Ikargang paibaba: $1",
+	"err-snapshotindex": "Pansamantalang hindi makuha ang talatuntunan ng kuha ng kamera. Subukan na lang ulit mamaya.",
+	"err-invalid-repo": "Hindi nakikilalang taguan: \"$1\".",
+	"err-invalid-branch": "Hindi nakikilalang sangay: \"$1\" na nasa loob ng taguang \"$2\".",
+	"err-nosnapshot": "Ang mga kuha ng kamera ay nalilikha tuwing ilang mga oras. Naganap ang isang kamalian habang nililikha ang kuha ng kamera para sa \"$1\". Subukan ulit mamaya.",
+	"err-noupdatelog": "Walang natagpuang tala ng pagsasapanahon.",
+	"repo-site-link": "Websayt",
+	"repo-browse-link": "Tumingin-tingin sa repositoryo",
+	"repo-branches-label": "Mga sangay:",
+	"repo-lastmoddate-label": "Petsa:",
+	"branches-submit-button": "Kunin iyan!",
+	"updatelog-link": "isapanahon ang talaan",
+	"tablehead-repo": "Repositoryo",
+	"tablehead-snapshots": "Mga kuha ng kamera",
+	"tablehead-branch": "Sangay",
+	"tablehead-filesize": "Sukat ng talaksan",
+	"tablehead-hash": "Suriin ang mga suma"
+}

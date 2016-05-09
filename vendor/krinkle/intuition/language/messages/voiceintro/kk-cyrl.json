@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Жазу",
+	"voiceintro-toolbar-stop-label": "Тоқтату",
+	"voiceintro-toolbar-clear-label": "Тазарту",
+	"voiceintro-toolbar-upload-label": "Жүктеу",
+	"voiceintro-webaudio-not-supported": "WebAudio API бұл броузерде қолдамайды",
+	"voiceintro-upload-publish-succeeded": "Жазба сәтті жүктелді:",
+	"voiceintro-upload-publish-failed": "Жазба жүктелмеді.",
+	"voiceintro-information-label": "Ақпарат",
+	"voiceintro-information-speaker-label": "Сөйлеушінің аты:",
+	"voiceintro-information-language-label": "Тілі:",
+	"voiceintro-recording-notify": "Жазылуда..."
+}

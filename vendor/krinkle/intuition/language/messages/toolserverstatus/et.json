@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avjoska",
+			"Pikne"
+		]
+	},
+	"toolserver-status-ok": "Andmebaasikobaras $1 pole probleeme $2",
+	"toolserver-status-info": "Teadaanne kobara $1 kasutajatele: $2",
+	"toolserver-status-warn": "Hoiatus kobara $1 kasutajatele: $2",
+	"toolserver-status-down": "Andmebaasikobar $1 on ajutiselt välja lülitatud. $2",
+	"toolserver-status-erro": "Andmebaasikobar $1 on maas. $2",
+	"toolserver-status-unknown": "Kobara $1 tundmatu olek",
+	"toolserver-status-missing": "Kobarat $1 pole olemas.",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Andmed",
+	"toolserver-status-short-warn": "$1: Hoiatus",
+	"toolserver-status-short-down": "$1: Alla",
+	"toolserver-status-short-erro": "$1: Viga",
+	"toolserver-status-short-unknown": "$1: Tundmatu",
+	"toolserver-status-short-missing": "$1: Puudub"
+}

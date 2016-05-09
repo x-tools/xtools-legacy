@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"Dj"
+		]
+	},
+	"moretools": "további eszközök",
+	"homepage-title": "Bevezetés",
+	"bugs": "hibajelentések és fejlesztési ötletek",
+	"comments": "hozzászólások és kérések",
+	"error-form-empty": "A szükséges mezők közól egy vagy több üresen maradt. Töltsd ki őket a folytatás előtt."
+}

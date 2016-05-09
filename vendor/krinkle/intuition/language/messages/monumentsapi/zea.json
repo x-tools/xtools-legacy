@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Troefkaart"
+		]
+	},
+	"search-table-th-search": "Zoek",
+	"filter-all-countries": "Aolle lan'n",
+	"filter-all-languages": "Aolle taelen",
+	"db-field-country": "Land",
+	"db-field-lang": "Taele",
+	"db-field-name": "Naem",
+	"db-field-address": "Adres",
+	"db-field-municipality": "Gemeênte"
+}

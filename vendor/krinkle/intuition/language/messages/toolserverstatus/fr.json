@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jean-Frédéric",
+			"Od1n"
+		]
+	},
+	"toolserver-status-ok": "Il n’y a pas de problèmes dans le cluster de base de données $1 $2",
+	"toolserver-status-info": "Avis aux utilisateurs du cluster  $1 : $2",
+	"toolserver-status-warn": "Avertissement pour les utilisateurs du cluster  $1 : $2",
+	"toolserver-status-down": "Le cluster de base de données $1  a été temporairement arrêté. $2",
+	"toolserver-status-erro": "Le cluster de base de données $1 est en panne. $2",
+	"toolserver-status-unknown": "Statut du cluster $1 inconnu",
+	"toolserver-status-missing": "Le cluster $1 n’existe pas",
+	"toolserver-status-short-ok": "$1 : Ok",
+	"toolserver-status-short-info": "$1 : Info",
+	"toolserver-status-short-warn": "$1 : Avertissement",
+	"toolserver-status-short-down": "$1 : En panne",
+	"toolserver-status-short-erro": "$1 : Erreur",
+	"toolserver-status-short-unknown": "$1 : Inconnu",
+	"toolserver-status-short-missing": "$1 : Absent"
+}

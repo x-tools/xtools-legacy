@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"title-overview": "Njezjapke bildki",
+	"title-error": "Zmólka",
+	"title-updatelog": "Aktualizěrowański protokol",
+	"updatelog-intro": "Aktualizěrowański skript wuwjeźo se kuždu góźinu. Dołojce jo wudaśe konsole za slědny běg.",
+	"updatelog-active": "Aktualizěrowański skript tuchylu běžy. Wroś se pšosym pózdźej, aby se dopołny protokol woglědał.",
+	"download-button": "$1 ześěgnuś",
+	"download-directlink": "direktny wótkaz",
+	"title-downloadpage": "Ześěgnjenje: $1",
+	"err-snapshotindex": "Indeks njezjapkich bildkow njestoj k dispoziciji. Pšosym wopytaj pózdźej hyšći raz.",
+	"err-invalid-repo": "Njeznaty repozitorium: \"$1\".",
+	"err-invalid-branch": "Njeznata gałuza: \"$1\" w repozitoriumje \"$2\".",
+	"err-nosnapshot": "Njezjapka bildka generěrujo se kužde pór góźin. Za generěrowanje njezjapkeje bildki za \"$1\" jo zmólka nastała. Pšosym wopytaj pózdźej hyšći raz.",
+	"err-noupdatelog": "Aktualizowański protokol njejo se namakał.",
+	"repo-site-link": "Websedło",
+	"repo-browse-link": "Repozitorium pśepytaś",
+	"repo-branches-label": "Gałuzki:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Ześěgnuś",
+	"updatelog-link": "aktualizěrowański protokol",
+	"tablehead-repo": "Repozitorium",
+	"tablehead-snapshots": "Njezjapke bildki",
+	"tablehead-branch": "Gałuza",
+	"tablehead-filesize": "Wjelikosć dataje",
+	"tablehead-hash": "Testowańske sumy"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt"
+		]
+	},
+	"toolserver-status-ok": "A-i é gnun problema ant ël sistema ëd base ëd dàit $1 $2",
+	"toolserver-status-info": "avis për j'utent dël sistema $1: $2",
+	"toolserver-status-warn": "Avis për j'utent dël sistema $1: $2",
+	"toolserver-status-down": "Ël sistema $1 ëd base ëd dàit a l'é stàit temporaneament sarà. $2",
+	"toolserver-status-erro": "Ël sistema $1 ëd base ëd dàit a marcia nen. $2",
+	"toolserver-status-unknown": "Statù dël sistema $1 pa conossù",
+	"toolserver-status-missing": "El sistema $1 a esist pa",
+	"toolserver-status-short-ok": "$1: Va bin",
+	"toolserver-status-short-info": "$1: Anformassion",
+	"toolserver-status-short-warn": "$1: Avis",
+	"toolserver-status-short-down": "$1: Giù",
+	"toolserver-status-short-erro": "$1: Eror",
+	"toolserver-status-short-unknown": "$1: Pa conossù",
+	"toolserver-status-short-missing": "$1: Mancant"
+}

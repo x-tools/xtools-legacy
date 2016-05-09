@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Glavkos"
+		]
+	},
+	"file": "Εικόνα",
+	"country-header": "Χώρα",
+	"location": "Τοποθεσία",
+	"deleted": "Διαγράφηκε το ($1)",
+	"date-unknown": "Άγνωστο",
+	"show-images-all": "Εμφάνιση όλων των εικόνων",
+	"search-monuments": "Αναζήτηση μνημείων",
+	"country-label": "Χώρα:",
+	"all-countries": "Όλες οι χώρες",
+	"show-button": "Εμφάνιση",
+	"bot": "Bot",
+	"count-heading": "Φωτογραφίες",
+	"photographer-count-heading": "Φωτογράφοι",
+	"bic-list": "Κατάλογος",
+	"bic-gallery": "Γκαλερί",
+	"author-heading": "Συγγραφέας",
+	"bic-list-bad": "Εμφάνιση",
+	"bic-list-all": "Πλήρης κατάλογος",
+	"users-list": "Προβολή",
+	"nomail-user-count": "$1 χρήστες"
+}

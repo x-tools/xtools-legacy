@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwisha",
+			"Stephenwanjau"
+		]
+	},
+	"title": "Pakua picha kwa jamii",
+	"subtitle": "Njia rahisi ya kupakua picha katika jamii",
+	"project": "Mradi:",
+	"category": "Jamii:",
+	"max-width": "Upeo wa upana:",
+	"max-height": "Upeo wa urefu:",
+	"invalid-width": "Upana batili",
+	"invalid-height": "Urefu batili",
+	"no-such-project": "Hakuna mradi kama huo",
+	"no-images": "Hakuna picha katika jamii hiyo",
+	"image-area-too-big": "$1 ni kubwa sana kutengeneza kijipicha. Tumia saizi nzima.",
+	"download": "Pakua",
+	"scaling-width": ", imepanuliwa hadi upeo wa upana wa $1 {{plural:$1|piseli|piseli}}",
+	"scaling-height": ", imepanuliwa hadi upeo wa urefu wa $1 {{plural:$1|piseli|piseli}}",
+	"scaling-both": ", imepanuliwa hadi upeo wa saizi wa piseli $1x$2."
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebraminio",
+			"Reza1615",
+			"Wayiran"
+		]
+	},
+	"fullname": "بین‌المللی سازی برای ابزارها",
+	"current-settings": "تنظیمات کنونی",
+	"current-language": "انتخاب زبان",
+	"settings-legend": "تنظیمات",
+	"choose-language": "یک زبان را انتخاب کنید",
+	"clear-cookies": "پاک‌کردن کوکی‌ها",
+	"renew-cookies": "تجدید کوکی‌ها",
+	"cookie-expiration": "انقضای کوکی",
+	"clearcookies-success": "کوکی‌ها با موفقیت پاک شدند.",
+	"renewcookies-success": "کوکی‌ها تازه شدند! شما برای $1 بعدی کاملاً آماده هستید.",
+	"tab-overview": "چشم‌انداز",
+	"tab-settings": "تنظیمات",
+	"tab-about": "درباره",
+	"tab-demo": "نسخهٔ نمایشی",
+	"bl-mysettings": "تنظیمات زبان من",
+	"bl-mysettings-new": "تغییر زبان!",
+	"bl-promo": "ترجمه شده توسط $1 و $2 تهیه شده‌اند.",
+	"bl-changelanguage": "تغییر زبان رابط  ابزار",
+	"usage": "ابزار ترجمه‌شده توسط درک.",
+	"help-translate-tool": "در ترجمه این ابزار کمک کنید!",
+	"help-translate-all": "در ترجمهٔ ابزارها کمک کنید!",
+	"help-translate-tooltip": "دیگران را با ترجمهٔ پیام‌های رابط به زبان‌تان کمک کنید!"
+}

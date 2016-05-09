@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps",
+			"Odder",
+			"Platonides",
+			"Sp5uhe",
+			"Ty221"
+		]
+	},
+	"hello": "Witaj",
+	"welcome": "Witaj",
+	"toolversion": "Wersja $1",
+	"toolversionstamp": "Wersja $1 z $2",
+	"etc": "itp.",
+	"namespace": "Przestrzeń nazw",
+	"form-submit": "Dalej",
+	"form-reset": "Wyczyść",
+	"years": "{{PLURAL:$1|rok|lata|lat}}",
+	"months": "{{PLURAL: $1|miesiąc|miesięcy}}",
+	"weeks": "{{PLURAL:$1|tydzień|tygodnie|tygodni}}",
+	"days": "{{PLURAL:$1|dzień|dni}}",
+	"hours": "{{PLURAL:$1|godzina|godziny|godzin}}",
+	"minutes": "{{PLURAL:$1|minuta|minuty|minut}}",
+	"seconds": "{{PLURAL:$1|sekunda|sekundy|sekund}}",
+	"last-modified-date": "Ostatnia modyfikacja $1",
+	"view-source": "Tekst źródłowy",
+	"and": "&#32;oraz"
+}

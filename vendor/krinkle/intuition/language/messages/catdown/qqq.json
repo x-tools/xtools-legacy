@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Fryed-peach",
+			"Krinkle",
+			"Shirayuki",
+			"Siebrand"
+		]
+	},
+	"title": "Title for the tool",
+	"subtitle": "Subtitle for the tool",
+	"project": "Caption for choosing the project domain.\n{{Identical|Project}}",
+	"category": "Label for the input to choose the category to dump. It is recommended to make it the same as the local NS_CATEGORY, with trailing :\n{{Identical|Category}}",
+	"thumbnailing": "Title for the inputs for max width and height",
+	"max-width": "Label of the input to set the maximum width of the thumbnails.",
+	"max-height": "Label of the input to set the maximum height of the thumbnails.",
+	"invalid-width": "Shown when an invalid width is provided",
+	"invalid-height": "Shown when an invalid height is provided",
+	"no-such-project": "Error given for wrong project (eg. 'qwerty.wikipedia')",
+	"no-images": "Shown when the category doesn't have any files",
+	"category-is-url": "Shown when a full URL is given as category name",
+	"category-contains-namespace": "Shown when a category with namespace is given as category. Paramters:\n* $1: Given category name.",
+	"zip-failed": "Generic error for when the zip creation failed",
+	"image-area-too-big": "Shown when an image cannot be thumbnailed. See http://www.mediawiki.org/wiki/Manual:$wgMaxImageArea\nParameters: $1: Name of the image",
+	"download-info": "Information shown on the download page. Parameters:\n* $1: Number of images.\n* $2: Estimated size of all the files in the system (in which unit?)",
+	"download": "Big link to download the zip.\n{{Identical|Download}}",
+	"readme-contents": "Contents of the README file. The result will be shown to the user as plain text (there's no wikitext parsing).\n* $1: Category name\n* $2: Category URL\n* $3: Result of scaling restrictions (one of {{msg-intuition|Catdown-scaling-none|notext=1}}, {{msg-intuition|Catdown-scaling-width|notext=1}}, {{msg-intuition|Catdown-scaling-height|notext=1}}, {{msg-intuition|Catdown-scaling-both|notext=1}} messages). To keep the sentence meaningful, you probably not want to place a space before this. Remember to translate scaling-width, scaling-height, scaling-both, or the users may face with half sentence in another language.\n* $4: Filename of the list.\n* $5 Name of the .bat script to run (script-filename msg)\n* $6: Note if wget for Windows was not bundled (contents of non-bundled-wget message if 'Bundle wget' was not checked)",
+	"non-bundled-wget": "Message added to the readme noting that the script won't work in Windows without a wget.exe (it is usually installed in other OS)",
+	"wget-info": "Text appended to the readme explaining the rights you have on the wget binary.\n* $1: Version of wget\n\nThe content of the gpl-3.0 is appended below this text (untranslated, as it is required by the license).",
+	"scaling-none": "{{optional}}\n\nAdded to readme-contents as $6 if there's no scaling",
+	"scaling-width": "Added to {{Msg-intuition|Catdown-readme-contents}} as $6 if the images are scaled down to a maximum width.\n* $1: Maximum width in pixels",
+	"scaling-height": "Added to readme-contents as $6 if the images are scaled to a maximum height.\n$1: Maximum height in pixels",
+	"scaling-both": "Added to readme-contents as $6 if the images are scaled to a maximum width and.\n* $1: Maximum width in pixels\n* $2: Maximum height in pixels",
+	"script-filename": "{{Optional}}\nName of the script which downloads the files.",
+	"readme-filename": "{{Optional}}\nName of the readme file"
+}

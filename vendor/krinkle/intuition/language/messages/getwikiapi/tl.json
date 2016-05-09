@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"formats-heading": "Mga anyo ng inilalabas",
+	"input": "Ipinapasok",
+	"label-wikiids": "Mga tagapagkilala ng Wiki",
+	"no-matches": "Walang tumugma sa \"$1\"",
+	"output": "Inilabas para sa \"$1\""
+}

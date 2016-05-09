@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"pb-about-pb-navi": "Туралы",
+	"pb-about-pb-tech": "Техникалық егжей тегжейі",
+	"pb-about-pb-title": "Жоба туралы",
+	"pb-change-language": "Тілді өзгерту",
+	"pb-comment": "Пікір",
+	"pb-confirmations-given": "Берілген құпталғандар",
+	"pb-current-figures": "Ең соңғы көрсеткіштері",
+	"pb-current-users": "Дәл қазір $1 қатысушы <em>Personal Acquaintances</em> жобасында қатысуда.",
+	"pb-date": "Ай-күні",
+	"pb-home": "Басты бет",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Мына мерзімнен кейін қатысқан:",
+	"pb-name": "Уикипедия:Persönliche Bekanntschaften",
+	"pb-recent-confirmations": "Жуықтағы құпталғандар",
+	"pb-reconfirmed": "Расталған ба?",
+	"pb-user": "Қатысушы",
+	"pb-user-link-title": "$1 қатысушысына егжей тегжейі",
+	"pb-user-heading": "<a href=\"$2\" title=\"User page of $1\">$1</a> дегенге мәлімет",
+	"pb-user-title": "$1 дегенге мәлімет",
+	"pb-users-navi": "Қатысушылар",
+	"pb-users-title": "Қатысушылар тізімі",
+	"pb-users-overview": "Мына $1 қатысушылар <em>Personal Acquaintance</em> жобасына қатысу:",
+	"pb-verified-since": "Мына мерзімнен кейін тексерілген:"
+}

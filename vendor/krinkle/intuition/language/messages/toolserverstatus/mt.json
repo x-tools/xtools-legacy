@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Avviżi",
+	"toolserver-status-short-down": "$1: Wieqaf",
+	"toolserver-status-short-erro": "$1: Żball",
+	"toolserver-status-short-unknown": "$1: Mhux magħruf",
+	"toolserver-status-short-missing": "$1: Nieqes"
+}

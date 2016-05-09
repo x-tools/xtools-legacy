@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"title": "Prevajanje SVG",
+	"error-tryagain": "$1 Za ponovni poskus v brskalniku kliknite gumb nazaj.",
+	"error-nothing": "Ničesar ni za prevesti.",
+	"error-notsvg": "Ni datoteka SVG.",
+	"error-unexpected": "Prišlo je do nepričakovane napake.",
+	"error-notfound": "Datoteke SVG ni bilo mogoče pridobiti z navedenega URL-a.",
+	"error-upload": "Pri nalaganju je prišlo do napake.",
+	"begin-translation": "Začni s prevajanjem",
+	"th-original": "Izvirno",
+	"th-translation": "Prevod",
+	"th-language": "Jezik",
+	"th-username": "Uporabniško ime",
+	"th-password": "Geslo",
+	"th-method": "Način",
+	"option-oauth": "OAuth (samodejno nalaganje)",
+	"option-manual": "Ročno nalaganje",
+	"preview": "Predogled",
+	"translate": "Prevedi",
+	"translate-instructions": "Za vnos so sprejemljiva tako imena datotek (npr. »$1«), kot tudi polni URL (npr. »$2«). Če je uporabljena prva možnost, bo kot vir predpostavljena Wikimedijina Zbirka. Za prevajanje SVG z druge strani ali wikija morate uporabiti obliko polnega URL.",
+	"svginput-label": "Datoteka SVG",
+	"stats-footer": "To orodje je bilo uporabljeno za prevajanje približno $1 datotek od $2.",
+	"uploading": "Nalaganje",
+	"upload-complete": "Nalaganje je uspešno dokončano. Slika bi morala biti na $1.",
+	"editdescriptionpage": "Uredi novo opisno stran",
+	"disclaimer": "Nekateri anonimni podatki se bodo zasebno zbirali v statistične namene. Če so na razpolago, bodo zabeležena tudi uporabniška imena OAuth za pomoč v primeru vandalizma. Gesla ne bodo nikoli zabeležena.",
+	"author-complete": "Prosimo, dopolnite informacije o avtorju!",
+	"preview-hide": "Skrij predogled",
+	"preview-refresh": "Osveži predogled",
+	"error-must-accept": "Če želite nadaljevati z neposrednim nalaganjem, morate sprejeti navedene pogoje uporabe.",
+	"description-license": "Izberite opis in licenco",
+	"finalise": "Dokončajte podrobnosti"
+}

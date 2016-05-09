@@ -1,0 +1,16 @@
+{
+	"@metadata": [],
+	"voiceintro-title": "VoiceIntro",
+	"voiceintro-toolbar-record-label": "Record",
+	"voiceintro-toolbar-stop-label": "Stop",
+	"voiceintro-toolbar-clear-label": "Clear",
+	"voiceintro-toolbar-upload-label": "Upload",
+	"voiceintro-webaudio-not-supported": "WebAudio API is not supported for this browser",
+	"voiceintro-upload-publish-succeeded": "Recording uploaded successfully:",
+	"voiceintro-upload-publish-failed": "Recording was not uploaded.",
+	"voiceintro-information-label": "Information",
+	"voiceintro-information-speaker-label": "Speaker's name:",
+	"voiceintro-information-language-label": "Language:",
+	"voiceintro-mic-access-notify": "Click \"Allow\" to allow the browser to access your microphone.",
+	"voiceintro-recording-notify": "Recording..."
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krish Dulal",
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"hello": "नमस्कार",
+	"welcome": "स्वागत",
+	"toolversion": "संस्करण $1",
+	"etc": "इत्यादि .",
+	"namespace": "नेमस्पेस",
+	"form-submit": "जाने",
+	"form-reset": "रिसेट गर्नुहोस्",
+	"years": "{{PLURAL: $1|वर्ष|वर्षहरू}}",
+	"months": "{{PLURAL: $1|महिन|हिनाहरू}}",
+	"weeks": "{{PLURAL: $1|हप्ता|हप्ताहरू}}",
+	"days": "{{PLURAL: $1|दिन|दिनहरू}}",
+	"hours": "{{PLURAL: $1|घन्टा|घन्टाहरू}}",
+	"minutes": "{{PLURAL:$1| मिनेट|मिनेटहरु}}",
+	"seconds": "{{PLURAL:$1| सेकेन्ड|सेकेन्डहरू}}",
+	"last-modified-date": "पछिल्लो संशोधन : $1",
+	"view-source": "स्रोत हेर्नुहोस",
+	"and": "&#32;र"
+}

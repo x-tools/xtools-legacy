@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(Wiki auswählen)",
+	"alws-group-mustused": "Die meistgenutzten Wikis",
+	"alws-group-allaz": "Alle Wikis in alphabetischer Reihenfolge",
+	"form-legend-settings": "Einstellungen"
+}

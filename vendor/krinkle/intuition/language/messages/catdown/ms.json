@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"title": "Muat turun imej mengikut kategori",
+	"subtitle": "Cara yang mudah untuk memuat turun imej dalam satu kategori",
+	"project": "Projek:",
+	"category": "Kategori:",
+	"thumbnailing": "Gambar kenit",
+	"max-width": "Lebar maksimum:",
+	"max-height": "Tinggi maksimum:",
+	"invalid-width": "Lebar tidak sah",
+	"invalid-height": "Tinggi tidak sah",
+	"no-such-project": "Projek ini tidak wujud",
+	"no-images": "Tiada imej dalam kategori itu",
+	"category-is-url": "Nama kategori yang diberikan nampak seperti URL. Anda perlu menyatakan nama kategori itu, bukan URL-nya.",
+	"category-contains-namespace": "Nampaknya anda telah menyertakan ruang nama dengan nama kategori. Dengan nama yang diberikan, laman itu tersedia sebagai [[Category:$1]].",
+	"zip-failed": "Zip gagal dibuat",
+	"image-area-too-big": "$1 terlalu besar untuk membuat thumbnail. Saiz penuh digunakan.",
+	"download-info": "Terdapat {{plural: $1|satu|$1}} imej dengan saiz kira-kira $2",
+	"download": "Muat turun",
+	"readme-contents": "Fail pelampir $4 menyenaraikan\nimej-imej di kategori $1 ( $2 )$3.\n\n== Arahan memuat turun semua imej tersenarai ==\nJangka masa muat turun mungkin antara beberapa minit dan beberapa jam.\n\nWindows:\n Ekstrakkan semua fail dalam folder yang sama dan jalankan $5\n $6\nLinux/Mac OS:\n Ekstrakkan semua fail dan buka sebuah terminal dalam folder itu. Jalankan sh $5",
+	"non-bundled-wget": "Perhatian: Versi ini tidak menyertakan wget untuk Windows. Anda mungkin perlu menyahmampatkannya ke dalam folder dengan wget.exe, ataupun mempunyai wget dalam LALUAN",
+	"wget-info": "Fail ini memberkaskan salinan wget $1 (untuk platform Windows). Wget ialah Perisian Bebas,\nmengikut terma-terma LESEN AWAM AM GNU versi 3.\nDi bawa adalah satu salinan lesen, dan ia juga didapati di http://www.gnu.org/licenses/gpl-3.0.txt\n\nSekiranya anda berminat untuk mendapatkan kod sumber untuk program ini, anda boleh memuat turunnya dari\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\natau mana-mana Cermin GNU yang lain, rujuk\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", dilaraskan kepada lebar maksimum $1 piksel",
+	"scaling-height": ", dilaraskan kepada tinggi maksimum $1 piksel",
+	"scaling-both": ", dilaraskan kepada saiz maksimum $1x$2 piksel"
+}

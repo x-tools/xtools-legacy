@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas",
+			"Sarilho1"
+		]
+	},
+	"file": "Imagem",
+	"monument-type": "Tipo de monumento",
+	"province": "Província",
+	"comarque": "Comarca",
+	"author": "Autor",
+	"country-header": "País",
+	"location": "Localização",
+	"not-available": "Indisponível",
+	"date-unknown": "Desconhecido",
+	"view-province": "Ver por província",
+	"country-label": "País:",
+	"all-countries": "Todos os países",
+	"limit-label": "Imagens a mostrar:",
+	"timezone-label": "Fuso horário:",
+	"id-none": "(Nenhum)",
+	"monument-heading": "Monumento",
+	"count-heading": "Fotografias",
+	"photographer-count-heading": "Fotógrafos",
+	"bic-list": "Lista",
+	"bic-gallery": "Galeria",
+	"author-heading": "Autor",
+	"users-list": "Ver",
+	"list-prolific-by-photos": "por número de fotos",
+	"province-heading": "Província",
+	"province-none": "(Desconhecido)",
+	"nomail-user-count": "$1 usuários"
+}

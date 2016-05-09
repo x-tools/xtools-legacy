@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra",
+			"Liuxinyu970226",
+			"Shizhao",
+			"Xiaomingyan",
+			"乌拉跨氪"
+		]
+	},
+	"title": "SVG 翻译",
+	"error-tryagain": "$1点击你的浏览器的返回按钮重试。",
+	"error-nothing": "没有要翻译的内容。",
+	"error-notsvg": "非SVG文件。",
+	"error-unexpected": "发生意外错误。",
+	"error-notfound": "不能从提供的 URL 中获取SVG 文件。",
+	"error-upload": "上传时出错。",
+	"begin-translation": "开始翻译",
+	"th-original": "原文",
+	"th-translation": "译文",
+	"th-language": "语言",
+	"th-username": "用户名",
+	"th-password": "密码",
+	"th-method": "方法",
+	"option-oauth": "OAuth（自动上传）",
+	"option-manual": "手工上传",
+	"preview": "预览",
+	"translate": "翻译",
+	"translate-instructions": "可以输入文件名（例如“$1”）或完整的URL（例如 \"$2\"）。如果选择第一个选项，维基共享资源会被作为来源。如果是从其他网站或wiki翻译SVG文件，您必须使用完整的URL。",
+	"svginput-label": "SVG文件",
+	"stats-footer": "自$2起，本工具已翻译约$1个文件。",
+	"uploading": "正在上传",
+	"upload-complete": "上传顺利完成。该图像现在应该位于$1",
+	"editdescriptionpage": "编辑新说明页面",
+	"disclaimer": "某些匿名数据将会被私人收集用于统计目的。如果使用OAuth用户名，它也将会被记录下来以用于协助应付破坏行为。密码永远不会被记录。",
+	"author-complete": "请填写作者信息！",
+	"preview-hide": "隐藏预览",
+	"preview-refresh": "刷新预览",
+	"error-must-accept": "若要继续直接上传，您必须接受提供的使用条款。",
+	"description-license": "选择说明和授权协议",
+	"finalise": "完成细节"
+}

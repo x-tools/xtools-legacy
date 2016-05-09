@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">тілін / баптауларын өзгерту</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Уики</a>",
+	"category_users": "Қатысушылар",
+	"category_articles": "Беттер",
+	"category_images": "Суреттер",
+	"category_miscellaneous": "Әртүрлі",
+	"category_wikidata": "Уикидерек",
+	"select_wiki_title": "Уикиді таңдау",
+	"select_wiki": "Хабарлау үшін қалаған уикиіңізді енгізіңіз (мысалы «<kbd>en.wikipedia.org</kbd>»):",
+	"select_wiki_next": "Келесі →",
+	"select_report": "Хабарлауды таңдаңыз:",
+	"select_report_disabled": "Бұл хабарлау қолжетімді емес.",
+	"select_report_go_back": "← Уикиді өзгерту",
+	"qvar_next": "Келесі →",
+	"prefs_title": "Хабарландыру бапталымдары",
+	"prefs_submit": "OK",
+	"prefs_done": "Қатысушы баптаулары өзгертілді",
+	"prefs_langlabel": "Интерфейс тілі:",
+	"report_change_report": "<a href=\"%(url)s\">Хабарлауды өзгерту</a>",
+	"report_change_wiki": "<a href=\"%(url)s\">Уикиді өзгерту</a>"
+}

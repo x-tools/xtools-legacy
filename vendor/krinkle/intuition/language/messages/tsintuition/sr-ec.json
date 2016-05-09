@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"fullname": "Интернационализација алатки",
+	"current-settings": "Текуће поставке",
+	"current-language": "Изабрани језик",
+	"settings-legend": "Поставке",
+	"choose-language": "Изаберите језик",
+	"clear-cookies": "очисти колачиће",
+	"renew-cookies": "обнови колачиће",
+	"cookie-expiration": "Истек колачића",
+	"clearcookies-success": "Колачићи су очишћени.",
+	"renewcookies-success": "Колачићи су обновљени. Они ће истећи за $1.",
+	"tab-overview": "Преглед",
+	"tab-settings": "Поставке",
+	"tab-about": "О алатки",
+	"tab-demo": "Демо",
+	"bl-mysettings": "Језичке поставке",
+	"bl-mysettings-new": "Промените језик.",
+	"bl-promo": "За преводе су заслужни $1 и $2.",
+	"bl-changelanguage": "Кликните овде да промените језик алатке",
+	"usage": "Алатке које се преводе помоћу Intuition-а.",
+	"help-translate-tool": "Помозите нам да преведемо ову алатку",
+	"help-translate-all": "Помозите нам да преведемо алатке!",
+	"help-translate-tooltip": "Помозите другима преводивши поруке сучеља на свој језик"
+}

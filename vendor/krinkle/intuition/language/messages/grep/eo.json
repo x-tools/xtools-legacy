@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"KuboF"
+		]
+	},
+	"explanation": "klarigo",
+	"regex": "Regula esprimo",
+	"enter-details": "Enmetu detalojn",
+	"results": "Rezultoj",
+	"language-label": "Lingvo",
+	"namespace-label": "Nomspaco",
+	"project-label": "Projekto",
+	"pattern-label": "Modelo",
+	"redirects-label": "Inkluzivi alidirektilojn",
+	"limit-label": "Limigi montron al la unuaj 100 rezultoj",
+	"error-zeroresults": "En tiu ĉi nomspaco ne estas paĝoj, kies titolo kongruas kun via regula esprimo."
+}

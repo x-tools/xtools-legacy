@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie",
+			"SPQRobin",
+			"Siebrand"
+		]
+	},
+	"title": "Afbeeldingen in een categorie downloaden",
+	"subtitle": "De gemakkelijke manier om afbeeldingen in een bepaalde categorie te downloaden",
+	"project": "Project:",
+	"category": "Categorie:",
+	"thumbnailing": "Miniaturen",
+	"max-width": "Maximale breedte:",
+	"max-height": "Maximale hoogte:",
+	"invalid-width": "Ongeldige breedte",
+	"invalid-height": "Ongeldige hoogte",
+	"no-such-project": "Er bestaat geen project met die naam",
+	"no-images": "Er zijn geen afbeeldingen in die categorie",
+	"category-is-url": "De opgegeven categorienaam lijkt een URL te zijn. U moet de categorienaam opgeven, niet de URL.",
+	"category-contains-namespace": "U hebt de naamruimte opgenomen in de categorienaam. Met de opgegeven naam, komt de pagina beschikbaar als [[Category:$1|Categorie $1]].",
+	"zip-failed": "Het maken van een zip-bestand is mislukt.",
+	"image-area-too-big": "$1 is te groot om een miniatuur maken. De volledige grootte wordt gebruikt.",
+	"download-info": "{{plural: $1|Er is één afbeelding|Er zijn $1 afbeeldingen}} met een geschatte grootte van $2",
+	"download": "Downloaden",
+	"readme-contents": "In het bestand $4 staat een lijst met\nbestanden uit de categorie $1 ($2)$3.\n\n== Instructie voor het downloaden van alle bestanden uit de lijst ==\nDe downloadtijd kan uiteen lopen van minuten tot uren.\n\nWindows:\n Pak alle bestanden uit in dezelfde map en voer uit: $5\n $6\nLinux/Mac OSX:\n Pak alle bestanden uit en open een terminalvenster in die map. Voer daarna uit: sh $5",
+	"non-bundled-wget": "Let op: in deze versie is wget voor Windows niet opgenomen. U moet uitpakken\nnaar een map waarin wget.exe staat, of wget moet opgenomen zijn in de\nomgevingsvariabele PATH.",
+	"wget-info": "Dit bestand bundelt een kopie van wget $1 (voor het Windows-platform). Wget is vrije software,\nonder de voorwaarden van de GNU GENERAL PUBLIC LICENSE versie 3.\nHieronder staat een kopie van de licentie en deze is ook beschikbaar op http://www.gnu.org/licenses/gpl-3.0.txt.\n\nIn het geval dat u geïnteresseerd bent in de broncode van dit programma, kunt u deze downloaden via:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nof een andere GNU-mirror, zie:\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", geschaald naar een maximale breedte van $1 {{plural:$1|pixel|pixels}}",
+	"scaling-height": ", geschaald naar een maximale hoogte van $1 {{plural:$1|pixel|pixels}}",
+	"scaling-both": ", geschaald naar een maximale afmeting van $1 x $2 pixels"
+}

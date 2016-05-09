@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Mpitt"
+		]
+	},
+	"error-tryagain": "$1 Premi il pulsante \"Indietro\" del tuo browser per riprovare.",
+	"error-nothing": "Niente da tradurre.",
+	"error-notsvg": "Non è un file SVG.",
+	"error-unexpected": "Si è verificato un errore imprevisto.",
+	"error-notfound": "Il file SVG non può essere recuperato dall'URL fornito.",
+	"error-upload": "Si è verificato un errore nel caricamento.",
+	"begin-translation": "Comincia a tradurre",
+	"th-original": "Originale",
+	"th-translation": "Traduzione",
+	"th-language": "Lingua",
+	"th-username": "Nome utente",
+	"th-password": "Password",
+	"th-method": "Metodo",
+	"option-oauth": "OAuth (caricamento automatico)",
+	"option-manual": "Caricamento manuale",
+	"preview": "Anteprima",
+	"translate": "Traduci",
+	"translate-instructions": "Gli input sono accettati sia come nomi di file (per esempio \" $1 \") che come URL completi (ad esempio\" $2 \"). Se la prima opzione viene utilizzata, si assume che la fonte sia Wikimedia Commons. Per tradurre un SVG da un altro sito o wiki, è necessario utilizzare l'URL completo.",
+	"svginput-label": "File in formato SVG",
+	"stats-footer": "Questo strumento è stato utilizzato per tradurre circa $1 file dal $2 .",
+	"uploading": "Caricamento in corso",
+	"upload-complete": "Upload completato con successo. L'immagine dovrebbe essere all'indirizzo $1",
+	"editdescriptionpage": "Modificare la nuova pagina di descrizione",
+	"disclaimer": "Alcuni dati anonimi saranno privatamente raccolti per fini statistici. Inoltre gli username OAuth, se forniti, saranno memorizzati per eventuali casi di vandalismo. Le password non verranno mai memorizzate.",
+	"author-complete": "Completare le informazioni sull'autore!",
+	"preview-hide": "Nascondi anteprima",
+	"preview-refresh": "Aggiorna anteprima",
+	"error-must-accept": "Per continuare con un upload diretto è necessario accettare i termini d'uso.",
+	"description-license": "Selezionare la descrizione e la licenza",
+	"finalise": "Finalizza i dettagli"
+}

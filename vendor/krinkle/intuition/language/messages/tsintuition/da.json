@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Sarrus"
+		]
+	},
+	"fullname": "Internationalisering af værktøjer",
+	"current-settings": "Aktuelle indstillinger",
+	"current-language": "Valgte sprog",
+	"settings-legend": "Indstillinger",
+	"choose-language": "Vælg et sprog",
+	"clear-cookies": "fjern cookies",
+	"renew-cookies": "forny cookies",
+	"cookie-expiration": "Udløbsdato for cookie",
+	"clearcookies-success": "Det lykkedes at slette cookies",
+	"renewcookies-success": "Cookies fornyet! Du er klar til de næste $1.",
+	"tab-overview": "Oversigt",
+	"tab-settings": "Indstillinger",
+	"tab-about": "Om",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mine sprogindstillinger",
+	"bl-mysettings-new": "Skift sprog!",
+	"bl-promo": "Oversættelser er drevet af $1 og $2.",
+	"bl-changelanguage": "Klik her for at ændre sproget i brugergrænsefladen for ​​dette værktøj.",
+	"usage": "Værktøjer oversat af Intuition.",
+	"help-translate-tool": "Hjælp med at oversætte dette værktøj!",
+	"help-translate-all": "Hjælp med at oversætte værktøjer!",
+	"help-translate-tooltip": "Hjælp andre ved at oversætte beskederne i brugergrænsefladen til dit sprog."
+}

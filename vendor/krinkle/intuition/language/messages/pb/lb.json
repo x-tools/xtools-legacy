@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"pb-about-pb-navi": "Iwwer",
+	"pb-about-pb-tech": "Technesch Detailer",
+	"pb-about-pb-title": "Iwwer de Projet",
+	"pb-change-language": "Sprooch wiesselen",
+	"pb-comment": "Bemierkung",
+	"pb-current-figures": "Aktuell Zuelen",
+	"pb-current-users": "Zu dësem Ament, maache(n) $1 Benotzer beim Projet <em>Perséinlech Bekannschaften</em> mat.",
+	"pb-date": "Datum",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Perséinlech Bekanntschaften op der Däitscher Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> op Tool Labs. <a href=\"$1\" title=\"Iwwer Wikipedia:Perséinlech Bekanntschaften\">Méi Informatiounen.</a>",
+	"pb-home": "Ufankssäit",
+	"pb-javascript-notice": "Mir recommandéiere JavaScript fir dësen Internetsite anzeschalte, fir de Benotzer-Interface ze verbesseren.",
+	"pb-labs-name": "Tool Labs vu Wikimedia",
+	"pb-participates-since": "Mécht mat zanter",
+	"pb-name": "Wikipedia:Perséinlech Bekanntschaften",
+	"pb-recent-confirmations": "Rezent Confirmatiounen",
+	"pb-reconfirmed": "Confirméiert?",
+	"pb-user": "Benotzer",
+	"pb-user-link-title": "Detailer vum  Benotzer $1",
+	"pb-user-heading": "Informatioun fir <a href=\"$2\" title=\"Benotzersäit vu(n) $1\">$1</a>",
+	"pb-user-title": "Informatiounen iwwer $1",
+	"pb-users-navi": "Benotzer",
+	"pb-users-title": "Lëscht vun deenen déi matgemaach hunn",
+	"pb-users-overview": "Dës $1 Benotzer hu beim Projet <em>Perséinlech Bekannschaften</em> matgemaach:",
+	"pb-verified-since": "Confirméiert zanter dem"
+}

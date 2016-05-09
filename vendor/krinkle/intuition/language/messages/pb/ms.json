@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"pb-about-pb-navi": "Perihal",
+	"pb-about-pb-tech": "Butiran teknikal",
+	"pb-about-pb-tech-text": "<p>Kami menggunakan <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> dan <a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a> untuk antaramuka ini. Kod sumbernya diterbitkan berlandaskan syarat-syarat <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) dan boleh diakses <a href=\"https://github.com/tool-labs/pb\">di GitHub</a>. Sila berikan laporan pepijat, permohonan ciri-ciri dan lain-lain ulasan <a href=\"https://github.com/tool-labs/pb/issues/new\">kepada GitHub issue tracker</a> ataupun laporkannya di <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">laman perbincangan Wikipedia</a>.</p>\n    <p>Lupusan semasa pangkalan data PB boleh didapati <a href=\"/pb/sql-dumps\">di sini</a>.</p>\n    <p>Kami menggunakan beberapa ikon yang dicipta oleh projek <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Projek ini mewakili perkenalan peribadi sesama ahli Wikimedia.</p>\n    <p>Pelaksanaan pertama dilakukan oleh Ulli Purwin (antaramuka) dan Euku (bot). Pada awal 2011, Wiegels dan Ireas turut mengusahakan antaramuka bersama Ulli. Kini hos projek ini bukan lagi pelayan peribadi tetapi Wikimedia Labs.</p>\n    <p>Maklumat lanjut mengenai projek ini boleh didapati di Wikipedia Bahasa Jerman menerusi laman <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Perihal projek",
+	"pb-change-language": "Tukar bahasa",
+	"pb-comment": "Komen",
+	"pb-confirmations-given": "Pengesahan yang diberikan",
+	"pb-confirmations-taken": "Pengesahan yang diterima",
+	"pb-current-confirmations": "Terdapat sejumlah $1 pengesahan, iaitu sekitar <abbr title=\"$2\">$3</abbr> pengesahan sehari.",
+	"pb-current-figures": "Perangkaan semasa",
+	"pb-current-users": "Ketika ini terdapat $1 orang pengguna yang menyertai projek <em>Perkenalan Peribadi</em>.",
+	"pb-date": "Tarikh",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> di Tool Labs. <a href=\"$1\" title=\"About Wikipedia:Persönliche Bekanntschaften\">Maklumat lanjut.</a>",
+	"pb-home": "Laman Utama",
+	"pb-home-welcome": "Selamat datang ke projek <em>Perkenalan Peribadi</em> (<em>Persönliche-Bekanntschaften</em> dalam bahasa Jerman)! Maklumat lanjut mengenai projek ini boleh didapati <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German language Wikipedia\">di Wikipedia Bahasa Jerman</a>.",
+	"pb-javascript-notice": "Kami mengesyorkan untuk menghidupkan JavaScript untuk tapak web ini untuk menambah baik antaramuka pengguna.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Peserta sejak",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "Dikuasakan oleh Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Pengesahan terbaru",
+	"pb-reconfirmed": "Disahkan semula?",
+	"pb-user": "Pengguna",
+	"pb-user-link-title": "Butiran pengguna $1",
+	"pb-user-heading": "Maklumat untuk <a href=\"$2\" title=\"User page of $1\">$1</a>",
+	"pb-user-title": "Maklumat untuk $1",
+	"pb-users-navi": "Pengguna",
+	"pb-users-title": "Senarai peserta",
+	"pb-users-overview": "$1 pengguna ini menyertai projek <em>Perkenalan Peribadi</em>:",
+	"pb-verified-since": "Ditentusahkan sejak"
+}

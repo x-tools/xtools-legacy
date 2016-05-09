@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manuae"
+		]
+	},
+	"hello": "Hallo",
+	"welcome": "Willkumme",
+	"toolversionstamp": "Ausgaw $1 ($2)",
+	"etc": "usw.",
+	"namespace": "Nomensraum",
+	"form-submit": "Ausfiare",
+	"form-reset": "Zriggsedze",
+	"years": "{{PLURAL: $1|Joa|Joare}}",
+	"weeks": "{{PLURAL: $1|Woch|Woche}}",
+	"days": "{{PLURAL: $1|Daach|Daache}}",
+	"hours": "{{PLURAL: $1|Schdund|Schdunde}}",
+	"minutes": "{{PLURAL: $1|Minud|Minude}}",
+	"seconds": "$1 {{PLURAL:$1|Sekund|Sekunde}}",
+	"last-modified-date": "Zuledschd g'änad: $1",
+	"view-source": "Qwelltegschd oazaische"
+}

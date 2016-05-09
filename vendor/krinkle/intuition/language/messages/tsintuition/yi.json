@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Har-wradim",
+			"פוילישער"
+		]
+	},
+	"fullname": "אינטערנאציאנאלעזאציע פאר געצייג",
+	"current-settings": "אקטועלע אײַנשטעלונגען",
+	"current-language": "אויסגעקליבענע שפראַך",
+	"settings-legend": "איינשטעלונגען",
+	"choose-language": "קלויבט א שפראך",
+	"clear-cookies": "אפרייניקן קיכעלעך",
+	"renew-cookies": "באנײַען קיכעלעך",
+	"cookie-expiration": "קיכעלעך אויסלאז",
+	"clearcookies-success": "קיכעלעך אפגערייניקט דערפאלגרייך.",
+	"renewcookies-success": "קיכעלעך באנײַט! אלץ אין ארדנונג פֿאר די קומענדיקע $1.",
+	"tab-overview": "איבערבליק",
+	"tab-settings": "איינשטעלונגען",
+	"tab-about": "וועגן",
+	"tab-demo": "דעמא",
+	"bl-mysettings": "מיינע שפּראַך איינשטעלונגען",
+	"bl-mysettings-new": "ענדערן שפראך!",
+	"bl-promo": "איבערזעצונגען דערמעגלעכט דורך $1 און $2.",
+	"bl-changelanguage": "ענדערן די באניצער־אייבערפלאך שפראך פון דעם געצייג.",
+	"usage": "געצייג איבערגעזעצט דורך Intuition.",
+	"help-translate-tool": "העלפט איבערזעצן דעם מכשיר.",
+	"help-translate-all": "העלפט איבערזעצן די געצייג.",
+	"help-translate-tooltip": "העלפט אנדערע דורך איבערזעצן באניצער־אייבערפלאך מעלדונגען אויף אייער שפראך."
+}

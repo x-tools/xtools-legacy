@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"form-label-language": "Kieli:",
+	"feedback-result": "Tulokset kyzelyh $1",
+	"feedback-total-count": "Kaikkiedah: $1",
+	"link-create": "luaji",
+	"link-complete": "Valmis raportu...",
+	"error-language": "Tundematoi kielikoudu"
+}

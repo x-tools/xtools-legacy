@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Įrašas",
+	"voiceintro-toolbar-stop-label": "Sustabdyti",
+	"voiceintro-toolbar-clear-label": "Išvalyti",
+	"voiceintro-toolbar-upload-label": "Įkelti",
+	"voiceintro-information-label": "Informacija",
+	"voiceintro-information-speaker-label": "Kalbėtojo pavadinimas:",
+	"voiceintro-information-language-label": "Kalba:",
+	"voiceintro-recording-notify": "Įrašoma..."
+}

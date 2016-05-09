@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo"
+		]
+	},
+	"pb-about-pb-navi": "Acerca de",
+	"pb-about-pb-tech": "Detalles técnicos",
+	"pb-about-pb-title": "Acerca deste proxecto",
+	"pb-change-language": "Cambiar a lingua",
+	"pb-comment": "Comentario",
+	"pb-current-figures": "Números actuais",
+	"pb-date": "Data",
+	"pb-home": "Inicio",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Participa dende",
+	"pb-recent-confirmations": "Confirmacións recentes",
+	"pb-user": "Usuario",
+	"pb-user-link-title": "Detalles do usuario $1",
+	"pb-user-title": "Información para $1",
+	"pb-users-navi": "Usuarios",
+	"pb-users-title": "Lista de participantes",
+	"pb-verified-since": "Verificado dende"
+}

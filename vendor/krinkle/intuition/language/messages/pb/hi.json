@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"pb-about-pb-navi": "विवरण",
+	"pb-about-pb-title": "प्रकल्प के विषय में",
+	"pb-comment": "टिप्पणी",
+	"pb-date": "दिनांक",
+	"pb-home": "गृह",
+	"pb-user": "सदस्य",
+	"pb-user-link-title": "सदस्य की जानकारी $1",
+	"pb-users-navi": "सदस्य"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Ontsed"
+		]
+	},
+	"title": "\"grep\" titolo della voce (beta)",
+	"introduction": "Questo strumento mostra tutti i titoli delle voci che corrispondono ad un'espressione regolare ($1). La ricerca attraverso espressioni regolari utilizza notevoli risorse. Se possibile, ricorda di usare gli indicatori di prefisso (^) e suffisso ($).",
+	"explanation": "spiegazione",
+	"regex": "Espressione regolare",
+	"enter-details": "Inserisci i dettagli",
+	"results": "Risultati",
+	"language-label": "Lingua",
+	"namespace-label": "Namespace",
+	"project-label": "Progetto",
+	"pattern-label": "Modello",
+	"redirects-label": "Includi reindirizzamenti",
+	"limit-label": "Limita la visualizzazione ai primi 100 risultati",
+	"error-zeroresults": "Non ci sono pagine nel namespace il cui titolo corrisponde alla tua espressione regolare.",
+	"match-count": "{{PLURAL:$1|$1 pagina corrisponde|$1 pagine corrispondono}} alla tua espressione regolare."
+}

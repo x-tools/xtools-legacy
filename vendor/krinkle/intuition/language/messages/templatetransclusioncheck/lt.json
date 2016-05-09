@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"form-label-language": "Kalba:",
+	"form-label-template": "Šablono pavadinimas:",
+	"form-label-template2": "(įskaitant vardų sritis)",
+	"form-label-complete": "Sukurti išsamią ataskaitą:"
+}

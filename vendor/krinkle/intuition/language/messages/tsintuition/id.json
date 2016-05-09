@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"C5st4wr6ch",
+			"IvanLanin",
+			"Kenrick95"
+		]
+	},
+	"fullname": "Internasionalisasi peralatan",
+	"current-settings": "Setelan sekarang",
+	"current-language": "Bahasa pilihan",
+	"settings-legend": "Setelan",
+	"choose-language": "Pilih bahasa",
+	"clear-cookies": "hapus kuki",
+	"renew-cookies": "perbarui kuki",
+	"cookie-expiration": "Kedaluwarsa kuki",
+	"clearcookies-success": "Kuki berhasil dihapus.",
+	"renewcookies-success": "Kuki diperbarui! Anda siap untuk $1 berikutnya.",
+	"tab-overview": "Gambaran",
+	"tab-settings": "Setelan",
+	"tab-about": "Perihal",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Setelan bahasa saya",
+	"bl-mysettings-new": "Ganti bahasa!",
+	"bl-promo": "Terjemahan didukung oleh $1 dan $2.",
+	"bl-changelanguage": "Ganti bahasa antarmuka alat ini.",
+	"usage": "Alat-alat yang diterjemahkan oleh Intuition.",
+	"help-translate-tool": "Bantu menerjemahkan alat ini!",
+	"help-translate-all": "Bantu menerjemahkan alat!",
+	"help-translate-tooltip": "Bantu orang lain dengan menerjemahkan pesan antarmuka ke dalam bahasa Anda."
+}

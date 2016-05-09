@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"title": "模板链接和嵌入检查",
+	"description": "检查并报告那些条目嵌入一个模板但未链接自模板，以及那些条目链接自一个模板但未嵌入它。",
+	"form-label-language": "语言：",
+	"form-label-template": "模板名称：",
+	"form-label-template2": "（包含名字空间）",
+	"form-label-complete": "生成完整报告：",
+	"feedback-template-missing": "模板$1不存在。",
+	"feedback-template-noaccess": "模板$1似乎存在，但在数据库中不可用。这可能是一个临时的数据库问题。使用的数据库：$2。",
+	"feedback-result": "用于$1的结果",
+	"feedback-header-mismatch": "在嵌入和链接之间不匹配",
+	"feedback-header-no-link": "嵌入但没有链接",
+	"feedback-header-no-transclusion": "链接但未嵌入",
+	"feedback-header-redirects": "链接至重定向",
+	"feedback-total-count": "总计：$1",
+	"feedback-header-complete": "完整嵌入和链接预览",
+	"feedback-header-transclusions": "模板的嵌入",
+	"feedback-header-links": "来自模板的链接",
+	"link-edit": "编辑",
+	"link-create": "创建",
+	"link-complete": "完整报告……",
+	"footer-stats": "生成于：$1。持续时间：$2{{PLURAL:$2|秒}}。",
+	"error-language": "未知语言代码。"
+}

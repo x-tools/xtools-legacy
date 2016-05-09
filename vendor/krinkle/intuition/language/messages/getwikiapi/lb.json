@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"description": "Meta Informatioun iwwer Wikimedia Wikien.",
+	"formats-heading": "Formater vum Resultat",
+	"input": "Donnéeën",
+	"label-wikiids": "Wiki-Identifikatioun",
+	"no-matches": "Et passt näischt op \"$1\"",
+	"output": "Resultat fir \"$1\""
+}

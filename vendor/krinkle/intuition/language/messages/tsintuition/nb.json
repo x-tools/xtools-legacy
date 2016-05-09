@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo",
+			"Nghtwlkr",
+			"Chameleon222"
+		]
+	},
+	"fullname": "Internasjonalisering for verktøy",
+	"current-settings": "Gjeldende innstillinger",
+	"current-language": "Valgt språk",
+	"settings-legend": "Innstillinger",
+	"choose-language": "Velg et språk",
+	"clear-cookies": "slett informasjonskapsler",
+	"renew-cookies": "forny informasjonskapsler",
+	"cookie-expiration": "Utløpsdato for informasjonskapsler",
+	"clearcookies-success": "Informasjonskapslene ble tømt.",
+	"renewcookies-success": "Informasjonskapslene ble oppdatert! Du er klarert for de neste $1.",
+	"tab-overview": "Oversikt",
+	"tab-settings": "Innstillinger",
+	"tab-about": "Om",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mine språkinnstillinger",
+	"bl-mysettings-new": "Endre språk",
+	"bl-promo": "Oversettelser drives av $1 og $2.",
+	"bl-changelanguage": "Endre grensesnittspråket for dette verktøyet.",
+	"usage": "Verktøy oversatt med Intuition.",
+	"help-translate-tool": "Hjelp med oversettelsen av dette verktøyet!",
+	"help-translate-all": "Hjelp til med å oversette verktøy!",
+	"help-translate-tooltip": "Hjelp andre ved å oversette grensesnittmeldinger til ditt språk."
+}

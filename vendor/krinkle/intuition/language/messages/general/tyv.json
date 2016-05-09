@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sborsody"
+		]
+	},
+	"hello": "Экии",
+	"welcome": "Кирип моорлаңар",
+	"toolversionstamp": "Үндүрери $1 ($2)",
+	"namespace": "Аттар делгеми",
+	"form-submit": "Күүcедири",
+	"years": "{{PLURAL: $1|чыл|чыл}}",
+	"weeks": "{{PLURAL: $1|чеди-хонук|чеди-хонук}}",
+	"days": "{{PLURAL: $1|хүн|хүн}}",
+	"hours": "{{PLURAL: $1|шак|шак}}",
+	"minutes": "{{PLURAL: $1|минут|минут}}",
+	"seconds": "{{PLURAL: $1|секунда|секунда}}",
+	"view-source": "Дөзү бижиин көөрү"
+}

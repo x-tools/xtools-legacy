@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"dateformat": "%d %B %Y",
+	"hello": "Здраво",
+	"welcome": "Добре дојдовте",
+	"toolversion": "Верзија $1",
+	"toolversionstamp": "Верзија $1 ($2)",
+	"etc": "и тн.",
+	"namespace": "Именски простор",
+	"form-submit": "Дај",
+	"form-reset": "Одново",
+	"years": "{{PLURAL: $1|година|години}}",
+	"months": "{{PLURAL: $1|месец|месеци}}",
+	"weeks": "{{PLURAL: $1|недела|недели}}",
+	"days": "{{PLURAL: $1|ден|дена}}",
+	"hours": "{{PLURAL: $1|час|часа}}",
+	"minutes": "{{PLURAL: $1|минута|минути}}",
+	"seconds": "{{PLURAL: $1|секунда|секунди}}",
+	"last-modified-date": "Последена измена: $1",
+	"view-source": "Извор",
+	"and": "&#32;и"
+}

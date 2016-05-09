@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64"
+		]
+	},
+	"title-overview": "Schnappschüsse",
+	"title-error": "Fehler",
+	"title-updatelog": "Aktualisierungsprotokoll",
+	"updatelog-intro": "Das Aktualisierungsskript wird einmal pro Stunde ausgeführt. Hier kann man Informationen zur letzten Ausführung des Skripts einsehen.",
+	"updatelog-active": "Das Aktualisierungsskript wird derzeit ausgeführt. Besuche diese Seite später noch einmal, um das vollständige Protokoll einsehen zu können.",
+	"download-button": "Schnappschuss herunterladen",
+	"download-directlink": "direkter Link",
+	"title-downloadpage": "Herunterladen",
+	"title-downloadpage-repo": "$1 herunterladen",
+	"err-snapshotindex": "Der Schnappschussindex ist vorübergehend nicht verfügbar. Bitte versuche es später erneut.",
+	"err-invalid-repo": "Unbekanntes Repositorium: „$1“",
+	"err-invalid-branch": "Unbekannter Versionszweig: „$1“ im Repositorium „$2“.",
+	"err-nosnapshot": "Die Schnappschüsse werden alle paar Stunden generiert. Beim Generieren des Schnappschusses für „$1“ ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
+	"err-noupdatelog": "Das Aktualisierungsprotokoll wurde nicht gefunden.",
+	"repo-site-link": "Website",
+	"repo-browse-link": "Repositorium durchsuchen",
+	"repo-branches-label": "Versionszweige:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Herunterladen",
+	"updatelog-link": "Aktualisierungsprotokoll",
+	"tablehead-repo": "Repositorium",
+	"tablehead-snapshots": "Schnappschüsse",
+	"tablehead-branch": "Versionszweig",
+	"tablehead-filesize": "Dateigröße",
+	"tablehead-hash": "Hash"
+}

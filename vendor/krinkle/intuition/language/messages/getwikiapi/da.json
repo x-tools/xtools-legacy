@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Sarrus"
+		]
+	},
+	"formats-heading": "Outputformater",
+	"input": "Input",
+	"label-wikiids": "Wiki-identifikatorer",
+	"no-matches": "Intet passer med \"$1\"",
+	"output": "Resultat for \"$1\""
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike"
+		]
+	},
+	"description": "Metatietoja Wikimedian wikeistä.",
+	"formats-heading": "Tulosmuodot",
+	"input": "Syöte",
+	"label-wikiids": "Wikitunnisteet",
+	"no-matches": "Mikään ei vastannu tunnusta $1.",
+	"output": "Tulokset haulle ”$1”"
+}

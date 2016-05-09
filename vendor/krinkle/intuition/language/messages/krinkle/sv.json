@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Liftarn",
+			"Lokal Profil"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(välj wiki)",
+	"alws-group-mustused": "Mest använda wikis",
+	"alws-group-allaz": "Alla wikis i alfabetisk ordning",
+	"form-legend-settings": "Inställningar"
+}

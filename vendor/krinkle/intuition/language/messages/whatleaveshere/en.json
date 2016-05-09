@@ -1,0 +1,22 @@
+{
+	"@metadata": [],
+	"title": "What leaves here",
+	"title-leaveshere": "Links that leave from \"$1\"",
+	"sub-leaveshere": "The following pages link from $1",
+	"label-page": "Page",
+	"label-namespace": "Namespace",
+	"label-limit": "Limit",
+	"button-submit": "Go",
+	"noleaveshere": "Nothing links from $1",
+	"link-whatleaveshere": "What leaves here",
+	"tooltip-whatleaveshere": "List of everything that links from here",
+	"whatlinkshere": "What links here",
+	"whatlinkshere-whatleaveshere": "What leaves here?",
+	"istemplate": "transclusion",
+	"isfile": "file link",
+	"linksearch": "LinkSearch",
+	"section-links": "Links",
+	"section-iwlinks": "Interwiki links",
+	"section-extlinks": "External links",
+	"section-categories": "Categories"
+}

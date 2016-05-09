@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"alws-label": "위키",
+	"alws-selectwiki": "(위키 선택)",
+	"alws-group-mustused": "대부분 사용한 위키",
+	"alws-group-allaz": "모든 위키 알파벳순",
+	"form-legend-settings": "설정"
+}

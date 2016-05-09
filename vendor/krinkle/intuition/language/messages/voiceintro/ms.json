@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Rakam",
+	"voiceintro-toolbar-stop-label": "Tamat",
+	"voiceintro-toolbar-clear-label": "Padamkan",
+	"voiceintro-toolbar-upload-label": "Muat naik",
+	"voiceintro-webaudio-not-supported": "WebAudio API tidak disokong oleh pelayar ini",
+	"voiceintro-upload-publish-succeeded": "Rakaman berjaya dimuat naik:",
+	"voiceintro-upload-publish-failed": "Rakaman tidak dimuat naik.",
+	"voiceintro-information-label": "Maklumat",
+	"voiceintro-information-speaker-label": "Nama penutur:",
+	"voiceintro-information-language-label": "Bahasa:",
+	"voiceintro-mic-access-notify": "Klik \"Benarkan\" untuk membolehkan pelayar mengakses mikrofon anda.",
+	"voiceintro-recording-notify": "Merakam..."
+}

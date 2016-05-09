@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"error-nothing": "Аударуға ештеңе жоқ",
+	"error-notsvg": "SVG файл емес",
+	"error-unexpected": "Күтпеген қате пайда болды",
+	"error-upload": "Жүктеу барысында қате болды",
+	"begin-translation": "Аударманы бастау",
+	"th-original": "Түпнұсқасы",
+	"th-translation": "Аударма",
+	"th-language": "Тіл",
+	"th-username": "Қатысушы есімі",
+	"th-password": "Құпия сөз",
+	"th-method": "Әдіс",
+	"option-oauth": "OAuth (автоматты жүктеу)",
+	"option-manual": "Қолмен жүктеу",
+	"preview": "Қарап шығу",
+	"translate": "Аудару",
+	"svginput-label": "SVG файл",
+	"uploading": "Жүктелуде",
+	"upload-complete": "Жүктеу сәтті аяқталды. Сурет $1 дегенде болу керек",
+	"editdescriptionpage": "Жаңа сипаттау бетін өңдеу",
+	"author-complete": "Автор мәліметін толтырыңыз!",
+	"preview-hide": "Қарап шығуды жасыру",
+	"preview-refresh": "Қарап шығуды тазарту",
+	"description-license": "Таңдалған сипаттама және лицензия",
+	"finalise": "Егжей-тегжейін аяқтау"
+}

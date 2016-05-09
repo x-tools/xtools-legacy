@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"hello": "გამარჯობა",
+	"welcome": "კეთილი იყოს თქვენი მობრძანება",
+	"toolversion": "ვერსია $1",
+	"toolversionstamp": "ვერსია $1 ($2)",
+	"etc": "და ა.შ.",
+	"namespace": "სახელთა სივრცე",
+	"form-submit": "მიდი",
+	"form-reset": "გასუფთავება",
+	"years": "{{PLURAL:$1|წელი|წელი}}",
+	"months": "{{PLURAL: $1|თვე|თვე}}",
+	"weeks": "{{PLURAL:$1|კვირა|კვირა}}",
+	"days": "{{PLURAL:$1|დღე|დღე}}",
+	"hours": "{{PLURAL:$1|საათი|საათი}}",
+	"minutes": "{{PLURAL:$1|წუთი|წუთი}}",
+	"seconds": "{{PLURAL:$1|წამი|წამი}}",
+	"last-modified-date": "ბოლო ცვლილება: $1",
+	"view-source": "წყაროს ხილვა",
+	"and": "&#32;და"
+}

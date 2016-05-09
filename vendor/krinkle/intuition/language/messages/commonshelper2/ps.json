@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"attention": "پاملرنه",
+	"language": "ژبه",
+	"project": "پروژه",
+	"source_file": "سرچينيزه دوتنه",
+	"target_file": "د موخې دوتنه",
+	"categories": "وېشنيزې",
+	"tusc_user": "TUSC کارن نوم",
+	"tusc_pass": "TUSC پټنوم",
+	"do_it": "ترسره يې کړه",
+	"new_wikitext": "نوی ويکي متن",
+	"new_filename": "د نوې دوتنې نوم:",
+	"upload_submit": "پورته کول:",
+	"target_wiki": "د موخې ويکي",
+	"help_mail": "$1 ته يو برېښليک لېږل"
+}

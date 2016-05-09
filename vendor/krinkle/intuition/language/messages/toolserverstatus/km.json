@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"toolserver-status-short-ok": "$1: យល់ព្រម",
+	"toolserver-status-short-info": "$1: ព័ត៌មាន",
+	"toolserver-status-short-warn": "$1: ព្រមាន",
+	"toolserver-status-short-down": "$1: Down",
+	"toolserver-status-short-erro": "$1: កំហុស",
+	"toolserver-status-short-unknown": "$1: មិនស្គាល់",
+	"toolserver-status-short-missing": "$1: រកមិនមាន"
+}

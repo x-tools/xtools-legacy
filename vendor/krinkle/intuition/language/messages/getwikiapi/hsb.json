@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"formats-heading": "Wudawanske formaty",
+	"input": "Zapodaće",
+	"label-wikiids": "Wikiidentifikatory",
+	"no-matches": "Žane wotpowědniki za \"$1\"",
+	"output": "Wudaće za \"$1\""
+}

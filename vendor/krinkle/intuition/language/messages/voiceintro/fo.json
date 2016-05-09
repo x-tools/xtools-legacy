@@ -1,0 +1,8 @@
+{
+	"@metadata": [],
+	"voiceintro-toolbar-record-label": "Ger upptøku",
+	"voiceintro-toolbar-stop-label": "Støðga",
+	"voiceintro-toolbar-clear-label": "Reinsa",
+	"voiceintro-toolbar-upload-label": "Legg út",
+	"voiceintro-webaudio-not-supported": "WebAudio API verður ikki stuðlað á hesum internetkaganum."
+}

@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"pb-about-pb-navi": "プロジェクトについて",
+	"pb-about-pb-tech": "技術的な詳細",
+	"pb-about-pb-title": "プロジェクトについて",
+	"pb-change-language": "言語を変更",
+	"pb-comment": "コメント",
+	"pb-current-users": "現時点では、$1 人の利用者が <em>Personal Acquaintances</em> プロジェクトに参加しています。",
+	"pb-date": "日付",
+	"pb-home": "ホーム",
+	"pb-participates-since": "参加開始日",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-recent-confirmations": "最近の確認",
+	"pb-reconfirmed": "再確認済?",
+	"pb-user": "利用者",
+	"pb-user-link-title": "利用者 $1 の詳細",
+	"pb-user-heading": "<a href=\"$2\" title=\"$1 の利用者ページ\">$1</a> の情報",
+	"pb-user-title": "$1 の情報",
+	"pb-users-navi": "利用者",
+	"pb-users-title": "参加者一覧",
+	"pb-users-overview": "$1 人の利用者が <em>Personal Acquaintance</em> プロジェクトに参加しています:",
+	"pb-verified-since": "検証日"
+}

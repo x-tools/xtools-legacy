@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"adder": "Responsable de l’ajout",
+	"adder-empty": "Inconnu",
+	"expiry": "Expiration",
+	"globalwatched": "Surveillé globalement",
+	"reason": "Motif",
+	"reason-empty": "Aucun motif trouvé"
+}

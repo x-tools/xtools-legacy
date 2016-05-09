@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño",
+			"Banjo"
+		]
+	},
+	"title-overview": "Instantáneas",
+	"title-error": "Erro",
+	"title-updatelog": "Rexistro de actualizacións",
+	"updatelog-intro": "A escritura de actualización está programada para executarse cada hora. A continuación está o resultado que mostrou a consola na última execución.",
+	"updatelog-active": "A escritura de actualización está executándose nestes intres. Volva máis tarde para ollar o rexistro completo.",
+	"download-button": "Descargar instantánea",
+	"download-directlink": "ligazón directa",
+	"title-downloadpage": "Descargar",
+	"title-downloadpage-repo": "Descargar $1",
+	"err-snapshotindex": "O índice de instantáneas non está dispoñible temporalmente. Inténteo de novo máis tarde.",
+	"err-invalid-repo": "Repositorio descoñecido: \"$1\".",
+	"err-invalid-branch": "Ramificación descoñecida: \"$1\" no repositorio \"$2\".",
+	"err-nosnapshot": "As instantáneas xéranse cada poucas horas. Houbo un erro durante a xeración da instantánea de \"$1\". Inténteo de novo máis tarde.",
+	"err-noupdatelog": "Non se atopou ningún rexistro de actualización.",
+	"repo-site-link": "Páxina web",
+	"repo-browse-link": "Explorar o repositorio",
+	"repo-branches-label": "Ramificacións:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Obtéñao!",
+	"updatelog-link": "rexistro de actualizacións",
+	"tablehead-repo": "Repositorio",
+	"tablehead-snapshots": "Instantáneas",
+	"tablehead-branch": "Ramificación",
+	"tablehead-filesize": "Tamaño do ficheiro",
+	"tablehead-hash": "Sumas de verificación"
+}

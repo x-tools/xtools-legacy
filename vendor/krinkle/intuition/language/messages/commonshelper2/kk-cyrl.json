@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"attention": "Ескерту",
+	"description": "Ортаққорға Уикимедиа жобаларынан пайлдарды тасымалдайтын құрал",
+	"language": "Тіл",
+	"project": "Жоба",
+	"source_file": "Қайнар файл",
+	"target_file": "Нысана файл",
+	"commons_username": "Wikimedia Commons қатысушы есімі",
+	"commons_to_project": "Wikimedia Commons-тан жобаға",
+	"move_file_from_com": "Ортаққордан жобаға файлды жылжыту",
+	"categories": "Санаттар",
+	"remove_cats": "Бар санаттарды аластау",
+	"tusc_user": "TUSC қатысушы есімі",
+	"tusc_pass": "TUSC құпия сөзі",
+	"do_it": "Мынаны істеңіз",
+	"error_not_exists": "Қайнар файл жоқ.",
+	"error_on_commons": "$1 дегенде әлдеқашан қайнар файл бар!",
+	"error_file_exists": "Файл «$3$4$2» ретін$2де $3 уикиінде әлдеқашан бар",
+	"original_wikitext": "Бастапқы уики мәтіні",
+	"new_wikitext": "Жаңа уики мәтіні",
+	"new_filename": "Жаңа файл атауы:",
+	"upload_submit": "Жүкте!",
+	"target_wiki": "нысана уики",
+	"error_bot_blocked": "Wikimedia Commons жобасында бот жүктеуі бұғатталған.",
+	"error_tusc_failed": "TUSC құптауы сәтсіз болды!",
+	"error_only_commons": "Тура жүктеутек Wikimedia Commons жобасында жұмыстайды!",
+	"upload_control_text": "Бәрі дұрыс болса «$1» дегенді басыңыз және жаңа уикимәтінін тексеріңіз!",
+	"error_upload_file": "Түпнұсқа файл түсірілмеді.",
+	"help_jira": "$1JIRA (сізге аккаунт қажет етеді)$2 (Project: Commonshelper2)",
+	"help_mail": "$1 дегенге электронды хат жіберу",
+	"help_commons": "Commons$2 дегенге хабарлама $1Қосу"
+}

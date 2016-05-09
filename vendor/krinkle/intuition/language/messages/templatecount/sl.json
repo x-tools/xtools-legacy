@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"enter-details": "Vnesite podrobnosti",
+	"introduction": "Vnesite ime predloge (trenutno samo Wikipedije, oprostite) in pritisnite Pojdi. Tako preprosto je. Nekaj je predpomnjenja (spomina rezultatov), vendar je to žal izven nadzora tega orodja in njenega lastnika.",
+	"language-label": "Jezik",
+	"namespace-label": "Imenski prostor",
+	"pagename-label": "Naslov strani (brez imenskega prostora)",
+	"transclusion-count-label": "Število vključitev",
+	"transclusion-count": "Najdeno $1 preusmeritev.",
+	"error-suggestion": "Morda ste narobe črkovali (ali uporabili napačne začetnice) naslov strani?",
+	"time-label": "Čas, porabljen za izvršitev ukaza"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Siddhartha Ghai",
+			"NehalDaveND"
+		]
+	},
+	"project": "प्रकल्प:",
+	"category": "श्रेणी:",
+	"thumbnailing": "अंगूठाकार",
+	"max-width": "अधिकतम चौड़ाई:",
+	"max-height": "अधिकतम ऊँचाई:",
+	"invalid-width": "अमान्य चौड़ाई",
+	"invalid-height": "अमान्य ऊँचाई",
+	"no-such-project": "ऐसा कोई प्रकल्प नहीं है",
+	"no-images": "उस श्रेणी में कोई चित्र नहीं हैं",
+	"zip-failed": "ज़िप नहीं बनाई जा सकी",
+	"download": "डाउनलोड करें"
+}

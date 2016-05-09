@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alan ffm",
+			"Darellur",
+			"Masti",
+			"Sp5uhe"
+		]
+	},
+	"title": "Tłumaczenie SVG",
+	"error-tryagain": "$1 Naciśnij przycisk Wstecz w przeglądarce, aby spróbować ponownie.",
+	"error-nothing": "Nie ma niczego wymagającego przetłumaczenia.",
+	"error-notsvg": "To nie jest plik SVG.",
+	"error-unexpected": "Wystąpił nieoczekiwany błąd.",
+	"error-notfound": "Plik SVG nie może zostać pobrany z podanego adresu URL.",
+	"error-upload": "Wystąpił błąd podczas przesyłania.",
+	"begin-translation": "Rozpocznij tłumaczenie",
+	"th-original": "Oryginał",
+	"th-translation": "Tłumaczenie",
+	"th-language": "Język",
+	"th-username": "Nazwa użytkownika",
+	"th-password": "Hasło",
+	"th-method": "Metoda",
+	"option-oauth": "OAuth (automatyczne przesyłanie)",
+	"option-manual": "Przesyłanie ręczne",
+	"preview": "Podgląd",
+	"translate": "Tłumacz",
+	"translate-instructions": "Plik można wybrać na dwa sposoby – podać nazwę pliku (np. „$1”) lub pełny adres URL (np. „$2”). W przypadku pierwszej metody przyjmuje się, że źródłem jest Wikimedia Commons. Aby przetłumaczyć SVG z innej strony lub wiki musisz użyć pełnego adresu URL.",
+	"svginput-label": "Plik SVG",
+	"stats-footer": "To narzędzie zostało użyte do przetłumaczenia około $1 plików od $2.",
+	"uploading": "Przesyłanie",
+	"upload-complete": "Przesyłanie powiodło się. Grafika powinna być na stronie $1",
+	"editdescriptionpage": "Edytuj nową stronę opisu",
+	"disclaimer": "Niektóre anonimowe dane będą gromadzone dla celów statystycznych. Jeśli podano, nazwa użytkownika OAuth zostanie zapisana na potrzeby walki z wandalizmami. Hasła nigdy nie będą rejestrowane.",
+	"author-complete": "Uzupełnij informacje o autorze",
+	"preview-hide": "Ukryj podgląd",
+	"preview-refresh": "Odśwież podgląd",
+	"error-must-accept": "Kontynuowanie bezpośredniego przesyłania wymaga zaakceptowania warunków korzystania z usługi.",
+	"description-license": "Wybierz opis i licencję",
+	"finalise": "Zapisz szczegóły"
+}

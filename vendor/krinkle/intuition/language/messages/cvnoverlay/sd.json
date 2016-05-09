@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed",
+			"Sindhu"
+		]
+	},
+	"adder": "شامل ڪندڙ",
+	"adder-empty": "اڻڄاتل",
+	"expiry": "اختتام",
+	"globalwatched": "عالمي طور تي ڏٺو ويو",
+	"reason": "سبب",
+	"reason-empty": "ڪو به سبب نه لڌو"
+}

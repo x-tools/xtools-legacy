@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bonevarluri",
+			"Mogoeilor"
+		]
+	},
+	"attention": "توجه بکید",
+	"language": "زون",
+	"project": "پروجه",
+	"source_file": "سرچشمه فایل",
+	"target_file": "فایل تمارزی بیه",
+	"categories": "دسه يا",
+	"remove_cats": "دسه یا که هئیشو وردارینشو",
+	"tusc_user": "نوم کاروری تی یو اس سی",
+	"tusc_pass": "پاسورد تی یو اس سی",
+	"do_it": "انجومش به",
+	"error_not_exists": "سرچشمه فایل وجود ناره!",
+	"error_on_commons": "سرچشمه فایل ایسه ها د $1!",
+	"original_wikitext": "نیسه اصلی ویکی",
+	"new_wikitext": "نیسه تازه ویکی",
+	"new_filename": "نوم فایل تازه:",
+	"upload_submit": "سوار کرد!",
+	"target_wiki": "ویکی تمارزی بیه",
+	"help_mail": "یه گل ایمیل سی $1 کل بکید"
+}

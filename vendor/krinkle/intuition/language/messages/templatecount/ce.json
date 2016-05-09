@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"enter-details": "ДӀаязде мадарра",
+	"language-label": "Мотт",
+	"namespace-label": "ЦӀерийн ана",
+	"pagename-label": "АгӀона цӀе (цӀерийн анаш йоцуш)",
+	"transclusion-count-label": "Юкъаялийначера дукхалла",
+	"transclusion-count": "Карина $1 юкъаялийнарг.",
+	"error-suggestion": "АгӀона цӀе язъечу хенах гӀалат дина хила мега я ахьа нийса йоцу элпийн регистр лелина те?",
+	"time-label": "Дехар, кхочушдо хан"
+}

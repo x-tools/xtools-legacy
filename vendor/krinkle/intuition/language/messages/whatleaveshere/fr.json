@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"title": "Ce qui part d’ici",
+	"title-leaveshere": "Liens qui partent de « $1 »",
+	"sub-leaveshere": "Les pages suivantes sont liées depuis $1",
+	"label-page": "Page",
+	"label-namespace": "Espace de noms",
+	"label-limit": "Limite",
+	"button-submit": "Aller",
+	"noleaveshere": "Rien n’est pointé par $1",
+	"link-whatleaveshere": "Ce qui part d’ici",
+	"tooltip-whatleaveshere": "Liste de tout ce qui est lié depuis ici",
+	"whatlinkshere": "Ce qui pointe ici",
+	"whatlinkshere-whatleaveshere": "Qu’est-ce qui part d’ici ?",
+	"istemplate": "inclusion",
+	"isfile": "lien de fichier",
+	"linksearch": "LinkSearch",
+	"section-links": "Liens",
+	"section-iwlinks": "Liens entre wikis",
+	"section-extlinks": "Liens externes",
+	"section-categories": "Catégories"
+}

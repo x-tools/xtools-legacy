@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"title": "Ce lasse aqquà",
+	"title-leaveshere": "Collegaminde ca lassane da \"$1\"",
+	"sub-leaveshere": "Le pàggene seguende collegane da $1",
+	"label-page": "Pàgene",
+	"label-namespace": "Namespace",
+	"label-limit": "Limite",
+	"button-submit": "Véje",
+	"noleaveshere": "Nisciune collegamende da $1",
+	"link-whatleaveshere": "Ce lasse aqquà",
+	"tooltip-whatleaveshere": "Elenghe de ogne cose ca apponde aqquà",
+	"whatlinkshere": "Appondene aqquà",
+	"whatlinkshere-whatleaveshere": "Ce lasse aqquà",
+	"istemplate": "esclusione",
+	"isfile": "collegamende a 'u file",
+	"linksearch": "LinkSearch",
+	"section-links": "Collegaminde",
+	"section-iwlinks": "Collegaminde inderuicchi",
+	"section-extlinks": "Collegaminde de fore",
+	"section-categories": "Categorije"
+}

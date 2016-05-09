@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Erisos",
+			"Sarrus"
+		]
+	},
+	"enter-details": "Indtast detaljer",
+	"introduction": "Skriv navnet på en skabelon (kun Wikipediaer i øjeblikket) og tryk på go. Så simpelt er det. Der er noget caching (resultaterne huskes), men det er desværre uden for kontrol af dette værktøj og dens ejer.",
+	"language-label": "Sprog",
+	"namespace-label": "Navnerum",
+	"pagename-label": "Sidenavn (uden navnerum)",
+	"transclusion-count-label": "Antallet af indlejringer",
+	"transclusion-count": "$1 indlejring(er) fundet.",
+	"error-suggestion": "Måske har du stavet navnet på siden forkert (eller skrevet med stort)?",
+	"time-label": "Tid det tog at udføre kommandoen"
+}

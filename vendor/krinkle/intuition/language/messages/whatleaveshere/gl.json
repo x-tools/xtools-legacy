@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo",
+			"Macofe"
+		]
+	},
+	"label-page": "Páxina",
+	"label-namespace": "Espazo de nomes",
+	"label-limit": "Límite",
+	"button-submit": "Ir",
+	"whatlinkshere": "Páxinas que ligan con esta",
+	"section-links": "Ligazóns",
+	"section-iwlinks": "Ligazóns interwiki",
+	"section-extlinks": "Ligazóns externas",
+	"section-categories": "Categorías"
+}

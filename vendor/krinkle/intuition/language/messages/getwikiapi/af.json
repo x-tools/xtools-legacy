@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"formats-heading": "Afvoer-formate",
+	"input": "Invoer",
+	"label-wikiids": "Wiki-ID's",
+	"no-matches": "Geen resultate vir \"$1\"",
+	"output": "Afvoer vir \"$1\""
+}

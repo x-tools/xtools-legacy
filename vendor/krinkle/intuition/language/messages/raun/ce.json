@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"settings": "Параметраш",
+	"settings_pause": "Пауза",
+	"settings_run": "Йолаялита",
+	"settings_bot_edits": "Ботийн нисдарш",
+	"settings_anon_edits": "Къайлаха нисдарш",
+	"settings_minor_edits": "Жим хийцамаш",
+	"stat_articles": "Коьрта агӀонаш",
+	"stat_pages": "АгӀонаш",
+	"stat_edits": "АгӀона нисдарш",
+	"stat_users": "ДӀабазбелла декъашхой",
+	"separator_thousands": ",",
+	"separator_decimals": ".",
+	"main_user": "Декъашхо",
+	"bot": "бот",
+	"send_feedback": "Дахьийта хетарг"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"formats-heading": "Formatos de output",
+	"input": "Entrata",
+	"label-wikiids": "Indentificatores de wiki",
+	"no-matches": "Nihil corresponde a \"$1\"",
+	"output": "Resultatos pro \"$1\""
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron",
+			"Chmee2",
+			"Jezevec",
+			"Vks"
+		]
+	},
+	"moretools": "více nástrojů od stejného autora",
+	"homepage-title": "Úvod",
+	"bugs": "hlášení chyb a požadavky na vylepšení",
+	"comments": "komentáře a dotazy",
+	"error-form-empty": "Jedna nebo více povinných položek byla ponechána nevplněná. Měli byste je vyplnit, aby se mohlo pokračovat."
+}

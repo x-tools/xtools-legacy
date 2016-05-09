@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Vito Genovese"
+		]
+	},
+	"fullname": "Toolserver'ın Kullanıcı Arayüzü için Uluslararasılaştırma",
+	"current-settings": "Güncel ayarlar",
+	"current-language": "Halihazırda seçilmiş dil",
+	"settings-legend": "Ayarlar",
+	"choose-language": "Bir dil seçin",
+	"clear-cookies": "çerezleri temizle",
+	"renew-cookies": "çerezleri yenile",
+	"cookie-expiration": "Çerez süresinin dolumu",
+	"clearcookies-success": "Çerezler başarıyla temizlendi.",
+	"renewcookies-success": "Çerezler temizlendi! Sonraki $1 için hazırsınız.",
+	"tab-overview": "Genel görünüm",
+	"tab-settings": "Ayarlar",
+	"tab-about": "Hakkında",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Dil ayarlarım",
+	"bl-mysettings-new": "Dili değiştir!",
+	"bl-promo": "Çeviriler, $1 ve $2 tarafından sağlanmaktadır.",
+	"bl-changelanguage": "Bu aracın arayüz dilini değiştirmek için buraya tıklayın.",
+	"usage": "Toolserver Intuition tarafından çevrilen araçlar.",
+	"help-translate-tool": "Bu aracın çevrilmesine yardımcı olun!",
+	"help-translate-all": "Toolserver'ın çevrilmesine yardımcı olun!",
+	"help-translate-tooltip": "Arayüz iletilerini dilinize çevirerek başkalarına yardımcı olun."
+}

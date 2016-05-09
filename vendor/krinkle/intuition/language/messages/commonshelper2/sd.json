@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"attention": "خبردار",
+	"language": "ٻولي",
+	"project": "منصوبو",
+	"source_file": "ذريعي جو فائيل",
+	"target_file": "نشاني وارو فائيل",
+	"commons_username": "وڪيميڊيا العام يوزرنانءُ",
+	"move_file_from_com": "فائيل کي وڪيميڊيا العام کان منصوبي ڏي چوريو",
+	"categories": "زمرا",
+	"remove_cats": "موجود زمرا هٽايو",
+	"do_it": "اهو ڪريو",
+	"error_transfer_usr": "توها ڪو وڪيميڊيا العام يوزرنانءُ ترتيب نه ڏنو آهي",
+	"error_not_exists": "فائيل وجود نٿو رکي!",
+	"original_wikitext": "اصل وڪي متن",
+	"new_wikitext": "نئون وڪي متن",
+	"new_filename": "نئو فائيل نانءُ",
+	"upload_submit": "چاڙهيو!",
+	"target_wiki": "نشاني واري وڪي",
+	"error_upload_file": "اصل فائيل لاهي نٿو سگھجي.",
+	"help_mail": "$1 ڏي ايميل موڪليو"
+}

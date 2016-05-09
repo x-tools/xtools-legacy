@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chameleon",
+			"KhangND",
+			"Liuxinyu970226",
+			"Chameleon222",
+			"Purodha"
+		]
+	},
+	"title": "Title for the tool.\nIt checks any template, but one at a time. It's typically used to check the use of navboxes (like team squads etc).\nExamples of use:\n* [//tools.wmflabs.org/templatetransclusioncheck?lang=en&complete=1&name=Template:Real_Madrid_C.F._squad Check of enWP Template:Real Madrid C.F. squad]\n* [//tools.wmflabs.org/templatetransclusioncheck/index.php?lang=de&name=Vorlage%3ANavigationsleiste_Olympiasieger_%C3%BCber_100_m_Freistil&complete=1 Check of deWP Vorlage:Navigationsleiste Olympiasieger über 100 m Freistil]\n<!-- thanks to \n\n[[User:Chameleon222|Chameleon222]] ([[User talk:Chameleon222|talk]]) -->",
+	"description": "Description of the tool.",
+	"form-label-language": "Form label for an input field requesting a wiki language id.\n{{Identical|Language}}",
+	"form-label-template": "Form label for an input field for a template name.\n{{Identical|Template name}}",
+	"form-label-template2": "Additional information for the input field for the template name. The template name must include the namespace.",
+	"form-label-complete": "Label for an checkbox. If checked then a complete/full report will be generated.",
+	"feedback-template-missing": "A non-existing template name has been entered. $1 is the template name.",
+	"feedback-template-noaccess": "The script can't access information about the template from the database. $1 is the template name, and $2 is information about the database.",
+	"feedback-result": "$1 is the template name.",
+	"feedback-header-mismatch": "Main header for the mismatch section.",
+	"feedback-header-no-link": "Header for the list of pages that transcludes the template, but which are not linked from the template.",
+	"feedback-header-no-transclusion": "Header for the list of pages that are linked from the template, but do not transclude it.",
+	"feedback-header-redirects": "Header for the list of links from the template which are redirects.",
+	"feedback-total-count": "Displays the total number of links/transclusions in a list. $1 is the total count.\n{{Identical|Total}}",
+	"feedback-header-complete": "Main header for the complete/full report section.",
+	"feedback-header-transclusions": "Header for the list of pages that transcludes the template.",
+	"feedback-header-links": "Header for the list of pages that are linked from the template.",
+	"link-edit": "Name for a link for editing a wiki page.\n{{Identical|Edit}}",
+	"link-create": "Name for a link for creating a wiki page.\n{{Identical|Create}}",
+	"link-complete": "Name for a link to the complete/full report.",
+	"footer-stats": "A statistics line at the bottom of the report. $1 is a timestamp (the current date/time) and $2 is the number of seconds for the request.",
+	"error-language": "An error message displayed if the user has entered an unknown/invalid code for the language."
+}

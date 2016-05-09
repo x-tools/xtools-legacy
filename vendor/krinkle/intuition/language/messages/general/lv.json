@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"namespace": "Vārdtelpa",
+	"form-submit": "Aiziet",
+	"form-reset": "Notīrīt",
+	"years": "{{PLURAL: $1|gads|gadi}}",
+	"weeks": "{{PLURAL: $1|nedēļa|nedēļas}}",
+	"days": "{{PLURAL: $1|diena|dienas}}",
+	"hours": "{{PLURAL: $1|stunda|stundas}}",
+	"minutes": "{{PLURAL: $1|minūte|minūtes}}",
+	"seconds": "{{PLURAL: $1|sekunde|sekundes}}",
+	"last-modified-date": "Pēdējoreiz mainīts: $1",
+	"view-source": "Aplūkot kodu"
+}

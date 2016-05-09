@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fúlvio",
+			"He7d3r",
+			"Araceletorres"
+		]
+	},
+	"fullname": "Internacionalização para ferramentas",
+	"current-settings": "Configurações atuais",
+	"current-language": "Idioma selecionado",
+	"settings-legend": "Configurações",
+	"choose-language": "Escolha um idioma",
+	"clear-cookies": "limpar cookies",
+	"renew-cookies": "renovar cookies",
+	"cookie-expiration": "Prazo de expiração dos cookies",
+	"clearcookies-success": "Os cookies foram removidos com sucesso.",
+	"renewcookies-success": "Cookies renovados! Você está preparado para os próximos $1.",
+	"tab-overview": "Visão geral",
+	"tab-settings": "Configurações",
+	"tab-about": "Sobre",
+	"tab-demo": "Exemplo",
+	"bl-mysettings": "Minhas configurações de idioma",
+	"bl-mysettings-new": "Alterar o idioma!",
+	"bl-promo": "Traduções possíveis graças à $1 e ao $2.",
+	"bl-changelanguage": "Alterar o idioma da interface desta ferramenta.",
+	"usage": "Ferramentas traduzidas pelo Intuition.",
+	"help-translate-tool": "Ajude a traduzir esta ferramenta!",
+	"help-translate-all": "Ajude a traduzir as ferramentas!",
+	"help-translate-tooltip": "Ajuda os outros, traduzindo as mensagens de interface para o seu idioma."
+}

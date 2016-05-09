@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"AwesomeOrange89",
+			"Fitoschido",
+			"Invadinado"
+		]
+	},
+	"title-overview": "Instantáneas",
+	"title-error": "Error",
+	"title-updatelog": "Registro de actualización",
+	"updatelog-intro": "La secuencia de comandos (script) de actualización está programada para ejecutarse cada hora. A continuación está el resultado de la consola tras la última ejecución.",
+	"updatelog-active": "La secuencia de comandos (script) de actualización se está ejecutando actualmente. Vuelve más tarde para ver el registro completo.",
+	"download-button": "Descargar instantánea",
+	"download-directlink": "enlace directo",
+	"title-downloadpage": "Descargar",
+	"title-downloadpage-repo": "Descargar $1",
+	"err-snapshotindex": "Índice de instantáneas no disponible temporalmente. Inténtalo de nuevo más tarde.",
+	"err-invalid-repo": "Repositorio desconocido: «$1».",
+	"err-invalid-branch": "Rama «$1» desconocida en el repositorio «$2».",
+	"err-nosnapshot": "Las instantáneas se generan cada pocas horas. Mientras se generaba la instantánea para \"$1\", se produjo un error. Inténtalo de nuevo más tarde.",
+	"err-noupdatelog": "No se ha encontrado ningún registro de actualización.",
+	"repo-site-link": "Sitio web",
+	"repo-browse-link": "Examinar el repositorio",
+	"repo-branches-label": "Ramas:",
+	"repo-lastmoddate-label": "Fecha:",
+	"branches-submit-button": "¡Consíguelo!",
+	"updatelog-link": "registro de actualización",
+	"tablehead-repo": "Repositorio",
+	"tablehead-snapshots": "Instantáneas",
+	"tablehead-branch": "Rama",
+	"tablehead-filesize": "Tamaño del archivo",
+	"tablehead-hash": "Sumas de comprobación"
+}

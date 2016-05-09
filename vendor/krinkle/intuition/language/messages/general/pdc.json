@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"hello": "Heiya",
+	"welcome": "Wilkum",
+	"namespace": "Blatznaame",
+	"years": "{{PLURAL: $1|Yaahr|Yaahre}}",
+	"weeks": "{{PLURAL: $1|Woch|Woche}}",
+	"days": "{{PLURAL: $1|Daag|Daag}}",
+	"hours": "{{PLURAL:$1|Schtund|Schtund}}"
+}

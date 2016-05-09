@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Peter Alberti",
+			"Sarrus"
+		]
+	},
+	"title": "SVG-oversættelse",
+	"error-tryagain": "$1 Tryk på din browsers tilbageknap for at prøve igen.",
+	"error-nothing": "Intet at oversætte.",
+	"error-notsvg": "Ikke en SVG-fil.",
+	"error-unexpected": "En uventet fejl opstod.",
+	"error-notfound": "SVG-filen kunne ikke hentes fra den angivne URL-adresse.",
+	"error-upload": "Der opstod en fejl under upload.",
+	"begin-translation": "Begynd med at oversætte",
+	"th-original": "Original",
+	"th-translation": "Oversættelse",
+	"th-language": "Sprog",
+	"th-username": "Brugernavn",
+	"th-password": "Adgangskode",
+	"th-method": "Metode",
+	"option-oauth": "TUSC (automatisk upload)",
+	"option-manual": "Manuel upload",
+	"preview": "Forhåndsvisning",
+	"translate": "Oversæt",
+	"translate-instructions": "Input accepteres som enten filnavne (f.eks. \"$1\") eller fuld URL (f.eks. \"$2\"). Hvis den første mulighed benyttes, antages det, at Wikimedia Commons er kilden. For at oversætte en SVG fra et andet websted eller wiki, skal du skrive den fulde URL-adresse.",
+	"svginput-label": "SVG-fil",
+	"stats-footer": "Dette værktøj er blevet brugt til at oversætte ca. $1 filer siden $2.",
+	"uploading": "Uploader",
+	"upload-complete": "Upload fuldendt. Billedet burde nu være at finde på $1",
+	"editdescriptionpage": "Rediger den nye beskrivelsesside",
+	"disclaimer": "Nogle anonyme data vil blive indsamlet privat for at kunne føre statistik. Hvis det oplyses, vil OAuth-brugernavne også blive registreret til hjælp i tilfælde af hærværk. Adgangskoder vil aldrig blive registreret.",
+	"author-complete": "Udfyld venligst oplysninger om forfattere!",
+	"preview-hide": "Skjul forhåndsvisning",
+	"preview-refresh": "Genopfrisk forhåndsvisning",
+	"error-must-accept": "For at kunne fortsætte med direkte upload, skal du acceptere brugsvilkårene.",
+	"description-license": "Vælg beskrivelse og licens",
+	"finalise": "Færdiggør detaljer"
+}

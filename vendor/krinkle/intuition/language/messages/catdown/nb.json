@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo"
+		]
+	},
+	"title": "Last ned bilder etter kategori",
+	"subtitle": "Den enkle måten å laste ned bilder fra en kategori",
+	"project": "Prosjekt:",
+	"category": "Kategori:",
+	"thumbnailing": "Miniatyrbilder",
+	"max-width": "Maksimumbredde:",
+	"max-height": "Maksimumhøyde:",
+	"invalid-width": "Ugyldig bredde",
+	"invalid-height": "Ugyldig høyde",
+	"no-such-project": "Det finnes ikke noe slikt prosjekt",
+	"no-images": "Det er ingen bilder i kategorien",
+	"category-is-url": "Kategorinavnet du oppga ser ut som en URL. Du må fylle inn kategorinavnet, ikke URLen.",
+	"category-contains-namespace": "Det ser ut som du har inkludert navnerommet sammen med kategorinavnet. Med det oppgitte navnet, vil siden være tilgjengelig som [[Category:$1]].",
+	"zip-failed": "Opprettelsen av en ZIP-fil feilet",
+	"image-area-too-big": "$1 er for stor til at det kan lages miniatyrbilde. Bruker full størrelse.",
+	"download-info": "Det finnes {{plural:$1|ett bilde|$1 bilder}}, med en estimert størrelse $2",
+	"download": "Last ned",
+	"readme-contents": "Den omsluttende filen $4 lister opp bildene i kategorien $1 ( $2 )$3.\n\n== Instruksjoner for nedlasting av alle bildene ==\nNedlastingstiden kan variere fra noen minutter til flere timer.\n\nWindows:\n Pakk ut alle filene i samme mappe og kjør $5\n $6\nLinux/Mac OS:\n Pakk ut alle filene og åpne en terminal i samme mappe. Kjør sh $5",
+	"non-bundled-wget": "Merk: Denne versjonen inkluderer ikke wget for Windows. Du må pakke ut til en mappe med wget.exe eller ha wget i PATH",
+	"wget-info": "Denne filen inkluderer en kopi av wget $1 (for Windows). Wget er fri programvare, under vilkårene i GNU GENERAL PUBLIC LICENSE versjon 3.\nEn kopi av lisensen finnes nedenfor, og den er også tilgjengelig på http://www.gnu.org/licenses/gpl-3.0.txt\n\nOm du er interessert i å få tak i kildekoden til dette programmet kan du laste den ned fra\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\neller et annet GNU-speil, se\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", skalert til en maksimumsbredde på $1 {{PLURAL:$1|piksel|piksler}}",
+	"scaling-height": ", skalert til en maksimumshøyde på $1 {{PLURAL:$1|piksel|piksler}}",
+	"scaling-both": ", skalert til en maksimumsstørrelse på $1×$2 piksler"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby",
+			"Soued031"
+		]
+	},
+	"title": "Biller vun enger Kategorie eroflueden",
+	"subtitle": "Déi einfach Manéier fir Biller aus enger Kategorie erofzelueden",
+	"project": "Projet:",
+	"category": "Kategorie:",
+	"thumbnailing": "Miniaturbild gëtt gemaach",
+	"max-width": "Maximal Breet:",
+	"max-height": "Maximal Héicht:",
+	"invalid-width": "D'Breet ass net valabel",
+	"invalid-height": "D'Héicht ass net valabel",
+	"no-such-project": "Sou e Projet gëtt et net",
+	"no-images": "Et gëtt keng Biller an där Kategorie",
+	"category-is-url": "D'Kategorie déi ugi gouf gesäit wéi eng komplett URL aus. Dir musst den Numm vun der Kategorie uginn, an net hir URL.",
+	"category-contains-namespace": "Et schéngt wéi wann Dir den Nummraum bei den Numm vun der Kategorie derbäigesat hutt. Mam Numm den uginn ass wier d'Säit als [[Category:$1]] disponibel.",
+	"zip-failed": "De ZIP-Fichier konnt net gemaach ginn",
+	"image-area-too-big": "$1 ass ze grouss fir e Miniatur-Bild ze generéieren. Déi komplett Gréisst gëtt benotzt.",
+	"download-info": "Et {{plural: $1|ass 1 Bild|si(nn) $1 Biller}} mat enger geschater Gréisst vun $2 do",
+	"download": "Eroflueden",
+	"readme-contents": "Am Fichier $4 stinn d'Biller déi an der Kategorie $1 dra sinn ($2) $3.\n\n== Instruktioune fir d'Erofluede vun de Biller aus der Lëscht ==\nD'Zäit déi Erofluede brauch kann tëscht e puer Minutten an a puer Stonne leien.\n\nWindows:\nAll Fichieren an deeselwechte Repertoire erauszéien an $5 lancéieren.\n$6\nLinux/Mac OS\n\nAll Fichieren entpacken an een Terminal an deem Repertoire opmaachen. Duerno sh $5 lancéieren.",
+	"non-bundled-wget": "Informatioun: An dëser Versioun ass 'wget for Windows' net abegraff. Dir musst an e Repertoire mat wget.exe dekompriméieren oder wget op eng aner Manéier am 'PATH' hunn",
+	"wget-info": "An dësem Fichier ass eng Kopie vun Wget $1 (fir Windows). Wget ass Fräi Software no der\nLizenz „GNU GENERAL PUBLIC LICENSE“ Versioun 3.\nEng Kopie vun der Lizenz steet hei drënner, an ass op der URL http://www.gnu.org/licenses/gpl-3.0.txt disponibel.\n\nWann Dir drun interesséiert sidd de Quellcode vun dësem Programm ze kréien, da kënntDir en op dëse Säiten eroflueden:\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nEt gëtt och aner GNU-Mirror. Kuckt dofir\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", op eng maximal Breet vu(n) $1 {{plural:$1Pixel|Pixel}} skaléiert",
+	"scaling-height": ", op eng maximal Héicht vu(n) {{plural:$1Pixel|Pixel}} skaléiert",
+	"scaling-both": ", op eng maximal Gréisst vu(n) $1x$2 Pixel skaléiert"
+}

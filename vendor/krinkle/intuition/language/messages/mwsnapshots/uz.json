@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"CoderSI",
+			"Sociologist"
+		]
+	},
+	"title-overview": "Suratlar",
+	"title-error": "Xato",
+	"title-updatelog": "Yangilash qaydlari",
+	"download-button": "$1ni yuklash",
+	"download-directlink": "bevosita havola",
+	"title-downloadpage": "Yuklash: $1",
+	"err-snapshotindex": "Surat indeksiga vaqtincha ruxsat yoʻq. Iltimos, keyinroq urinib koʻring.",
+	"err-invalid-repo": "Nomaʼlum repozitoriy: \"$1\".",
+	"err-invalid-branch": "Noʼmalum tarmoq: \"$2\" repozitoriyasida \"$1\".",
+	"err-noupdatelog": "Yangilash qaydlari topilmadi.",
+	"repo-site-link": "Vebsayt",
+	"repo-branches-label": "Tarmoqlar:",
+	"repo-lastmoddate-label": "Sana:",
+	"branches-submit-button": "Arang olmoq!",
+	"updatelog-link": "yangilash qaydlari",
+	"tablehead-snapshots": "Suratlar",
+	"tablehead-branch": "Tarmoq",
+	"tablehead-filesize": "Fayl oʻlchami",
+	"tablehead-hash": "Nazorat summalari"
+}

@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps",
+			"Rezonansowy",
+			"Sp5uhe"
+		]
+	},
+	"title": "Pobieranie grafik ze względu na kategorię",
+	"subtitle": "Prosta metoda na pobranie grafik znajdujących się w określonej kategorii",
+	"project": "Projekt:",
+	"category": "Kategoria:",
+	"thumbnailing": "Miniatura",
+	"max-width": "Maksymalna szerokość",
+	"max-height": "Maksymalna wysokość",
+	"invalid-width": "Nieprawidłowa szerokość",
+	"invalid-height": "Nieprawidłowa wysokość",
+	"no-such-project": "Brak takiego projektu",
+	"no-images": "W wybranej kategorii nie ma grafik",
+	"category-is-url": "Wybrana nazwa kategorii wygląda jak adres internetowy. Musisz podać nazwę kategorii, a nie jej adres w Internecie.",
+	"category-contains-namespace": "Wygląda na to, że w nazwie kategorii jest nazwa przestrzeni nazw. Z zadaną nazwą strona byłaby dostępna jako [[Category:$1]].",
+	"zip-failed": "Błąd utworzenia archiwum w formacie ZIP",
+	"image-area-too-big": "Grafika $1 jest zbyt duża, aby utworzyć miniaturkę. Zostanie użyta w pełnym rozmiarze.",
+	"download-info": "{{PLURAL:$1|Jest jedna grafika|Są $1 grafiki|Jest $1 grafik}} o szacowanej wielkości $2",
+	"download": "Pobierz",
+	"readme-contents": "Załączony plik $4 zawiera listę\ngrafik znajdujących się w kategorii $1 ( $2 )$3.\n\n== Instrukcja pobrania wszystkich plików z listy ==\nCzas pobierania może się wahać od kilku minut do wielu godzin.\n\nWindows:\n Rozpakuj wszystkie pliki w jednym folderze i uruchom $5\n $6\nLinux lub Mac OS:\n Rozpakuj wszystkie pliki, a następnie otwórz terminal w tym folderze. Uruchom sh $5",
+	"non-bundled-wget": "Uwaga – ta wersja nie zawiera wget dla systemu Windows. Będziesz musiał rozpakować archiwum do folderu z programem wget.exe lub musisz mieć ten program na ścieżce wpisanej w PATH.",
+	"wget-info": "W tym pliku znajduje się kopia programu wget $1 (dla platformy Windows). Wget jest  darmowym oprogramowaniem, dostępnym na zasadach licencji GNU GENERAL PUBLIC LICENSE w wersji 3.\nKopia licencji dostępna jest poniżej oraz pod adresem http://www.gnu.org/licenses/gpl-3.0.txt\n\nJeśli jesteś zainteresowany kodem źródłowym tego programu możesz pobrać go z\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nlub niektórych innych mirrorów GNU, zobacz\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", przeskalowanych do szerokości maksymalnie $1 {{PLURAL:$1|piksela|pikseli}}",
+	"scaling-height": ", przeskalowanych do wysokości maksymalnie $1 {{PLURAL:$1|piksela|pikseli}}",
+	"scaling-both": ", przeskalowanych do maksymalnego rozmiaru $1x$2 pikseli"
+}

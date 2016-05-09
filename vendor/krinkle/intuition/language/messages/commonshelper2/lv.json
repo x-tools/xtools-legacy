@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"attention": "Uzmanību",
+	"jira_link": "Ziņot par kļūdu vai ieteikt funkcionalitāti",
+	"language": "Valoda",
+	"project": "Projekts",
+	"source_file": "Izejas fails",
+	"target_file": "Mērķa fails",
+	"commons_username": "Wikimedia Commons lietotājvārds",
+	"categories": "Kategorijas",
+	"tusc_user": "TUSC lietotājvārds",
+	"tusc_pass": "TUSC parole",
+	"do_it": "Darīt to",
+	"original_wikitext": "Sākotnējais vikiteksts",
+	"new_wikitext": "Jaunais vikiteksts",
+	"new_filename": "Jaunais faila nosaukums:",
+	"upload_submit": "Augšupielādēt!"
+}

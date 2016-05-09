@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Sagan",
+			"ҒатаУлла"
+		]
+	},
+	"hello": "Сәләм",
+	"welcome": "Рәхим итегеҙ!",
+	"toolversionstamp": " $1 ($2) юрамаһы",
+	"etc": "һ.б.",
+	"namespace": "Исемдәр арауығы",
+	"form-submit": "Күсеү",
+	"form-reset": "таҙартырға",
+	"years": "$1 {{PLURAL:$1|йыл|йылдар}}",
+	"weeks": "$1 {{PLURAL:$1|аҙна}}",
+	"days": "$1 {{PLURAL:$1|көн}}",
+	"hours": "{{PLURAL:$1|$1 сәғәт}}",
+	"minutes": "$1 {{PLURAL:$1|минут}}",
+	"seconds": "{{PLURAL:$1|$1 секунд}}",
+	"last-modified-date": "Һуңғы үҙгәртеү: $1",
+	"view-source": "Сығанаҡты ҡарарға",
+	"and": "&#32;һәм"
+}

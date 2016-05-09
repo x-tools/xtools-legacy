@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"description": "מטא־מידע על אתרי ויקי של ויקימדיה.",
+	"formats-heading": "תסדירי פלט",
+	"input": "קלט",
+	"label-wikiids": "מזהי ויקי",
+	"no-matches": "שום דבר לא התאים ל־\"$1\"",
+	"output": "פלט עבור \"$1\""
+}

@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"error-nothing": "भाय्हिलेत छुं हे मदु।",
+	"error-notsvg": "थ्व SVG फाइल मखु।",
+	"error-unexpected": "अप्रत्याशित इरर जुवन।",
+	"error-notfound": "ब्युगु URLनं SVG फाइल लिकाये मफुत।",
+	"error-upload": "अपलोद याबिले इरर वल।",
+	"begin-translation": "भाय्‌हिला न्ह्यथनादिसँ",
+	"th-original": "धाथेंया",
+	"th-translation": "भाय्‌हिला",
+	"th-language": "भाय्",
+	"th-username": "छ्य्लामि नां",
+	"th-password": "दुथखँग्वः (पासवर्द):",
+	"th-method": "विधि",
+	"option-oauth": "TUSC (स्वचालित अपलोद)",
+	"option-manual": "म्यानुअल अपलोद",
+	"preview": "पूर्वालोकन",
+	"translate": "भाय्‌ हिलादिसँ",
+	"svginput-label": "SVG फाइल",
+	"stats-footer": "$2निसें थ्व ज्याभः छ्य्ला $1 फाइलया भाय् हिलाबुला जूगुदु।",
+	"uploading": "अपलोद जुयाच्वँगुदु",
+	"upload-complete": "अपलोद सुथांलाक्क क्वचाल। किपा आः $1य् दयेमा।",
+	"editdescriptionpage": "न्हुगु विवरण पौ सम्पादन यानादिसँ",
+	"author-complete": "कृपया च्वमि सूचं पूवंकादिसँ!",
+	"preview-hide": "पूर्वालोकन सुचुकादिसँ",
+	"preview-refresh": "पूर्वालोकन रिफ्रेश यानादिसँ",
+	"error-must-accept": "प्रत्यक्ष अपलोद यानाच्वनेत छिं बियातःगु छ्य्लाया शर्त (terms of use) स्वीकार यायेमा।",
+	"description-license": "विवरण व लाइसन्स ल्ययादिसँ",
+	"finalise": "विवरणयात पूर्णरुप बियादिसँ"
+}

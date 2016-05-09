@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"error-tryagain": "$1 Klikni na tłocašk \"Slědk\" swójogo wobglědowaka, aby hyšći raz wopytał.",
+	"error-nothing": "Njejo nic za pśełožowanje.",
+	"error-notsvg": "To njejo SVG-dataja.",
+	"error-unexpected": "Njewócakowana zmólka jo nastała.",
+	"error-notfound": "SVG-dataja njedajo se wót pódanego URL wótwołaś.",
+	"error-upload": "Pśi nagrawanju jo zmólka nastała.",
+	"begin-translation": "Pśełožowanje zachopiś",
+	"th-original": "Original",
+	"th-translation": "Pśełožk",
+	"th-language": "Rěc",
+	"th-username": "Wužywarske mě",
+	"th-password": "Gronidło",
+	"th-method": "Metoda",
+	"option-oauth": "TUSC (awtomatiske nagraśe)",
+	"option-manual": "Manuelne nagraśe",
+	"preview": "Pśeglěd",
+	"translate": "Pśełožyś",
+	"translate-instructions": "Zapódaśa akceptěruju se pak ako datajowe mjenja (na pś. \"$1\")  pak ako dopołny URL (na pś. \"$2\"). Jolic se prědna opcija wužywa, buźo se Wikimedia Commons ako žrědło pśedpokładowaś.  Aby SVG z drugego sedła abo wikija pśełožył, musyš format z dopołnym URL wužywaś.",
+	"svginput-label": "SVG-dataja",
+	"stats-footer": "Toś ten rěd jo se wužył, aby se wokoło $1 datajow wót $2 pśełožyło.",
+	"uploading": "Nagrawa se...",
+	"upload-complete": "Nagraśe jo wuspěšnje dokóńcone. Wobraz by dejał něnto pód $1 k dispoziciji staś.",
+	"editdescriptionpage": "Nowy wopisański bok wobźěłaś",
+	"disclaimer": "Někotare anonymne daty zběraju se za statistiske zaměry. Jolic k dispoziciji, wužywarske mjenja OAuth so teke zapśimuju, ako pomocny srědk pśeśiwo wandalizmoju. Gronidła se nigda njezapśimuju.",
+	"author-complete": "Pšosym wudopołni informacije wó awtorje!",
+	"preview-hide": "Pśeglěd schowaś",
+	"preview-refresh": "Pśeglěd aktualizěrowaś",
+	"error-must-accept": "Aby z direktnym nagraśim pókšacował, musyš slědujuce wužywańske wuměnjenja akceptěrowaś.",
+	"description-license": "Wopisanje a licencu wubraś",
+	"finalise": "Drobnostki wudopołniś"
+}

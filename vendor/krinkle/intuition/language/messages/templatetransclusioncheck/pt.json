@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe",
+			"Vitorvicentevalente"
+		]
+	},
+	"form-label-language": "Idioma:",
+	"form-label-template": "Nome da predefinição:",
+	"feedback-result": "Resultados para $1",
+	"feedback-total-count": "Total: $1",
+	"link-edit": "editar",
+	"link-create": "criar",
+	"error-language": "Código de língua desconhecido"
+}

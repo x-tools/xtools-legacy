@@ -1,0 +1,24 @@
+{
+	"name": "krinkle/toollabs-base",
+	"description": "Framework for web apps in Wikimedia's Tool Labs environment.",
+	"license": "Unlicense",
+	"require": {
+		"php": ">=5.5"
+	},
+	"require-dev": {
+		"jakub-onderka/php-parallel-lint": "0.8.*",
+		"phpunit/phpunit": "4.1.*",
+		"mikey179/vfsStream": "1.*"
+	},
+	"autoload": {
+		"files": [
+			"InitTool.php"
+		]
+	},
+	"scripts": {
+		"test": [
+			"parallel-lint --exclude vendor .",
+			"phpunit"
+		]
+	}
+}

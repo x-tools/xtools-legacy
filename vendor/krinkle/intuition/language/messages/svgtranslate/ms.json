@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"title": "Penterjemahan SVG",
+	"error-tryagain": "$1 Tekan butang \"←\" (back) pelayar anda untuk mencuba semula.",
+	"error-nothing": "Tiada apa untuk diterjemahkan.",
+	"error-notsvg": "Bukan fail SVG.",
+	"error-unexpected": "Berlakunya ralat luar jangkaan.",
+	"error-notfound": "Fail SVG tidak dapat diambil daripada URL yang diberikan.",
+	"error-upload": "Ralat dialami ketika memuat naik.",
+	"begin-translation": "Mulakan penterjemahan",
+	"th-original": "Asal",
+	"th-translation": "Terjemahan",
+	"th-language": "Bahasa",
+	"th-username": "Nama pengguna",
+	"th-password": "Kata laluan",
+	"th-method": "Kaedah",
+	"option-oauth": "OAuth (muat naik automatik)",
+	"option-manual": "Muat naik manual",
+	"preview": "Pralihat",
+	"translate": "Terjemah",
+	"translate-instructions": "Input diterima dalam bentuk nama fail (cth. \"$1\") atau URL penuh (cth. \"$2\"). Jika pilihan pertama digunakan, Wikimedia Commons akan dianggap sebagai sumbernya. Untuk menterjemahkan SVG dari tapak web atau wiki yang lain, anda mesti menggunakan format URL penuh.",
+	"svginput-label": "Fail SVG",
+	"stats-footer": "Alat ini telah digunakan untuk menterjemah kira-kira $1 fail sejak $2.",
+	"uploading": "Sedang memuat naik",
+	"upload-complete": "Muat naik berjaya disiapkan. Imej anda sepatutnya berada di $1",
+	"editdescriptionpage": "Sunting laman penerangan baru",
+	"disclaimer": "Sesetengah data tanpa nama akan dihimpunkan secara peribadi untuk tujuan statistik. Jika disediakan, nama pengguna OAuth juga akan dicatatkan sebagai bantuan sekiranya terjadi laku musnah. Kata laluan tidak akan dicatatkan sekali pun.",
+	"author-complete": "Tolong lengkapkan maklumat pengarang!",
+	"preview-hide": "Sorokkan pralihat",
+	"preview-refresh": "Muat semula pralihat",
+	"error-must-accept": "Untuk meneruskan muat naik terus, anda mesti menerima terma-terma penggunaan yang dinyatakan.",
+	"description-license": "Pilih keterangan dan lesen",
+	"finalise": "Muktamadkan butiran"
+}

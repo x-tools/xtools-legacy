@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"GoEThe",
+			"Hamilton Abreu",
+			"Imperadeiro98",
+			"Luckas",
+			"Sarilho1",
+			"Vitorvicentevalente"
+		]
+	},
+	"hello": "Olá",
+	"welcome": "Bem-vindo",
+	"toolversionstamp": "Versão $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Espaço nominal",
+	"form-submit": "Enviar",
+	"form-reset": "Repor",
+	"years": "{{PLURAL: $1|ano|anos}}",
+	"months": "{{PLURAL: $1|mês|meses}}",
+	"weeks": "{{PLURAL: $1|semana|semanas}}",
+	"days": "{{PLURAL: $1|dia|dias}}",
+	"hours": "{{PLURAL: $1|hora|horas}}",
+	"minutes": "{{PLURAL: $1|minuto|minutos}}",
+	"seconds": "{{PLURAL: $1|segundo|segundos}}",
+	"last-modified-date": "Última modificação: $1",
+	"view-source": "Ver código-fonte",
+	"and": "&#32;e"
+}

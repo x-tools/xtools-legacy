@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"label-page": "Trang",
+	"label-namespace": "Không gian tên",
+	"label-limit": "Giới hạn",
+	"button-submit": "Hiển thị",
+	"whatlinkshere": "Các liên kết đến đây",
+	"istemplate": "nhúng",
+	"isfile": "liên kết tập tin",
+	"linksearch": "Tìm liên kết",
+	"section-links": "Liên kết",
+	"section-iwlinks": "Liên kết liên wiki",
+	"section-extlinks": "Liên kết ngoài",
+	"section-categories": "Thể loại"
+}

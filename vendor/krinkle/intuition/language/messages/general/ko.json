@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwj2772",
+			"아라",
+			"Revi"
+		]
+	},
+	"dateformat": "%Y년 %B %d일",
+	"hello": "안녕하세요",
+	"welcome": "환영합니다",
+	"toolversion": "버전 $1",
+	"toolversionstamp": "버전 $1 ($2)",
+	"etc": "기타",
+	"namespace": "이름공간",
+	"form-submit": "가기",
+	"form-reset": "초기화",
+	"years": "{{PLURAL: $1|년}}",
+	"months": "{{PLURAL: $1|월}}",
+	"weeks": "{{PLURAL: $1|주}}",
+	"days": "{{PLURAL: $1|일}}",
+	"hours": "{{PLURAL: $1|시}}",
+	"minutes": "{{PLURAL: $1|분}}",
+	"seconds": "{{PLURAL: $1|초}}",
+	"last-modified-date": "최근 수정일: $1",
+	"view-source": "원본 보기",
+	"and": "&#32;(와)과"
+}

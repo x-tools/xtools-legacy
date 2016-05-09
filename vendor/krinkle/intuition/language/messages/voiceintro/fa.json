@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reza1615"
+		]
+	},
+	"voiceintro-toolbar-record-label": "ضبط",
+	"voiceintro-toolbar-stop-label": "توقف",
+	"voiceintro-toolbar-clear-label": "پاک‌کردن",
+	"voiceintro-toolbar-upload-label": "بارگذاری",
+	"voiceintro-webaudio-not-supported": "وب‌آدیو ای‌پیآی برای این مرورگر پشتیبانی نشده‌است.",
+	"voiceintro-upload-publish-succeeded": "ضبط انتقال داده شده با موفقیت انجام شد:",
+	"voiceintro-upload-publish-failed": "ضبط منتقل نشد.",
+	"voiceintro-information-label": "اطلاعات",
+	"voiceintro-information-speaker-label": "نام گوینده :",
+	"voiceintro-information-language-label": "زبان:",
+	"voiceintro-mic-access-notify": "برای اجازهٔ مرورگر برای دسترسی به میکروفون شما، دکمهٔ \"اجازه\" را کلیک کنید.",
+	"voiceintro-recording-notify": "در حال ضبط..."
+}

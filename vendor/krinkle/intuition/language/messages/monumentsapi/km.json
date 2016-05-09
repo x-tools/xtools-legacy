@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"filter-all-countries": "ប្រទេសទាំងអស់",
+	"filter-all-languages": "ភាសាទាំងអស់",
+	"db-field-country": "ប្រទេស",
+	"db-field-lang": "ភាសា",
+	"db-field-name": "ឈ្មោះ​",
+	"db-field-image": "រូបភាព",
+	"db-field-source": "ប្រភព",
+	"toolbox-nav-homepage": "គេហទំព័រ​",
+	"toolbox-nav-statistics": "ស្ថិតិ",
+	"toolbox-nav-search": "ស្វែងរក"
+}

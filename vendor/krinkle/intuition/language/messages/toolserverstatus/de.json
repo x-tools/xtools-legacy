@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"toolserver-status-ok": "Es gibt keine Probleme im Datenbankcluster $1 $2",
+	"toolserver-status-info": "Information für die Benutzer des Datenbankclusters $1: $2",
+	"toolserver-status-warn": "Warnung für die Benutzer des Datenbankclusters $1: $2",
+	"toolserver-status-down": "Die Datenbankcluster $1 wurde vorübergehend herunterfahren. $2",
+	"toolserver-status-erro": "Der Datenbankcluster $1 ist ausgefallen. $2",
+	"toolserver-status-unknown": "Der Status des Datenbankclusters $1 ist unbekannt.",
+	"toolserver-status-missing": "Der Datenbankcluster $1 ist nicht vorhanden.",
+	"toolserver-status-short-ok": "$1: In Ordnung",
+	"toolserver-status-short-info": "$1: Information",
+	"toolserver-status-short-warn": "$1: Warnung",
+	"toolserver-status-short-down": "$1: Heruntergefahren",
+	"toolserver-status-short-erro": "$1: Ausgefallen",
+	"toolserver-status-short-unknown": "$1: Unbekannt",
+	"toolserver-status-short-missing": "$1: Nicht vorhanden"
+}

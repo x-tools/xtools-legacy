@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"title": "Discargamento de imagines per categoria",
+	"subtitle": "Un maniera facile de discargar le imagines presente in un categoria",
+	"project": "Projecto:",
+	"category": "Categoria:",
+	"thumbnailing": "Miniaturisation",
+	"max-width": "Latitude maxime:",
+	"max-height": "Altitude maxime:",
+	"invalid-width": "Latitude invalide",
+	"invalid-height": "Altitude invalide",
+	"no-such-project": "Iste projecto non existe",
+	"no-images": "Il non ha imagines in iste categoria",
+	"category-is-url": "Le nomine de categoria specificate resimila un adresse URL. Es necessari specificar le nomine del categoria, non su URL.",
+	"category-contains-namespace": "Il sembla que tu ha includite le spatio de nomines con le nomine del categoria. Con le nomine specificate, le pagina esserea disponibile a [[Category:$1]].",
+	"zip-failed": "Creation del archivo ZIP fallite",
+	"image-area-too-big": "$1 es troppo grande pro crear un miniatura. Le dimension complete es usate.",
+	"download-info": "{{plural: $1|Il ha un imagine|Il ha $1 imagines}}, con un dimension estimate de $2",
+	"download": "Discargar",
+	"readme-contents": "Le file $4 contine un lista\ndel imagines presente in le categoria $1 ( $2 )$3.\n\n== Instructiones pro discargar tote le imagines listate ==\nLe tempore de discargamento pote variar de qualque minutas a plure horas.\n\nWindows:\n Extrahe tote le files in le mesme directoria e executa $5\n $6\nLinux/Mac OS:\n Extrahe tote le files e aperi un terminal in iste directorio. Executa sh $5",
+	"non-bundled-wget": "Nota: Iste version non include le programma \"wget\" pro Windows. Es necessari, o decomprimer le files\nin un directorio que include wget.exe, o haber \"wget\" in le \"PATH\".",
+	"wget-info": "Iste file contine un copia de wget $1 (pro Windows). Wget es software libere,\nsub le terminos del LICENTIA PUBLIC GENERAL DE GNU version 3.\nHic infra es un copia de iste licentia; illo es disponibile tamben a http://www.gnu.org/licenses/gpl-3.0.txt\n\nSi tu vole obtener le codice fonte de iste programma, tu pote discargar lo ab\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\no de un altere speculo de GNU, vide\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", scalate a un latitude maxime de $1 {{plural:$1|pixel|pixels}}",
+	"scaling-height": ", scalate a un altitude maxime de $1 {{plural:$1|pixel|pixels}}",
+	"scaling-both": ", scalate a un dimension maxime de $1 × $2 pixels"
+}

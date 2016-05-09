@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imperadeiro98",
+			"Jkb8"
+		]
+	},
+	"close": "Fechar",
+	"help": "Ajuda",
+	"settings": "Configurações",
+	"stat": "Estatísticas",
+	"language": "Idioma",
+	"save": "Gravar",
+	"settings_pause": "Parar",
+	"settings_run": "Executar!",
+	"settings_show": "Mostrar",
+	"settings_anon_edits": "Edições anónimas",
+	"settings_minor_edits": "Edições menores",
+	"settings_other_edits": "Outras edições",
+	"stat_pages": "Páginas",
+	"stat_edits": "Edições da página",
+	"stat_active_users": "Utilizadores ativos",
+	"separator_thousands": ",",
+	"separator_decimals": ".",
+	"main_time_utc": "Hora (UTC)",
+	"main_page": "Página",
+	"main_user": "Utilizador",
+	"help_p2": "Pode parar esta ferramenta clicando em \"Parar\". E depois disso, pode executá-la outra vez clicando em \"Executar!\".",
+	"color": "Cor",
+	"about": "Sobre",
+	"about_license": "A não ser que indique-se o contrário, o código fonte deste projeto está disponível conforme a licença MIT.",
+	"about_github": "O código-fonte está disponível em $1"
+}

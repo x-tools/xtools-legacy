@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"DRIHEM",
+			"Meno25",
+			"أحمد"
+		]
+	},
+	"title-overview": "لقطات",
+	"title-error": "خطأ",
+	"title-updatelog": "سجل التحديث",
+	"updatelog-intro": "سكربت التحديث مُجدوَل ليشتغل كل ساعة. المسرود أدناه مخرجات آخر تشغيلة.",
+	"updatelog-active": "سكربت التحديث قيد التشغيل حاليا. عد لاحقا لمطالعة سِجِلِّ الشغل كاملا.",
+	"download-button": "تحميل نسخة",
+	"download-directlink": "رابط مباشر",
+	"title-downloadpage": "تحميل",
+	"title-downloadpage-repo": "تحميل $1",
+	"err-snapshotindex": "فهرس اللقطات غير متاح مؤقتا. حاول لاحقا.",
+	"err-invalid-repo": "مستودع غير معروف: \"$1\".",
+	"err-invalid-branch": "فرع غير معروف: \"$1\" في مستودع \"$2\".",
+	"err-nosnapshot": "يتم إنشاء لقطات الصور كل بضع ساعات. حدث خطأ عند أنشاء لقطة \"$1\". الرجاء إعادة المحاولة لاحقا.",
+	"err-noupdatelog": "لم يتم العثور على سجل التحديث.",
+	"repo-site-link": "موقع الوب",
+	"repo-browse-link": "تصفح المستودع",
+	"repo-branches-label": "الفروع:",
+	"repo-lastmoddate-label": "التاريخ:",
+	"branches-submit-button": "احصل عليه!",
+	"updatelog-link": "سِجِلُّ التحديث",
+	"tablehead-repo": "المستودع",
+	"tablehead-snapshots": "اللقطات",
+	"tablehead-branch": "الفرع",
+	"tablehead-filesize": "حجم الملف",
+	"tablehead-hash": "تدقيق المجاميع"
+}

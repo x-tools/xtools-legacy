@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"StephDC"
+		]
+	},
+	"noexist": "$1 無存",
+	"show": "示",
+	"translatelink": "譯",
+	"login": "登簿",
+	"approximate": "約",
+	"editcounter": "計纂數器",
+	"thank": "謝",
+	"minor": "小纂",
+	"yearcounts": "年纂",
+	"monthly": "月間",
+	"summary": "概",
+	"support": "支援",
+	"unknown": "未知"
+}

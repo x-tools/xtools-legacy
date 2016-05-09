@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Mavrikant",
+			"Prq"
+		]
+	},
+	"toolserver-status-ok": "Veritabanı kümesinde $1 $2 problem yok",
+	"toolserver-status-unknown": "Cluster $1'in durumu bilinmiyor",
+	"toolserver-status-missing": "Cluster $1 mevcut değil",
+	"toolserver-status-short-ok": "$1: Tamam",
+	"toolserver-status-short-info": "$1: Bilgi",
+	"toolserver-status-short-warn": "$1: Uyar",
+	"toolserver-status-short-down": "$1: Çalışmıyor",
+	"toolserver-status-short-erro": "$1: Hata",
+	"toolserver-status-short-unknown": "$1: Bilinmiyor",
+	"toolserver-status-short-missing": "$1: Eksik"
+}

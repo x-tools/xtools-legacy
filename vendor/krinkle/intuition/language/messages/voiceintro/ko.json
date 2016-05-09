@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Revi"
+		]
+	},
+	"voiceintro-toolbar-record-label": "녹음",
+	"voiceintro-toolbar-stop-label": "정지",
+	"voiceintro-toolbar-clear-label": "지우기",
+	"voiceintro-toolbar-upload-label": "올리기",
+	"voiceintro-webaudio-not-supported": "WebAudio API는 이 브라우저에서 지원하지 않습니다.",
+	"voiceintro-upload-publish-succeeded": "녹음을 성공적으로 올렸습니다:",
+	"voiceintro-upload-publish-failed": "녹음된 파일이 올려지지 않았습니다",
+	"voiceintro-information-label": "정보",
+	"voiceintro-information-speaker-label": "말한 사람의 이름:",
+	"voiceintro-information-language-label": "언어:",
+	"voiceintro-mic-access-notify": "브라우저가 마이크에 접근할 수 있도록 \"허용\"을 클릭하세요.",
+	"voiceintro-recording-notify": "녹음 중..."
+}

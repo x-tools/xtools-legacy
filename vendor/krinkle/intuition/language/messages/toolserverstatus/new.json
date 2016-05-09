@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"toolserver-status-missing": "क्लस्तर $1 अस्तित्त्व हे मदु",
+	"toolserver-status-short-ok": "$1: ज्यु",
+	"toolserver-status-short-info": "$1: सूचं",
+	"toolserver-status-short-warn": "$1: न्हेसूचं",
+	"toolserver-status-short-down": "$1: क्वे",
+	"toolserver-status-short-erro": "$1: इरर",
+	"toolserver-status-short-unknown": "$1: मस्यूगु",
+	"toolserver-status-short-missing": "$1: मलूगु"
+}

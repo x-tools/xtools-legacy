@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liftarn",
+			"WikiPhoenix"
+		]
+	},
+	"moretools": "fler verktyg",
+	"homepage-title": "Introduktion",
+	"bugs": "felrapporter och önskemål om utökad funktionalitet",
+	"comments": "kommentarer och frågor",
+	"error-form-empty": "Ett eller flera obligatoriska fält har lämnats tomt. Du bör fylla i dem innan du fortsätter."
+}

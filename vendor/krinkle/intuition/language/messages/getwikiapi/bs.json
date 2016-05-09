@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"input": "Unos",
+	"output": "Izlaz za \"$1\""
+}

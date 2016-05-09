@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"adder": "Người thêm",
+	"adder-empty": "Không rõ",
+	"expiry": "Thời hạn",
+	"globalwatched": "Được theo dõi toàn cục",
+	"reason": "Lý do",
+	"reason-empty": "Không tìm thấy lý do"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Codex Sinaiticus"
+		]
+	},
+	"search-table-th-field": "መስክ",
+	"search-table-th-filter": "ማጣሪያ",
+	"search-table-th-search": "ፈልግ",
+	"db-field-country": "ሀገር",
+	"db-field-lang": "ቋንቋ",
+	"db-field-name": "ስም",
+	"db-field-lat": "ኬክሮስ",
+	"db-field-lon": "ኬንትሮስ",
+	"db-field-changed": "የተለወጠበት",
+	"db-field-source": "መነሻ"
+}

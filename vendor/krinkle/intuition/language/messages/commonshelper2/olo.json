@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"attention": "Huomavo",
+	"language": "Kieli",
+	"project": "Projektu",
+	"source_file": "Alguperäine failu",
+	"target_file": "Tarkoituksenmugaine failu",
+	"commons_username": "Wikimedia Commons käyttäinimi",
+	"commons_to_project": "Wikimedia Commonsaspäi projektah",
+	"move_file_from_com": "Siirrä failu Wikimedia Commonsaspäi projektah",
+	"categories": "Kategouriet",
+	"remove_cats": "Poista nygözet kategouriet",
+	"tusc_user": "TUSC-käyttäitunnus",
+	"tusc_pass": "TUSC-peittosana",
+	"do_it": "Luaji",
+	"error_transfer_usr": "Et ole azettanuh Wikimedia Commons -käyttäitunnustu",
+	"error_not_exists": "Lähtehfailua ei ole!",
+	"original_wikitext": "Alguperäine wikitekstu",
+	"new_wikitext": "Uuzi wikitekstu",
+	"new_filename": "Uuzi failan nimi:",
+	"upload_submit": "Tallenda!",
+	"target_wiki": "tarkoituksenmugaine wiki",
+	"error_tusc_failed": "TUSC verifikacii ei ozavunnuh!",
+	"help_mail": "Työnnä viesti käyttäjäle $1"
+}

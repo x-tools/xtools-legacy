@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron"
+		]
+	},
+	"pb-about-pb-navi": "O projektu",
+	"pb-about-pb-tech": "Technické podrobnosti",
+	"pb-about-pb-title": "O projektu",
+	"pb-change-language": "Změnit jazyk",
+	"pb-comment": "Komentář",
+	"pb-confirmations-taken": "Získaná potvrzení",
+	"pb-user": "Uživatel",
+	"pb-users-navi": "Uživatelé",
+	"pb-users-title": "Seznam uživatelů",
+	"pb-users-overview": "Následujících $1 uživatelů se účastní projektu <em>Personal Acquaintance</em>:",
+	"pb-verified-since": "Ověřeno od"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"pb-about-pb-navi": "Despre",
+	"pb-about-pb-tech": "Detalii tehnice",
+	"pb-about-pb-title": "Despre proiect",
+	"pb-change-language": "Schimbă limba",
+	"pb-comment": "Comentariu",
+	"pb-confirmations-given": "Confirmări date",
+	"pb-confirmations-taken": "Confirmări primite",
+	"pb-current-confirmations": "Există $1 confirmări în total, adică aproximativ <abbr title=\"$2\">$3</abbr> confirmări pe zi.",
+	"pb-current-figures": "Cifre actuale",
+	"pb-date": "Dată",
+	"pb-home": "Acasă",
+	"pb-javascript-notice": "Vă recomandăm să activați JavaScript pe acest site web pentru a îmbunătăți interfața cu utilizatorul.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Participă din",
+	"pb-powered-by-labs": "Motorizat de Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Confirmări recente",
+	"pb-reconfirmed": "Reconfirmat?",
+	"pb-user": "Utilizator",
+	"pb-user-link-title": "Detalii pentru utilizatorul $1",
+	"pb-user-heading": "Informații pentru <a href=\"$2\" title=\"Pagina utilizatorului $1\">$1</a>",
+	"pb-user-title": "Informații pentru $1",
+	"pb-users-navi": "Utilizatori",
+	"pb-users-title": "Listă de participanți",
+	"pb-verified-since": "Verificat din"
+}

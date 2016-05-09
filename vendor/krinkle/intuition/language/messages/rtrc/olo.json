@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"apply": "Käytä",
+	"changelog": "Midä uuttu",
+	"cvn-adder": "Ližiäjy",
+	"cvn-adder-empty": "Tundematoi",
+	"cvn-reason": "Viärys",
+	"cvn-reason-empty": "Ei löydynyh viärysty",
+	"documentation": "Dokumentacii",
+	"filter": "Filteru",
+	"lastupdate-cvn": "Jälgimäine päivitys: $1",
+	"lastupdate-rc": "Jälgimäine päivitys: $1",
+	"months": "Pakkaskuu, tuhukuu, kevätkuu, sulakuu, oraskuu, kezäkuu, heinykuu, elokuu, syvyskuu, ligakuu, kylmykuu, talvikuu",
+	"order": "Tilua",
+	"select-placeholder-none": "(nimidä)",
+	"showAnonOnly": "Vaiku anoniimat",
+	"time-from": "Kespäi",
+	"time-untill": "kuni",
+	"typeNew": "Uvvet sivut",
+	"userfilter": "Käyttäifilteru"
+}

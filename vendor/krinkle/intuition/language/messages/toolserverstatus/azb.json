@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mousa"
+		]
+	},
+	"toolserver-status-ok": "$1 دیتابیس سالخیمیندا بیر موشکول یوخدور $2",
+	"toolserver-status-info": "$1 سالخیمی ایستیفاده‌چیلرینه بیلدیریش: $2",
+	"toolserver-status-warn": "$1 سالخیمی ایستیفاده‌چیلرینه ایخطار: $2",
+	"toolserver-status-down": "$1 دیتابیس سالخیمی گئچیجی اولاراق چالیشماقدان دوردورولوب‌دور. $2",
+	"toolserver-status-erro": "$1 دیتابیس سالخیمی ایشلمیر. $2",
+	"toolserver-status-unknown": "$1 سالخیمینین وضعیتی بیلینمیر",
+	"toolserver-status-missing": "$1 سالخیمی یوخدور",
+	"toolserver-status-short-ok": "$1: یاخشی",
+	"toolserver-status-short-info": "$1: بیلگی",
+	"toolserver-status-short-warn": "$1: ایخطار",
+	"toolserver-status-short-down": "$1: ایشلَمیر",
+	"toolserver-status-short-erro": "$1: خطا",
+	"toolserver-status-short-unknown": "$1: بیلینمیر",
+	"toolserver-status-short-missing": "$1: ال‌دن گئدیب"
+}

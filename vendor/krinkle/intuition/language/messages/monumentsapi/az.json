@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cekli829",
+			"Khan27"
+		]
+	},
+	"search-title": "Abidələr axtar",
+	"search-monuments-database": "Abidələri məlumat bazasında axtar",
+	"search-table-th-field": "Sahə",
+	"search-table-th-filter": "Filtrlər",
+	"search-table-th-search": "Axtar",
+	"filter-all-countries": "Bütün ölkələr",
+	"filter-all-languages": "Bütün dillər",
+	"db-field-country": "Ölkə",
+	"db-field-lang": "Dil",
+	"db-field-id": "İdentifikator",
+	"db-field-name": "Ad",
+	"db-field-address": "Ünvan",
+	"db-field-municipality": "Bələdiyyə",
+	"db-field-image": "Şəkil",
+	"toolbox-nav-homepage": "Ana səhifə",
+	"toolbox-nav-statistics": "Statistikalar",
+	"toolbox-nav-search": "Axtar",
+	"toolbox-title-searchmonuments": "Abidələr axtar",
+	"location": "Yerləşməsi",
+	"source-monuments-list-on-wikipedia": "Vikipediyada adidələr mənbəsinin siyahısı"
+}

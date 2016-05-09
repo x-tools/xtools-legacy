@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Urhixidur"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Enregistrer",
+	"voiceintro-toolbar-stop-label": "Arrêter",
+	"voiceintro-toolbar-clear-label": "Effacer",
+	"voiceintro-toolbar-upload-label": "Téléverser",
+	"voiceintro-webaudio-not-supported": "L’API WebAudio n’est pas supportée par ce navigateur",
+	"voiceintro-upload-publish-succeeded": "Enregistrement bien importé :",
+	"voiceintro-upload-publish-failed": "L’enregistrement n’a pas été importé",
+	"voiceintro-information-label": "Information",
+	"voiceintro-information-speaker-label": "Nom du conférencier :",
+	"voiceintro-information-language-label": "Langue :",
+	"voiceintro-mic-access-notify": "Cliquez sur « Autoriser » pour permettre au navigateur d’accéder à votre microphone.",
+	"voiceintro-recording-notify": "Enregistrement en cours…"
+}

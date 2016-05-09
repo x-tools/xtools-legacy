@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"Se4598"
+		]
+	},
+	"fullname": "Übersetzungen für die Hilfsprogramme",
+	"current-settings": "Aktuelle Einstellungen",
+	"current-language": "Ausgewählte Sprache",
+	"settings-legend": "Einstellungen",
+	"choose-language": "Eine Sprache auswählen",
+	"clear-cookies": "Cookies entfernen",
+	"renew-cookies": "Cookies erneuern",
+	"cookie-expiration": "Cookieablauf",
+	"clearcookies-success": "Die Cookies wurden erfolgreich entfernt.",
+	"renewcookies-success": "Die Cookies wurden erfolgreich erneuert. Für die kommenden $1 ist alles bereit.",
+	"tab-overview": "Übersicht",
+	"tab-settings": "Einstellungen",
+	"tab-about": "Über",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Meine Spracheinstellungen",
+	"bl-mysettings-new": "Sprache ändern",
+	"bl-promo": "Die Übersetzungen werden von $1 und $2 möglich gemacht.",
+	"bl-changelanguage": "Die Sprache der Benutzeroberfläche dieses Hilfsprogramms ändern.",
+	"usage": "Die Hilfsprogramme wurden von Intuition übersetzt.",
+	"help-translate-tool": "Hilf bitte dieses Hilfsprogramm zu übersetzen.",
+	"help-translate-all": "Hilf bitte Tools zu übersetzen.",
+	"help-translate-tooltip": "Hilf anderen indem du die Nachrichten der Benutzeroberfläche in deine Sprache übersetzt."
+}

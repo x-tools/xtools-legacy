@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"language": "Basa",
+	"project": "Proyek",
+	"source_file": "Berkas sumber",
+	"target_file": "Berkas tujuan",
+	"commons_username": "Jeneng panganggo Wikimedia Commons",
+	"commons_to_project": "Wikimedia Commons ming proyek",
+	"move_file_from_com": "Mindah berkas sekang Wikimedia Commons ming proyek",
+	"categories": "Kategori",
+	"remove_cats": "Busek kategori sing wis ana",
+	"use_checkusage": "Gunakna $1CommonSense$2 kanggo ngusulna kategori anyar",
+	"tusc_user": "Jeneng panganggo TUSC",
+	"tusc_pass": "Tembung sandhi TUSC",
+	"do_it": "Kerjakna",
+	"error_transfer_usr": "Rika durung nyetel jeneng panganggo Wikimedia Commons",
+	"error_not_exists": "Berkas sumber ora ana!",
+	"error_on_commons": "Berkas sumber anu wis ana nang $1!",
+	"error_file_exists": "Berkas wis ana nang $3 nganggo jeneng \"$1$4$2\"!",
+	"error_diff_exists": "Wis ana berkas target sejen nang wiki target sing nganggo jeneng sing padha!",
+	"original_wikitext": "Teks wiki asli",
+	"new_wikitext": "Teks wiki anyar",
+	"new_filename": "Jeneng berkas anyar:",
+	"upload_submit": "Unggah!",
+	"target_wiki": "wiki target",
+	"error_bot_blocked": "Bot pangunggah wis diblokir nang Wikimedia Commons.",
+	"error_tusc_failed": "Pangesahan TUSC ora dadi!",
+	"help_mail": "Kirim layang ming $1",
+	"help_commons": "$1Tambahna post nang Commons$2"
+}

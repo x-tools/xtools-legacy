@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"error-tryagain": "$1 Ch'a sgnaca an sël boton andré ëd sò navigator për prové torna.",
+	"error-nothing": "Gnente da volté.",
+	"error-notsvg": "Pa n'archivi SVG.",
+	"error-unexpected": "A l' capitaje n'eror pa spetà.",
+	"error-notfound": "L'archivi SVG a l'ha pa podù esse trovà da l'anliura dàita.",
+	"error-upload": "A-i é staje n'eror an cariand.",
+	"begin-translation": "Ancaminé la tradussion",
+	"th-original": "Original",
+	"th-translation": "Tradussion",
+	"th-language": "Lenga",
+	"th-username": "Stranòm",
+	"th-password": "Ciav",
+	"th-method": "Métod",
+	"option-oauth": "OAuth (cariament automàtich)",
+	"option-manual": "Cariament manual",
+	"preview": "Preuva",
+	"translate": "Traduv",
+	"translate-instructions": "J'anseriment a son acetà o com nòm d'archivi (për esempi «$1») o tanme anliure complete (për esempi «$2»). Se un a deuvra la prima opsion, as dovrerà Wikimedia Commons com sorgiss. Për volté un SVG da n'àutr sit o wiki, a dev dovré ël formà con anliura completa.",
+	"svginput-label": "Archivi SVG",
+	"stats-footer": "St'utiss a l'é stàit dovrà për volté apopré $1 archivi da $2.",
+	"uploading": "Cariament",
+	"upload-complete": "Ël cariament a l'é stàit completà për da bin. La figura a dovrìa adess trovesse a $1",
+	"editdescriptionpage": "Modifiché la neuva pàgina ëd descrission",
+	"disclaimer": "Chèich dat anònim a saran cujì ëd fasson privà për dij but statìstich. Se fornì, jë stranòm d'utent OAuth a saran ëdcò memorisà për giuté ant ij cas ëd vandalism. Le ciav a san mai memorisà.",
+	"author-complete": "Për piasì, ch'a completa j'anformassion an sl'autor!",
+	"preview-hide": "Stërmé la previsualisassion",
+	"preview-refresh": "Rinfrësché la preuva",
+	"error-must-accept": "Për continué con un cariament diret a dev aceté le condission d'utilisassion fornìe.",
+	"description-license": "Ch'a selession-a la descrission e la licensa",
+	"finalise": "Finalisé ij detaj"
+}

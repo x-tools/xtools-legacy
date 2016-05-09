@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Krinkle",
+			"Liuxinyu970226",
+			"Shirayuki",
+			"아라"
+		]
+	},
+	"dateformat": "{{DataFormatRuby/en}}\n{{Optional}} Dateformat in this language. See documentation about [http://php.net/strftime strftime() at php.net] for the syntax.",
+	"hello": "A friendly greet.\n{{Identical|Hello}}",
+	"welcome": "A friendly welcome.\n{{Identical|Welcome}}",
+	"toolversion": "Short label stating the current version of a tool. Parameters:\n* $1 - the version. e.g. \"1.2.3-alpha\"\n{{Identical|Version}}",
+	"toolversionstamp": "Short label stating the current version of a tool and when the last update was. <code>$1</code> is the version (eg. \"1.2.3-alpha\") and <code>$2</code> is the date (without time).\n{{Identical|Version}}",
+	"etc": "Abbreviated form of \"et cetera\"",
+	"colon-separator": "{{Optional}} Change it only if your language uses another character for \":\" or it needs an extra space before the colon.",
+	"namespace": "{{Identical|Namespace}}",
+	"form-submit": "A general label for a form submission button. Not per se a search form!\n{{Identical|Go}}",
+	"form-reset": "A general label for a form reset button. Not per se a search form!\n{{Identical|Reset}}",
+	"years": "Notation of time duration (eg. \"Duration: x years\" ).\n{{Identical|Year}}",
+	"months": "Full word for \"months\".\n* $1 - the number of months.\n{{Identical|Month}}",
+	"weeks": "Full word for \"weeks\".\n* $1 - the number of weeks.\n{{Identical|Week}}",
+	"days": "Full word for \"days\".\n* $1 - the number of days.\n{{Identical|Day}}",
+	"hours": "Full word for \"hours\".\n* $1 - the number of hour.\n{{Identical|Hour}}",
+	"minutes": "Full word for \"minutes\".\n* $1 - the number of minutes.\n{{Identical|Minute}}",
+	"seconds": "Full word for \"seconds\".\n* $1 - the number of seconds.\n{{Identical|Second}}",
+	"last-modified-date": "The date something was last modified. Parameters:\n* $1 - a date (e.g. \"April 5 2010, 12:30 AM\")\n{{Identical|Last modified}}",
+	"view-source": "Label for a button or link that, when clicked, will present the program source code.\n{{Identical|View source}}",
+	"parentheses": "{{Optional}}",
+	"comma-separator": "{{Optional}} Used for separating lists of items. {{Identical|comma-separator}}",
+	"word-separator": "{{Optional}} Used for separating lists of words. {{Identical|word-separator}}",
+	"and": "The translation for \"and\" appears in the [[Special:Version]] page, between the last two items of a list. If a comma is needed, add it at the beginning without a gap between it and the \"&\". <nowiki>&#32;</nowiki> is a blank space, one character long. Please leave it as it is. {{Identical|And}}"
+}

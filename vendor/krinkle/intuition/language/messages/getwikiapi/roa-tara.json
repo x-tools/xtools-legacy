@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"description": "'Mbormaziune meta sus a le uicchi de Uicchimedia.",
+	"formats-heading": "Formate de le resultate",
+	"input": "Ingresse",
+	"label-wikiids": "Idendificature de Uicchi",
+	"no-matches": "Nisciune soddisfe \"$1\"",
+	"output": "Resultate pe \"$1\""
+}

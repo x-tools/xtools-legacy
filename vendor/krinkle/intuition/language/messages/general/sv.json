@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cybjit",
+			"Jopparn",
+			"Liftarn",
+			"Lokal Profil",
+			"Platonides",
+			"WikiPhoenix"
+		]
+	},
+	"hello": "Hej",
+	"welcome": "Välkommen",
+	"toolversion": "Version $1",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Namnrymd",
+	"form-submit": "Gå",
+	"form-reset": "Återställ",
+	"years": "{{PLURAL: $1|år|år}}",
+	"months": "{{PLURAL: $1|månad|månader}}",
+	"weeks": "{{PLURAL: $1|vecka|veckor}}",
+	"days": "{{PLURAL: $1|dag|dagar}}",
+	"hours": "{{PLURAL: $1|timme|timmar}}",
+	"minutes": "{{PLURAL: $1|minut|minuter}}",
+	"seconds": "{{PLURAL: $1|sekund|sekunder}}",
+	"last-modified-date": "Senast ändrad: $1",
+	"view-source": "Visa källkod",
+	"and": "&#32;och"
+}

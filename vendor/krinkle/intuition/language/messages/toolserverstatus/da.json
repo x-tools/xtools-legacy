@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Sarrus"
+		]
+	},
+	"toolserver-status-ok": "Der er ingen problemer i databaseklyngen $1 $2",
+	"toolserver-status-info": "Bemærkning til brugere af klyngen $1: $2",
+	"toolserver-status-warn": "Advarsel til brugere af klyngen $1: $2",
+	"toolserver-status-down": "Databaseklyngen $1 er blevet midlertidigt lukket. $2",
+	"toolserver-status-erro": "Databaseklyngen $1 er nede. $2",
+	"toolserver-status-unknown": "Ukendt status af klyngen $1",
+	"toolserver-status-missing": "Klyngen $1 findes ikke",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Advarsel",
+	"toolserver-status-short-down": "$1: Nede",
+	"toolserver-status-short-erro": "$1: Fejl",
+	"toolserver-status-short-unknown": "$1: Ukendt",
+	"toolserver-status-short-missing": "$1: Mangler"
+}

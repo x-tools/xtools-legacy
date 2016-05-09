@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"error-nothing": "נישטא וואס איבערצוזעצן",
+	"error-notsvg": "נישט קיין SVG טעקע.",
+	"begin-translation": "אנהייבן איבערזעצן",
+	"th-original": "ארגינעל",
+	"th-translation": "איבערזעצונג",
+	"th-language": "שפראַך",
+	"th-username": "באַניצער נאָמען",
+	"th-password": "פאַסווארט",
+	"th-method": "מעטאָד",
+	"translate": "איבערזעצן",
+	"svginput-label": "SVG טעקע"
+}

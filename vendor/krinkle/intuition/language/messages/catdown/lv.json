@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"title": "Lejupielādēt attēlus pēc kategorijas",
+	"subtitle": "Viegls veids, kā lejupielādēt attēlus kategorijā",
+	"project": "Projekts:",
+	"category": "Kategorija:",
+	"thumbnailing": "Sīktēli",
+	"max-width": "Maksimālais platums:",
+	"max-height": "Maksimālais augstums:",
+	"invalid-width": "Nederīgs platums",
+	"invalid-height": "Nederīgs augstums",
+	"no-such-project": "Šāds projekts nepastāv",
+	"no-images": "Šajā kategorijā nav attēlu",
+	"category-is-url": "Ievadītais kategorijas nosaukums izskatās pēc URL. Jums jāievada kategorijas nosaukums, nevis tās URL.",
+	"zip-failed": "Zip izveide neizdevās",
+	"image-area-too-big": "$1 ir pārāk liels, lai izveidotu sīktēlu. Izmanto pilnā izmērā.",
+	"download": "Lejupielādēt"
+}

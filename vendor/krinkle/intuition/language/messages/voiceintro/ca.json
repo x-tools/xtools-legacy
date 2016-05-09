@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"F3RaN"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Enregistra",
+	"voiceintro-toolbar-stop-label": "Atura",
+	"voiceintro-toolbar-clear-label": "Neteja",
+	"voiceintro-toolbar-upload-label": "Puja",
+	"voiceintro-webaudio-not-supported": "Aquest navegador no és compatible amb l’API WebAudio",
+	"voiceintro-upload-publish-succeeded": "Enregistrament carregat correctament:",
+	"voiceintro-upload-publish-failed": "La gravació no s'ha carregat.",
+	"voiceintro-information-label": "Informació",
+	"voiceintro-information-speaker-label": "Nom del ponent:",
+	"voiceintro-information-language-label": "Idioma:",
+	"voiceintro-mic-access-notify": "Feu clic a «Permet» per permetre que el navegador utilitzi el micròfon.",
+	"voiceintro-recording-notify": "S’està enregistrant…"
+}

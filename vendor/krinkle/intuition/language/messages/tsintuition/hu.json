@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"Tacsipacsi"
+		]
+	},
+	"fullname": "Többnyelvűsítés eszközöknek",
+	"current-settings": "Jelenlegi beállítások",
+	"current-language": "Kiválasztott nyelv",
+	"settings-legend": "Beállítások",
+	"choose-language": "Válassz nyelvet",
+	"clear-cookies": "sütik törlése",
+	"renew-cookies": "sütik megújítása",
+	"cookie-expiration": "Süti lejárata",
+	"clearcookies-success": "Sütik sikeresen törölve.",
+	"renewcookies-success": "Sütik megújítva! Rendben vagy a következő időszakra: $1.",
+	"tab-overview": "Áttekintés",
+	"tab-settings": "Beállítások",
+	"tab-about": "Rólunk",
+	"tab-demo": "Demó",
+	"bl-mysettings": "Nyelvi beállítások",
+	"bl-mysettings-new": "Nyelv módosítása",
+	"bl-promo": "A lokalizációt a $1 és a $2 teszi lehetővé.",
+	"bl-changelanguage": "Az eszköz felületnyelvének módosítása",
+	"usage": "Az eszköz fordítása a Toolserver Intuitionnel készült.",
+	"help-translate-tool": "Segíts az eszköz fordításában!",
+	"help-translate-all": "Segíts a Toolserver fordításában!",
+	"help-translate-tooltip": "Segíts másokon a felület szövegének saját nyelvedre fordításával!"
+}

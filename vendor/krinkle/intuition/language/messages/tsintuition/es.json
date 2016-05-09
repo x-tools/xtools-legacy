@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe",
+			"VegaDark"
+		]
+	},
+	"fullname": "Internacionalización para las herramientas",
+	"current-settings": "Configuración actual",
+	"current-language": "Idioma seleccionado",
+	"settings-legend": "Configuración",
+	"choose-language": "Elige un idioma",
+	"clear-cookies": "eliminar cookies",
+	"renew-cookies": "renovar cookies",
+	"cookie-expiration": "Expiración de las cookies",
+	"clearcookies-success": "Se han eliminado las cookies.",
+	"renewcookies-success": "¡Cookies renovadas! Ya está todo listo por los siguientes $1.",
+	"tab-overview": "Visión general",
+	"tab-settings": "Configuración",
+	"tab-about": "Acerca de",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Mi configuración de idioma",
+	"bl-mysettings-new": "¡Cambiar idioma!",
+	"bl-promo": "Las traducciones son impulsadas por $1 y $2.",
+	"bl-changelanguage": "Cambiar el idioma de la interfaz de esta herramienta.",
+	"usage": "Herramientas traducidas por Intuition.",
+	"help-translate-tool": "¡Ayuda en la traducción de esta herramienta!",
+	"help-translate-all": "¡Ayuda a traducir herramientas!",
+	"help-translate-tooltip": "Ayuda a otros al traducir los mensajes de la interfaz en tu idioma."
+}

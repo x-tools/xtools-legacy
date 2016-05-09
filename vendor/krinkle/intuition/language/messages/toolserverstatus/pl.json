@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grzechooo",
+			"Sp5uhe"
+		]
+	},
+	"toolserver-status-ok": "Brak jakichkolwiek problemów w klastrze bazy danych $1 $2",
+	"toolserver-status-info": "Informacja dla użytkowników klastra $1: $2",
+	"toolserver-status-warn": "Ostrzeżenie dla użytkowników klastra $1: $2",
+	"toolserver-status-down": "Klaster bazy danych $1 został tymczasowo wyłączony. $2",
+	"toolserver-status-erro": "Klaster bazy danych $1 jest wyłączony. $2",
+	"toolserver-status-unknown": "Nieznany status klastra $1",
+	"toolserver-status-missing": "Klaster $1 nie istnieje",
+	"toolserver-status-short-ok": "$1: OK",
+	"toolserver-status-short-info": "$1: Informacje",
+	"toolserver-status-short-warn": "$1: Ostrzeżenie",
+	"toolserver-status-short-down": "$1: Wyłączony",
+	"toolserver-status-short-erro": "$1: Błąd",
+	"toolserver-status-short-unknown": "$1: Nieznany",
+	"toolserver-status-short-missing": "$1: Brak"
+}

@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe",
+			"Vivaelcelta",
+			"Steef"
+		]
+	},
+	"title": "Descarga de imágenes por categoría",
+	"subtitle": "La forma más fácil de descargar las imágenes en una categoría",
+	"project": "Proyecto:",
+	"category": "Categoría:",
+	"thumbnailing": "Miniaturización",
+	"max-width": "Anchura máxima:",
+	"max-height": "Altura máxima:",
+	"invalid-width": "Anchura no válida",
+	"invalid-height": "Altura no válida",
+	"no-such-project": "Ese proyecto no existe",
+	"no-images": "No hay imágenes en esta categoría",
+	"category-is-url": "El nombre de la categoría dada se parece a una URL. Es necesario especificar el nombre de la categoría, no su URL.",
+	"category-contains-namespace": "Al parecer has incluido el espacio de nombres junto al nombre de la categoría. Con el nombre dado, la página estaría disponible como [[Category:$1]].",
+	"zip-failed": "Falló creación del ZIP",
+	"image-area-too-big": "«$1» es demasiado grande para crear una miniatura. Usando el tamaño completo.",
+	"download-info": "Hay {{plural: $1|una imagen|$1 imágenes}}, con un tamaño estimado de $2",
+	"download": "Descargar",
+	"readme-contents": "El archivo \"$4\" incluido enumera\nlas imágenes en la categoría \"$1\" ($2)$3.\n\n== Instrucciones para descargar todas las imágenes listadas ==\nEl tiempo de descarga puede variar desde unos minutos hasta varias horas.\n\nWindows:\n Extrae todos los archivos en la misma carpeta y ejecuta $5\n $6\nLinux/Mac OS:\n Extrae todos los archivos y abre una terminal en esa carpeta. Ejecuta sh $5",
+	"non-bundled-wget": "Nota: Esta versión no incluye wget para Windows. Deberás descomprimir\nen una carpeta con wget.exe o de lo contrario tener wget en la RUTA",
+	"wget-info": "Este archivo contiene una copia de wget $1 (para la plataforma Windows). Wget es software libre,\nbajo los términos de la LICENCIA PÚBLICA GENERAL DE GNU versión 3.\nA continuación hay una copia de la licencia y también está disponible en http://www.gnu.org/licenses/gpl-3.0.txt\n\nEn caso de estar interesado en el código fuente de este programa, puedes descargarlo en\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\no en algún otro espejo de GNU, ver\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", escaladas a un ancho máximo de $1 {{plural:$1|píxel|píxeles}}",
+	"scaling-height": ", escaladas a una altura máxima de $1 {{plural:$1|píxel|píxeles}}",
+	"scaling-both": ", escaladas a un tamaño máximo de $1x$2 píxeles"
+}

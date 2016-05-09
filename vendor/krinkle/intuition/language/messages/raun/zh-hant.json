@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwlin0416",
+			"Liuxinyu970226"
+		]
+	},
+	"help": "說明",
+	"filter": "篩選器",
+	"settings_tool": "工具",
+	"language": "語言",
+	"settings_wiki": "Wiki",
+	"settings_new_pages": "新頁面",
+	"main_time_utc": "時間 (UTC)",
+	"main_user": "使用者",
+	"redirect": "重新導向",
+	"bot": "機械人",
+	"editor": "編輯",
+	"help_legend": "說明：",
+	"about": "關於",
+	"credit": "信用"
+}

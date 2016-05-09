@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin0van0der0vliet"
+		]
+	},
+	"close": "Slute",
+	"help": "Help",
+	"settings": "Ynstellingen",
+	"language": "Taal",
+	"project": "Projekt",
+	"save": "Bewarje",
+	"time_utc": "Tiid yn UTC",
+	"stat_pages": "Siden",
+	"stat_depth": "Djipgong",
+	"separator_thousands": ".",
+	"separator_decimals": ",",
+	"def_i": "tw konv",
+	"main_time_utc": "Tiid (UTC)",
+	"main_page": "Side",
+	"main_user": "Brûker",
+	"main_info": "Ynformaasje",
+	"new": "nij",
+	"minor": "lyts",
+	"anon": "anonym",
+	"editor": "redakteur",
+	"admin": "behearder",
+	"help_legend": "Leginda:",
+	"color": "Kleur",
+	"about": "Oer",
+	"information": "Ynformaasje"
+}

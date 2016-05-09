@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arnaugir",
+			"Fitoschido"
+		]
+	},
+	"title-overview": "Instantànies",
+	"title-error": "Error",
+	"title-updatelog": "Actualitza el registre",
+	"updatelog-intro": "L'escriptura d'actualització es planifica per executar cada hora. A continuació es mostra la sortida de la consola de l'última execució.",
+	"updatelog-active": "L'escriptura d'actualització s'està executant. Torna més tard pel registre complet.",
+	"download-button": "Descarrega $1",
+	"download-directlink": "enllaç directe",
+	"title-downloadpage": "Baixa",
+	"title-downloadpage-repo": "Baixa $1",
+	"err-snapshotindex": "Índex d'instantània no disponible temporalment. Si us plau prova-ho més tard.",
+	"err-invalid-repo": "Repositori desconegut: \"$1\".",
+	"err-invalid-branch": "Branca desconeguda: \"$1\" al repositori \"$2\".",
+	"err-nosnapshot": "Les instantànies es generen cada poques hores. Mentre es generava la de  \"$1\" s'ha produït un error. Si us plau, prova-ho de nou més tard.",
+	"err-noupdatelog": "No s'ha trobat cap registre d'actualització.",
+	"repo-site-link": "Lloc web",
+	"repo-browse-link": "Navega pel repositori",
+	"repo-branches-label": "Branques:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "Aconsegueix-ho!",
+	"updatelog-link": "Registre d'actualitzacions",
+	"tablehead-repo": "Repositori",
+	"tablehead-snapshots": "Instantànies",
+	"tablehead-branch": "Branca",
+	"tablehead-filesize": "Mida del fitxer",
+	"tablehead-hash": "Controls per addició"
+}

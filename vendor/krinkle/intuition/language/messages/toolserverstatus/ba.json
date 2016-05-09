@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Sagan"
+		]
+	},
+	"toolserver-status-ok": " $1 $2 кластер мәғлүмәтендә бер ниндәйҙә проблема юҡ.",
+	"toolserver-status-info": "$1 кластеры файҙаланыусыларына хәбәр ебәрергә:$2",
+	"toolserver-status-warn": "$1 кластеры файҙаланыусыларына хәбәр иҫкәртеү:$2",
+	"toolserver-status-down": " $1 мәғлүмәт базаһы ваҡытлыса туҡтатылған. $2",
+	"toolserver-status-erro": " $1 мәғлүмәт базаһы ваҡытлыса ҡыйынлыҡ кисерә. $2",
+	"toolserver-status-unknown": " $1 кластерының билдәһеҙ торошо.",
+	"toolserver-status-missing": "$1 кластеры юҡ",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Мәғлүмәт",
+	"toolserver-status-short-warn": "$1: Иҫкәртеү",
+	"toolserver-status-short-down": "$1: Ябыҡ",
+	"toolserver-status-short-erro": "$1: Хата",
+	"toolserver-status-short-unknown": "$1: Билдәһеҙ",
+	"toolserver-status-short-missing": "$1: Юҡ"
+}

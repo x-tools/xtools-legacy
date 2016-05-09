@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"fullname": "Entèrnacionalisacion de l’entèrface utilisator du Toolserver",
+	"current-settings": "Configuracion d’ora",
+	"current-language": "Lengoua ora chouèsia",
+	"settings-legend": "Configuracion",
+	"choose-language": "Chouèsésséd na lengoua",
+	"clear-cookies": "èfaciér los tèmouens (''cookies'')",
+	"renew-cookies": "renovelar los tèmouens (''cookies'')",
+	"cookie-expiration": "Èxpiracion du tèmouen (''cookie'')",
+	"clearcookies-success": "Los tèmouens (''cookies'') sont étâs èfaciês avouéc reusséta",
+	"tab-overview": "Apèrçu",
+	"tab-settings": "Configuracion",
+	"tab-about": "A propôs",
+	"tab-demo": "Dèmô",
+	"bl-mysettings": "Ma configuracion de lengoua",
+	"bl-mysettings-new": "Changiér la lengoua !",
+	"usage": "Outils traduits per Toolserver Intuition.",
+	"help-translate-tool": "Édiéd a traduire cet’outil !",
+	"help-translate-all": "Édiéd a traduire lo Toolserver !"
+}

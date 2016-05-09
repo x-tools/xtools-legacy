@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"SMP"
+		]
+	},
+	"toolserver-status-ok": "No hi ha cap problema amb el clúster de base de dades $1 $2",
+	"toolserver-status-info": "Nota pels usuaris del clúster $1: $2",
+	"toolserver-status-warn": "Advertiment pels usuari del clúster $1: $2",
+	"toolserver-status-down": "El clúster de base de dades $1 està tancat temporalment. $2",
+	"toolserver-status-erro": "El clúster de base de dades $1 ha caigut. $2",
+	"toolserver-status-unknown": "Estat desconegut del clúster $1",
+	"toolserver-status-missing": "El clúster $1 no existeix",
+	"toolserver-status-short-ok": "$1: Correcte",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Avís",
+	"toolserver-status-short-down": "$1: Desconnectat",
+	"toolserver-status-short-erro": "$1: Error",
+	"toolserver-status-short-unknown": "$1: Desconegut",
+	"toolserver-status-short-missing": "$1: Inexistent"
+}

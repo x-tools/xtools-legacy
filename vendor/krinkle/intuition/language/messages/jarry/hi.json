@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai",
+			"NehalDaveND"
+		]
+	},
+	"moretools": "अन्य उपकरण",
+	"homepage-title": "परिचय",
+	"bugs": "बग सूचनाएँ और फीचर अनुरोध",
+	"comments": "टिप्पणियाँ एवं प्रश्न",
+	"error-form-empty": "एक या अधिक आवश्यक खाने खाली छोड़े गए हैं। आगे बढ़ने से पहले आपको उन्हें पूरा करना चाहिये।"
+}

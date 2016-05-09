@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"adder": "Penambah",
+	"adder-empty": "Tidak diketahui",
+	"expiry": "Tamat tempoh",
+	"globalwatched": "Dipantau sejagat",
+	"reason": "Sebab",
+	"reason-empty": "Tiada sebab dijumpai"
+}

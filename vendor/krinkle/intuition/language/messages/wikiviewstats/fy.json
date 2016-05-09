@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin0van0der0vliet",
+			"Robin van der Vliet"
+		]
+	},
+	"sample": "Foarbyld",
+	"page": "Side",
+	"settings": "Ynstellingen",
+	"help": "help",
+	"today": "hjoed",
+	"all": "alle",
+	"popular": "populêr",
+	"language": "taal",
+	"users": "{{PLURAL: $1|brûker|brûkers}}",
+	"project": "Projekt",
+	"category": "Kategory",
+	"files": "{{PLURAL: $1|triem|triemmen}}",
+	"size": "grutte",
+	"first": "earste",
+	"last": "lêste",
+	"total": "totaal",
+	"complete": "kompleet",
+	"active": "aktyf",
+	"bureaucrats": "rjochtenútfurders",
+	"sysops": "behearders",
+	"bots": "bots",
+	"pages": "siden",
+	"by": "troch",
+	"namespaces": "nammeromten",
+	"on": "oan",
+	"off": "út",
+	"submit": "Ferstjoere",
+	"save": "bewarje",
+	"cancel": "annulearje",
+	"barchart": "stêfdiagram"
+}

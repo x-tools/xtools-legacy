@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"description": "Metainformación acerca de los wikis de Wikimedia.",
+	"formats-heading": "Formatos de salida",
+	"input": "Entrada",
+	"label-wikiids": "Identificadores de wiki",
+	"no-matches": "No hay coincidencias para «$1»",
+	"output": "Salida de «$1»"
+}

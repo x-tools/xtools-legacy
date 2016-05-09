@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca",
+			"SMP",
+			"Jaumeortola"
+		]
+	},
+	"moretools": "més eines",
+	"homepage-title": "Introducció",
+	"bugs": "informes d'error i característiques sol·licitades",
+	"comments": "comentaris i consultes",
+	"error-form-empty": "Una o més caselles obligatòries han quedat en blanc. Heu de completar-les abans de continuar."
+}

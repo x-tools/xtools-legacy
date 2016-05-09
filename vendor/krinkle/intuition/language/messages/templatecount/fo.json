@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"enter-details": "Greið frá smálutum",
+	"language-label": "Mál",
+	"namespace-label": "Navnarúm",
+	"pagename-label": "Síðunavn (tó ikki navnarúm)",
+	"transclusion-count-label": "Tal av innsetingum",
+	"transclusion-count": "$1 innseting(ar) funnar.",
+	"error-suggestion": "Manst tú hava stava síðuheitið skeivt (ella av misgáum skrivað við stórum)?",
+	"time-label": "Tann tíð ið tað tók at útføra fyrispurningin"
+}

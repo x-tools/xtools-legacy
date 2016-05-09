@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"search-table-th-field": "ველი",
+	"search-table-th-filter": "ფილტრი",
+	"search-table-th-search": "ძიება",
+	"filter-all-countries": "ყველა ქვეყანა",
+	"filter-all-languages": "ყველა ენა",
+	"db-field-country": "ქვეყანა",
+	"db-field-lang": "ენა",
+	"db-field-id": "იდენტიფიკატორი",
+	"db-field-name": "სახელი",
+	"db-field-address": "მისამართი",
+	"db-field-municipality": "მუნიციპალიტეტი",
+	"db-field-lat": "განედი",
+	"db-field-lon": "გრძედი",
+	"db-field-image": "სურათი",
+	"db-field-source": "წყარო",
+	"db-field-monument_article": "ძეგლის გვერდი",
+	"db-field-st_address": "მისამართები",
+	"db-field-st_address_pct": "მისამართები %",
+	"db-field-st_coordinates": "კოორდინატები",
+	"db-field-st_coordinates_pct": "კოორდინატები %",
+	"db-field-st_image": "სურათი",
+	"db-field-st_image_pct": "სურათი %",
+	"db-field-st_municipality": "მუნიციპალიტეტი",
+	"db-field-st_municipality_pct": "მუნიციპალიტეტი %",
+	"db-field-st_name": "სახელები",
+	"db-field-st_name_pct": "სახელები %",
+	"db-field-st_total": "საერთო რაოდენობა",
+	"toolbox-wikilovesmonuments": "ვიკის უყვარს ძეგლები",
+	"toolbox-nav-homepage": "მთავარი გვერდი",
+	"toolbox-nav-statistics": "სტატისტიკა",
+	"toolbox-nav-search": "ძიება",
+	"toolbox-title-searchmonuments": "ძეგლების ძებნა",
+	"location": "მდებარეობა"
+}

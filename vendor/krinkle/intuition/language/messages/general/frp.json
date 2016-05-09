@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31",
+			"ChrisPtDe"
+		]
+	},
+	"hello": "Bonjorn",
+	"welcome": "Benvegnua",
+	"toolversionstamp": "Vèrsion $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Èspâço de noms",
+	"form-submit": "Emmodar",
+	"form-reset": "Tornar inicialisar",
+	"years": "an{{PLURAL:$1||s}}",
+	"weeks": "seman{{PLURAL:$1|a|es}}",
+	"days": "jorn{{PLURAL:$1||s}}",
+	"hours": "hor{{PLURAL:$1|a|es}}",
+	"minutes": "menut{{PLURAL:$1|a|es}}",
+	"seconds": "second{{PLURAL:$1|a|es}}",
+	"last-modified-date": "Dèrriér changement : $1",
+	"view-source": "Vêre lo tèxto sôrsa",
+	"and": "&#32;et"
+}

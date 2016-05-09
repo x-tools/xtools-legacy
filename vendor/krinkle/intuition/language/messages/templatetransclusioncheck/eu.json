@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"form-label-language": "Hizkuntza:",
+	"link-edit": "aldatu",
+	"link-create": "sortu",
+	"error-language": "Hizkuntza-kode ezezaguna."
+}

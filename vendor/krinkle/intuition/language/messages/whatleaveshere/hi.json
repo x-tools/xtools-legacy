@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"label-page": "पृष्ठ",
+	"label-namespace": "नामस्थान",
+	"label-limit": "सीमा",
+	"button-submit": "जाएँ",
+	"istemplate": "मिलाईयें",
+	"isfile": "फ़ाइल की कड़ी",
+	"linksearch": "कड़ी ढूँढे",
+	"section-links": "कड़ियाँ",
+	"section-iwlinks": "आन्तरविकि कड़ियाँ",
+	"section-extlinks": "बाहरी कड़ियाँ",
+	"section-categories": "श्रेणियाँ"
+}

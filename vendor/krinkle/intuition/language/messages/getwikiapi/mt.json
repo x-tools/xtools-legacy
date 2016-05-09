@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"label-wikiids": "Identifikaturi tal-wiki",
+	"no-matches": "Xejn ma qabel ma' \"$1\"",
+	"output": "Riżultat għal \"$1\""
+}

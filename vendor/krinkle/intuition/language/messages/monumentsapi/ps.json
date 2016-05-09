@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"search-table-th-field": "ډگر",
+	"search-table-th-filter": "چاڼگر",
+	"search-table-th-search": "پلټل",
+	"filter-all-countries": "ټول هېوادونه",
+	"filter-all-languages": "ټولې ژبې",
+	"db-field-country": "هېواد",
+	"db-field-lang": "ژبه",
+	"db-field-id": "پېژندنه",
+	"db-field-name": "نوم",
+	"db-field-address": "پته",
+	"db-field-municipality": "ښاروالي",
+	"db-field-image": "انځور",
+	"db-field-changed": "بدلېدلی",
+	"db-field-source": "سرچينه",
+	"db-field-st_address": "پتې",
+	"db-field-st_address_pct": "پتې %",
+	"db-field-st_image": "انځور",
+	"db-field-st_image_pct": "انځور %",
+	"db-field-st_municipality": "ښاروالي",
+	"db-field-st_municipality_pct": "ښاروالي %",
+	"db-field-st_name": "نومونه",
+	"db-field-st_name_pct": "نومونه %",
+	"db-field-st_total": "ټول شمېر",
+	"toolbox-nav-homepage": "کور مخ",
+	"toolbox-nav-statistics": "شمارنې",
+	"toolbox-nav-search": "پلټل",
+	"location": "ځای"
+}

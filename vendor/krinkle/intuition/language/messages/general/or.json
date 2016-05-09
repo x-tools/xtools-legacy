@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jnanaranjan Sahu"
+		]
+	},
+	"hello": "ନମସ୍କାର",
+	"welcome": "ସ୍ଵାଗତ",
+	"toolversionstamp": "($2) $1ସଂସ୍କରଣ",
+	"etc": "ଇତ୍ୟାଦି ।",
+	"namespace": "ନେମସ୍ପେସ",
+	"form-submit": "ଯିବେ",
+	"form-reset": "ପୁନସ୍ଥାପନ",
+	"years": "{{PLURAL: $1|ବର୍ଷ|ବର୍ଷଗୁଡିକ}}",
+	"weeks": "{{PLURAL: $1|ସପ୍ତାହ|ସପ୍ତାହଗୁଡିକ}}",
+	"days": "($1 {{PLURAL:$1|ଦିନ|ଦିନଗୁଡିକ}})",
+	"hours": "($1 {{PLURAL:$1|ଘଣ୍ଟା|ଘଣ୍ଟା}})",
+	"minutes": "$1 {{PLURAL:$1|ମିନିଟ|ମିନିଟ}}",
+	"seconds": "$1 {{PLURAL:$1|ସେକେଣ୍ଡ|ସେକେଣ୍ଡ}}",
+	"last-modified-date": "ଗତଥର ବଦଳା ଯାଇଥିଲା :$1",
+	"view-source": "ମୂଳାଧାର ଦେଖିବେ",
+	"and": "&#32;ଏବଂ"
+}

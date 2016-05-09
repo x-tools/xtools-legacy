@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"formats-heading": "قالویا درفرسن",
+	"input": "داده",
+	"label-wikiids": "ویکی شناساگر",
+	"no-matches": "هیچی تطاوق ناره$1",
+	"output": "درفرسن سی $1"
+}

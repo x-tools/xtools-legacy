@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cybjit",
+			"Jopparn",
+			"WikiPhoenix"
+		]
+	},
+	"title": "Nedladdning av bilder efter kategori",
+	"subtitle": "Det enkla sättet att ladda ned bilderna i en kategori",
+	"project": "Projekt:",
+	"category": "Kategori:",
+	"thumbnailing": "Miniatyrbildsinställning",
+	"max-width": "Maximal bredd:",
+	"max-height": "Maximal höjd:",
+	"invalid-width": "Ogiltig bredd",
+	"invalid-height": "Ogiltig höjd",
+	"no-such-project": "Det finns inget sådant projekt",
+	"no-images": "Det finns inga bilder i den kategorin",
+	"category-is-url": "Den angivna kategorinamnet ser ut som en URL. Du måste ange kategorinamnet, inte dess URL.",
+	"category-contains-namespace": "Du verkar har inkluderat namnrymden tillsammans med kategorinamnet. Med det angivna namnet skulle sidan vara tillgänglig som [[Category:$1]].",
+	"zip-failed": "Skapande av ZIP misslyckades",
+	"image-area-too-big": "$1 är för stor för att skapa en miniatyr. Använder full storlek.",
+	"download-info": "{{plural: $1|Det finns en bild|Det finns $1 bilder}} med en uppskattad storlek på $2",
+	"download": "Ladda ned",
+	"readme-contents": "Den omslutande filen $4-listor\nbilderna i $1-kategorin ( $2 )$3.\n\n== Instruktioner för att ladda ner alla listade bilder ==\nNedladdningstiden kan variera från några minuter till flera timmar.\n\nWindows:\n Extrahera alla filer i samma mapp och kör $5\n $6\nLinux/Mac OS:\n Extrahera alla filer och öppna en terminal i mappen. Kör sh $5",
+	"non-bundled-wget": "OBS: Denna version inkluderar inte wget för Windows. Du måste expandera\ntill en mapp med wget.exe eller ha wget i PATH",
+	"wget-info": "Denna fil buntar en kopia av wget $1 (för Windows-plattformen). Wget är fri programvara,\nenligt villkoren i GNU GENERAL PUBLIC LICENSE version 3.\nDet finns en kopia av licensen nedan, och den är också tillgänglig på http://www.gnu.org/licenses/gpl-3.0.txt\n\nI fall du är intresserad av att få källkoden för det här programmet kan du ladda ned den från\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1 http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\neller några andra GNU-spegel, se\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", skalas till en maximal bredd av $1 {{plural:$1|pixel|pixlar}}",
+	"scaling-height": ", skalas till en maximal höjd av $1 {{plural:$1|pixel|pixlar}}",
+	"scaling-both": ", skalas till en maximal storlek av $1x$2 pixlar"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Khutuck"
+		]
+	},
+	"moretools": "aynı yazardan daha fazla araçlar",
+	"bugs": "hata raporları ve özellik istekleri",
+	"comments": "yorum ve sorgular",
+	"error-form-empty": "Bir veya daha fazla gerekli alan boş bırakılmıştır. Devam etmeden önce bunları doldurmanız gerekir."
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"Tacsipacsi"
+		]
+	},
+	"enter-details": "Részletek megadása",
+	"introduction": "Add meg a sablon nevét (egyelőre csak Wikipédiák esetén működik), majd kattints a Menj gombra. Ilyen egyszerű. Van némi gyorsítótárazás (az eredmények eltárolása), de ez sajnos az eszköz és készítőjének hatáskörén kívülre esik.",
+	"language-label": "Nyelv",
+	"namespace-label": "Névtér",
+	"pagename-label": "Lap neve (névtér nélkül)",
+	"transclusion-count-label": "Beillesztések száma",
+	"transclusion-count": "$1 beillesztés található.",
+	"error-suggestion": "Talán elgépelted a lap nevét, vagy rossz helyen használtál kis- és nagybetűket?",
+	"time-label": "A parancs végrehajtásához szükséges idő"
+}

@@ -1,0 +1,4 @@
+cache
+vendor
+composer.lock
+LocalConfig.php

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720",
+			"Araceletorres"
+		]
+	},
+	"description": "Meta-informação sobre as wikis da Wikimedia.",
+	"formats-heading": "Formatos de saída",
+	"input": "Entrada",
+	"label-wikiids": "Identificadores wiki",
+	"no-matches": "\"$1\" não teve correspondências",
+	"output": "Resultados para \"$1\""
+}

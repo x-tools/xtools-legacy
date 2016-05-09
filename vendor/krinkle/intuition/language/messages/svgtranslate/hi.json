@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Siddhartha Ghai"
+		]
+	},
+	"error-nothing": "अनुवाद के लिए कुछ भी नहीं मिला।",
+	"error-notsvg": "ये SVG फ़ाइल नहीं है।",
+	"error-unexpected": "एक अनपेक्षित त्रुटि उत्पन्न हुई।",
+	"error-upload": "अपलोड करने के समय त्रुटि उत्पन्न हुई।",
+	"begin-translation": "अनुवाद शुरू",
+	"th-original": "मूल",
+	"th-translation": "अनुवाद",
+	"th-language": "भाषा",
+	"th-username": "सदस्यनाम",
+	"th-password": "पासवर्ड",
+	"th-method": "पद्धती",
+	"option-oauth": "TUSC (स्वतः अपलोड)",
+	"option-manual": "मैनुअल अपलोड",
+	"preview": "पूर्वावलोकन",
+	"translate": "अनुवाद",
+	"svginput-label": "SVG फ़ाइल",
+	"uploading": "अपलोड हो रही है",
+	"upload-complete": "अपलोड सफलतापूर्वक पूर्ण हुआ। छवि अब $1 में होनी चाहिए",
+	"editdescriptionpage": "नया विवरण पृष्ठ संपादित करें",
+	"author-complete": "कृपया रचयिता जानकारी पूर्ण करें!",
+	"preview-hide": "पूर्वावलोकन छुपाएँ"
+}

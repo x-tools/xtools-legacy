@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"KuboF"
+		]
+	},
+	"pb-about-pb-navi": "Pri",
+	"pb-about-pb-tech": "Teĥnikaj detaloj",
+	"pb-about-pb-title": "Pri tiu ĉi projekto",
+	"pb-change-language": "Ŝanĝi lingvon",
+	"pb-comment": "Komento",
+	"pb-date": "Dato",
+	"pb-home": "Hejmo",
+	"pb-user": "Uzanto",
+	"pb-user-link-title": "Detaloj pri la uzanto $1",
+	"pb-user-heading": "Informoj pri <a href=\"$2\" title=\"Uzantopaĝo de $1\">$1</a>",
+	"pb-user-title": "Informoj pri $1",
+	"pb-users-navi": "Uzantoj",
+	"pb-users-title": "Listo de patroprenantoj"
+}

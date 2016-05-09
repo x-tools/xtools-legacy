@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aktron",
+			"Chmee2",
+			"PSJG-Tyler",
+			"Vks"
+		]
+	},
+	"title-overview": "Snapshoty",
+	"title-error": "Chyba",
+	"title-updatelog": "Protokol změn",
+	"updatelog-intro": "Aktualizační skript je vykonáván každou hodinu. Níže je vypsán výstup z posledního spuštění.",
+	"updatelog-active": "Aktualizační skript běží. Pro kompletní protokol si zobrazte stránku později.",
+	"download-button": "Stáhnout snímek",
+	"download-directlink": "Přímý odkaz",
+	"title-downloadpage": "Stáhnout",
+	"title-downloadpage-repo": "Stáhnout $1",
+	"err-snapshotindex": "Index snapshotu je dočasně nedostupný. Zkuste to prosím později.",
+	"err-invalid-repo": "Neznámé úložiště: \"$1\".",
+	"err-invalid-branch": "Neznámá větev: \"$1\" v úložišti \"$2\".",
+	"err-nosnapshot": "Snapshoty se generují každých několi hodin. Během generování snapshotu pro \"$1\" nastala chyba. Zkuste to prosím později.",
+	"err-noupdatelog": "Nebyl nalezen žádný protokol o aktualizaci.",
+	"repo-site-link": "Webová stránka",
+	"repo-browse-link": "Procházet úložiště",
+	"repo-branches-label": "Větve:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Stáni si!",
+	"updatelog-link": "Protokol změn",
+	"tablehead-repo": "Úložiště",
+	"tablehead-snapshots": "Snapshoty",
+	"tablehead-branch": "Větev",
+	"tablehead-filesize": "Velikost souboru",
+	"tablehead-hash": "Kontrolní součty"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"hello": "Salute",
+	"welcome": "Benvenite",
+	"toolversion": "Version $1",
+	"toolversionstamp": "Version $1 ($2)",
+	"etc": "etc.",
+	"namespace": "Spatio de nomines",
+	"form-submit": "Va",
+	"form-reset": "Reinitialisar",
+	"years": "{{PLURAL: $1|anno|annos}}",
+	"weeks": "{{PLURAL: $1|septimana|septimanas}}",
+	"days": "{{PLURAL: $1|die|dies}}",
+	"hours": "{{PLURAL: $1|hora|horas}}",
+	"minutes": "{{PLURAL: $1|minuta|minutas}}",
+	"seconds": "{{PLURAL: $1|secunda|secundas}}",
+	"last-modified-date": "Ultime modification: $1",
+	"view-source": "Vider texto fonte",
+	"and": "&#32;e"
+}

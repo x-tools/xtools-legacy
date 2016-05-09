@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil",
+			"Platonides"
+		]
+	},
+	"hello": "Ahoj",
+	"welcome": "Vítejte",
+	"toolversionstamp": "Verze $1 ($2)",
+	"etc": "atd.",
+	"namespace": "Jmenný prostor",
+	"form-submit": "Provést",
+	"form-reset": "Vyčistit",
+	"years": "{{PLURAL:$1|rok|roky|let}}",
+	"weeks": "{{PLURAL:$1|týden|týdny|týdnů}}",
+	"days": "{{PLURAL:$1|den|dny|dní}}",
+	"hours": "{{PLURAL:$1|hodina|hodiny|hodin}}",
+	"minutes": "{{PLURAL:$1|minuta|minuty|minut}}",
+	"seconds": "{{PLURAL:$1|sekunda|sekundy|sekund}}",
+	"last-modified-date": "Naposledy změněno: $1",
+	"view-source": "Zobrazit zdrojový kód",
+	"and": "&#32;a"
+}

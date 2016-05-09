@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikulas1"
+		]
+	},
+	"language": "Jazyk",
+	"project": "Projekt",
+	"source_file": "Zdrojový súbor",
+	"target_file": "Cieľový súbor",
+	"original_wikitext": "Pôvodný wiki text",
+	"new_wikitext": "Nový wiki text",
+	"new_filename": "Nový názov súboru:"
+}

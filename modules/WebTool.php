@@ -2,12 +2,12 @@
 DEFINE('STARTTIME', microtime(True) );
 DEFINE('STARTMEM', memory_get_usage(true) );
 
-DEFINE('PEACHY_BASE_SYS_DIR', '/data/project/xtools' );
-DEFINE('XTOOLS_BASE_SYS_DIR', '/data/project/xtools' );
-DEFINE('XTOOLS_BASE_SYS_DIR_DB', '/data/project/xtools' );
-DEFINE('XTOOLS_BASE_SYS_DIR_SESSION', '/data/project/xtools' );
+DEFINE('PEACHY_BASE_SYS_DIR', '..' );
+DEFINE('XTOOLS_BASE_SYS_DIR', '..' );
+DEFINE('XTOOLS_BASE_SYS_DIR_DB', '..' );
+DEFINE('XTOOLS_BASE_SYS_DIR_SESSION', '..' );
 DEFINE('XTOOLS_BASE_WEB_DIR', 'tools.wmflabs.org/xtools' );
-DEFINE('XTOOLS_I18_TEXTFILE', '/data/project/xtools/modules/Xtools.i18n.php');
+DEFINE('XTOOLS_I18_TEXTFILE', '../modules/Xtools.i18n.php');
 DEFINE('XTOOLS_REDIS_FLUSH_TOKEN', 'x000006');
 DEFINE('XTOOLS_LONG_QUEUE_COUNT', 'longQueueCount');
 DEFINE('XTOOLS_DATABASE_TMP', 's51187__xtools_tmp');
@@ -18,7 +18,7 @@ set_include_path( get_include_path() . PATH_SEPARATOR . XTOOLS_BASE_SYS_DIR . '/
 $perflog = new Perflog();
 
 // Incudes
-   require_once('/data/project/intuition/src/Intuition/ToolStart.php');
+   require_once('../../vendor/krinkle/intuition/ToolStart.php');
    require_once('WebRequest.php');
 #  require_once( PEACHY_BASE_SYS_DIR . '/Peachy/Init.php' );
    require_once('OAuth.php');
@@ -574,7 +574,7 @@ class WebTool {
       global $dbUser, $dbPwd;
 
       try{
-         $inifile = XTOOLS_BASE_SYS_DIR_DB . "/replica.my.cnf";
+         $inifile = XTOOLS_BASE_SYS_DIR_DB . "/../replica.my.cnf";
          $iniVal = parse_ini_file($inifile);
          $dbUser = $iniVal["user"];
          $dbPwd  = $iniVal["password"];
@@ -592,7 +592,7 @@ class WebTool {
       $checkReplag = true;
 
       if ($dbnameIn == "tools"){
-         $server = "p:".$dbnameIn.".labsdb";
+         $server = "enwiki.labsdb";
          $dbname = "";
          $checkReplag = false;
       }
@@ -938,18 +938,18 @@ class WebTool {
 
    function initRedis(){
 
-      $redis = new Redis();
-      if ($redis->connect('tools-redis', 6379)){
-         try {
-            $redis->info("server");
-         }
-         catch (Exception $e){
-            $redis = new RedisFake();
-         }
-      }
-      else {
-         $redis = new RedisFake();
-      }
+      $redis = new RedisFake();;
+      // if ($redis->connect('tools-redis', 6379)){
+      //    try {
+      //       $redis->info("server");
+      //    }
+      //    catch (Exception $e){
+      //       $redis = new RedisFake();
+      //    }
+      // }
+      // else {
+      //    $redis = new RedisFake();
+      // }
 
       return $redis;
    }
@@ -1399,6 +1399,9 @@ class RedisFake{
    }
    function close(){
       return false;
+   }
+   function incr(){
+      return true;
    }
 }
 

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"voiceintro-toolbar-stop-label": "स्थगयतु",
+	"voiceintro-toolbar-clear-label": "रिक्तीक्रियताम्",
+	"voiceintro-toolbar-upload-label": "उपारोप्यताम्",
+	"voiceintro-information-label": "सूचना",
+	"voiceintro-information-speaker-label": "वक्तुः नाम",
+	"voiceintro-information-language-label": "भाषा :"
+}

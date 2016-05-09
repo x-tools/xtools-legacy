@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"LiteHell",
+			"Hwangjy9"
+		]
+	},
+	"form-label-language": "언어:",
+	"form-label-template": "틀 이름:",
+	"feedback-total-count": "총 $1개",
+	"link-edit": "편집",
+	"link-create": "만들기"
+}

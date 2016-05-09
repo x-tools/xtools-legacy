@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"current-settings": "Núverandi stillingar",
+	"current-language": "Valið tungumál",
+	"settings-legend": "Stillingar",
+	"choose-language": "Veldu tungumál",
+	"clear-cookies": "eyða vefkökum",
+	"renew-cookies": "endurnýja vefkökur",
+	"cookie-expiration": "endingartími vefköku",
+	"clearcookies-success": "Vefkökunum hefur verið eytt",
+	"renewcookies-success": "Vefkökurnar hafa verið endurnýjaðar! Þú ert í góðum málum næstu $1.",
+	"tab-overview": "Yfirlit",
+	"tab-settings": "Stillingar",
+	"tab-about": "Um",
+	"tab-demo": "Prufuútgáfa",
+	"bl-mysettings": "Tungumála stillingarnar mínar",
+	"bl-mysettings-new": "Breyta tungumáli!",
+	"bl-promo": "Þýðingar keyrðar af $1 og $2.",
+	"bl-changelanguage": "Breyta viðmótstungumáli tólsins.",
+	"usage": "Tól þýdd með Intuition.",
+	"help-translate-tool": "Hjálpaðu til við þýðinguna á þessu tóli!",
+	"help-translate-all": "Hjálpaðu að þýða tól!",
+	"help-translate-tooltip": "Hjálpaðu öðrum með því að þýða viðmóts skilaboð á þínu tungumáli."
+}

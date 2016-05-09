@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"fullname": "Pśełožki za rědy",
+	"current-settings": "Aktualne nstajenja",
+	"current-language": "Tuchylu wubrana rěc",
+	"settings-legend": "Nastajenja",
+	"choose-language": "Rěc wubraś",
+	"clear-cookies": "cookieje wulašowaś",
+	"renew-cookies": "cookieje wótnowiś",
+	"cookie-expiration": "Spadnjenje cookieja",
+	"clearcookies-success": "Cookieje su se wuspěšnje wulašowali.",
+	"renewcookies-success": "Cookieje su se wótnowili! Su na pśiduce $1 płaśiwe.",
+	"tab-overview": "Pśeglěd",
+	"tab-settings": "Nastajenja",
+	"tab-about": "Wó",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Móje rěcne nastajenja",
+	"bl-mysettings-new": "Rěc změniś!",
+	"bl-promo": "Pśełožki zmóžnjaju se wót $1 a $2.",
+	"bl-changelanguage": "Klikni how, aby rěc wužywarskego powjercha toś togo rěda změnił.",
+	"usage": "Rědy su se wót Intuition pśełožyli.",
+	"help-translate-tool": "Pomóž toś ten rěd pśełožyś!",
+	"help-translate-all": "Pomóž rědy pśełožyś!",
+	"help-translate-tooltip": "Pomóž drugim luźim, za tym až pśełožujo powěźeńki wužywarskego powjercha do swójeje rěcy."
+}

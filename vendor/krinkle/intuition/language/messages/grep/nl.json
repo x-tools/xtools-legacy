@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krinkle",
+			"SPQRobin",
+			"Siebrand",
+			"Southparkfan"
+		]
+	},
+	"title": "Pagina's zoeken (beta)",
+	"introduction": "Dit hulpmiddel geeft alle paginanamen weer die voldoen aan het patroon van een reguliere expressie ($1). Zoeken met behulp van een reguliere expressie is een intensief proces. Als het mogelijk is, gebruik dan de indicatoren voor begin (^) en eind ($).",
+	"explanation": "uitleg",
+	"regex": "Reguliere expressie",
+	"enter-details": "Gegevens invoeren",
+	"results": "Resultaten",
+	"language-label": "Taal",
+	"namespace-label": "Naamruimte",
+	"project-label": "Project",
+	"pattern-label": "Patroon",
+	"redirects-label": "Doorverwijzingen toevoegen",
+	"limit-label": "Geef alleen de eerste 100 resultaten weer",
+	"error-zeroresults": "Er zijn geen pagina's in die naamruimte met een naam die overeenkomt met uw reguliere expressie.",
+	"match-count": "{{PLURAL:$1|$1 pagina|$1 pagina's}} komen overeen met uw reguliere expressie."
+}

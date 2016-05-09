@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"LNDDYL",
+			"Liuxinyu970226",
+			"Waihorace",
+			"Wehwei"
+		]
+	},
+	"title": "SVG翻譯",
+	"error-tryagain": "$1點選瀏覽器中的返回按鈕重試",
+	"error-nothing": "目前沒有可翻譯的內容。",
+	"error-notsvg": "不是SVG檔案。",
+	"error-unexpected": "發生意外錯誤。",
+	"error-notfound": "不能從提供的URL中獲取SVG檔案。",
+	"error-upload": "上傳時發生了錯誤。",
+	"begin-translation": "開始翻譯",
+	"th-original": "原文",
+	"th-translation": "翻譯",
+	"th-language": "語言",
+	"th-username": "使用者名稱",
+	"th-password": "密碼",
+	"th-method": "方法",
+	"option-oauth": "TUSC（自動上傳）",
+	"option-manual": "手工上傳",
+	"preview": "預覽",
+	"translate": "翻譯",
+	"translate-instructions": "可以輸入檔案名稱（例如\"$1\"）或完整的URL（例如\"$2\"）。如果選擇第一個選項，會將維基共享資源視為來源。如果是從其他網站或維基中翻譯SVG檔案，你必須使用完整的URL。",
+	"svginput-label": "SVG檔案",
+	"stats-footer": "此工具自$2起已經翻譯了約$1個檔案。",
+	"uploading": "上傳中",
+	"upload-complete": "上傳成功，該圖片現在應該位於$1",
+	"editdescriptionpage": "編輯新的描述頁",
+	"disclaimer": "某些匿名資料會被私人收集以用於統計。如果使用 OAuth 上傳，使用者名稱會被記錄以防止破壞，唯密碼永遠都不會被記錄。",
+	"author-complete": "請填寫作者信息。",
+	"preview-hide": "隱藏預覽",
+	"preview-refresh": "重新整理預覽",
+	"error-must-accept": "如要繼續上傳，您必須接受提供的使用條款。",
+	"description-license": "選擇描述及條款",
+	"finalise": "完成細節"
+}

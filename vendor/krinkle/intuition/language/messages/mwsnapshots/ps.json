@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"title-overview": "انځورټوټې",
+	"title-error": "تېروتنه",
+	"download-button": "ښکته کول $1",
+	"download-directlink": "نېغه تړنه",
+	"title-downloadpage": "ښکته کول",
+	"repo-site-link": "وېبځی",
+	"repo-branches-label": "څانګې:",
+	"repo-lastmoddate-label": "نېټه:",
+	"branches-submit-button": "ترلاسه يې کړه!",
+	"tablehead-repo": "زېرمتون",
+	"tablehead-snapshots": "انځورټوټې",
+	"tablehead-branch": "څانگه",
+	"tablehead-filesize": "د دوتنې کچه"
+}

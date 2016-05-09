@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"settings-legend": "सेटिङ्हरू",
+	"choose-language": "भाषा चुन्ने",
+	"clear-cookies": "कुकीहरू हटाउने",
+	"renew-cookies": "कुकीहरू रुजु गर्ने",
+	"cookie-expiration": "कुकी समाप्ती",
+	"clearcookies-success": "कुकीहरू हटाइयो ।",
+	"tab-overview": "पूर्णावलोकन",
+	"tab-settings": "सेटिङ्हरू",
+	"tab-about": "बारेमा",
+	"tab-demo": "प्रस्तुती",
+	"help-translate-tool": "यस औजार अनुवाद गर्न सहयोग गर्नुहोस !",
+	"help-translate-all": "औजारहरू अनुवाद गर्न सहयोग गर्नुहोस!"
+}

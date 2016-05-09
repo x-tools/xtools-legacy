@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"title-overview": "Løtumyndir",
+	"title-error": "Feilur",
+	"title-updatelog": "Dagfør loggin",
+	"download-button": "Tak niður $1",
+	"download-directlink": "beinleiðis leinkja",
+	"title-downloadpage": "Tak niður: $1",
+	"err-invalid-repo": "Ókendur dátugrunnur: \"$1\".",
+	"repo-site-link": "Heimasíða",
+	"repo-browse-link": "Leita í dátugrunninum",
+	"repo-branches-label": "Greinar:",
+	"repo-lastmoddate-label": "Dagur:",
+	"branches-submit-button": "Skaffa tað!",
+	"updatelog-link": "dagføringsloggur",
+	"tablehead-repo": "Dátugrunnur",
+	"tablehead-snapshots": "Løtumyndir",
+	"tablehead-branch": "Grein",
+	"tablehead-filesize": "Fílustødd"
+}

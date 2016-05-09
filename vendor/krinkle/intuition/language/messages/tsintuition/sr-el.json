@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"fullname": "Prevod korisničkog sučelja Tulservera",
+	"current-settings": "Tekuće postavke",
+	"current-language": "Izabrani jezik",
+	"settings-legend": "Postavke",
+	"choose-language": "Izaberite jezik",
+	"clear-cookies": "očisti kolačiće",
+	"renew-cookies": "obnovi kolačiće",
+	"cookie-expiration": "Istek kolačića",
+	"clearcookies-success": "Kolačići su očišćeni.",
+	"renewcookies-success": "Kolačići su obnovljeni. Oni će isteći za $1.",
+	"tab-overview": "Pregled",
+	"tab-settings": "Postavke",
+	"tab-about": "O alatki",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Jezičke postavke",
+	"bl-mysettings-new": "Promenite jezik.",
+	"bl-promo": "Za prevode su zaslužni $1 i $2.",
+	"bl-changelanguage": "Kliknite ovde da promenite jezik alatke",
+	"usage": "Alatke koje je preveo Tulserver intuišon:",
+	"help-translate-tool": "Pomozite nam da prevedemo ovu alatku",
+	"help-translate-all": "Pomozite nam da prevedemo Tulserver.",
+	"help-translate-tooltip": "Pomozite drugima prevodivši poruke sučelja na svoj jezik"
+}

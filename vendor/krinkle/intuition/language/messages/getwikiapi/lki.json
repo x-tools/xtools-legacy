@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hosseinblue"
+		]
+	},
+	"description": "اطلاعات متا درباره ویکی‌های مدیاویکی",
+	"formats-heading": "قالب‌های خروجی:",
+	"input": "ورودی",
+	"label-wikiids": "شناسهٔ ویکی",
+	"no-matches": "هیچ‌چیز با «$1» همسان نبود",
+	"output": "خروجی برای «$1»"
+}

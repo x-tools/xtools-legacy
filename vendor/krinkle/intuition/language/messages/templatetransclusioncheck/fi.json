@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyscowicz"
+		]
+	},
+	"form-label-language": "Kieli:",
+	"link-edit": "muokkaa",
+	"error-language": "Tuntematon kielikoodi."
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"error_commons_user": "Um den Benutzer identifizieren zu können, der die Übertragung vornimmt, muss der Beschreibung Ihr Benutzername auf Wikimedia Commons hinzugefügt werden.",
+	"help_intro": "Sofern Sie einen Softwarefehler melden bzw. eine neue Funktion vorschlagen möchten oder eine Frage haben, können Sie eine der nachfolgend angegebene Kontaktmöglichkeiten nutzen:",
+	"help_jira": "$1JIRA (Sie benötigen ein Konto)$2 (Projekt: Commonshelper2)"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"toolserver-status-short-ok": "$1 : Ok",
+	"toolserver-status-short-info": "$1 : Info",
+	"toolserver-status-short-warn": "$1 : Avertiment",
+	"toolserver-status-short-down": "$1: Desconnectat",
+	"toolserver-status-short-erro": "$1: Error",
+	"toolserver-status-short-unknown": "$1: Desconegut",
+	"toolserver-status-short-missing": "$1 : Absent"
+}

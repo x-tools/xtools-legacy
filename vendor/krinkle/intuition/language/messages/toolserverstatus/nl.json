@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"SPQRobin",
+			"Siebrand"
+		]
+	},
+	"toolserver-status-ok": "Er zijn geen problemen in de databasecluster $1 $2",
+	"toolserver-status-info": "Kennisgeving voor gebruikers van cluster $1: $2",
+	"toolserver-status-warn": "Waarschuwing voor gebruikers van cluster $1: $2",
+	"toolserver-status-down": "Het databasecluster  $1 is tijdelijk afgesloten. $2",
+	"toolserver-status-erro": "Het databasecluster $1 is niet beschikbaar. $2",
+	"toolserver-status-unknown": "Onbekend status van cluster $1",
+	"toolserver-status-missing": "Cluster $1 bestaat niet",
+	"toolserver-status-short-ok": "$1: OK",
+	"toolserver-status-short-info": "$1: info",
+	"toolserver-status-short-warn": "$1: waarschuwing",
+	"toolserver-status-short-down": "$1: niet beschikbaar",
+	"toolserver-status-short-erro": "$1: foutmelding",
+	"toolserver-status-short-unknown": "$1: onbekend",
+	"toolserver-status-short-missing": "$1: ontbreekt"
+}

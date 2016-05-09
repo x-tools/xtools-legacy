@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Wiki</a>",
+	"category_users": "Utilizaires",
+	"category_articles": "Paginas",
+	"category_images": "Imatges",
+	"category_miscellaneous": "Divèrs",
+	"category_wikidata": "WikiData",
+	"select_wiki_title": "Seleccionar un wiki",
+	"select_wiki_next": "Seguent →",
+	"qvar_next": "Seguent →",
+	"prefs_submit": "D'acòrdi"
+}

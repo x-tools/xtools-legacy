@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"title-overview": "Instantánees",
+	"title-error": "Error",
+	"title-updatelog": "Rexistru d'anovamientu",
+	"updatelog-intro": "El script d'anovamientu ta programáu pa executase cada hora. Más abaxo ta la salida de terminal de la cabera execución.",
+	"updatelog-active": "El script d'anovamientu ta executandose anguaño. Torna más sero pa ver el rexistru completu.",
+	"download-button": "Descargar instantánea",
+	"download-directlink": "enllaz direutu",
+	"title-downloadpage": "Descargar",
+	"title-downloadpage-repo": "Descargar $1",
+	"err-snapshotindex": "L'índiz de instantánees nun ta disponible temporalmente. Intentalo otra vuelta más sero.",
+	"err-invalid-repo": "Repositoriu desconocíu: «$1».",
+	"err-invalid-branch": "Rama desconocida: «$1» nel repositoriu «$2».",
+	"err-nosnapshot": "Les instantánees xenerense cada poques hores. Al xenerar la instantánea pa «$1» hebo un error. Intentalo otra vuelta más sero.",
+	"err-noupdatelog": "Nun s'alcontró dengún rexistru de anovamientu.",
+	"repo-site-link": "Sitiu web",
+	"repo-browse-link": "Esaminar el repositoriu",
+	"repo-branches-label": "Rames:",
+	"repo-lastmoddate-label": "Data:",
+	"branches-submit-button": "¡Consiguilo!",
+	"updatelog-link": "rexistru d'anovamientu",
+	"tablehead-repo": "Repositoriu",
+	"tablehead-snapshots": "Instantánees",
+	"tablehead-branch": "Rama",
+	"tablehead-filesize": "Tamañu del ficheru",
+	"tablehead-hash": "Sumes de comprobación"
+}

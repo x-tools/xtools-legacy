@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jskang",
+			"Priviet",
+			"아라"
+		]
+	},
+	"moretools": "그 외 도구",
+	"homepage-title": "소개",
+	"bugs": "버그 보고 및 기능 요청",
+	"comments": "의견과 쿼리",
+	"error-form-empty": "하나 이상의 필수 입력란이 비어 있습니다. 계속하기 전에 모두 채워야합니다."
+}

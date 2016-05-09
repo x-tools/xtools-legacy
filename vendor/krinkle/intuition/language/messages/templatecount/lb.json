@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby",
+			"Soued031"
+		]
+	},
+	"enter-details": "Detailer aginn",
+	"introduction": "Gitt den Numm vun enger Schabloun an (elo nëmmen op Wikipedia) a klickt 'Lass'. Et ass sou einfach wéi dat. Et ka sinn datt Resultater aus dem Tëschespäicher gewise ginn, awer dat kann net vun dësem Tool oder sengem Besëtzer kontrolléiert ginn.",
+	"language-label": "Sprooch",
+	"namespace-label": "Nummraum",
+	"pagename-label": "Numm vun der Säit (ouni Nummraum)",
+	"transclusion-count-label": "Zuel vun den agebonnene Schablounen",
+	"transclusion-count": "$1 agebonne Schabloune goufe fonnt",
+	"error-suggestion": "Vläicht hutt Dir den Numm vun der Säit falsch geschriwwen (oder just grouss a kleng Buschtawe verwiesselt).",
+	"time-label": "Zäit déi gebraucht gouf fir d'Aufgab ze maachen"
+}

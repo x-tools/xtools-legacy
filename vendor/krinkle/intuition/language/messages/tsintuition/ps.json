@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"current-settings": "اوسنۍ امستنې",
+	"current-language": "د دم مهال ټاکلې ژبه",
+	"settings-legend": "امستنې",
+	"choose-language": "يوه ژبه وټاکۍ",
+	"clear-cookies": "کوکيز سپينول",
+	"renew-cookies": "کوکيز بيا نوي کول",
+	"tab-overview": "مخليدنه",
+	"tab-settings": "امستنې",
+	"tab-about": "په اړه",
+	"tab-demo": "آزمېښتي",
+	"bl-mysettings": "زما د ژبې امستنې",
+	"bl-mysettings-new": "ژبه ټاکل!",
+	"bl-promo": "ژباړې د $1 او $2 لخوا برابرې شوي."
+}

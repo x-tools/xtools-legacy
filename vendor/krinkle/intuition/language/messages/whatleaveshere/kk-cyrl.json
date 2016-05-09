@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"sub-leaveshere": "Келесі беттер $1 дегеннен сілтенген",
+	"label-page": "Бет",
+	"label-namespace": "Есім кеңістігі",
+	"label-limit": "Шектеуі",
+	"button-submit": "Өту",
+	"whatlinkshere": "Мұнда сілтейтін беттер",
+	"istemplate": "кіріcтірілген",
+	"isfile": "файл сілтемесі",
+	"linksearch": "Сілтеме іздеу",
+	"section-links": "Сілтемелер",
+	"section-iwlinks": "Интерики сілтемелері",
+	"section-extlinks": "Сыртқы сілтемелер",
+	"section-categories": "Санаттар"
+}

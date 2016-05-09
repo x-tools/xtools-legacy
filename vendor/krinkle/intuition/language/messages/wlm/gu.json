@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harsh4101991"
+		]
+	},
+	"country-header": "દેશ",
+	"country-label": "દેશ:",
+	"all-countries": "બધા દેશ",
+	"timezone-label": "સમય ક્ષેત્ર:",
+	"show-button": "બતાવો",
+	"bot": "બોટ",
+	"id-none": "(કંઈ નહી)",
+	"photographer-count-heading": "તસવીરકાર",
+	"bic-list": "યાદી",
+	"users-list": "જુઓ",
+	"nomail-user-count": "$1 વપરાશકર્તા"
+}

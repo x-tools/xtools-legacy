@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"V.narsikar"
+		]
+	},
+	"hello": "नमस्कार",
+	"welcome": "स्वागत",
+	"toolversionstamp": "आवृत्ती $1 ($2)",
+	"etc": "इत्यादी",
+	"namespace": "नामविश्वे",
+	"form-submit": "जा",
+	"form-reset": "पुनर्स्थापन(रिसेट)",
+	"years": "{{PLURAL: $1|वर्ष|वर्षे}}",
+	"weeks": "{{PLURAL: $1|आठवडा|आठवडे}}",
+	"days": "{{PLURAL: $1|दिवस}}",
+	"hours": "{{PLURAL: $1|तास}}",
+	"minutes": "{{PLURAL: $1|मिनिट|मिनिटे}}",
+	"seconds": "{{PLURAL: $1|सेकंद}}",
+	"last-modified-date": "शेवटचा बदल: $1",
+	"view-source": "स्रोत बघा",
+	"and": "&#32;व"
+}

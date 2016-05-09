@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salam"
+		]
+	},
+	"fullname": "Toolserver-ӑн усӑҫ интерфейсӗ валли интернационализацийӗ",
+	"current-settings": "Хальхи ӗнерлевсем",
+	"current-language": "Хальхи чӗлхе ӗнерленӗвӗсем",
+	"settings-legend": "Ӗнерлевсем",
+	"choose-language": "Чӗлхене улӑштарӑр",
+	"clear-cookies": "кукисене тасат",
+	"renew-cookies": "кукисене тӗпре тие",
+	"cookie-expiration": "Кукисен ӗҫлев хушши",
+	"clearcookies-success": "Кукисем ӑнӑҫлӑ тасатнӑ.",
+	"tab-overview": "Курӑм",
+	"tab-settings": "Ӗнерлевсем",
+	"tab-about": "Тӗплӗнрех",
+	"tab-demo": "Демо",
+	"bl-mysettings": "Ман чӗлхе ӗнерленӗвӗсем",
+	"bl-mysettings-new": "Чӗлхене улӑштар!",
+	"bl-promo": "Куҫару $1 тата $2 пулӑшӑвӗпе тунӑ.",
+	"bl-changelanguage": "Ку хатӗрӗн интерфейс чӗлхине улӑштарасшӑн кунта пусӑр.",
+	"usage": "Toolserver Intuition пулӑшӑвӗпе куҫарнӑ хатӗрсем.",
+	"help-translate-tool": "Ку хатӗре куҫарма пулӑшӑр-ха!",
+	"help-translate-all": "Toolserver-а куҫарма пулӑшӑр-ха!",
+	"help-translate-tooltip": "Сирӗн пӗлтерӳсен интерфейсне куҫарасси урӑххисене пулӑшать."
+}

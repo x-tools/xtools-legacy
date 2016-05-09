@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"dateformat": "%B %d %Y",
+	"hello": "Cià",
+	"welcome": "Bovègne",
+	"toolversion": "Versione $1",
+	"toolversionstamp": "Versione $1 ($2)",
+	"etc": "ecc.",
+	"colon-separator": ":",
+	"namespace": "Namespace",
+	"form-submit": "Veje",
+	"form-reset": "Azzere",
+	"years": "{{PLURAL: $1|anne|anne}}",
+	"months": "{{PLURAL: $1|mese|mise}}",
+	"weeks": "{{PLURAL: $1|sumàne|sumàne}}",
+	"days": "{{PLURAL: $1|sciurne|sciurne}}",
+	"hours": "{{PLURAL: $1|ore|ore}}",
+	"minutes": "{{PLURAL:$1|minute|minute}}",
+	"seconds": "{{PLURAL:$1|seconde|seconde}}",
+	"last-modified-date": "Urteme cangiamende: $1",
+	"view-source": "Vide 'u sorgende",
+	"parentheses": "($1)",
+	"and": "&#32;e"
+}

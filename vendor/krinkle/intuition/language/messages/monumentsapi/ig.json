@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ukabia"
+		]
+	},
+	"search-table-th-search": "Chọwa",
+	"filter-all-countries": "Òbòdò nile",
+	"filter-all-languages": "Asụ̀sụ̀ níle",
+	"db-field-name": "Áhà",
+	"db-field-image": "Nhuunuche",
+	"db-field-source": "Mkpọlọ́gwụ̀",
+	"db-field-st_image": "Nhuunuche",
+	"db-field-st_image_pct": "Nhuunuche %",
+	"db-field-st_name": "Áhà:",
+	"db-field-st_name_pct": "Áhà %",
+	"toolbox-nav-homepage": "Ihümbụ",
+	"toolbox-nav-search": "Chọwa",
+	"location": "Ébéà"
+}

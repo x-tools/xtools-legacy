@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"current-settings": "მიმდინარე პარამეტრები",
+	"current-language": "არჩეული ენა",
+	"settings-legend": "პარამეტრები",
+	"choose-language": "აირჩიეთ ენა",
+	"clear-cookies": "cookies-ის გასუფთავება",
+	"renew-cookies": "cookies-ის განახლება",
+	"cookie-expiration": "Cookie-ს მოქმედების ვადა",
+	"clearcookies-success": "Cookies-ები წარმატებით წაიშალა.",
+	"tab-overview": "გადახედვა",
+	"tab-settings": "პარამეტრები",
+	"tab-about": "აღწერა",
+	"tab-demo": "დემო",
+	"bl-mysettings": "ჩემი ენის პარამეტრები",
+	"bl-mysettings-new": "ენის შეცვლა!",
+	"help-translate-tool": "დაგვეხმარეთ ამ ხელსაწყოს თარგმნაში!",
+	"help-translate-all": "დაგვეხმარეთ ხელსაწყოს თარგმნაში!"
+}

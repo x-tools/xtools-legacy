@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"FatosMorina"
+		]
+	},
+	"title": "Shkarkimi i fotografive në bazë të kategorisë",
+	"subtitle": "Rruga e lehtë për të shkarkuar fotografitë në një kategori",
+	"project": "Projekti",
+	"category": "Kategoria:",
+	"thumbnailing": "Paraqitja",
+	"max-width": "Gjerësia maksimale:",
+	"max-height": "Lartësia maksimale:",
+	"invalid-width": "Gjerësi jo e vlefshme",
+	"invalid-height": "Lartësi jo e vlefshme",
+	"no-such-project": "Nuk ka projekt të tillë",
+	"no-images": "Nuk ka fotografi në atë kategori",
+	"category-is-url": "Emri i dhënë i kategorisë duket të jetë një URL. Ju duhet të cekni emrin e kategorisë, jo URL-në e saj.",
+	"category-contains-namespace": "Duket se ju keni përfshirë hapësirën së bashku me emrin e kategorisë. Me emrin e dhënë, faqja do të jetë në dispozicion si [[Kategoria:$1]].",
+	"zip-failed": "Krijimi në zip dështoi",
+	"image-area-too-big": "$1 është shumë i madh për të krijuar një pamje. Duke përdorur madhësinë e plotë.",
+	"download-info": "{{plural: $1|Është një fotografi|Janë $1 fotografi}}, me një madhësi të vlerësuar prej $2",
+	"download": "Shkarko",
+	"readme-contents": "Skedari i bashkëngjitur $4 liston\nfotografitë në kategorinë $1 ($2) $3.",
+	"non-bundled-wget": "Shënim: Ky version nuk përfshin wget për Windows. Juve do të ju duhet që të shpërndani në një follder me wget.exe ose anasjelltas, të keni wget në RRUGË",
+	"wget-info": "Ky skedar lidh një kopje të wget $1 (për platformën Windows). Wget është Softuer i Lirë, nën rregullat e Licencës së Përgjithshme Publike GNU versioni 3.\nËshtë një kopje e licencës më poshtë dhe ajo është gjithashtu në dispozicion në http://www.gnu.org/licenses/gpl-3.0.txt\n\nNë rast se jeni të interesuar që ta merrni kodin burimor për këtë program, ju mund ta shkarkoni atë nga\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nose nga ndonjë Pasqyrë tjetër GNU, shihni\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", shkallëzuar në një gjerësi maksimale prej $1 {{plural:$1|piksell|piksellë}}",
+	"scaling-height": ", shkallëzuar në një lartësi maksimale prej $1 {{plural:$1|piksell|piksellë}}",
+	"scaling-both": ", shkallëzuar në një madhësi maksimale prej $1x$2 piksellë"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"toolserver-status-short-down": "$1: Alah",
+	"toolserver-status-short-erro": "$1: Haireh",
+	"toolserver-status-short-unknown": "$1: Tundematoi",
+	"toolserver-status-short-missing": "$1: Ei ole"
+}

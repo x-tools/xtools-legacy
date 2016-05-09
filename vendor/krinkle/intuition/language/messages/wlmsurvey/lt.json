@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"2012-question-country": "Kurioje šalyje jūs gyvenate?",
+	"2012-other-country-lives": "Kitoje šalyje:",
+	"2012-question-birth-year": "Katrais metais jūs gimėte?",
+	"2012-birth-year": "Metai:",
+	"2012-hide-birth-year": "Aš nenoriu atskleisti",
+	"2012-question-gender": "Kokia jūsų lytis?",
+	"2012-gender-male": "Vyras",
+	"2012-gender-female": "Moteris",
+	"2012-gender-other": "Kiti / aš nenoriu atskleisti",
+	"2012-header-wikimedia-activity": "Wikimedia veikla",
+	"2012-discovered-friend": "Žmogus kuri aš žinau pasakė man apie šį konkursą.",
+	"2012-discovered-other": "Kita:",
+	"2012-other-country-upload": "Kita šalis:",
+	"2012-header-motivation": "Motyvacija",
+	"2012-motivation-prize": "Laimėti prizą",
+	"2012-motivation-help": "Padėti Wikipedia",
+	"2012-motivation-easy": "Tai buvo lengva, tad pamaniau, kad kodėl gi ne?",
+	"2012-motivation-other": "Kita:",
+	"2012-scale-difficult-1-text": "Labai lengvas",
+	"2012-scale-difficult-2-text": "Lengvas",
+	"2012-scale-difficult-3-text": "Normalus",
+	"2012-scale-difficult-4-text": "Sunkus",
+	"2012-scale-difficult-5-text": "Labai sunkus",
+	"2012-header-comments": "Kiti komentarai",
+	"2012-username": "Naudotojo vardas:",
+	"2012-email": "El. pašto adresas:",
+	"2012-send-survey": "Siųsti anketą",
+	"2012-thank-you-answer": "Ačiū, kad užpildyti šia apklausą!",
+	"2012-not-answered": "Jūs nusprendė neatsakyti į šį klausimą.",
+	"2012-no-comments": "Nenurodyti jokie komentarai.",
+	"2012-change-answers": "Pakeisti savo atsakymus",
+	"2012-returnto": "Grįžti į $1"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aldnonymous",
+			"Farras"
+		]
+	},
+	"enter-details": "Masukan detail",
+	"introduction": "Ketikkan nama templat (Wikipedia saja untuk saat ini) dan tekan cari. Simpel sekali. Terjadi penyinggahan (pengingatan hasil), namun hal ini berada di luar kontrol alat ini dan pemiliknya.",
+	"language-label": "Bahasa",
+	"namespace-label": "Ruang nama",
+	"pagename-label": "Judul halaman (tidak termasuk ruang nama)",
+	"transclusion-count-label": "Jumlah transklusi",
+	"transclusion-count": "$1 transklusi ditemukan.",
+	"error-suggestion": "Apakah Anda salah mengeja (atau salah menempatkan huruf kapital) judul halaman?",
+	"time-label": "Waktu yang dibutuhkan untuk melaksanakan perintah"
+}

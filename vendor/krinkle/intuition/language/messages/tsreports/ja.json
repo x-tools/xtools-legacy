@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sujiniku"
+		]
+	},
+	"category_users": "ユーザー",
+	"category_articles": "ページ",
+	"category_images": "イメージ",
+	"category_miscellaneous": "雑多",
+	"category_wikidata": "ウィキデータ",
+	"select_wiki_title": "ウィキの選択",
+	"select_wiki_next": "次 →",
+	"select_report": "レポートを選択してください:",
+	"select_report_disabled": "このレポートは利用できません。",
+	"qvar_next": "次 →",
+	"prefs_submit": "OK",
+	"prefs_langlabel": "インターフェース言語:"
+}

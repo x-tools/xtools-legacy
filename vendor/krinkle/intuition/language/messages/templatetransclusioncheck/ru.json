@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras",
+			"Kaganer"
+		]
+	},
+	"form-label-language": "Язык:",
+	"form-label-template": "Имя шаблона:",
+	"form-label-template2": "(включая пространство имён)",
+	"form-label-complete": "Сгенерировать полный отчёт:",
+	"feedback-template-missing": "Шаблон $1 не существует.",
+	"feedback-template-noaccess": "Шаблон $1, кажется, существует, но он недоступен из базы данных. Это могут быть временные проблемы с базой данных. Используемая база данных: $2.",
+	"feedback-result": "Результаты для $1",
+	"feedback-header-mismatch": "Несоответствие между включениями и ссылками",
+	"feedback-header-no-link": "Включение без ссылки",
+	"feedback-header-no-transclusion": "Ссылка без включения",
+	"feedback-header-redirects": "Ссылки на перенаправления",
+	"feedback-total-count": "Всего: $1",
+	"feedback-header-complete": "Полный обзор включений и ссылок",
+	"feedback-header-transclusions": "Включения шаблона",
+	"feedback-header-links": "Ссылки из шаблона",
+	"link-edit": "править",
+	"link-create": "создать",
+	"link-complete": "Полный отчёт…",
+	"footer-stats": "Сгенерировано: $1. Продолжительность: $2 {{PLURAL:$2|секунда|секунды|секунд}}.",
+	"error-language": "Неизвестный код языка."
+}

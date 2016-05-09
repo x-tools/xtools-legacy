@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"moretools": "mai multe unelte",
+	"homepage-title": "Introducere",
+	"bugs": "rapoarte de erori și cereri de îmbunătățiri",
+	"comments": "comentarii și întrebări",
+	"error-form-empty": "Unul sau mai multe câmpuri obligatorii nu sunt completate. Ar trebui să le completați înainte de a continua."
+}

@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"title": "WLM फाइलत",
+	"file": "किपा",
+	"monument-type": "स्मारक प्रकार",
+	"monument-id": "स्मारक id",
+	"province": "प्रान्त",
+	"comarque": "कायेबिये",
+	"author": "च्वमि",
+	"country-header": "देय्",
+	"location": "थाय्",
+	"upload-time": "ई अपलोद यानादिसँ",
+	"deleted": "हुयाछ्वःगु (दिलित यानाछ्वःगु) ($1)",
+	"concursa": "WLMय् ब्वति काइ",
+	"no-concursa": "WLM धेँधेँबल्ला स्वया पिने",
+	"not-available": "मदूगु",
+	"date-unknown": "मस्युगु",
+	"total-images": "दक्वं किपा: $1",
+	"view-uncategorized-images": "पुचले मदूगु किपा क्यनादिसँ",
+	"provide-id": "स्मारकया देता क्यनेत उकिया स्मारक id बियादिसँ",
+	"show-images-bad-only": "धलः स्वयापिनेया किपात जक्क क्यनादिसँ",
+	"show-images-all": "दक्वं किपा क्यनादिसँ",
+	"show-images-removed": "धेँधेंबल्लां पिने छ्वःगु किपा क्यनादिसँ",
+	"search-monuments": "स्मारक मालादिसँ",
+	"view-frequency": "नांजाःगु स्मारकत",
+	"view-ccaa": "स्वशाषित समुदाय कथं क्यनादिसँ",
+	"view-province": "प्रान्त कथं क्यनादिसँ",
+	"country-label": "देय्",
+	"all-countries": "सकल देय्‌त",
+	"limit-label": "क्यनिगु किपात:",
+	"timezone-label": "ई क्षेत्र:",
+	"show-earlier-first": "न्हापांगु किपा न्ह्यने क्यनादिसँ",
+	"show-older-first": "पुलांगु किपा न्ह्यःने क्यनादिसँ",
+	"show-button": "क्यनादिसँ",
+	"view-previous-images": "← न्हापाया किपा क्यनादिसँ",
+	"view-later-images": "लिपाया किपा क्यनादिसँ →",
+	"images-listed-count": "$1 किपा दु।"
+}

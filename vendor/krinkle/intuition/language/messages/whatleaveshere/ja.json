@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"title": "リンク先",
+	"title-leaveshere": "「$1」からのリンク先",
+	"sub-leaveshere": "以下のページは $1 からリンクされています",
+	"label-page": "ページ",
+	"label-namespace": "名前空間",
+	"label-limit": "表示数",
+	"button-submit": "表示",
+	"noleaveshere": "$1 からはどこにもリンクしていません",
+	"link-whatleaveshere": "リンク先",
+	"tooltip-whatleaveshere": "このページからのすべてのリンク先の一覧",
+	"whatlinkshere": "リンク元",
+	"whatlinkshere-whatleaveshere": "リンク元",
+	"istemplate": "参照読み込み",
+	"isfile": "ファイルへのリンク",
+	"linksearch": "外部リンクの検索",
+	"section-links": "リンク",
+	"section-iwlinks": "ウィキ間リンク",
+	"section-extlinks": "外部リンク",
+	"section-categories": "カテゴリ"
+}

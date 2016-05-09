@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hosseinblue"
+		]
+	},
+	"toolserver-status-ok": "هیچ ایرادی در خوشه پایگاه داده $1 $2 وجود ندارد",
+	"toolserver-status-info": "اطلاعیه برای کاربران خوشهٔ  $1 :$2",
+	"toolserver-status-warn": "هشدار برای کاربران خوشهٔ  $1 :$2",
+	"toolserver-status-down": "خوشهٔ پایگاه داده  $1  بطور موقت خاموش شده است.$2",
+	"toolserver-status-erro": "خوشهٔ پایگاه دادهٔ  $1  پائین است. $2",
+	"toolserver-status-unknown": "وضعیت ناشناخته خوشهٔ $1",
+	"toolserver-status-missing": "خوشه  $1  وجود ندارد",
+	"toolserver-status-short-ok": "$1: خوب",
+	"toolserver-status-short-info": "$1: زانستةنیةل",
+	"toolserver-status-short-warn": "$1: هشدار",
+	"toolserver-status-short-down": "$1: هووار/پایین",
+	"toolserver-status-short-erro": "$1: خطا",
+	"toolserver-status-short-unknown": "$1: ناشناخته/نادیاری",
+	"toolserver-status-short-missing": "$1: از دست رفته"
+}

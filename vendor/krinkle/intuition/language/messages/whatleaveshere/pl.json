@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alan ffm",
+			"Matik7",
+			"Matma Rex"
+		]
+	},
+	"sub-leaveshere": "Te strony są linkowane z $1",
+	"label-page": "Strona",
+	"label-namespace": "Przestrzeń nazw",
+	"label-limit": "Ograniczenie",
+	"button-submit": "Dalej",
+	"noleaveshere": "Nic nie jest linkowane z $1",
+	"tooltip-whatleaveshere": "Lista wszystkich stron, które są stąd linkowane",
+	"whatlinkshere": "Linkujące",
+	"istemplate": "transkluzja",
+	"isfile": "link do pliku",
+	"section-links": "Linki",
+	"section-iwlinks": "Linki interwiki",
+	"section-extlinks": "Linki zewnętrzne",
+	"section-categories": "Kategorie"
+}

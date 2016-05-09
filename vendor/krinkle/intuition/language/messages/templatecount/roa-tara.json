@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"enter-details": "Mitte le dettaglie",
+	"introduction": "Scrive 'u nome d'e 'nu modelle (Uicchipedie sulamende pe mò) e cazze ''veje''. Jè probbie facile facile. Ste quacche cache (arrecorde de le resultate), ma ca comungue jè fore da 'u condrolle de stu strumende e 'u probbietarie sue.",
+	"language-label": "Lènghe",
+	"namespace-label": "Namespace",
+	"pagename-label": "Nome d'a pàgene (escluse 'u namespace)",
+	"transclusion-count-label": "Numere de 'nglusiune",
+	"transclusion-count": "$1 'nglusiune acchiate.",
+	"error-suggestion": "Pò essere ca tu è scritte male (o è ausate 'u maiuscole) pu nome d'a pàgene?",
+	"time-label": "Tiembe pigghiate pe eseguì 'u comande"
+}

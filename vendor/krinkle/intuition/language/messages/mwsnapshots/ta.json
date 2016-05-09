@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"ElangoRamanujam",
+			"Karthi.dr",
+			"மதனாஹரன்"
+		]
+	},
+	"title-overview": "நிழற்பட நொடிப்பெடுப்புகள்",
+	"title-error": "பிழை",
+	"title-updatelog": "புதுப்பித்தல் பதிவு",
+	"download-button": "$1 ஐத் தரவிறக்கு",
+	"download-directlink": "நேரடி இணைப்பு",
+	"title-downloadpage": "தரவிறக்கவும்",
+	"title-downloadpage-repo": "$1 தகவலிறக்கு",
+	"err-noupdatelog": "புதுப்பித்தல் பதிவு எதுவும் கண்டுபிடிக்கப்படவில்லை.",
+	"repo-site-link": "இணையத்தளம்",
+	"repo-branches-label": "கிளைகள்:",
+	"repo-lastmoddate-label": "நாள்:",
+	"branches-submit-button": "அதைப் பெறுக!",
+	"updatelog-link": "புதுப்பித்தல் பதிவு",
+	"tablehead-snapshots": "நிழற்பட நொடிப்பெடுப்புகள்",
+	"tablehead-branch": "கிளை",
+	"tablehead-filesize": "கோப்பு அளவு"
+}

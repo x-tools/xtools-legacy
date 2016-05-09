@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"title": "Überprüfung der Vorlagenlinks und -einbindungen",
+	"description": "Überprüft und berichtet, welche Artikel eine Vorlage einbinden, die nicht von der Vorlage verlinkt sind und welche Artikel von einer Vorlage verlinkt sind, die sie nicht einbinden.",
+	"form-label-language": "Sprache:",
+	"form-label-template": "Name der Vorlage:",
+	"form-label-template2": "(einschließlich Namensraum)",
+	"form-label-complete": "Vollständigen Bericht erzeugen:",
+	"feedback-template-missing": "Vorlage $1 ist nicht vorhanden.",
+	"feedback-template-noaccess": "Die Vorlage $1 scheint vorhanden zu sein, ist aber nicht in der Datenbank vorhanden. Dies könnte ein vorübergehendes Datenbankproblem sein. Verwendete Datenbank: $2.",
+	"feedback-result": "Ergebnisse für $1",
+	"feedback-header-mismatch": "Nichtübereinstimmung zwischen Einbindungen und Links",
+	"feedback-header-no-link": "Einbindung, aber keinen Link",
+	"feedback-header-no-transclusion": "Link, aber keine Einbindung",
+	"feedback-header-redirects": "Links zu Weiterleitungen",
+	"feedback-total-count": "Gesamt: $1",
+	"feedback-header-complete": "Vollständige Übersicht der Einbindungen und Links",
+	"feedback-header-transclusions": "Einbindungen der Vorlage",
+	"feedback-header-links": "Links von der Vorlage",
+	"link-edit": "bearbeiten",
+	"link-create": "erstellen",
+	"link-complete": "Vollständiger Bericht …",
+	"footer-stats": "Erzeugt: $1. Dauer: {{PLURAL:$2|Eine Sekunde|$2 Sekunden}}.",
+	"error-language": "Unbekannter Sprachcode."
+}

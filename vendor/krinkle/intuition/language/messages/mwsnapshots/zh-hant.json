@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"LNDDYL",
+			"Liuxinyu970226",
+			"Simon Shek",
+			"Wehwei"
+		]
+	},
+	"title-error": "錯誤",
+	"title-updatelog": "更新日誌",
+	"download-button": "下載快照",
+	"download-directlink": "直接連結",
+	"title-downloadpage": "下載",
+	"title-downloadpage-repo": "下載：$1",
+	"err-noupdatelog": "沒有找到更新日誌。",
+	"repo-site-link": "網站:",
+	"repo-browse-link": "瀏覽儲存庫",
+	"repo-branches-label": "分支：",
+	"repo-lastmoddate-label": "日期：",
+	"branches-submit-button": "取得！",
+	"updatelog-link": "更新日誌",
+	"tablehead-repo": "儲存庫",
+	"tablehead-branch": "分支",
+	"tablehead-filesize": "檔案大小",
+	"tablehead-hash": "校驗和"
+}

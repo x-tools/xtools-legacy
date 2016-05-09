@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"hello": "Halo",
+	"welcome": "Witaj",
+	"toolversion": "Wersija $1",
+	"toolversionstamp": "Wersija $1 ($2)",
+	"etc": "atd.",
+	"namespace": "Mjenowy rum",
+	"form-submit": "Wotpósłać",
+	"form-reset": "Wróćo stajić",
+	"years": "{{PLURAL: $1|lěto|lěće|lěta|lět}}",
+	"weeks": "{{PLURAL: $1|tydźeń|njedźeli|njedźele|njedźel}}",
+	"days": "{{PLURAL: $1|dźeń|dnjej|dny|dnjow}}",
+	"hours": "{{PLURAL:$1|hodźina|hodźinje|hodźiny|hodźin}}",
+	"minutes": "{{PLURAL: $1|mjeńšina|mjeńšinje|mjeńšiny|mjeńšin}}",
+	"seconds": "{{PLURAL:$1|sekunda|sekundźe|sekundy|sekundow}}",
+	"last-modified-date": "Posledni raz změnjeny: $1",
+	"view-source": "Žórłowy tekst pokazać",
+	"and": "&#32;a"
+}

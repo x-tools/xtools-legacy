@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"description": "Siêu thông tin về các wiki của Wikimedia.",
+	"formats-heading": "Định dạng kết quả",
+	"input": "Truy vấn",
+	"label-wikiids": "ID của các wiki",
+	"no-matches": "Không có wiki với ID “$1”",
+	"output": "Kết quả “$1”"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"description": "Metapodatki o wikijih Wikimedie.",
+	"formats-heading": "Izhodne oblike",
+	"input": "Vhod",
+	"label-wikiids": "Wikiidentifikatorji",
+	"no-matches": "Nič se ne ujema z »$1«",
+	"output": "Izhod za »$1«"
+}

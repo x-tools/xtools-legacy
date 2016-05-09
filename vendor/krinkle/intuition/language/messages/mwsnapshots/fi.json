@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike",
+			"Olli",
+			"Silvonen",
+			"Stryn"
+		]
+	},
+	"title-overview": "Tilannekuvat",
+	"title-error": "Virhe",
+	"title-updatelog": "Päivitysloki",
+	"updatelog-intro": "Päivitysohjelma ajetaan joka tunti. Alla on viimeisimmän kerran konsolin tiedot.",
+	"updatelog-active": "Päivitysohjelma on käynnissä. Palaa myöhemmin saadaksesi tietää koko lokin.",
+	"download-button": "Lataa $1",
+	"download-directlink": "suora linkki",
+	"title-downloadpage": "Lataa",
+	"title-downloadpage-repo": "Lataa $1",
+	"err-snapshotindex": "Tilannevedos ei tällä hetkellä ole käytettävissä. Yritä myöhemmin uudelleen.",
+	"err-invalid-repo": "Tuntematon kirjasto: \"$1\".",
+	"err-noupdatelog": "Päivityslokia ei löytynyt.",
+	"repo-site-link": "Verkkosivusto",
+	"repo-browse-link": "Selaa kirjastoa",
+	"repo-branches-label": "Haarat:",
+	"repo-lastmoddate-label": "Päiväys:",
+	"branches-submit-button": "Lataa!",
+	"updatelog-link": "päivitysloki",
+	"tablehead-repo": "Koodivaranto",
+	"tablehead-snapshots": "Tilannekuvat",
+	"tablehead-branch": "Haara",
+	"tablehead-filesize": "Tiedostokoko",
+	"tablehead-hash": "Tarkisteet"
+}

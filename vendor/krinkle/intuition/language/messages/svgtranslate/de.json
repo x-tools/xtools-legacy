@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giftpflanze",
+			"Kghbln",
+			"Metalhead64"
+		]
+	},
+	"title": "SVG-Übersetzung",
+	"error-tryagain": "$1 Klicke auf die Schaltfläche „Eine Seite zurück“ deines Browsers, um es erneut zu versuchen.",
+	"error-nothing": "Es ist nichts zum Übersetzen vorhanden.",
+	"error-notsvg": "Das ist keine SVG-Datei.",
+	"error-unexpected": "Es ist ein unerwarteter Fehler aufgetreten.",
+	"error-notfound": "Die SVG-Datei konnte nicht unter der angegebenen URL abgerufen werden.",
+	"error-upload": "Während des Hochladens ist ein Fehler aufgetreten.",
+	"begin-translation": "Mit dem Übersetzen anfangen",
+	"th-original": "Original",
+	"th-translation": "Übersetzung",
+	"th-language": "Sprache",
+	"th-username": "Benutzername",
+	"th-password": "Passwort",
+	"th-method": "Methode",
+	"option-oauth": "OAuth (automatisches Hochladen)",
+	"option-manual": "Manuelles Hochladen",
+	"preview": "Vorschau",
+	"translate": "Übersetzen",
+	"translate-instructions": "Eingaben werden entweder in Form von Dateinamen (z. B. „$1“) oder vollständiger URLs (z. B. „$2“) akzeptiert. Sofern die erste Variante genutzt wird, wird Wikimedia Commons als Dateirepositorium angenommen. Um eine SVG-Datei auf einer anderen Website oder einem anderen Wiki zu übersetzen, muss hingegen die vollständige URL angegeben werden.",
+	"svginput-label": "SVG-Datei",
+	"stats-footer": "Dieses Hilfsprogramm wurde bislang zur Übersetzung von ungefähr $1 Dateien seit $2 genutzt.",
+	"uploading": "Am Hochladen …",
+	"upload-complete": "Das Hochladen wurde erfolgreich abgeschlossen. Das Bild sollte jetzt unter $1 verfügbar sein.",
+	"editdescriptionpage": "Die neue Beschreibungsseite bearbeiten",
+	"disclaimer": "Einige anonymen Daten werden für statistische Zwecke erhoben. Sofern angegeben werden auch die OAuth-Benutzernamen aufgezeichnet, um im Fall von Vandalismus Abhilfe zu erleichtern. Passwörter werden niemals aufgezeichnet.",
+	"author-complete": "Bitte die Angaben zum Autor vervollständigen.",
+	"preview-hide": "Vorschau ausblenden",
+	"preview-refresh": "Vorschau aktualisieren",
+	"error-must-accept": "Um mit einem direkten Upload fortzufahren, musst du die angegebenen Nutzungsbedingungen annehmen.",
+	"description-license": "Bitte Beschreibung und Lizenz auswählen",
+	"finalise": "Angaben vervollständigen"
+}

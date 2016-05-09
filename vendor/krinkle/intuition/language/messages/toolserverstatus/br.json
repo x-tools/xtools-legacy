@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"toolserver-status-ok": "N'eus kudenn ebet gant kluster an diaz roadennoù $1 $2",
+	"toolserver-status-info": "Notenn evit implijerien ar c'hluster $1: $2",
+	"toolserver-status-warn": "Kemenn diwall evit implijerien ar c'hluster $1: $2",
+	"toolserver-status-down": "Evit ar poent eo serret kluster $1 an diaz roadennoù. $2",
+	"toolserver-status-erro": "Sac'het eo kluster $1 an diaz roadennoù. $2",
+	"toolserver-status-unknown": "Dianav eo statud ar c'hluster $1",
+	"toolserver-status-missing": "N'eus ket eus ar c'hluster $1.",
+	"toolserver-status-short-ok": "$1 : Mat eo",
+	"toolserver-status-short-info": "$1 : Keleier",
+	"toolserver-status-short-warn": "$1 : Diwall",
+	"toolserver-status-short-down": "$1 : Sac'het",
+	"toolserver-status-short-erro": "$1 : Fazi",
+	"toolserver-status-short-unknown": "$1 : Dianav",
+	"toolserver-status-short-missing": "$1: Ezvezant"
+}

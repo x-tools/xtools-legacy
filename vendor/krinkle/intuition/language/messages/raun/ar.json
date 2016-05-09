@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25",
+			"محمد أحمد عبد الفتاح"
+		]
+	},
+	"close": "إغلاق",
+	"help": "مساعدة",
+	"filter": "المرشح",
+	"settings": "الإعدادات",
+	"fork": "الكود المصدري",
+	"stat": "الإحصائيات",
+	"settings_tool": "الأداة",
+	"language": "اللغة",
+	"project": "المشروع",
+	"save": "احفظ",
+	"settings_pause": "إيقاف مؤقت",
+	"settings_run": "تشغيل!",
+	"settings_show": "أظهر",
+	"settings_wiki": "ويكي",
+	"settings_new_pages": "الصفحات الجديدة",
+	"settings_editor_edits": "تعديلات المحررين",
+	"settings_admin_edits": "تعديلات الإداريين",
+	"settings_other_edits": "تعديلات أخرى",
+	"stat_articles": "صفحات المحتوى",
+	"stat_files": "الملفات المرفوعة",
+	"stat_edits": "تعديلات الصفحة",
+	"stat_depth": "العمق",
+	"stat_users": "المستخدمون المسجلون",
+	"stat_active_users": "المستخدمون النشطون",
+	"stat_admins": "الإداريون"
+}

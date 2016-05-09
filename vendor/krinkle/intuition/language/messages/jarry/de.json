@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"Se4598"
+		]
+	},
+	"moretools": "Weitere Hilfsprogramme",
+	"homepage-title": "Einführung",
+	"bugs": "Fehlermeldungen und Funktionswünsche",
+	"comments": "Anmerkungen und Anfragen",
+	"error-form-empty": "Eines oder mehrere der Pflichtfelder wurden nicht ausgefüllt. Bitte vor dem Fortfahren ausfüllen."
+}

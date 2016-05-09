@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Platonides",
+			"SPQRobin",
+			"Siebrand",
+			"Sjoerddebruin"
+		]
+	},
+	"dateformat": "%d %B %Y",
+	"hello": "Hallo",
+	"welcome": "Welkom",
+	"toolversion": "Versie $1",
+	"toolversionstamp": "Versie $1 ($2)",
+	"etc": "enzovoort",
+	"namespace": "Naamruimte",
+	"form-submit": "OK",
+	"form-reset": "Opnieuw instellen",
+	"years": "{{PLURAL: $1|jaar|jaren}}",
+	"months": "{{PLURAL: $1|maand|maanden}}",
+	"weeks": "{{PLURAL: $1|week|weken}}",
+	"days": "{{PLURAL: $1|dag|dagen}}",
+	"hours": "{{PLURAL: $1|uur|uur}}",
+	"minutes": "{{PLURAL: $1|minuut|minuten}}",
+	"seconds": "{{PLURAL: $1|seconde|seconden}}",
+	"last-modified-date": "Laatste wijziging op: $1",
+	"view-source": "Brontekst bekijken",
+	"and": "&#32;en"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chorobek",
+			"Growingup",
+			"Викиней"
+		]
+	},
+	"hello": "Бар болуңуз",
+	"welcome": "Кош келиңиз",
+	"toolversionstamp": "Версия $1 ($2)",
+	"etc": "ж.б.у.с.",
+	"namespace": "Аталыштар мейкиндиги",
+	"form-submit": "Алга",
+	"form-reset": "Тазала",
+	"years": "{{PLURAL: $1|жыл|жылдар}}",
+	"weeks": "{{PLURAL: $1|апта|апталар}}",
+	"days": "{{PLURAL: $1|күн|күндөр}}",
+	"hours": "{{PLURAL: $1|саат|сааттар}}",
+	"minutes": "{{PLURAL: $1|мүнөт|мүнөттөр}}",
+	"seconds": "{{PLURAL: $1|секунд|секундалар}}",
+	"last-modified-date": "$1 акыркы жолу өзгөртүлгөн",
+	"view-source": "Кайнарды кара",
+	"and": "&#32;жана"
+}

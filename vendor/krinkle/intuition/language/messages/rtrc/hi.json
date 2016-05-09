@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND",
+			"SatyamMishra"
+		]
+	},
+	"apply": "लागू करें",
+	"asc": "आरोह",
+	"changelog": "क्या नया",
+	"clear": "स्पष्ट",
+	"currentedit": "वर्तमान चयनित संपादन",
+	"cvn-adder": "जोड़ा",
+	"cvn-adder-empty": "अज्ञात",
+	"cvn-reason": "कारण",
+	"cvn-reason-empty": "कोई कारण नहीं मिला",
+	"desc": "अवरोह",
+	"documentation": "प्रलेखन",
+	"filter": "छननी",
+	"helpicon-tooltip": "इस सुविधा के बारे में अधिक सीखें",
+	"lastupdate-cvn": "$1 अन्तिम अद्यतन हुआ।",
+	"lastupdate-rc": "$1 अन्तिम अद्यतन हुआ।",
+	"limit": "सीमा",
+	"mypatrollog": "मेरा पुनरीक्षण लॉग",
+	"namespace": "नामस्थान",
+	"navtoggle-tooltip": "साइडबार टॉगल",
+	"nomatches": "प्रदत्त सेटिंग के लिए कोई प्रासंगिक परिवर्तन उपलब्ध नहीं",
+	"order": "क्रम",
+	"permalink": "वर्तमान सेटिंग के लिए पर्मालिंक",
+	"reload-interval": "अन्तराल",
+	"select-placeholder-none": "(कोई नहीं)",
+	"showAnonOnly": "सिर्फ-अनामक",
+	"showUnpatrolledOnly": "केवल असमीक्षित",
+	"skippededit": "छोड़े गये सम्पादन",
+	"tag": "टैग",
+	"time-from": "आरंभ",
+	"time-untill": "अंत",
+	"timeframe": "समय सीमायें",
+	"type": "प्रकार",
+	"typeEdit": "संपादन",
+	"typeNew": "नए पृष्ठ",
+	"userfilter": "सदस्यछननी"
+}

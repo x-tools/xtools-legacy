@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvonen",
+			"Stryn",
+			"VezonThunder"
+		]
+	},
+	"enter-details": "Kirjoita tiedot",
+	"introduction": "Kirjoita mallineen nimi (tällä hetkellä vain Wikipedioiden mallineet) ja paina Siirry. Niin yksinkertaista se on. Välimuistiin jää jälkiä (tulokset muistetaan), mutta siihen ei tämä työkalu tai sen omistaja voi valitettavasti vaikuttaa.",
+	"language-label": "Kieli",
+	"namespace-label": "Nimiavaruus",
+	"pagename-label": "Sivun nimi (ilman nimiavaruutta)"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr",
+			"Platonides",
+			"Stephenwanjau"
+		]
+	},
+	"welcome": "Karibu",
+	"toolversionstamp": "Toleo la $1 ($2)",
+	"etc": "nk",
+	"namespace": "Eneo la wiki",
+	"form-submit": "Nenda",
+	"form-reset": "Panga upya",
+	"years": "{{PLURAL:$1|mwaka|miaka}}",
+	"weeks": "{{PLURAL:$1|wiki}}",
+	"days": "{{PLURAL:$1|siku}}",
+	"hours": "{{PLURAL:$1|saa|masaa}}",
+	"minutes": "{{PLURAL:$1|dakika}}",
+	"seconds": "{{PLURAL:$1|sekunde}}",
+	"last-modified-date": "Ilibadilishwa mwishoni tarehe $1",
+	"view-source": "Onesha msimbo wa ukurasa",
+	"and": "&#32;na"
+}

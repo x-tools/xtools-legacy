@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"list": "Saraksts",
+	"sample": "Piemērs",
+	"page": "Lapa",
+	"help": "palīdzība",
+	"today": "šodien",
+	"allLang": "Visas valodas",
+	"other_lang": "citas valodas",
+	"project": "Projekts",
+	"category": "Kategorija",
+	"helpPage": "Palīdzības lapa",
+	"wikiThanks": "Paldies",
+	"links": "Saites",
+	"bureaucrats": "birokrāti",
+	"articles": "raksti",
+	"pages": "lapas",
+	"urlParameter": "URL parametrs",
+	"addToWorkList": "pievienot darbu sarakstam",
+	"projectPages": "Projekta lapas"
+}

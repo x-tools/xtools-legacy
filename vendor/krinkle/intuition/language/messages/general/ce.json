@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"form-submit": "Дехьа гӀо",
+	"days": "{{PLURAL: $1|де}}",
+	"minutes": "$1 {{PLURAL:$1|минот}} хьалха"
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"apply": "लागु गर्ने",
+	"asc": "बढ्दोक्रममा",
+	"clear": "हटाउने",
+	"cvn-adder-empty": "अज्ञात",
+	"cvn-reason": "कारण",
+	"cvn-reason-empty": "कारण भेटिएन",
+	"desc": "घट्दोक्रममा",
+	"documentation": "मिसिलिकरण",
+	"filter": "फिल्टर",
+	"lastupdate-cvn": "अन्तिम अद्यावधिक :$1",
+	"lastupdate-rc": "अन्तिम अद्यावधिक :$1",
+	"limit": "सीमा",
+	"namespace": "नेमस्पेस",
+	"select-placeholder-none": "(कुनै पनि होइन)",
+	"tag": "ट्याग",
+	"time-from": "देखि",
+	"time-untill": "सम्म",
+	"timeframe": "समयावधी",
+	"type": "प्रकार",
+	"typeEdit": "सम्पादनहरू",
+	"typeNew": "नयाँ पृष्ठहरू"
+}

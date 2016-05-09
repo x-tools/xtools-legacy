@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armin1392",
+			"Ebraminio",
+			"Reza1615",
+			"Alirezaaa"
+		]
+	},
+	"pb-about-pb-navi": "درباره",
+	"pb-about-pb-tech": "مشخصات فنی",
+	"pb-about-pb-tech-text": "<p>ما با استفاده از <a href=\"https://en.wikipedia.org/wiki/Python_<span class=\" notranslate\"=\"\" translate=\"no\">% 28programming_language % 29 \"> پایتون</a> و <a href=\"https://en.wikipedia.org/wiki/MySQL\">خروجی زیر</a> برای این واسط. کد منبع تحت شرایط <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU کمتر عمومی مجوز 3 عمومی</a> (LGPL 3) منتشر شده است و می توان <a href=\"https://github.com/tool-labs/pb\">در GitHub</a>قابل دسترسی است. گزارش مشکلات, درخواست ویژگی یا دیگر نظر <a href=\"https://github.com/tool-labs/pb/issues/new\">به ردگیر مسئله GitHub</a> اضافه کردن و یا گزارش آن را در <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">صفحه بحث ویکی</a>.</p>\n<p>دامپ کنونی پایگاه داده  را می‌توان یافت <a href=\"/pb/sql-dumps\">اینجا</a>.</p>\n<p>ما استفاده از آیکون های مختلف ایجاد شده توسط پروژه <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">نمایهٔ گلیف‌ها</a> .</p>",
+	"pb-about-pb-text": "<p>این پروژه نشان دهنده آشنایان شخصی بین ویکی‌مدین‌ها است.</p>\n<p>اولین پیاده سازی توسط یولی پوروین (رابط) و یوکو (ربات) انجام شد. در آغاز سال۲۰۱۱، ویجلز و ایرس،یولی که رابط را انجام می‌دهد را دنبال کردند. در حال حاضر، پروژه دیگر در سرور خصوصی میزبان نیست اما در آزمایشگاه های ویکی‌مدیا میزبان است.</p>\n<p>برای اطلاعات بیشتر در مورد این پروژه می‌توان در ویکیپدیا آلمانی در صفحه <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a> پیدا شود.</p>",
+	"pb-about-pb-title": "درباره پروژه",
+	"pb-change-language": "تغییر زبان",
+	"pb-comment": "نظر",
+	"pb-confirmations-given": "تنظیمات اعمال‌شده",
+	"pb-confirmations-taken": "تائیدیهٔ دریافت‌شده",
+	"pb-current-confirmations": "در کل تأییدیه‌های $1 وجود دارند، این درباره <abbr title=\"$2\">$3</abbr> تأییدیه‌های هر روز است.",
+	"pb-current-figures": "چهره‌های فعلی",
+	"pb-current-users": "در حال حاضر، $1 کاربران در پروژه <em>آشنایی شخصی</em> شرکت می‌کنند.",
+	"pb-date": "تاریخ",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> در آزمایشگاه ابزار. <a href=\"<span class=\" notranslate\"=\"\" translate=\"no\">$1 \"عنوان =\"درباره Wikipedia:Persönliche Bekanntschaften\"> کسب اطلاعات بیشتر.</a>",
+	"pb-home": "خانه",
+	"pb-home-welcome": "به پروژه <em>آشنایی شخصی</em> (<em>Persönliche-Bekanntschaften</em> in German) خوش آمدیدǃ اطلاعات بیشتر درباره این پروژه می تواند در <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German language Wikipedia\">در زبان آلمانی ویکی‌پدیا</a> پیدا شود.",
+	"pb-javascript-notice": "ما توصیه می‌کنیم که جاوا اسکریپت را برای این وب‌سایت برای بهبود رابط کاربری فعال کنید.",
+	"pb-labs-name": "آزمایشگاه‌های ابزار ویکی‌مدیا",
+	"pb-participates-since": "شرکت‌کنندگان از",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "اجرا در آزمایشگاه‌های ابزار ویکی‌مدیا",
+	"pb-recent-confirmations": "تنظیمات اخیر",
+	"pb-reconfirmed": "تأیید مجدد؟",
+	"pb-user": "کاربر",
+	"pb-user-link-title": "جزئیات برای کاربر $1",
+	"pb-user-heading": "اطلاعات برای <a href=\"$2\" title=\"صفحهٔ کاربری $1\">$1</a>",
+	"pb-user-title": "اطلاعات برای $1",
+	"pb-users-navi": "کاربران",
+	"pb-users-title": "فهرست مشارکت کنندگان",
+	"pb-users-overview": "این  $1  کاربران در پروژه <em>آشنایی شخصی</em> شرکت می‌کنند :",
+	"pb-verified-since": "تأیید شده از"
+}

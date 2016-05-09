@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sahran"
+		]
+	},
+	"title": "قېلىپ سىڭدۈرۈش سانى",
+	"enter-details": "تەپسىلاتىنى كىرگۈزۈڭ",
+	"language-label": "تىل",
+	"namespace-label": "ئات بوشلۇقى",
+	"pagename-label": "بەت ئاتى (ئات بوشلۇقى بۇنىڭ سىرتىدا)",
+	"transclusion-count-label": "سىڭدۈرگەن قېلىپ سانى",
+	"transclusion-count": "$1 سىڭدۈرگەن قېلىپ تېپىلدى.",
+	"error-suggestion": "بۇ بەتنىڭ ئاتىنى ئۇنۇت (ياكى چوڭ يېزىلىشنى خاتا ئىشلەت) تىڭىزمۇ قانداق؟",
+	"time-label": "بۇيرۇق ئىجرا قىلىشقا كېرەكلىك ۋاقىت"
+}

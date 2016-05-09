@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"close": "Затвори",
+	"help": "Помоћ",
+	"filter": "Филтер",
+	"settings": "Подешавања",
+	"language": "Језик",
+	"save": "Сачувај",
+	"settings_pause": "Паузирај"
+}

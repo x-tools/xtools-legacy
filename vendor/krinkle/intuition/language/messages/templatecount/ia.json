@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"enter-details": "Entra detalios",
+	"introduction": "Entra le nomine de un patrono (functiona solmente pro le Wikipedias) e preme sur \"ir\". Es tanto simple. Le datos pote esser recuperate del cache (memorisation de resultatos), ma isto es infortunatemente foras del influentia de iste instrumento e de su proprietario.",
+	"language-label": "Lingua",
+	"namespace-label": "Spatio de nomines",
+	"pagename-label": "Nomine del pagina (sin spatio de nomines)",
+	"transclusion-count-label": "Numero de transclusiones",
+	"transclusion-count": "$1 transclusion(es) trovate.",
+	"error-suggestion": "Forsan tu ha mal orthographiate le nomine del pagina (o usate majusculas/minusculas incorrecte)?",
+	"time-label": "Tempore prendite pro executar le commando"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"explanation": "Erklärung",
+	"enter-details": "Detailer aginn",
+	"results": "Resultater",
+	"language-label": "Sprooch",
+	"namespace-label": "Nummraum",
+	"project-label": "Projet",
+	"redirects-label": "Inklusiv Viruleedungen",
+	"limit-label": "Nëmmen déi éischt 100 Resultater weisen"
+}

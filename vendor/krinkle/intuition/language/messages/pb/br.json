@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fohanno",
+			"Gwenn-Ael"
+		]
+	},
+	"pb-about-pb-navi": "Diwar-benn",
+	"pb-about-pb-tech": "Munudoù teknikel",
+	"pb-about-pb-tech-text": "<p>Implijout a reomp <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\">Python</a> et <a href=\"https://en.wikipedia.org/wiki/MySQL\">MySQL</a> evit an etrefas-se. Ar c'hod tarzh a c'haller kaout dindan divizoù an aotre-implijout <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) hag a c'hall bezañ kavet <a href=\"https://github.com/tool-labs/pb\">e GitHub</a>.\nOuzhpennit, mar plij,an danevelloù draen, ar goulennoù emdreiñ hag hoc'h evezhiadennoù all <a href=\"https://github.com/tool-labs/pb/issues/new\"> er merour kudennoù GitHub</a> pe disklêriañ anezho e <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">pajenn eskemm Wikipédia</a>.</p>\n    <p> An danevelloù bremañ eus diaz roadennoù PB a c'hall bezañ kavet <a href=\"/pb/sql-dumps\">amañ</a>.</p>\n    <p>Nous utilisons plusieurs icônes créées par le projet <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-title": "Diwar-benn ar raktres",
+	"pb-change-language": "Cheñch yezh",
+	"pb-comment": "Evezhiadenn",
+	"pb-confirmations-given": "Kadarnadurioù roet",
+	"pb-confirmations-taken": "Kadarnadurioù resevet",
+	"pb-current-confirmations": "Bez' ez eus $1 kadarnadur en holl, da lavaret eo war-dro <abbr title=\"$2\">$3</abbr> kadarnadur an deiz.",
+	"pb-current-figures": "Sifroù bremañ",
+	"pb-date": "Deiziad",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften er Wikipedia alaman\">[[Wikipedia:Persönliche Bekanntschaften]]</a> e Tool Labs. <a href=\"$1\" title=\"Diwar-benn Wikipedia:Persönliche Bekanntschaften\">Evit gouzout hiroc'h.</a>",
+	"pb-home": "Pajenn zegemer",
+	"pb-home-welcome": "Degemer mat er raktres <em>Anaoudegezhioù Personel</em> (<em>Persönliche-Bekanntschaften</em> en alamaneg) ! Evit gouzout hiroc'h war ar raktres-se <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften er Wikipedia alaman\"> e Wikipedia en alamaneg</a>.",
+	"pb-javascript-notice": "Aliañ a reomp ac'hanoc'h da weredekaat JavaScript el lec'hienn Web evit gwellaat an etrefas implijer.",
+	"pb-labs-name": "Tool Labs eus Wikimedia",
+	"pb-participates-since": "A gemer perzh abaoe",
+	"pb-name": "Wikipédia:Anaoudegezh personnel",
+	"pb-powered-by-labs": "Sevenet gant Tool Labs eus Wikimedia",
+	"pb-recent-confirmations": "Kadarnadurioù graet nevez zo",
+	"pb-reconfirmed": "Adkadarnaet ?",
+	"pb-user": "Implijer",
+	"pb-user-link-title": "Munudoù evit an implijer $1",
+	"pb-user-heading": "Titouroù evit <a href=\"$2\" title=\"Pajenn implijer $1\">$1</a>",
+	"pb-user-title": "Titouroù evit $1",
+	"pb-users-navi": "Implijerien",
+	"pb-users-title": "Roll ar berzhidi",
+	"pb-users-overview": "{{PLURAL:$1|An implijer-mañ a gemer perzh|An $1 implijerien-mañ a gemer perzh}} er raktres <em>Anaoudegezh personel</em> :",
+	"pb-verified-since": "Gwiriet abaoe"
+}

@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"title": "WLM ფაილები",
+	"file": "სურათი",
+	"province": "პროვინცია",
+	"author": "ავტორი",
+	"upload-time": "ატვირთვის დრო",
+	"deleted": "წაიშალა ($1)",
+	"not-available": "არ არის ხელმისაწვდომი",
+	"date-unknown": "უცნობი",
+	"total-images": "სულ სურათები: $1",
+	"show-images-all": "ყველა სურათის ჩვენება",
+	"id-none": "(არა)",
+	"count-heading": "ფოტოგრაფები",
+	"bic-list": "სია",
+	"bic-gallery": "გალერეა",
+	"author-heading": "ავტორი",
+	"bic-list-bad": "ჩვენება",
+	"bic-list-all": "სრული სია",
+	"unregistered": "დაურეგისტრირებელი",
+	"users-list": "ხილვა",
+	"province-heading": "პროვინცია",
+	"province-none": "(უცნობი)",
+	"ccaa-heading": "CC.AA."
+}

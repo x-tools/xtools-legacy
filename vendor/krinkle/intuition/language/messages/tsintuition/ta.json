@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswn",
+			"Balajijagadesh",
+			"ElangoRamanujam",
+			"Logicwiki",
+			"Shanmugamp7",
+			"மதனாஹரன்"
+		]
+	},
+	"fullname": "கருவிகளுக்கான உலகமயமாக்கல்",
+	"current-settings": "தற்போதைய அமைப்புகள்",
+	"current-language": "தேர்வு செய்யப்பட்டுள்ள மொழி",
+	"settings-legend": "அமைப்புகள்",
+	"choose-language": "மொழியைத் தேர்ந்தெடுக்கவும்",
+	"clear-cookies": "நினைவிகளை நீக்குக",
+	"renew-cookies": "நினைவிகளை புதுப்பி",
+	"clearcookies-success": "நினைவிகள் நீக்கம் வெற்றி",
+	"tab-overview": "மேல்நோட்டம்",
+	"tab-settings": "அமைப்புகள்",
+	"tab-about": "விவரம்",
+	"tab-demo": "எடுத்துக்காட்டு",
+	"bl-mysettings": "எனது மொழி அமைப்புகள்",
+	"bl-mysettings-new": "மொழியை மாற்று!",
+	"bl-promo": "$1, $2 ஆகியவற்றால் மொழிபெயர்ப்புகள் வழங்கப்படுகின்றன.",
+	"bl-changelanguage": "இக்கருவியின் இடைமுகப்பு மொழியை மாற்றவும்.",
+	"help-translate-tool": "இந்த கருவியை மொழிபெயர்க்க உதவுக",
+	"help-translate-all": "கருவிகளை மொழிபெயர்க்க உதவுக!",
+	"help-translate-tooltip": "இடைமுகச் செய்திகளை உங்கள் மொழிக்கு மொழிபெயர்ப்பதனூடாக ஏனையவர்களுக்கு உதவுங்கள்."
+}

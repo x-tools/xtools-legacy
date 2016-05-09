@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvonen"
+		]
+	},
+	"cvn-adder": "Lisääjä",
+	"cvn-adder-empty": "Tuntematon",
+	"cvn-reason": "Syy",
+	"namespace": "Nimiavaruus"
+}

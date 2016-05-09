@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sudo77(new)",
+			"Mikulas1"
+		]
+	},
+	"current-language": "Zvolený jazyk",
+	"settings-legend": "Nastavenia",
+	"choose-language": "Zvoľte si jazyk",
+	"clear-cookies": "vymazať súbory \"cookie\"",
+	"tab-overview": "Prehľad",
+	"tab-settings": "Nastavenia",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Moje jazykové nastavenia",
+	"bl-mysettings-new": "Zmeniť jazyk!",
+	"help-translate-tool": "Pomôcť preložiť tento nástroj!",
+	"help-translate-all": "Pomôcť preložiť nástroje!"
+}

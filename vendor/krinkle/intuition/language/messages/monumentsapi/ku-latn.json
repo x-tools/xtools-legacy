@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"George Animal",
+			"Bikarhêner"
+		]
+	},
+	"search-table-th-filter": "Fîltre",
+	"search-table-th-search": "Lêgerîn",
+	"filter-all-countries": "Hemû welat",
+	"filter-all-languages": "Hemû ziman",
+	"db-field-country": "Welat",
+	"db-field-lang": "Ziman",
+	"db-field-name": "Nav",
+	"db-field-address": "Navnîşan",
+	"db-field-image": "Wêne",
+	"db-field-changed": "Hate guhertin",
+	"db-field-source": "Çavkanî",
+	"db-field-st_address": "Navnîşan",
+	"db-field-st_coordinates": "Koordînat",
+	"db-field-st_coordinates_pct": "Koordînat %",
+	"db-field-st_image": "Wêne",
+	"db-field-st_image_pct": "Wêne %",
+	"db-field-st_name": "Nav",
+	"db-field-st_name_pct": "Nav %",
+	"toolbox-nav-homepage": "Malper",
+	"toolbox-nav-statistics": "Statîstîk",
+	"toolbox-nav-search": "Lê bigere",
+	"location": "Cih"
+}

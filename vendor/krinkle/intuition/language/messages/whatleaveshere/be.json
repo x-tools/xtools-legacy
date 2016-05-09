@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Artificial123"
+		]
+	},
+	"title-leaveshere": "Спасылкі, якія сыходзяць ад \"$1\"",
+	"sub-leaveshere": "Наступныя старонкі спасылаюцца ад $1",
+	"label-page": "Старонка",
+	"label-namespace": "Прастора імёнаў",
+	"label-limit": "Абмежаванне",
+	"button-submit": "Перайсці",
+	"noleaveshere": "Нічога не звязвае з $1",
+	"link-whatleaveshere": "Сюды спасылаюцца",
+	"tooltip-whatleaveshere": "Спіс усіх спасылак адсюль",
+	"whatlinkshere": "Спасылкі сюды",
+	"istemplate": "уключэнне",
+	"isfile": "спасылка на файл",
+	"linksearch": "ПошукСпасылак"
+}

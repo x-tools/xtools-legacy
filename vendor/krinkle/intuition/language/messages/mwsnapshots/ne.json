@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"title-error": "त्रुटी",
+	"title-downloadpage": "डाउनलोड",
+	"repo-site-link": "वेबसाइट",
+	"repo-browse-link": "भण्डार अन्वेषण गर्नुहोस्",
+	"repo-lastmoddate-label": "मिति:",
+	"branches-submit-button": "प्राप्त गर्नुहोस् !",
+	"updatelog-link": "अद्यावधिक लग",
+	"tablehead-repo": "भण्डार",
+	"tablehead-filesize": "फाइल आकार"
+}

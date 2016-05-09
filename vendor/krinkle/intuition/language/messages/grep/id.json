@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"C5st4wr6ch",
+			"Kenrick95"
+		]
+	},
+	"explanation": "penjelasan",
+	"regex": "Ekspresi reguler",
+	"enter-details": "Masukan detail",
+	"results": "Hasil",
+	"language-label": "Bahasa",
+	"namespace-label": "Ruang nama",
+	"project-label": "Proyek",
+	"pattern-label": "Pola",
+	"limit-label": "Batasi tampilan menjadi 100 hasil pertama"
+}

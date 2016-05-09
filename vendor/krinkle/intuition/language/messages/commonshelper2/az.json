@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cekli829",
+			"Khan27",
+			"Vago"
+		]
+	},
+	"attention": "Diqqət",
+	"language": "Dil",
+	"project": "Layihə",
+	"source_file": "Mənbə faylı",
+	"target_file": "Hədəf faylı",
+	"commons_username": "Vikimedia Commons istifadəçi adı",
+	"commons_to_project": "Vikimedia Commons-dan layihəyə",
+	"move_file_from_com": "Faylı Vikimedia Commons-dan proyektə köçürün",
+	"categories": "Kateqoriyalar",
+	"remove_cats": "Mövcud kateqoriyaları silin",
+	"tusc_user": "TUSC istifadəçi adı",
+	"tusc_pass": "TUSC parolu",
+	"do_it": "Bunu et",
+	"original_wikitext": "Orijinal viki mətn",
+	"new_wikitext": "Yeni viki mətn",
+	"new_filename": "Yeni fayl adı:",
+	"error_upload_file": "Orijinal faylı yükləmək mümkün olmur.",
+	"help_intro": "Əgər siz səhv haqqında bildirmək, funksiyanı təklif etmək və ya sual vermək istəyirsinizsə, sşsğıdakı əlaqə yollarından istifadə edə bilərsiniz:",
+	"help_jira": "$1JIRA (hesaba ehtiyacın var)$2 (Proyekt: Commonshelper2)",
+	"help_mail": "$1 ünvanına bir e-poçt göndərin.",
+	"help_commons": "$1Commons-da yazı əlavə et$2"
+}

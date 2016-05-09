@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jan Luca",
+			"Krinkle",
+			"Purodha",
+			"Shirayuki"
+		]
+	},
+	"title": "{{Ignore}}\nIntuition (INTUI-tion) stands for \" Internationalization for Toolserver's User Interface\".",
+	"fullname": "The full name of the Toolserver Intution. Intution (INTUI-tion) stands for \"'' '''In'''ternationalization for '''T'''oolserver's '''U'''ser '''I'''nterface''\".",
+	"current-settings": "Form legend in the language settings dashboard around the box that displays the current settings and their properties (such as expiry time).",
+	"current-language": "Label in front of the currently selected language name in the \"Current settings\"-box",
+	"settings-legend": "The legend around the form under the \"Change settings\" tab\n{{Identical|Settings}}",
+	"choose-language": "Label for the language dropdown menu in the Dashboard.\n{{Identical|Choose language}}",
+	"clear-cookies": "Link in the dashboard that will remove all memory (cookies) of the visitors language choise.",
+	"renew-cookies": "Link in the dashboard that will renew all memory (cookies) of the visitors language choise. This resets the expiry, so that they won't expire soon.",
+	"cookie-expiration": "Label in the dashboard's \"current settings\"-tab. This is the time until the language memory (cookies) will expire.",
+	"clearcookies-success": "Message displayed after cookies are cleared.",
+	"renewcookies-success": "This message is shown after the cookies are renewed. Parameters:\n* $1 - the period of time until the cookies will expire. e.g. \"30 days\"",
+	"tab-overview": "Dashboard tab for \"Overview\" which shows the current settings.\n{{Identical|Overview}}",
+	"tab-settings": "Dashboard tab for \"Settings\" which allows the user to edit the settings.\n{{Identical|Settings}}",
+	"tab-about": "Dashboard tab for \"About\" which opens a window with a demonstration page. See [//tools.wmflabs.org/intuition/ Intuition Dashboard] for a live example.\n\nIf 'About' doesn't work in your language, possible equivalents may be 'Details', 'About us', 'About this', 'Information' or 'Data'.\n\n{{Identical|About}}",
+	"tab-demo": "Dashboard tab for \"Demo\" which opens a window with a demonstration page.",
+	"bl-mysettings": "Backlink from within other tools to the dashboard for users that have used Intuition before.\n{{Identical|Language settings}}",
+	"bl-mysettings-new": "Backlink to Intuition for users that are new to Intuition.\n{{Identical|Change language}}",
+	"bl-promo": "Sentence displayed at the bottom of other tools promoting translatewiki.net and Toolserver Intuition.\n* $1 is a link to translatewiki.net\n* $2 is the link to Toolserver Intuition's about page",
+	"bl-changelanguage": "Tooltip of the clickable link displayed at the pages of other tools to the dashboard where you can change your interface language.",
+	"usage": "Heading on the About-page of the Toolserver Intuition dashboard. A list of tools and textdomains is listed below.",
+	"help-translate-tool": "Link displayed in the footer of other tools linking to [[Special:Translate]] on translatewiki.net for that tool.",
+	"help-translate-all": "Link displayed in the footer of other tools linking to [[Special:Translate]] on translatewiki.net for all tools.\n\nThis means \"Help to translate the tools!\".",
+	"help-translate-tooltip": "Tooltip displayed when hovering the \"Help translate!\" button."
+}

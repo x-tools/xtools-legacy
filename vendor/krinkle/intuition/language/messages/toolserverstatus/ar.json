@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"أحمد",
+			"ترجمان05"
+		]
+	},
+	"toolserver-status-ok": "لا توجد مشاكل في عنقود قاعدة البيانات $1 $2",
+	"toolserver-status-info": "تنبيه لمستخدمي العنقود $1: $2",
+	"toolserver-status-warn": "تحذير لمستخدمي العنقود $1: $2",
+	"toolserver-status-down": "ثم إيقاف عنقود قاعدة البيانات $1 مؤقتا. $2",
+	"toolserver-status-erro": "عنقود قاعدة البيانات $1 متعطِّل عن العمل. $2",
+	"toolserver-status-unknown": "حالة العنقود $1 غير معروفة",
+	"toolserver-status-missing": "العنقود $1 غير موجود",
+	"toolserver-status-short-ok": "$1: بخير",
+	"toolserver-status-short-info": "$1: معلومات",
+	"toolserver-status-short-warn": "$1: حذر",
+	"toolserver-status-short-down": "$1: عاطل",
+	"toolserver-status-short-erro": "$1: خطأ",
+	"toolserver-status-short-unknown": "$1: مجهول",
+	"toolserver-status-short-missing": "$1: مفقود"
+}

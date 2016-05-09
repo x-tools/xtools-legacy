@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"file": "انځور",
+	"province": "ولايت",
+	"author": "ليکوال",
+	"country-header": "هېواد",
+	"location": "ځای",
+	"deleted": "ړنگ شو ($1)",
+	"not-available": "لاسرسی نشته",
+	"date-unknown": "ناجوت",
+	"total-images": "ټول انځورونه: $1",
+	"view-uncategorized-images": "ناوېشلي انځورونه کتل",
+	"show-images-all": "ټول انځورونه ښکاره کول",
+	"country-label": "هېواد:",
+	"all-countries": "ټول هېوادونه",
+	"limit-label": "د ښکارېدنې انځورونه:",
+	"timezone-label": "د وخت سيمه:",
+	"show-button": "ښکاره کول",
+	"view-later-images": "راتلونکي انځورونه کتل ←",
+	"images-listed-count": "$1 انځورونه لړليک کې.",
+	"bot": "روباټ",
+	"id-none": "(هېڅ)",
+	"count-heading": "انځورونه",
+	"photographer-count-heading": "انځورګران",
+	"bic-list": "لړليک",
+	"bic-gallery": "انځورتون",
+	"author-heading": "ليکوال",
+	"bic-list-bad": "ښکاره کول",
+	"bic-list-all": "بشپړ لړليک",
+	"unregistered": "ناثبته",
+	"users-list": "کتل",
+	"list-prolific-by-photos": "د انځورونو د شمېر له مخې",
+	"province-heading": "ولايت",
+	"province-none": "(ناڅرګند)",
+	"nomail-user-count": "$1 کارنان"
+}

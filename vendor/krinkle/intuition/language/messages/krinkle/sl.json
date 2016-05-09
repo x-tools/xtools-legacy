@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(izberite wiki)",
+	"alws-group-mustused": "Najpogosteje uporabljani wikiji",
+	"alws-group-allaz": "Vsi wikiji po abecedi",
+	"form-legend-settings": "Nastavitve"
+}

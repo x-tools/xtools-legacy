@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"title": "Comprobación d'enllaz y tresclusión de plantíes",
+	"description": "Comprobaciones ya informes de qué artículos que trescluyen una plantía nun tán enllazaos dende la plantía, y qué artículos enllazaos dende una plantía nun la trescluyen.",
+	"form-label-language": "Llingua:",
+	"form-label-template": "Nome de la plantía:",
+	"form-label-template2": "(incluyendo l'espaciu de nomes)",
+	"form-label-complete": "Xenerar un informe completu:",
+	"feedback-template-missing": "La plantía $1 nun esiste.",
+	"feedback-template-noaccess": "La plantía $1 paez qu'esiste, pero nun ta disponible dende la base de datos. Seique ye por un problema temporal. Base de datos utilizada: $2.",
+	"feedback-result": "Resultaos pa $1:",
+	"feedback-header-mismatch": "Desconcordancia ente tresclusiones y enllaces",
+	"feedback-header-no-link": "Tresclusión, pero sin enllaz",
+	"feedback-header-no-transclusion": "Enllaz, pero sin tresclusión",
+	"feedback-header-redirects": "Enllaces a redireiciones",
+	"feedback-total-count": "Total: $1",
+	"feedback-header-complete": "Resume completu de tresclusiones y enllaces",
+	"feedback-header-transclusions": "Tresclusiones de la plantía",
+	"feedback-header-links": "Enllaces de la plantía",
+	"link-edit": "editar",
+	"link-create": "crear",
+	"link-complete": "Informe completu...",
+	"footer-stats": "Xeneráu: $1. Duración: $2 {{PLURAL:$2|segundu|segundos}}.",
+	"error-language": "Códigu de llingua desconocíu."
+}

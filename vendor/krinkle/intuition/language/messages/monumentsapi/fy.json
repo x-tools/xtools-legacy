@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin0van0der0vliet",
+			"Robin van der Vliet"
+		]
+	},
+	"search-table-th-field": "Fjild",
+	"search-table-th-search": "Sykje",
+	"filter-all-countries": "Alle lannen",
+	"filter-all-languages": "Alle talen",
+	"db-field-country": "Lân",
+	"db-field-lang": "Taal",
+	"db-field-id": "ID",
+	"db-field-name": "Namme",
+	"db-field-address": "Adres",
+	"db-field-municipality": "Gemeente",
+	"db-field-lat": "Breedtegraad",
+	"db-field-lon": "Lingtegraad",
+	"db-field-image": "Ôfbylding",
+	"db-field-source": "Boarne",
+	"db-field-monument_article": "Monumintartikel",
+	"db-field-st_address": "Adressen",
+	"db-field-st_address_pct": "Adressen %",
+	"db-field-st_coordinates": "Koördinaten",
+	"db-field-st_coordinates_pct": "Koördinaten %",
+	"db-field-st_image": "Ôfbylding",
+	"db-field-st_image_pct": "Ôfbylding %",
+	"db-field-st_municipality": "Gemeente",
+	"db-field-st_municipality_pct": "Gemeente %",
+	"db-field-st_name": "Nammen",
+	"db-field-st_name_pct": "Nammen %",
+	"toolbox-nav-statistics": "Statistiken",
+	"toolbox-nav-search": "Sykje",
+	"location": "Lokaasje"
+}

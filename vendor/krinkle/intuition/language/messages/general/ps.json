@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"hello": "سلامونه",
+	"welcome": "ښه راغلۍ",
+	"toolversionstamp": "نسخه $1 ($2)",
+	"etc": "او داسې نور",
+	"namespace": "نوم-تشيال",
+	"form-submit": "ورځه",
+	"form-reset": "بياايښودل",
+	"years": "{{PLURAL: $1|کال|کالونه}}",
+	"weeks": "{{PLURAL: $1|اونۍ|اونۍ}}",
+	"days": "{{PLURAL: $1|ورځ|ورځې}}",
+	"hours": "{{PLURAL:$1|ساعت|ساعتونه}}",
+	"minutes": "{{PLURAL:$1|دقيقه|دقيقې}}",
+	"seconds": "{{PLURAL:$1|ثانيه|ثانيې}}",
+	"last-modified-date": "وروستی بدلون: $1",
+	"view-source": "سرچينه کتل"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"toolserver-status-ok": "Ora ana masalah nèng klompok basis data $1 $2",
+	"toolserver-status-info": "Wara-wara kanggo panganggo saka klompok $1: $2",
+	"toolserver-status-warn": "Pèngetan kanggo panganggo saka klompok $1: $2",
+	"toolserver-status-down": "Klompok basis data $1 mati sawetara wektu. $2",
+	"toolserver-status-erro": "Klompok basis data $1 rendhet. $2",
+	"toolserver-status-unknown": "Status klompok $1 ora dikenal",
+	"toolserver-status-missing": "Klompok $1 ora ana",
+	"toolserver-status-short-ok": "$1: Oké",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Pèngetan",
+	"toolserver-status-short-down": "$1: Rendhet",
+	"toolserver-status-short-erro": "$1: Kasalahan",
+	"toolserver-status-short-unknown": "$1: Ora dingertèni",
+	"toolserver-status-short-missing": "$1: Ilang"
+}

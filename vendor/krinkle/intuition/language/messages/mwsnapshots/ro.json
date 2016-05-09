@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"title-overview": "Instantanee",
+	"title-error": "Eroare",
+	"title-updatelog": "Jurnal actualizări",
+	"updatelog-intro": "Scriptul de actualizare este programat să ruleze în fiecare oră. Mai jos se află consola de ieșire a ultimei rulări.",
+	"updatelog-active": "Scriptul de actualizare se află în execuție. Reveniți mai târziu pentru jurnalul complet.",
+	"download-button": "Descarcă instantaneul",
+	"download-directlink": "legătură directă",
+	"title-downloadpage": "Descărcare",
+	"title-downloadpage-repo": "Descărcare $1",
+	"err-snapshotindex": "Indexul instantaneilor este temporar indisponibil. Vă rugăm să reîncercați mai târziu.",
+	"err-invalid-repo": "Depozit necunoscut: „$1”.",
+	"err-invalid-branch": "Ramură necunoscută: „$1” în depozitul „$2”.",
+	"err-nosnapshot": "Instantaneele sunt generate la fiecare câteva ore. În timpul generării instantaneului pentru „$1” a apărut o eroare. Vă rugăm să reîncercați mai târziu.",
+	"err-noupdatelog": "Nu s-a găsit niciun jurnal al actualizărilor.",
+	"repo-site-link": "Site web",
+	"repo-browse-link": "Răsfoire depozit",
+	"repo-branches-label": "Ramuri:",
+	"repo-lastmoddate-label": "Dată:",
+	"branches-submit-button": "Ia-l!",
+	"updatelog-link": "actualizare jurnal",
+	"tablehead-repo": "Depozit",
+	"tablehead-snapshots": "Instantanee",
+	"tablehead-branch": "Ramură",
+	"tablehead-filesize": "Mărime fișier",
+	"tablehead-hash": "Sume de control"
+}

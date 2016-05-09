@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"Vodnokon4e"
+		]
+	},
+	"toolversionstamp": "Версия $1 ($2)",
+	"namespace": "Именно пространство",
+	"years": "{{PLURAL: $1|година|години}}",
+	"weeks": "{{PLURAL: $1|седмица|седмици}}",
+	"days": "{{PLURAL: $1|ден|дни}}",
+	"minutes": "{{PLURAL: $1|минута|минути}}",
+	"seconds": "{{PLURAL: $1|секунда|секунди}}"
+}

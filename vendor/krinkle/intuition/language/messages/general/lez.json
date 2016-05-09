@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Namik"
+		]
+	},
+	"welcome": "Ша башуьсте",
+	"years": "йисар",
+	"weeks": "{{PLURAL: $1|афте|афтеяр}}",
+	"days": "{{PLURAL: $1|югъ|йикъар}}",
+	"hours": "{{PLURAL: $1|сят|сятерал}}"
+}

@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"attention": "Let op",
+	"jira_link": "Rapporteer 'n fout of stel 'n verbetering voor",
+	"language": "Taal",
+	"project": "Project",
+	"source_file": "Bronlêer",
+	"target_file": "Doellêer",
+	"categories": "Kategorieë",
+	"remove_cats": "Verwyder bestaande kategorieë",
+	"tusc_user": "TUSC-gebruikersnaam",
+	"tusc_pass": "TUSC-wagwoord",
+	"do_it": "Doen dit",
+	"error_not_exists": "Die bronlêer bestaan ​​nie!",
+	"error_on_commons": "Die bronlêer is reeds op $1!",
+	"original_wikitext": "Oorspronklike wikiteks",
+	"new_wikitext": "Nuwe wikiteks",
+	"new_filename": "Nuwe lêernaam:",
+	"upload_submit": "Laai op!",
+	"error_upload_file": "Die oorspronklike lêer kan nie afgelaai word nie.",
+	"help_mail": "Stuur e-pos aan $1"
+}

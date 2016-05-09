@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"title": "Rezent Ännerungen (an Echtzäit)",
+	"apply": "Uwenden",
+	"asc": "Kleng op grouss",
+	"changelog": "Wat gëtt et Neies",
+	"clear": "eidel maachen",
+	"currentedit": "Aktuell erausgesichten Ännerung",
+	"cvn-adder": "Benotzer",
+	"cvn-adder-empty": "Onbekannt",
+	"cvn-reason": "Grond",
+	"cvn-reason-empty": "Kee Grond fonnt",
+	"desc": "Grouss op kleng",
+	"documentation": "Dokumentatioun",
+	"filter": "Filter",
+	"helpicon-tooltip": "Fir méi ze wëssen iwwer dës Funktioun",
+	"lastupdate-cvn": "Lescht Aktualisatioun: $1",
+	"lastupdate-rc": "Lescht Aktualisatioun: $1",
+	"limit": "Limit",
+	"months": "Januar, Februar, Mäerz, Abrëll, Mee, Juni, Juli, August, September. Oktober, November, Dezember",
+	"namespace": "Nummraum",
+	"nomatches": "Keng relevant Ännerunge fir Är Astellungen",
+	"order": "Reiefolleg",
+	"permalink": "Permanente Link op déi aktuell Astellungen",
+	"reload-interval": "Intervall",
+	"select-placeholder-none": "(keen)",
+	"showAnonOnly": "Nëmmen anonym",
+	"showUnpatrolledOnly": "Nëmmen déi net nogekuckten",
+	"skippededit": "Iwwersprongen Ännerung",
+	"tag": "Markéierung",
+	"time-from": "Vum",
+	"time-untill": "Bis",
+	"timeframe": "Period",
+	"type": "Typ",
+	"typeEdit": "Ännerungen",
+	"typeNew": "Nei Säiten",
+	"userfilter": "Benotzerfilter"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos"
+		]
+	},
+	"alws-label": "Wiki",
+	"alws-selectwiki": "(valliče wiki)",
+	"alws-group-mustused": "Puaksumbah käytetyt wikit",
+	"alws-group-allaz": "Kai wikit kirjaimikon mugah",
+	"form-legend-settings": "Azetukset"
+}

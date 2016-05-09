@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Andriykopanytsia",
+			"Base",
+			"Тест"
+		]
+	},
+	"hello": "Вітаю",
+	"welcome": "Ласкаво просимо!",
+	"toolversion": "Версія $1",
+	"toolversionstamp": "Версія $1 ($2)",
+	"etc": "і т. д.",
+	"namespace": "Простір назв",
+	"form-submit": "Перейти",
+	"form-reset": "Очистити",
+	"years": "{{PLURAL: $1|рік|роки|років}}",
+	"months": "{{PLURAL:$1|місяць|місяців|місяця}}",
+	"weeks": "{{PLURAL: $1|тиждень|тижня|тижнів}}",
+	"days": "{{PLURAL: $1|день|дні|днів}}",
+	"hours": "{{PLURAL: $1|годину|години|годин}}",
+	"minutes": "{{PLURAL:$1|хвилина|хвилини|хвилин}}",
+	"seconds": "{{PLURAL:$1|секунда|секунди|секунд}}",
+	"last-modified-date": "Остання зміна: $1",
+	"view-source": "Переглянути код",
+	"and": "&#32;і"
+}

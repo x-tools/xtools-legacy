@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"error-tryagain": "$1 guji batoonka browser ee noqoshada  si aad mar kale iskugu daydo.",
+	"error-nothing": "Wax fasiraad ah ma leh.",
+	"error-notsvg": "Ma lahan fileka SVG.",
+	"error-unexpected": "Waxaa dhacay qalad aan lagu talo galin.",
+	"error-notfound": "Fileka SVG la ma soo celin karo URL kaan hore.",
+	"error-upload": "Waxaa dhacay qalad xilli aad wax galinaysay",
+	"begin-translation": "Biloow fasiraad",
+	"th-original": "Asli",
+	"th-translation": "Fasiraad",
+	"th-language": "Luqada",
+	"th-username": "Magaca gudagalka",
+	"th-password": "Eraysir:",
+	"th-method": "Adeegsiga",
+	"option-oauth": "TUSC (Galin iskeed ah)",
+	"option-manual": "Gacan ku galin",
+	"preview": "Horfiirin",
+	"translate": "Fasir",
+	"translate-instructions": "Waxaa la ogol yahay soo saaris ama magacyada filalka (Tusaale \"$1\") ama  URL oo buuxa (Tusaale \"$2\"). Hadii aad adeegsato tusaaleha koowaad, Wikimedia Commons waxa ay noqonayasaa xigasho fasiraad. hadii aad fasirto SVG website kale ama wiki, waa inaad adeegsataa URL ka oo buuxa.",
+	"svginput-label": "File ka samaysan SVG",
+	"stats-footer": "Qaybtaan fasiraada ah waxaa adeegsaday ku dhawaad $1 filal laga soo bilaabo $2.",
+	"uploading": "Galin",
+	"upload-complete": "Galintii waa lagu guuleeystay. sawirku waa in uu yaalaa $1",
+	"editdescriptionpage": "Wxa kabadal cadaymaha cusub ee Bogga",
+	"disclaimer": "Waa la uruurinayaa macluumaadka qaar ee aan la aqoon si gaar ah iyadoo loola jeedo tirakoob ahaan. sidoo kale waxaa la diiwaan galinayaa magacyada isticmaala OAuth si loo caawiyo hadii ay dhacdo wax qarbudaad ah. Eraysirtana lama kaydin doono sideedaba.",
+	"author-complete": "Fadlan dhamaystir macluumaadka qoraaga",
+	"preview-hide": "Qari Horfiirinta",
+	"preview-refresh": "Cusbooneeysii Horfiirinta",
+	"error-must-accept": "Si aad usii wadato galinta tooska ah waxaa lagaa rabaa inaad aqbasho shuruudaha adeegsiga ee aad dooneeyso.",
+	"description-license": "Dooro Caydayn iyo ruqsad",
+	"finalise": "Dhamaadka faah faahinta"
+}

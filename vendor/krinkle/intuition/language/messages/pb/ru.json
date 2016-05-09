@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"pb-about-pb-navi": "О проекте",
+	"pb-about-pb-tech": "Технические детали",
+	"pb-about-pb-tech-text": "<p>Мы используем <a href=\"https://ru.wikipedia.org/wiki/Python\">Python</a> и <a href=\"https://ru.wikipedia.org/wiki/MySQL\">MySQL</a> для этого интерфейса. Исходный код публикуется под лицензией <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) и доступен <a href=\"https://github.com/инструмент-labs/pb\">на GitHub</a>. Пожалуйста, добавляйте отчеты об ошибках, пожелания или другие замечания <a href=\"https://github.com/tool-labs/pb/issues/new\">в баг-трекере GitHub</a> или сообщайте об этом на <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">странице обсуждения в Википедии</a>.</p>\n <p>в настоящее время отвалов PB базы данных можно найти <a href=\"/pb/sql дампы\">здесь</a>.</p>\n <p>Мы используем несколько иконок, созданных проектом <a href=\"http://glyphicons.com/\" title=\"Страница Glyphicons\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>Этот проект представляет личные знакомства между викимедийцами.</p>\n<p>Первая реализация была сделана Ulli Purwin (интерфейс) и Euku (бот). В начале 2011 года Wiegels и Ireas вслед за Ulli присоединились к работе над интерфейсом. В настоящее время проект размещается не на частном сервере, а на Wikimedia Labs.</p>\n<p>Дополнительные сведения об этом проекте можно найти в немецкой Википедии на странице <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "О проекте",
+	"pb-change-language": "Изменить язык",
+	"pb-comment": "Комментарий",
+	"pb-confirmations-given": "Данные подтверждения",
+	"pb-confirmations-taken": "Полученные подтверждения",
+	"pb-current-confirmations": "Всего $1 подтверждений, это около <abbr title=\"$2\">$3</abbr> подтверждений в день.",
+	"pb-current-figures": "Текущие показатели",
+	"pb-current-users": "На данный момент $1 пользователей участвуют в проекте <em>Личные знакомства</em>.",
+	"pb-date": "Дата",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften в немецкой Википедии\">[[Wikipedia:Persönliche Bekanntschaften]]</a> на Tool Labs. <a href=\"$1\" title=\"О Wikipedia:Persönliche Bekanntschaften\">Подробнее.</a>",
+	"pb-home": "Главная",
+	"pb-home-welcome": "Добро пожаловать в проект <em>Личные знакомства</em> (или, на немецком, <em>Persönliche-Bekanntschaften</em>)! Дополнительную информацию об этом проекте вы можете найти \n<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften в немецкой Википедии\">в немецкой Википедии</a>.",
+	"pb-javascript-notice": "Мы рекомендуем включить JavaScript на данном веб-сайте для улучшения отображения пользовательского интерфейса.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Принимает активное участие с",
+	"pb-name": "Wikipedia:Persönliche Bekanntschaften",
+	"pb-powered-by-labs": "На платформе Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Последние подтверждения",
+	"pb-reconfirmed": "Подтверждено?",
+	"pb-user": "Участник",
+	"pb-user-link-title": "Подробная информация по участнику $1",
+	"pb-user-heading": "Информация для <a href=\"$2\" title=\"Страница участника $1\">$1</a>",
+	"pb-user-title": "Информация для $1",
+	"pb-users-navi": "Участники",
+	"pb-users-title": "Список участников",
+	"pb-users-overview": "Эти $1 пользователей участвуют в проекте <em>Личное знакомство</em>:",
+	"pb-verified-since": "Проверен с"
+}

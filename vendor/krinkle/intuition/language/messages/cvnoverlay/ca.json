@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe"
+		]
+	},
+	"adder-empty": "Desconegut",
+	"expiry": "Caducitat",
+	"reason": "Motiu",
+	"reason-empty": "No s’ha trobat cap motiu"
+}

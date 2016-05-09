@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gitartha.bordoloi",
+			"Simbu123",
+			"Dibya Dutta"
+		]
+	},
+	"toolserver-status-ok": "আধাৰতথ্য গোট $1 $2ত কোনো সমস্যা নাই",
+	"toolserver-status-info": "গোট $1: $2ৰ সদস্যলৈ সূচনা",
+	"toolserver-status-warn": "গোট $1: $2ৰ সদস্যলৈ সতৰ্কবাণী",
+	"toolserver-status-down": "আধাৰতথ্য গোট $1 সাময়িকভাৱে বন্ধ হৈ আছে। $2",
+	"toolserver-status-erro": "আধাৰতথ্য গোট $1 বন্ধ হৈ আছে। $2",
+	"toolserver-status-unknown": "গোট $1ৰ অৱস্থা অজ্ঞাত",
+	"toolserver-status-missing": "গোট $1ৰ অস্তিত্ব নাই",
+	"toolserver-status-short-ok": "$1: শুদ্ধ",
+	"toolserver-status-short-info": "$1: তথ্য",
+	"toolserver-status-short-warn": "$1: সতৰ্কবাণী",
+	"toolserver-status-short-down": "$1: তললৈ",
+	"toolserver-status-short-erro": "$1: ভুল",
+	"toolserver-status-short-unknown": "$1: অজ্ঞাত",
+	"toolserver-status-short-missing": "$1: বিচাৰি পোৱা নাই"
+}

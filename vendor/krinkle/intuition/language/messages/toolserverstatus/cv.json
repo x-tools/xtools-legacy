@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salam"
+		]
+	},
+	"toolserver-status-ok": "$1 $2 пӗлӗмлӗх кластерӗнче проблема ҫук",
+	"toolserver-status-info": "$1 кластерӑн усӑҫӗсен валли пӗлтерӳ: $2",
+	"toolserver-status-warn": "$1 кластерӑн усӑҫӗсен валли асӑрхаттару: $2",
+	"toolserver-status-down": "$1 пӗлӗмлӗх кластерӗ вӑхӑтлӑха ӗҫлемест. $2",
+	"toolserver-status-erro": "$1 пӗлӗмлӗх кластерӗ ӗҫлемест. $2",
+	"toolserver-status-unknown": "$1 кластерӑн тӑрӑмӗ паллӑ мар",
+	"toolserver-status-missing": "$1 кластер пулмасть",
+	"toolserver-status-short-ok": "$1: Ok",
+	"toolserver-status-short-info": "$1: Тӗплӗнрех",
+	"toolserver-status-short-warn": "$1: Асӑрхаттару",
+	"toolserver-status-short-down": "$1: Ӗҫлемест",
+	"toolserver-status-short-erro": "$1: Йӑнӑш",
+	"toolserver-status-short-unknown": "$1: Паллӑ мар",
+	"toolserver-status-short-missing": "$1: Ҫук"
+}

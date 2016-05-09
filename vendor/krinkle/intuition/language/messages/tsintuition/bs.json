@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"fullname": "Prijevod za korisnički interfejs Toolservera",
+	"current-settings": "Trenutne postavke",
+	"current-language": "Trenutno odabrani jezik",
+	"settings-legend": "Postavke",
+	"choose-language": "Odaberi jezik",
+	"clear-cookies": "obriši kolačiće",
+	"renew-cookies": "obnovi kolačiće",
+	"cookie-expiration": "Isticanje kolačića",
+	"clearcookies-success": "Uspješno obrisani kolačići.",
+	"renewcookies-success": "Kolačići obnovljeni! Sve ste pripremili za slijedećih $1.",
+	"tab-overview": "Pregled",
+	"tab-settings": "Postavke",
+	"tab-about": "O",
+	"bl-mysettings": "Moje jezičke postavke",
+	"bl-mysettings-new": "Promijeni jezik!",
+	"bl-promo": "Prevod su vam omogućili $1 i $2.",
+	"bl-changelanguage": "Kliknite ovdje za promjenu jezika interfejsa za ovaj alat."
+}

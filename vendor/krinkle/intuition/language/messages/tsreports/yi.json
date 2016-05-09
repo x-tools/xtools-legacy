@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"category_users": "באַניצער",
+	"category_articles": "בלעטער",
+	"category_images": "בילדער",
+	"category_miscellaneous": "פארשידנס",
+	"category_wikidata": "וויקידאטן",
+	"select_wiki_title": "קלויבט א וויקי",
+	"select_report_disabled": "דער באריכט איז נישט פאראן",
+	"select_report_no_reports": "ליידע, עס זינען נישט פאראן קיין באריכטן פאר %(wiki)ס דערווײַל.",
+	"prefs_submit": "ריכטיק",
+	"prefs_done": "מ׳האט געענדערט אײַערע פרעפערענצן"
+}

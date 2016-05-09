@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Jean-Frédéric"
+		]
+	},
+	"description": "Méta-information sur les wikis de Wikimédia.",
+	"formats-heading": "Formats de sortie",
+	"input": "Entrées",
+	"label-wikiids": "Identifiants Wiki",
+	"no-matches": "Aucune correspondance pour « $1 »",
+	"output": "Sortie pour « $1 »"
+}

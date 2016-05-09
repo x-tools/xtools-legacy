@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"Dj"
+		]
+	},
+	"description": "Meta adatok a Wikimédia wikikről.",
+	"formats-heading": "Kimeneti formátumok",
+	"input": "Bemenet",
+	"label-wikiids": "Wikiazonosítók",
+	"no-matches": "Nincs találtat a következőre: „$1”",
+	"output": "Eredmény: „$1”"
+}

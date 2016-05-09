@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"fullname": "Pagsasandaigdigan para sa Ugnayang-Mukha ng Toolserver",
+	"current-settings": "Pangkasalukuyang mga katakdaan",
+	"current-language": "Pangkasalukuyang napiling wika",
+	"settings-legend": "Mga pagtatakda",
+	"choose-language": "Pumili ng isang wika",
+	"clear-cookies": "hawiin ang mga otap",
+	"renew-cookies": "baguhing muli ang mga otap",
+	"cookie-expiration": "Katapusan ng otap",
+	"clearcookies-success": "Matagumpay na nahawi ang mga otap.",
+	"renewcookies-success": "Muli nang nabago ang mga otap!  Nakahanda ka na para sa susunod na $1.",
+	"tab-overview": "Pagtalakay na naglalarawan",
+	"tab-settings": "Mga katakdaan",
+	"tab-about": "Patungkol",
+	"tab-demo": "Pagpapamalas",
+	"bl-mysettings": "Mga pagtatakda ko sa wika",
+	"bl-mysettings-new": "Palitan ang wika!",
+	"bl-promo": "Ang mga salinwika ay binibigyang lakas ng $1 at $2.",
+	"bl-changelanguage": "Pindutin dito upang baguhin anng wika ng ugnayang-mukha ng kasangkapang ito.",
+	"usage": "Ang mga kasangkapan ay isinalinwika ng Kutob ng Toolserver.",
+	"help-translate-tool": "Tumulong sa pagsasalinwika ng kasangkapang ito!",
+	"help-translate-all": "Tumulong sa pagsasalinwika ng Toolserver!",
+	"help-translate-tooltip": "Tulungan ang iba sa pamamagitan ng pagsasalinwika ng mga mensahe ng ugnayang-mukha papunta sa wika mo."
+}

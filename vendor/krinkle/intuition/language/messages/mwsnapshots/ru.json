@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCamer",
+			"Kaganer",
+			"Okras",
+			"Salam"
+		]
+	},
+	"title-overview": "Снимки",
+	"title-error": "Ошибка",
+	"title-updatelog": "Журнал обновления",
+	"updatelog-intro": "Сценарий обновления запускается каждый час. Ниже приводится отчет из консоли последнего прогона.",
+	"updatelog-active": "В настоящее время выполняется сценарий обновления. Зайдите позже чтобы увидеть весь журнал.",
+	"download-button": "Загрузить снимок",
+	"download-directlink": "прямая ссылка",
+	"title-downloadpage": "Скачать",
+	"title-downloadpage-repo": "Скачать $1",
+	"err-snapshotindex": "Индекс снимка временно недоступен. Пожалуйста, повторите попытку позже.",
+	"err-invalid-repo": "Неизвестный репозиторий: \"$1\".",
+	"err-invalid-branch": "Неизвестная ветвь: \"$1\" в репозитарии \"$2\".",
+	"err-nosnapshot": "Снимки создаются каждые несколько часов. Во время создания моментального снимка для \"$1\" произошла ошибка. Пожалуйста, повторите попытку позже.",
+	"err-noupdatelog": "Журнал обновления не найден.",
+	"repo-site-link": "Веб-сайт",
+	"repo-browse-link": "Обзор репозитория",
+	"repo-branches-label": "Ветви:",
+	"repo-lastmoddate-label": "Дата:",
+	"branches-submit-button": "Заполучить!",
+	"updatelog-link": "журнал обновления",
+	"tablehead-repo": "Репозиторий",
+	"tablehead-snapshots": "Снимки",
+	"tablehead-branch": "Ветвь",
+	"tablehead-filesize": "Размер файла",
+	"tablehead-hash": "Контрольные суммы"
+}

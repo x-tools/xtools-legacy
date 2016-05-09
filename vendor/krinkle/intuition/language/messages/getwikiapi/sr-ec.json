@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"formats-heading": "Излазни формати",
+	"input": "Унос",
+	"label-wikiids": "Вики идентификатори",
+	"no-matches": "Ништа се не поклапа са „$1“",
+	"output": "Излаз за „$1“"
+}

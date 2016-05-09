@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"fullname": "Преведување на алатки",
+	"current-settings": "Тековни поставки",
+	"current-language": "Избран јазик",
+	"settings-legend": "Поставки",
+	"choose-language": "Изберете јазик",
+	"clear-cookies": "исчисти колачиња",
+	"renew-cookies": "обнови колачиња",
+	"cookie-expiration": "Истек на колачињата",
+	"clearcookies-success": "Колачињата се успешно исчистени.",
+	"renewcookies-success": "Колачињата се обновени! Сега сте обезбедени за следните $1.",
+	"tab-overview": "Преглед",
+	"tab-settings": "Поставки",
+	"tab-about": "За алатката",
+	"tab-demo": "Демо",
+	"bl-mysettings": "Мои јазични поставки",
+	"bl-mysettings-new": "Сменете јазик!",
+	"bl-promo": "Преводот е овозможен од $1 и $2.",
+	"bl-changelanguage": "Сменете го јазикот на посредникот за алаткава.",
+	"usage": "Алатки што се преведуваат со „Интуиција“.",
+	"help-translate-tool": "Помогнете ни со преводот на алаткава!",
+	"help-translate-all": "Помогнете ни да ги преведеме алатките!",
+	"help-translate-tooltip": "Помогнете им на другите со преведување на посреднички пораки на вашиот јазик."
+}

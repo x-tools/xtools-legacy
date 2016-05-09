@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"title": "Dëscarié ëd figure për categorìa",
+	"subtitle": "La manera sempia ëd dëscarié le figure ant na categorìa",
+	"project": "Proget:",
+	"category": "Categorìa:",
+	"thumbnailing": "Miniaturisé",
+	"max-width": "Larghëssa màssima:",
+	"max-height": "Autëssa màssima:",
+	"invalid-width": "Larghëssa nen bon-a",
+	"invalid-height": "Autëssa pa bon-a",
+	"no-such-project": "Ës proget a esist nen",
+	"no-images": "A-i é pa ëd figure an sta categorìa",
+	"category-is-url": "Ël nòm ëd categorìa fornì a smija na liura. A dev specifiché ël nòm ëd la categorìa, pa soa anliura.",
+	"category-contains-namespace": "A smija ch'a l'abie ancludù lë spassi nominal con ël nòm ëd la categorìa. Con ël nòm fornì, la pàgina a sarìa disponìbil com [[Category:$1]].",
+	"zip-failed": "Creassion dël Zip falìa",
+	"image-area-too-big": "$1 a l'é tròp gròss për creé na miniadura. As deuvra la dimension pien-a.",
+	"download-info": "{{plural: $1|A-i é na figura|A-i son $1 figure}}, con na dimension stimà ëd $2",
+	"download": "Dëscaria",
+	"readme-contents": "L'archivi contnidor $4 a lista\nle figure ant la categorìa $1 ( $2 )$3\n\n== Istrussion për dëscarié tute le figure listà ==\nEl temp ëd dëscaria a peul varié da pòche minute a vàire ore.\n\nWindows:\n Tiré fòra tùit j'archivi ant ël midem dossié e fé marcé $5\n $6\nLinus/Mac OS\n Tiré fòra tùit j'archivi e duverté un terminal an col dossié. Fà marcé sh $5",
+	"non-bundled-wget": "Nòta: costa vërsion a anclud pa wget për Windows. A dev dëscomprime ant un dossié con wget.exe o dësnò avèj wget ant ël PATH",
+	"wget-info": "Cost archivi a comprend na còpia ëd wget $1 (për piataforma Windows). wget a l'é un programa Lìber,\nsota le condission ëd la LICENSA GNU GENERAL PUBLIC version 3.\nA-i é na còpia dla licensa sì-sota, e a l'é ëdcò disponìbil a http://www.gnu.org/licenses/gpl-3.0.txt\n\nDle vire ch'a sia anteressà a avèj ël còdes sorziss për cost programa, a peul dëscarielo da\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\no chèich àutr ëspecc GNU, ch'a vëdda\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": ", scalà a na larghëssa màssima ëd $1 {{plural:$1|pontin}}",
+	"scaling-height": ", scalà a n'autëssa màssima ëd $1 {{plural:$1|pontin}}",
+	"scaling-both": ", scalà a na dimension màssima ëd $1x$2 pontin"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fúlvio",
+			"Cainamarques"
+		]
+	},
+	"enter-details": "Inserir detalhes",
+	"introduction": "Digite o nome de uma predefinição (somente de Wikipédias no momento) e clique em Ir. Simples assim. Há o uso de cache (armazenamento prévio dos resultados), mas isto está infelizmente fora do controle desta ferramenta e de seu proprietário.",
+	"language-label": "Idioma",
+	"namespace-label": "Domínio",
+	"pagename-label": "Nome da página (sem o domínio)",
+	"transclusion-count-label": "Número de transclusões",
+	"transclusion-count": "$1 transclusão(ões) encontrada(s).",
+	"error-suggestion": "Talvez você enganou-se (ou utilizou maiúsculas incorretamente) na escrita da página?",
+	"time-label": "Tempo necessário para executar o comando"
+}

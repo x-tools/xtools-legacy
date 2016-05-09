@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"SMP"
+		]
+	},
+	"description": "Metainformació sobre els viquis de Wikimedia.",
+	"formats-heading": "Formats de sortida",
+	"input": "Entrada de dades",
+	"label-wikiids": "Identificadors wiki",
+	"no-matches": "Cap correspondència per «$1»",
+	"output": "Sortida per «$1»"
+}

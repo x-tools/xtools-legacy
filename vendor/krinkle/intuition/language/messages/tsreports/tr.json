@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Uğurkent"
+		]
+	},
+	"category_users": "Kullanıcılar",
+	"category_articles": "Sayfalar",
+	"category_images": "Görüntüler",
+	"category_wikidata": "Vikiveri",
+	"select_wiki_title": "Bir viki seçin",
+	"select_wiki_next": "Sonraki →",
+	"qvar_next": "Sonraki →",
+	"prefs_submit": "Tamam",
+	"prefs_done": "Tercihleriniz değiştirildi."
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"description": "Metainformatie over wiki's van Wikimedia.",
+	"formats-heading": "Uitvoeropmaak",
+	"input": "Invoer",
+	"label-wikiids": "Wiki-ID's",
+	"no-matches": "Geen resultaten voor \"$1\"",
+	"output": "Uitvoer voor \"$1\""
+}

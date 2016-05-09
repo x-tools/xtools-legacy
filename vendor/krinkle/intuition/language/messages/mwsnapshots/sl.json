@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"title-overview": "Posnetki",
+	"title-error": "Napaka",
+	"title-updatelog": "Dnevnik posodobitev",
+	"download-button": "Prenesi posnetek",
+	"download-directlink": "neposredna povezava",
+	"title-downloadpage": "Prenesi",
+	"repo-site-link": "Spletna stran",
+	"repo-branches-label": "Podveje:",
+	"repo-lastmoddate-label": "Datum:",
+	"branches-submit-button": "Pridobi!",
+	"updatelog-link": "dnevnik posodobitev",
+	"tablehead-branch": "Podveja",
+	"tablehead-filesize": "Velikost datoteke"
+}

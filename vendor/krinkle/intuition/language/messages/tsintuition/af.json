@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"current-settings": "Huidige instellings",
+	"current-language": "Huidig gekose taal",
+	"settings-legend": "Instellings",
+	"choose-language": "Kies 'n taal",
+	"clear-cookies": "vee koekies uit",
+	"renew-cookies": "verfris koekies",
+	"cookie-expiration": "Koekie uitlooptyd",
+	"clearcookies-success": "Koekies suksesvol uitgevee.",
+	"renewcookies-success": "Koekies is hernu! U is reg vir die komende $1.",
+	"tab-overview": "Oorsig",
+	"tab-settings": "Instellings",
+	"tab-about": "Aangaande",
+	"tab-demo": "Demo",
+	"bl-mysettings": "My taalinstellings",
+	"bl-mysettings-new": "Verander taal!",
+	"bl-promo": "Die vertaling is moontlik gemaak deur $1 en $2.",
+	"help-translate-tool": "Help om hierdie program te vertaal!",
+	"help-translate-all": "Help om Toolserver te vertaal!",
+	"help-translate-tooltip": "Help ander deur koppelvlak-boodskappe na u taal te vertaal."
+}

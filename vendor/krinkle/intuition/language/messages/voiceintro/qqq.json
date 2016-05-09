@@ -1,0 +1,14 @@
+{
+	"@metadata": [],
+	"voiceintro-title": "The name of the tool{{notranslate}}",
+	"voiceintro-toolbar-record-label": "Label text for the button to start recording.\n{{Identical|Record}}",
+	"voiceintro-toolbar-stop-label": "Label text for the button to stop recording.\n{{Identical|Stop}}",
+	"voiceintro-toolbar-clear-label": "Label text for the button to clear the recording.\n{{Identical|Clear}}",
+	"voiceintro-toolbar-upload-label": "Label text for the button to upload the recording.\n{{Identical|Upload}}",
+	"voiceintro-webaudio-not-supported": "Used as an error message when the WebAudio API is not supported by the browser.",
+	"voiceintro-information-label": "Label text for the legend.\n{{Identical|Information}}",
+	"voiceintro-information-speaker-label": "Speaker's name:",
+	"voiceintro-information-language-label": "Label text for the language dropdown list.\n{{Identical|Language}}",
+	"voiceintro-mic-access-notify": "Notifies the user to click \"Allow\" to allow the browser to get microphone access",
+	"voiceintro-recording-notify": "Notifies the user that his pronunciation is being recorded"
+}

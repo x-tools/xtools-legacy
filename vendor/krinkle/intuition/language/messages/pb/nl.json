@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Romaine",
+			"Siebrand"
+		]
+	},
+	"pb-about-pb-navi": "Over",
+	"pb-about-pb-tech": "Technische details",
+	"pb-about-pb-tech-text": "<p>We gebruiken <a href=\"https://nl.wikipedia.org/wiki/Python_%28programmeertaal%29\">Python</a> en <a href=\"https://nl.wikipedia.org/wiki/MySQL\">MySQL</a> voor deze interface. De broncode is gepubliceerd onder de voorwaarden van de <a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3) en kan geraadpleegd worden <a href=\"https://github.com/tool-labs/pb\">op GitHub</a>. Voeg probleemmeldingen, verzoeken voor nieuwe mogelijkheden of andere opmerkingen toe <a href=\"https://github.com/tool-labs/pb/issues/new\">aan de issuetracker op GitHub</a> of meld deze op de <a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">overlegpagina op Wikipedia</a>.</p>\n    <p>U kunt de huidige dumps van de PB-database <a href=\"/pb/sql-dumps\">downloaden</a>.</p>\n    <p>Wij maken gebruik van verschillende pictogrammen van het project <a href=\"http://glyphicons.com/\" title=\"Glyphicons homepage\">Glyphicons</a>.</p>",
+	"pb-about-pb-text": "<p>In dit project worden persoonlijke ontmoetingen van Wikimedianen inzichtelijk gemaakt.</p>\n    <p>De eerste implementatie werd gedaan door Ulli Purwin (interface) en Euku (bot). In het begin van 2011 volgden Wiegels en Ireas Ulli op voor de interface. Het project wordt gehost op Wikimedia Labs.</p>\n    <p>Meer informatie over dit project kunt u vinden op de Duitstalige Wikipedia op de pagina <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a> en een verkorte versie daarvan op de Nederlandstalige Wikipedia op <a href=\"https://nl.wikipedia.org/wiki/Wikipedia:Ontmoete_Wikimedianen\">Wikipedia:Ontmoete Wikimedianen</a>.</p>",
+	"pb-about-pb-title": "Over het project",
+	"pb-change-language": "Taal wijzigen",
+	"pb-comment": "Reageren",
+	"pb-confirmations-given": "Gegeven bevestigingen",
+	"pb-confirmations-taken": "Ontvangen bevestigingen",
+	"pb-current-confirmations": "Er {{PLURAL:$1|is één bevestiging|zijn in totaal $1 bevestigingen, dit {{PLURAL:$3|is ongeveer|zijn ongeveer}} <abbr title=\"$2\">$3</abbr> bevestiging{{PLURAL:$3||en}} per dag}}.",
+	"pb-current-figures": "Huidige cijfers",
+	"pb-current-users": "Op dit moment nemen $1 gebruikers deel aan het project <em>Ontmoete Wikimedianen</em>.",
+	"pb-date": "Datum",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in de Duitstalige Wikipedia\">[[Wikipedia:Persönliche Bekanntschaften]]</a> op Tool Labs. <a href=\"$1\" title=\"Over Wikipedia:Ontmoete Wikimedianen\">Meer informatie.</a>",
+	"pb-home": "Startpagina",
+	"pb-home-welcome": "Welkom bij het project <em>Ontmoete Wikimedianen</em> (<em>Persönliche Bekanntschaften</em> in het Duits)! Meer informatie over dit project is te vinden op <a href=\"https://nl.wikipedia.org/wiki/Wikipedia:Ontmoete_Wikimedianen\" title=\"Wikipedia:Ontmoete Wikimedianen op de Nederlandstalige Wikipedia\">op de Nederlandstalige Wikipedia</a> of op de <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften op de Duitstalige Wikipedia\">op de Duitstalige Wikipedia</a>.",
+	"pb-javascript-notice": "Voor een beter gebruikersinterface, raden wij aan om JavaScript in te schakelen.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Neemt deel sinds",
+	"pb-name": "Wikipedia:Ontmoete Wikimedianen",
+	"pb-powered-by-labs": "Mogelijk gemaakt door Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Recente bevestigingen",
+	"pb-reconfirmed": "Herbevestigd?",
+	"pb-user": "Gebruiker",
+	"pb-user-link-title": "Details voor gebruiker $1",
+	"pb-user-heading": "Informatie voor <a href=\"$2\" title=\"Gebruikerspagina van $1\">$1</a>",
+	"pb-user-title": "Informatie voor $1",
+	"pb-users-navi": "Gebruikers",
+	"pb-users-title": "Lijst van deelnemers",
+	"pb-users-overview": "Deze {{PLURAL:$1|gebruiker neemt|$1 gebruikers nemen}} deel aan het project <em>Ontmoete Wikimedianen</em>:",
+	"pb-verified-since": "Bevestigd sinds"
+}

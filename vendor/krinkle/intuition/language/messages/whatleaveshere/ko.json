@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tyey",
+			"아라",
+			"Revi"
+		]
+	},
+	"title": "여기서 나가는 문서",
+	"title-leaveshere": "\"$1\" 문서에서 나가는 링크",
+	"sub-leaveshere": "이 문서들은 $1 에서 링크됩니다",
+	"label-page": "문서",
+	"label-namespace": "이름공간",
+	"label-limit": "제한",
+	"button-submit": "제출",
+	"noleaveshere": "$1 에는 링크가 없습니다",
+	"link-whatleaveshere": "여기서 나가는 문서",
+	"tooltip-whatleaveshere": "이 문서에서 출발하는 모든 링크의 목록",
+	"whatlinkshere": "여기를 가리키는 문서",
+	"whatlinkshere-whatleaveshere": "여기서 나가는 문서가 있나요?",
+	"istemplate": "끼워넣기",
+	"isfile": "파일 링크하기",
+	"linksearch": "링크검색",
+	"section-links": "링크",
+	"section-iwlinks": "인터위키 링크",
+	"section-extlinks": "바깥 고리",
+	"section-categories": "분류"
+}

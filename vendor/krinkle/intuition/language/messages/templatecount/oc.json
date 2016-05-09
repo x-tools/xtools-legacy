@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"enter-details": "Entratz los detalhs",
+	"language-label": "Lenga",
+	"namespace-label": "Espaci de noms",
+	"transclusion-count-label": "Nombre de tranclusions",
+	"transclusion-count": "$1 transclusion(s) trobadas."
+}

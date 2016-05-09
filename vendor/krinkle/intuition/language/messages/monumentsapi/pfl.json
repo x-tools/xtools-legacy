@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manuae"
+		]
+	},
+	"search-table-th-search": "Suche",
+	"db-field-country": "Schdaad",
+	"db-field-lang": "Schbrooch",
+	"db-field-name": "Noame",
+	"db-field-address": "Oaschrifd",
+	"db-field-municipality": "Gmoinde",
+	"db-field-lat": "Braidegrad:",
+	"db-field-lon": "Längegrad:",
+	"db-field-image": "Bild",
+	"db-field-changed": "G'änad",
+	"db-field-st_address": "Adresse",
+	"db-field-st_address_pct": "Adresse %",
+	"db-field-st_image": "Bild",
+	"db-field-st_image_pct": "Bild %",
+	"toolbox-nav-search": "Suche"
+}

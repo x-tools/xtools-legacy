@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"V.narsikar"
+		]
+	},
+	"fullname": "साधनांसाठीचे आंतरराष्ट्रीयीकरण",
+	"current-settings": "सध्याचे स्थापन(सेटिंग)",
+	"current-language": "सध्या निवडलेली भाषा",
+	"settings-legend": "स्थापके",
+	"choose-language": "भाषा निवडा",
+	"clear-cookies": "कुकीज हटवा",
+	"renew-cookies": "कुकिज पुन्हा नुतनीकृत करा",
+	"clearcookies-success": "कुकीच हटविल्या आहेत.",
+	"tab-overview": "चाळणे",
+	"tab-settings": "स्थापके",
+	"tab-about": "च्या बद्दल",
+	"bl-mysettings-new": "भाषा बदला!",
+	"bl-promo": "$1 व $2 द्वारे भाषांतरांना उर्जीकृत करण्यात येते..",
+	"bl-changelanguage": "या साधनाचे इंतरफेस भाषा बदलण्यास येथे टिचकी द्या.",
+	"help-translate-tool": "या साधनाचे भाषांतर करण्यास मदत करा!",
+	"help-translate-all": "साधनांचे भाषांतरास मदत करा!",
+	"help-translate-tooltip": "इंतरफेस संदेश आपल्या भाषेत भाषांतरीत करून इतरांना मदत करा."
+}

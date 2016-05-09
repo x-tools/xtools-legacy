@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia",
+			"Simbu123",
+			"Dibya Dutta"
+		]
+	},
+	"hello": "নমস্কাৰ",
+	"welcome": "স্বাগতম",
+	"toolversion": "সংস্কৰণ $1",
+	"toolversionstamp": "সংস্কৰণ $1 ($2)",
+	"etc": "ইত্যাদি।",
+	"namespace": "নামস্থান",
+	"form-submit": "যাওক",
+	"form-reset": "পূৰ্বৰ অৱস্থালৈ লৈ যাওক",
+	"years": "$1 {{PLURAL:$1|বছৰ|বছৰ}}",
+	"months": "{{PLURAL: $1|মাহ}}",
+	"weeks": "{{PLURAL: $1|সপ্তাহ|সপ্তাহ}}",
+	"days": "$1 {{PLURAL:$1|দিন|দিন}}",
+	"hours": "{{PLURAL: $1|ঘণ্টা|ঘণ্টা}}",
+	"minutes": "{{PLURAL: $1|মিনিট|মিনিট}}",
+	"seconds": "$1 {{PLURAL:$1|ছেকেণ্ড|ছেকেণ্ড}}",
+	"last-modified-date": "শেষ পৰিবৰ্তন: $1",
+	"view-source": "উৎস চাওক",
+	"and": "&#32;আৰু"
+}

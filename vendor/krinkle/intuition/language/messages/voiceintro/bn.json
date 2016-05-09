@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"voiceintro-toolbar-record-label": "রেকর্ড",
+	"voiceintro-toolbar-stop-label": "বন্ধ",
+	"voiceintro-toolbar-clear-label": "পরিস্কার",
+	"voiceintro-toolbar-upload-label": "আপলোড",
+	"voiceintro-webaudio-not-supported": "ওয়েবঅডিও এপিআই এই ব্রাউজারে সমর্থিত নয়।",
+	"voiceintro-upload-publish-succeeded": "রেকর্ডিং সফলভাবে আপলোড হয়েছে:",
+	"voiceintro-upload-publish-failed": "রেকর্ডিং আপলোড হয়নি।",
+	"voiceintro-information-label": "তথ্য",
+	"voiceintro-information-speaker-label": "বক্তার নাম:",
+	"voiceintro-information-language-label": "ভাষা:",
+	"voiceintro-mic-access-notify": "ব্রাউজারকে আপনার মাইক্রোফোনে প্রবেশাধিকারের অনুমতি দিতে \"মঞ্জুরি দিন\" ক্লিক করুন।",
+	"voiceintro-recording-notify": "রেকর্ড হচ্ছে..."
+}

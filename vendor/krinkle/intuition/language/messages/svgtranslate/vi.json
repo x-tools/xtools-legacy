@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"title": "Dịch SVG",
+	"error-tryagain": "$1 Bấm nút Lùi của trình duyệt để thử lại.",
+	"error-nothing": "Không có gì để dịch.",
+	"error-notsvg": "Không phải là tập tin SVG.",
+	"error-unexpected": "Đã xuất hiện lỗi bất ngờ.",
+	"error-notfound": "Không thể lấy được tập tin SVG từ URL được cung cấp.",
+	"error-upload": "Việc tải lên bị thất bại.",
+	"begin-translation": "Bắt đầu dịch",
+	"th-original": "Bản gốc",
+	"th-translation": "Bản dịch",
+	"th-language": "Ngôn ngữ",
+	"th-username": "Tên người dùng",
+	"th-password": "Mật khẩu",
+	"th-method": "Phương thức",
+	"option-oauth": "OAuth (tự động tải lên)",
+	"option-manual": "Tải lên thủ công",
+	"preview": "Xem trước",
+	"translate": "Biên dịch",
+	"translate-instructions": "Có thể cho vào tên tập tin (thí dụ “$1”) hoặc địa chỉ URL đầy đủ (thí dụ “$2”). Nếu chỉ cho vào tên tập tin, công cụ sẽ sử dụng Wikimedia Commons làm nguồn mặc định. Để dịch một tập tin SVG từ trang hoặc wiki khác, bạn phải cung cấp địa chỉ URL đầy đủ.",
+	"svginput-label": "Tập tin SVG",
+	"stats-footer": "Công cụ này đã được sử dụng để dịch vào khoảng $1 tập tin từ $2.",
+	"uploading": "Đang tải lên",
+	"upload-complete": "Hoàn tất tải lên tập tin. Hình có sẵn tại $1.",
+	"editdescriptionpage": "Sửa đổi trang miêu tả mới",
+	"disclaimer": "Một số dữ liệu vô danh sẽ được gửi một cách bảo mật cho mục đích thống kê. Nếu được cung cấp, các tên người dùng OAuth cũng được ghi lại để giúp tránh phá hoại. Các mật khẩu không bao giờ được ghi lại.",
+	"author-complete": "Xin vui lòng điền thông tin tác giả!",
+	"preview-hide": "Ẩn phần xem trước",
+	"preview-refresh": "Làm mới phần xem trước",
+	"error-must-accept": "Để tiếp tục tải lên trực tiếp, trước tiên bạn phải cấp nhận các điều khoản sử dụng được trình bày.",
+	"description-license": "Chọn miêu tả và giấy phép",
+	"finalise": "Hoàn tất các chi tiết"
+}

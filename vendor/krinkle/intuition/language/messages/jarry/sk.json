@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikulas1"
+		]
+	},
+	"moretools": "viac nástrojov",
+	"homepage-title": "Úvod",
+	"bugs": "správy o chybách a žiadosti o nové funkcie",
+	"comments": "pripomienky a otázky",
+	"error-form-empty": "Jedno alebo viac povinných polí je nevyplnených. Mali by ste ich vyplniť, aby ste mohli pokračovať."
+}

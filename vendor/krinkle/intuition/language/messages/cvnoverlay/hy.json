@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vahe Gharakhanyan"
+		]
+	},
+	"adder": "Ավելացնող",
+	"adder-empty": "Անհայտ",
+	"expiry": "Գործողության ժամկետ",
+	"reason": "Պատճառ",
+	"reason-empty": "Պատճառը չի գտնվել"
+}

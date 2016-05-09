@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hosseinblue"
+		]
+	},
+	"hello": "سڵام",
+	"welcome": "خؤةش هةتین/هاتین",
+	"toolversion": "نسخهٔ $1",
+	"toolversionstamp": "نسخهٔ $1 ($2)",
+	"etc": "غیره.",
+	"namespace": "فضای نام",
+	"form-submit": "بِچۆ",
+	"form-reset": "إژ دووارة",
+	"years": "{{PLURAL: $1|سال ها|سال}}",
+	"months": "{{PLURAL: $1|ماه ها|ماه}}",
+	"weeks": "{{PLURAL: $1|هفته ها|هفته}}",
+	"days": "{{PLURAL:$1|رووژ|رووژةل}}",
+	"hours": "{{PLURAL:$1|ساعت ها|ساعت}}",
+	"minutes": "{{PLURAL:$1|دیقه|دیقةلئ}} دماتر",
+	"seconds": "{{PLURAL:$1|ثانیه|ثانیه ها}}",
+	"last-modified-date": "آخرین گؤەڕانن/تغییر: $1",
+	"view-source": "سئرکردن بِنچۀک/مۀنبۀع",
+	"and": "&#32;و"
+}

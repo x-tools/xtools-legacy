@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"title-overview": "Istandenèe",
+	"title-error": "Errore",
+	"title-updatelog": "Archivije de le carecaminde",
+	"updatelog-intro": "'U script de aggiornamende jè schedulate pe essere eseguite ogne ore. Sotte ste 'u resultate de l'urtema esecuzione.",
+	"updatelog-active": "'U script de aggiornamende jndr'à stu mumende jè in esecuzione. Tuèrne cchiù tarde pe l'archivije comblete.",
+	"download-button": "Scareche 'u snapshot",
+	"download-directlink": "collegamende dirette",
+	"title-downloadpage": "Scareche",
+	"title-downloadpage-repo": "Scareche $1",
+	"err-snapshotindex": "Indice de l'istandanèe non gè disponibbele temboraneamende. Pe piacere pruève arrete cchiù tarde.",
+	"err-invalid-repo": "Archivije scanusciute: \"$1\".",
+	"err-invalid-branch": "Rame scanusciute; \"$1\" jndr'à l'archivije \"$2\".",
+	"err-nosnapshot": "Le istandanèe avènene generate ogne picche ore. Mendre ca avène generate l'istandanèe pe \"$1\", s'ha verificate 'n'errore. Pe piacere pruève arrete cchiù tarde.",
+	"err-noupdatelog": "Nisciune archivije de le carecaminde ha state acchiate.",
+	"repo-site-link": "Site web",
+	"repo-browse-link": "Sfoglie l'archivije",
+	"repo-branches-label": "Rame:",
+	"repo-lastmoddate-label": "Date:",
+	"branches-submit-button": "Pigghiale!",
+	"updatelog-link": "careche l'archivije",
+	"tablehead-repo": "Archivije",
+	"tablehead-snapshots": "Istandenèe",
+	"tablehead-branch": "Rame",
+	"tablehead-filesize": "Dimenzione d'u file",
+	"tablehead-hash": "Condrolle"
+}

@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"title": "וויקי האט ליב מאנומענטן – טיילנעמער אויספארש",
+	"survey-mode-closed": "מ'האט פארמאכט דעם אויספארש, און מ'קען מער נישט אריינגעבן ענטפערן.",
+	"2013-header-introduction": "אַרייַנפֿיר",
+	"2013-header-demographics": "דעמאגראפיע",
+	"2013-question-country": "אין וועלכן לאנד וואוינט איר?",
+	"2013-other-country-lives": "אנדער לאנד:",
+	"2013-question-birth-year": "אין וועלכן יאר זענט איר געבוירן?",
+	"2013-birth-year": "יאר:",
+	"2013-hide-birth-year": "כ'וועל בעסער נישט אויסזאגן.",
+	"2013-question-gender": "וואס איז אייער געשלעכט?",
+	"2013-gender-male": "זכר",
+	"2013-gender-female": "נקבה",
+	"2013-gender-other": "אנדער / כ'וועל בעסער נישט אויסזאגן.",
+	"2013-header-wikimedia-activity": "וויקימעדיע אקטיוויטעט",
+	"2013-explanation-select-multiple": "קלויבט אויס אלע וואס פאסן.",
+	"2013-header-competition": "קאנקורס",
+	"2013-discovered-other": "אנדער",
+	"2013-other-country-upload": "אנדער לאנד:",
+	"2013-scale-difficult-2-text": "גרינג",
+	"2013-scale-difficult-3-text": "נארמאַל",
+	"2013-scale-difficult-4-text": "שווער",
+	"2013-scale-difficult-5-text": "זייער שווער",
+	"2013-future-plants": "פלאנצן",
+	"2013-future-animals": "בעלי חיים",
+	"2013-future-sports": "ספארט",
+	"2013-username": "באַניצער־נאָמען:",
+	"2013-email": "בליצפּאָסט אַדרעס:",
+	"2013-postal-code": "פאסט קאד:",
+	"2013-city": "שטאָט:",
+	"2013-send-survey": "שיקט אויספארש",
+	"2013-returnto": "צוריק צו $1"
+}

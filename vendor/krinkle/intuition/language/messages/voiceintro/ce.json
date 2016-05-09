@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"voiceintro-toolbar-record-label": "ДӀаяздар",
+	"voiceintro-toolbar-clear-label": "ЦӀанъян",
+	"voiceintro-toolbar-upload-label": "Чуяккха",
+	"voiceintro-upload-publish-succeeded": "ДӀаяздар кхиамца чудяьккхина:",
+	"voiceintro-upload-publish-failed": "ДӀаяздар чудаьккхина дац",
+	"voiceintro-information-label": "Хаам",
+	"voiceintro-information-speaker-label": "Къамелдечун цӀе:",
+	"voiceintro-information-language-label": "Мотт:",
+	"voiceintro-recording-notify": "ДӀаязъяр…"
+}

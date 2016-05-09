@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli",
+			"Leli Forte"
+		]
+	},
+	"error-tryagain": "$1 Agħfas il-buttuna \"Lura\" tal-browżer sabiex terġa' tipprova.",
+	"error-nothing": "M'hemm xejn x'tittraduċi.",
+	"error-notsvg": "Mhuwiex fajl SVG.",
+	"error-unexpected": "Seħħ żball mhux mistenni.",
+	"error-notfound": "Il-fajl SVG ma setax jiġi miksub mill-URL mogħti.",
+	"error-upload": "Kien hemm żball fit-tlugħ tal-fajl.",
+	"begin-translation": "Ibda t-traduzzjoni",
+	"th-original": "Oriġinali",
+	"th-translation": "Traduzzjoni",
+	"th-language": "Lingwa",
+	"th-username": "Isem l-utent",
+	"th-password": "Password",
+	"th-method": "Metodu",
+	"option-oauth": "OAuth(tlugħ awtomatiku)",
+	"option-manual": "Tlugħ manwali",
+	"preview": "Dehra proviżorja",
+	"translate": "Ittraduċi",
+	"svginput-label": "Fajl SVG",
+	"stats-footer": "Din l-għodda ġiet użata sabiex tittraduċi bejn $1 fajls mill-$2",
+	"uploading": "Qed itella'",
+	"upload-complete": "It-tlugħ tal-fajl irnexxa. L-istampa għandha tkun fl-indirizz $1",
+	"editdescriptionpage": "Immodifika l-paġna ta' diskussjoni l-ġdida",
+	"disclaimer": "Xi data anonima tinġabar privatament għal skopijiet statistiċi. Jekk ikunu provduti, l-ismijiet ta' utent ta' OAuth jiġu rreġistrati wkoll biex ikunu ta' għajnuna f'każ ta' vandaliżmu. Il-kliem tad-dħul (passwords) qatt ma ħa jiġu reġistrati.",
+	"author-complete": "Kompli l-informazzjoni dwar l-awtur!",
+	"preview-hide": "Aħbi d-dehra proviżorja",
+	"preview-refresh": "Aġġorna d-dehra proviżorja",
+	"error-must-accept": "Sabiex tkompli bi tlugħ dirett inti trid taċċetta t-termini ta' użu provduti.",
+	"description-license": "Agħżel deskrizzjoni u liċenzja",
+	"finalise": "Iffinalizza d-dettalji"
+}

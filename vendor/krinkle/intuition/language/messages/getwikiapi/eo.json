@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yekrats",
+			"KuboF"
+		]
+	},
+	"description": "Metainformoj pri Vikimediaj vikioj.",
+	"formats-heading": "Eligaj formatoj",
+	"input": "Enigo",
+	"label-wikiids": "Vikiaj identigoj",
+	"no-matches": "Nenio kongruas \"$1\"",
+	"output": "Eligo por \"$1\""
+}

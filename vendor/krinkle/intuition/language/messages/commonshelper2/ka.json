@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"attention": "ყურადღება",
+	"language": "ენა",
+	"project": "პროექტი",
+	"source_file": "საწყისი ფაილი",
+	"target_file": "სამიზნე ფაილი",
+	"commons_username": "მომხმარებლის სახელი ვიკისაწყობში",
+	"commons_to_project": "ვიკისაწყობიდან პროექტში",
+	"move_file_from_com": "ფაილის გადატანა ვიკისაწყობიდან პროექტში",
+	"categories": "კატეგორიები",
+	"remove_cats": "არსებული კატეგორიების წაშლა",
+	"use_checkusage": "ახალი კატეგორიების შეთავაზებისთვის გამოიყენეთ $1CommonSense$2",
+	"tusc_user": "TUSC-ის მომხმარებლის სახელი",
+	"tusc_pass": "TUSC-ის პაროლი",
+	"do_it": "გააკეთე",
+	"error_not_exists": "საწყისი ფაილი არ არსებობს!",
+	"error_on_commons": "საწყისი ფაილი უკვე $1!",
+	"error_file_exists": "ფაილი უკვე არსებობს $3-ზე როგორც \"$1$4$2\"!",
+	"original_wikitext": "საწყისი ვიკი-ტექსტი",
+	"new_wikitext": "ახალი ვიკი-ტექსტი",
+	"new_filename": "ფაილის ახალი სახელი:",
+	"upload_submit": "ატვირთვა!",
+	"target_wiki": "სამიზნე ვიკი",
+	"error_bot_blocked": "ამტვირთელი ბოტი ვიკისაწყობში დაიბლოკა.",
+	"help_mail": "გააგზავნეთ წერილი $1-ზე"
+}

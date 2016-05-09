@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"toolserver-status-ok": "Il non ha problemas in le gruppo de base de datos $1 $2",
+	"toolserver-status-info": "Nota pro usatores del gruppo $1: $2",
+	"toolserver-status-warn": "Advertimento pro usatores del gruppo $1: $2",
+	"toolserver-status-down": "Le gruppo de base de datos $1 ha essite temporarimente disactivate. $2",
+	"toolserver-status-erro": "Le gruppo de base de datos $1 es inactive. $2",
+	"toolserver-status-unknown": "Stato incognite del gruppo $1",
+	"toolserver-status-missing": "Le gruppo $1 non existe",
+	"toolserver-status-short-ok": "$1: OK",
+	"toolserver-status-short-info": "$1: Info",
+	"toolserver-status-short-warn": "$1: Aviso",
+	"toolserver-status-short-down": "$1: Inactive",
+	"toolserver-status-short-erro": "$1: Error",
+	"toolserver-status-short-unknown": "$1: Incognite",
+	"toolserver-status-short-missing": "$1: Mancante"
+}

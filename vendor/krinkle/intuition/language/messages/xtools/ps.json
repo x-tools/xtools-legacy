@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"tool_articleinfo": "د مخ پېښليک",
+	"tool_pages": "مخونه جوړ شول",
+	"username": "کارن-نوم",
+	"users": "{{PLURAL: $1|کارن|کارنان}}",
+	"searchresult": "د پلټنې پايله",
+	"submit": "سپارل",
+	"source": "سرچينه کتل",
+	"show": "ښکاره کول",
+	"hide": "پټول",
+	"all": "ټول",
+	"wiki": "ويکي",
+	"or": "يا",
+	"added": "ورگډ شو",
+	"deleted": "ړنگ شو",
+	"comment": "تبصره",
+	"date": "نېټه",
+	"pages": "مخونه",
+	"bytes": "بايټونه",
+	"edits": "سمونونه",
+	"actions": "کړنې",
+	"others": "نور",
+	"select_language": "ژبه ټاکل",
+	"translatelink": "ژباړل",
+	"login": "ننوتل",
+	"logout": "وتل",
+	"page": "مخ سرليک",
+	"graph": "گراف",
+	"result": "پايله"
+}

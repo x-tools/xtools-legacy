@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"fullname": "Přełožki za nastroje",
+	"current-settings": "Aktualne nstajenja",
+	"current-language": "Tuchwilu wubrana rěč",
+	"settings-legend": "Nastajenja",
+	"choose-language": "Rěč wubrać",
+	"clear-cookies": "placki wotstronić",
+	"renew-cookies": "placki wobnowić",
+	"cookie-expiration": "spadnjenje placka",
+	"clearcookies-success": "Placki su so wuspěšnje wotstronili.",
+	"renewcookies-success": "Placki su so wobnowili! Su na přichodnych $1 płaćiwe.",
+	"tab-overview": "Přehlad",
+	"tab-settings": "Nastajenja",
+	"tab-about": "Wo",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Moje rěčne nastajenja",
+	"bl-mysettings-new": "Změń rěč!",
+	"bl-promo": "Přełožki so wot $1 a $2 zmóžnjeja.",
+	"bl-changelanguage": "Klikń tu, zo by rěč wužiwarskeho powjercha tutoho nastroja změnił.",
+	"usage": "Nastroje su so wot Intuition přełožili.",
+	"help-translate-tool": "Pomhaj tutón nastroj přełožić!",
+	"help-translate-all": "Pomhaj nastroje přełožić!",
+	"help-translate-tooltip": "Pomhaj druhim ludźom přełožujo zdźělenki wužiwarskeho powjercha do swojeje rěče."
+}

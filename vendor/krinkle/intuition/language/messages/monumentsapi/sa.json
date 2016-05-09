@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"search-table-th-filter": "शोधनी",
+	"search-table-th-search": "अन्विष्यताम्",
+	"filter-all-languages": "सर्वाः भाषाः",
+	"db-field-country": "देशः",
+	"db-field-lang": "भाषा",
+	"db-field-name": "नाम",
+	"db-field-address": "सङ्केतः",
+	"db-field-lat": "अक्षांशः",
+	"db-field-lon": "रेखांशः",
+	"db-field-image": "चित्रम्",
+	"db-field-changed": "परिवर्तितम्",
+	"db-field-source": "स्रोतः",
+	"db-field-st_image": "चित्रम्",
+	"db-field-st_image_pct": "चित्रम् %",
+	"db-field-st_name": "नामानि",
+	"db-field-st_name_pct": "नामानि %",
+	"db-field-st_total": "योगाङ्कः",
+	"toolbox-nav-homepage": "मुख्यपृष्ठम्",
+	"toolbox-nav-statistics": "साङ्ख्यिकी",
+	"toolbox-nav-search": "अन्विष्यताम्",
+	"location": "स्थानम्"
+}

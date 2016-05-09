@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki"
+		]
+	},
+	"title": "カテゴリ別に画像をダウンロード",
+	"subtitle": "カテゴリ内の画像をダウンロードする簡単な方法",
+	"project": "プロジェクト:",
+	"category": "カテゴリ:",
+	"thumbnailing": "サムネイル処理",
+	"max-width": "幅の最大値:",
+	"max-height": "高さの最大値:",
+	"invalid-width": "幅が無効",
+	"invalid-height": "高さが無効",
+	"no-such-project": "そのようなプロジェクトはありません",
+	"no-images": "そのカテゴリには画像がありません",
+	"category-is-url": "指定されたカテゴリ名は URL のようです。URL ではなくカテゴリ名を指定してください。",
+	"category-contains-namespace": "カテゴリ名に名前空間が含まれているようです。指定の通りだと [[Category:$1]] というページになります。",
+	"zip-failed": "ZIP の作成に失敗しました",
+	"image-area-too-big": "$1 は大きすぎるためサムネイルを作成できません。元の大きさを利用します。",
+	"download-info": "{{plural: $1|1個|$1個}}の画像があり、サイズの概算は$2です",
+	"download": "ダウンロード",
+	"readme-contents": "同封したファイル $4 は\nカテゴリ「$1」( $2 ) 内の画像を$3記載したものです。\n\n== 記載した画像すべてをダウンロードする手順 ==\nダウンロード時間は2、3分で終わることもありますし、数時間かかることもあります。\n\nWinsows:\n 同じフォルダーにあるファイルをすべて展開し、$5 を実行してください\n $6\nLinux/Mac OS:\n ファイルをすべて展開し、そのフォルダーで端末を開いてください。sh $5 を実行してください",
+	"non-bundled-wget": "注: このバージョンは Windows 用の wget を含んでいません。\nwget.exe が存在するフォルダーに展開するか、wget を PATH が通ったところに置いておく必要があります。",
+	"wget-info": "このファイルには wget $1 (Windows 用) が付属します。wget はフリーソフトウェアであり、\nGNU GENERAL PUBLIC LICENSE version 3 の条項の下にあります。\nそのライセンスのコピーを下部に示します。また、http://www.gnu.org/licenses/gpl-3.0.txt でも参照できます。\n\nこのプログラムのソースコードを入手する際には、以下の場所からダウンロードできます。\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nまたは、その他の GNU のミラーを利用できます。以下を参照してください。\n http://www.gnu.org/prep/ftp.html",
+	"scaling-width": "幅の最大値$1{{plural:$1|ピクセル}}に拡大縮小し、",
+	"scaling-height": "高さの最大値$1{{plural:$1|ピクセル}}に拡大縮小し、",
+	"scaling-both": "サイズの最大値 $1x$2ピクセルに拡大縮小し、",
+	"script-filename": "download.bat",
+	"readme-filename": "README.txt"
+}

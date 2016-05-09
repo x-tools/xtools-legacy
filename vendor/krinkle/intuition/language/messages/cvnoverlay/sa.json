@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND"
+		]
+	},
+	"adder": "योजितम्",
+	"adder-empty": "अज्ञातम्",
+	"expiry": "अवसानम्",
+	"globalwatched": "वैश्विकं दृष्टम्",
+	"reason": "कारणम्",
+	"reason-empty": "न किमपि कारणं प्राप्तम्"
+}

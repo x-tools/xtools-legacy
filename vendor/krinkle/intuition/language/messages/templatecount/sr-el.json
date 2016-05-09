@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"title": "Broj transkluzija šablona",
+	"enter-details": "Unos podataka",
+	"introduction": "Unesite naziv šablona i kliknite na dugme „Idi“. Ima i malo privremenog memorisanja, ali to je van dosega ove alatke i njegovog vlasnika.",
+	"language-label": "Jezik",
+	"namespace-label": "Imenski prostor",
+	"pagename-label": "Naziv stranice (bez imenskog prostora)",
+	"transclusion-count-label": "Broj transkluzija",
+	"transclusion-count": "Pronađeno transkluzija: $1.",
+	"error-suggestion": "Možda ste pogrešno uneli naziv stranice.",
+	"time-label": "Vreme za izvršavanje naredbe"
+}

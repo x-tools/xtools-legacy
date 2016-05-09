@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe",
+			"F3RaN"
+		]
+	},
+	"pb-about-pb-navi": "Quant a",
+	"pb-about-pb-tech": "Detalls tècnics",
+	"pb-about-pb-text": "<p>Aquest projecte representa amistats personals entre Viquimedistes.</p>\n <p>La primera aplicació fou realitzada per Ulli Purwin (interfície) i Euku (bot). A l'inici de 2011, Wiegels i Ireas van seguir a Ulli creant la interfície. Per ara, el projecte ja no està allotjat en un servidor privat sinó a Wikimedia Laboratoris.</p>\n <p>Es por trobar més informació sobre aquest projecte a la wikipèdia alemanya, a la pàgina <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Viquipèdia:Persönliche Bekanntschaften</a>.</p>",
+	"pb-about-pb-title": "Quant al projecte",
+	"pb-change-language": "Canvia l’idioma",
+	"pb-comment": "Comentari",
+	"pb-confirmations-taken": "Confirmacions rebudes",
+	"pb-current-confirmations": "Hi ha $1 confirmacions en total, això significa aproximadament <abbr title=\"<span class=\" notranslate\"=\"\" translate=\"no\">$2</span>\">$3</abbr> confirmacions per dia.",
+	"pb-current-figures": "Dades actuals",
+	"pb-current-users": "De moment, $1 usuaris participen en el projecte <em>Personal Acquaintances</em>.",
+	"pb-date": "Data",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German Wikipedia\">[[Viquipèdia:Persönliche Bekanntschaften]]</a> a Eina de Laboratoris. <a href=\"<span class=\" notranslate\"=\"\" translate=\"no\">$1</span>\" title=\"Sobre la Viquipèdia:Persönliche Bekanntschaften\">Més informació.</a>",
+	"pb-home": "Inici",
+	"pb-home-welcome": "Benvinguts al projecte <em>Coneixences Personals</em> (<em>Persönliche-Bekanntschaften</em> en alemany)! Podeu trobar més informació sobre aquest projecte  <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in the German language Wikipedia\">a la Wikipedia en alemany</a>.",
+	"pb-javascript-notice": "Us recomanem que habiliteu JavaScript per aquest lloc web per millorar la interfície d'usuari.",
+	"pb-labs-name": "Wikimedia Tool Labs",
+	"pb-participates-since": "Participa des de",
+	"pb-powered-by-labs": "Funciona amb Wikimedia Tool Labs",
+	"pb-recent-confirmations": "Confirmacions recents",
+	"pb-user": "Usuari",
+	"pb-user-link-title": "Detalls de l'usuari $1",
+	"pb-user-title": "Informació per a $1",
+	"pb-users-navi": "Usuaris",
+	"pb-users-title": "Llista de participants",
+	"pb-users-overview": "Aquests $1 usuaris participen en el projecte <em>Coneixences Personals</em>:",
+	"pb-verified-since": "Verificat des de"
+}

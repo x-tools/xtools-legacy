@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200",
+			"Matasg",
+			"Zygimantus"
+		]
+	},
+	"hello": "Sveiki",
+	"welcome": "Sveiki atvykę",
+	"toolversion": "Versija $1",
+	"toolversionstamp": "Versija $1 ($2)",
+	"etc": "ir t. t.",
+	"namespace": "Vardų sritis",
+	"form-submit": "Eiti",
+	"form-reset": "Atstatyti",
+	"years": "{{PLURAL: $1|metai|metai}}",
+	"months": "{{PLURAL: $1|mėnuo|mėnesiai}}",
+	"weeks": "{{PLURAL: $1|savaitė|savaitės}}",
+	"days": "{{PLURAL: $1|diena|dienos}}",
+	"hours": "{{PLURAL: $1|valanda|valandos}}",
+	"minutes": "{{PLURAL: $1|minutė|minučių}}",
+	"seconds": "$1 {{PLURAL:$1|sekundė|sekundžių}}",
+	"last-modified-date": "Paskutinį kartą atnaujinta: $1",
+	"view-source": "Peržiūrėti šaltinį",
+	"and": "&#32;ir"
+}

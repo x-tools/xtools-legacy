@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"WikiPhoenix"
+		]
+	},
+	"title": "Vad länkar ut härifrån",
+	"title-leaveshere": "Länkar som länkar ut från \"$1\"",
+	"sub-leaveshere": "Följande sidor länkar från $1",
+	"label-page": "Sida",
+	"label-namespace": "Namnrymd",
+	"label-limit": "Gräns",
+	"button-submit": "Gå",
+	"noleaveshere": "Ingenting länkar från $1",
+	"link-whatleaveshere": "Vad länkar ut härifrån",
+	"tooltip-whatleaveshere": "Lista över allt som länkar ut härifrån",
+	"whatlinkshere": "Vad som länkar hit",
+	"whatlinkshere-whatleaveshere": "Vad länkar ut härifrån?",
+	"istemplate": "inkluderad som mall",
+	"isfile": "fillänk",
+	"linksearch": "Länksökning",
+	"section-links": "Länkar",
+	"section-iwlinks": "Interwiki-länkar",
+	"section-extlinks": "Externa länkar",
+	"section-categories": "Kategorier"
+}

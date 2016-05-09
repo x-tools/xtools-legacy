@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ex13",
+			"Teoo3"
+		]
+	},
+	"title": "SVG Prevoditelj",
+	"error-tryagain": "$1 Kliknite na gumb „Nazad“ svog preglednika za ponovni postupak.",
+	"error-nothing": "Ništa za prevođenje.",
+	"error-notsvg": "Nije SVG datoteka.",
+	"error-unexpected": "Pojavila se neočekivana pogreška.",
+	"error-notfound": "SVG datoteku nije moguće dohvatiti iz URL-a.",
+	"error-upload": "Došlo je do pogreške pri učitavanju.",
+	"begin-translation": "Započnite prijevod",
+	"th-original": "Izvorno",
+	"th-translation": "Prijevod",
+	"th-language": "Jezik",
+	"th-username": "Suradničko ime",
+	"th-password": "Lozinka",
+	"th-method": "Način",
+	"option-oauth": "OAuth (automatski prijenos)",
+	"option-manual": "Ručno postavljanje",
+	"preview": "Pregled",
+	"translate": "Prevedi",
+	"translate-instructions": "Unosi su prihvaćeni kao nazivi datoteka (npr. \"$1\") ili puni URL (npr.\"$2\"). Ako se rabi prva mogućnost, Zajednički poslužitelj će se pretpostaviti kao izvor. Da biste preveli SVG s druge stranice ili wiki, morate koristiti puni oblik URL-a.",
+	"svginput-label": "SVG datoteka",
+	"stats-footer": "Ova alat se rabi za prevođenje približno $1 datoteka od $2.",
+	"uploading": "Postavljanje",
+	"upload-complete": "Postavljanje uspješno završeno. Slika bi trebala sada biti na $1",
+	"editdescriptionpage": "Uredi novu stranicu s opisom",
+	"disclaimer": "Neki anonimni podaci će se prikupljati u statističke svrhe. Ako je navedeno, OAuth suradnička imena također će biti zapisana kao pomoć u slučaju vandalizma. Lozinke nikada neće biti snimljene.",
+	"author-complete": "Molimo Vas da popunite informacije o autoru!",
+	"preview-hide": "Sakrij pregled",
+	"preview-refresh": "Osvježi pregled",
+	"error-must-accept": "Da biste nastavili s izravnim postavljanjem morate prihvatiti uvjete uporabe kako su navedeni.",
+	"description-license": "Odaberite opis i licenciju",
+	"finalise": "Dovrši detalje"
+}

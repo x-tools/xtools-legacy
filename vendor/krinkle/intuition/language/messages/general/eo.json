@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Objectivesea",
+			"Yekrats",
+			"KuboF"
+		]
+	},
+	"hello": "Saluton",
+	"welcome": "Bonvenon",
+	"toolversion": "Versio $1",
+	"toolversionstamp": "Versio $1 ($2)",
+	"etc": "t.k.p.",
+	"namespace": "Nomspaco",
+	"form-submit": "Ek!",
+	"form-reset": "Restarigi",
+	"years": "{{PLURAL:$1|jaro|jaroj}}",
+	"months": "{{PLURAL: $1|monato|monatoj}}",
+	"weeks": "{{PLURAL:$1|semajno|$1 semajnoj}}",
+	"days": "{{PLURAL:$1|tago|tagoj}}",
+	"hours": "{{PLURAL:$1|horo|horoj}}",
+	"minutes": "{{PLURAL:$1|minuto|minutoj}}",
+	"seconds": "{{PLURAL:$1|sekundo|sekundoj}}",
+	"last-modified-date": "Laste modifita: $1",
+	"view-source": "Vidi fonton",
+	"and": "&#32;kaj"
+}

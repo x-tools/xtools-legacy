@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael",
+			"Y-M D"
+		]
+	},
+	"base_prefslink": "<a href=\"prefs.fcgi\">Cheñch yezh / dibaboù</a>",
+	"base_jiralink": "<a href=\"https://jira.toolserver.org/browse/REPORTS\">Kemenn un draen pe goulenn un arc'hweladur</a>",
+	"base_wikilink": "<a href=\"https://wiki.toolserver.org/view/Report_tool\">Wiki</a>",
+	"category_users": "Implijerien",
+	"category_articles": "Pajennoù",
+	"category_images": "Skeudennoù",
+	"category_miscellaneous": "A bep seurt",
+	"category_wikidata": "Wikiroadennoù",
+	"select_wiki_title": "Dibab ur wiki",
+	"select_wiki_next": "War-lerc'h →",
+	"select_report_title": "Dibabit un danevell da seveniñ e %(wiki)s",
+	"select_report": "Dibabit un danevell, mar plij :",
+	"select_report_disabled": "N'eo ket hegerz an danevell-mañ.",
+	"select_report_go_back": "← Kemmañ ar wiki",
+	"qvar_title": "Ebarzhiñ variennoù ho reked",
+	"qvar_next": "War-lerc'h →",
+	"prefs_title": "Daveennoù an danevelloù",
+	"prefs_submit": "Mat eo",
+	"prefs_done": "Kemmet eo bet ho tibaboù gwellañ",
+	"prefs_langlabel": "Yezh an etrefas :"
+}

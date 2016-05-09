@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"current-settings": "Nygözet azetukset",
+	"current-language": "Vallittu kieli",
+	"settings-legend": "Azetukset",
+	"choose-language": "Valliče kieli",
+	"clear-cookies": "poista evästehet",
+	"renew-cookies": "päivitä evästehet",
+	"cookie-expiration": "Evästehen vanhenemine",
+	"clearcookies-success": "Ehästehet on poistettu.",
+	"renewcookies-success": "Evästehet on päivitetty! Kai on kunnos tulijat $1.",
+	"tab-overview": "Kačo",
+	"tab-settings": "Azetukset",
+	"tab-about": "Tieduo",
+	"tab-demo": "Demo",
+	"bl-mysettings": "Minun kieliazetukset",
+	"bl-mysettings-new": "Vaihta kieli!",
+	"bl-changelanguage": "Vaihta käyttäiliittymän kieli tädä kauti.",
+	"usage": "Ruadovälinehet kiännetty Intuition avul.",
+	"help-translate-tool": "Avvutta kiändiä tämä ruadovälineh!",
+	"help-translate-all": "Avvuta kiändiä ruadovälinehet!",
+	"help-translate-tooltip": "Avvutta toizii kiändämäl käyttöliittymän viestit omale kielele."
+}

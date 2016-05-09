@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nayan",
+			"Nayvik",
+			"Ananth subray"
+		]
+	},
+	"apply": "ಅನ್ವಯಿಸುತ್ತವೆ",
+	"asc": "ಆರೋಹಣ",
+	"changelog": "ಹೊಸತೇನಿದೆ",
+	"clear": "ಅಳಿಸಿ",
+	"cvn-adder": "ಸೇರಿಸು",
+	"cvn-adder-empty": "ತಿಳಿದಿಲ್ಲ",
+	"cvn-reason": "ಕಾರಣ",
+	"cvn-reason-empty": "ಯಾವುದೇ ಕಾರಣ ಕಂಡುಬಂದಿಲ್ಲ",
+	"desc": "ಅವರೋಹಣ",
+	"documentation": "ದಾಖಲೀಕರಣ",
+	"filter": "ಶೋಧಕ",
+	"lastupdate-cvn": "ಕೊನೆಯ ಪರಿಷ್ಕರಣೆ:1$s",
+	"lastupdate-rc": "ಕೊನೆಯ ಪರಿಷ್ಕರಣೆ:1$s",
+	"limit": "ಮಿತಿ",
+	"order": "ಕ್ರಮ",
+	"reload-interval": "ಮಧ್ಯಂತರ",
+	"select-placeholder-none": "(ಯಾವೂ ಇಲ್ಲ)",
+	"time-from": "ಇಂದ",
+	"time-untill": "ರವರೆಗೆ",
+	"timeframe": "ಕಾಲಾವಧಿ",
+	"type": "ಮಾದರಿ",
+	"typeEdit": "ಸಂಪಾದನೆಗಳು",
+	"typeNew": "ಹೊಸ ಪುಟಗಳು"
+}

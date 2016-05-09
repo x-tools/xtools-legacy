@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sahran"
+		]
+	},
+	"title": "WLM ھۆججەتلەر",
+	"file": "سۈرەت",
+	"province": "ئۆلكە",
+	"province-comarque-joiner": "$1 / $2",
+	"author": "يازغۇچى",
+	"upload-time": "يۈكلەش ۋاقتى",
+	"deleted": "ئۆچۈرۈلدى ($1)",
+	"not-available": "ئىشلەتكىلى بولمايدۇ",
+	"date-unknown": "يوچۇن",
+	"total-images": "جەمئى سۈرەت: $1",
+	"view-uncategorized-images": "تۈرگە ئايرىلمىغان سۈرەتلەرنى كۆرسەت",
+	"show-images-bad-only": "تىزىم سىرتىدىكى سۈرەتلەرنىلا كۆرسەت",
+	"show-images-all": "ھەممە سۈرەتلەرنى كۆرسەت",
+	"view-province": "ئۆلكە بويىچە كۆرسەت",
+	"country-label": "دۆلەت:",
+	"all-countries": "بارلىق دۆلەتلەر",
+	"limit-label": "كۆرسىتىدىغان سۈرەتلەر:",
+	"timezone-label": "ۋاقىت رايونى:",
+	"show-earlier-first": "ئىلگىرىكى سۈرەتلەرنى باشتا كۆرسەت",
+	"show-older-first": "كونا سۈرەتلەرنى باشتا كۆرسەت",
+	"show-button": "كۆرسەت",
+	"view-previous-images": "← ئالدىنقى سۈرەتنى كۆرسەت",
+	"view-later-images": "كېيىنكى سۈرەتنى كۆرسەت →",
+	"images-listed-count": "$1 سۈرەت تىزىمدا كۆرسىتىلدى.",
+	"date-format": "Y-m-d H:i:s",
+	"id-none": "(يوق)",
+	"count-heading": "سۈرەتلەر",
+	"bic-list": "تىزىم",
+	"bic-gallery": "سۈرەت توپلام",
+	"author-heading": "يازغۇچى",
+	"bic-list-bad": "كۆرسەت",
+	"bic-list-all": "تولۇق تىزىمى",
+	"unregistered": "خەتلەتمىگەن",
+	"users-list": "كۆرۈنۈش",
+	"province-heading": "ئۆلكە",
+	"province-none": "(يوچۇن)"
+}

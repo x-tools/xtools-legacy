@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh"
+		]
+	},
+	"search-table-th-field": "ܚܩܠܐ",
+	"search-table-th-filter": "ܡܨܦܝܢܝܬܐ",
+	"search-table-th-search": "ܒܨܝ",
+	"filter-all-countries": "ܟܠ ܐܬܪ̈ܘܬܐ",
+	"filter-all-languages": "ܟܠ ܠܫܢ̈ܐ",
+	"db-field-country": "ܐܬܪܐ",
+	"db-field-st_name_pct": "ܫܡܗ̈ܐ %",
+	"db-field-st_total": "ܡܢܝܢܐ ܟܠܢܝܐ",
+	"toolbox-nav-homepage": "ܦܐܬܐ ܪܝܫܝܬܐ",
+	"toolbox-nav-statistics": "ܚܒܝܫܘܬ ܡܢܝܢܐ",
+	"toolbox-nav-search": "ܒܨܝ"
+}

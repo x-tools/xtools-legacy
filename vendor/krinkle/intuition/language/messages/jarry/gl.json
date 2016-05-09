@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm",
+			"Toliño"
+		]
+	},
+	"moretools": "máis ferramentas",
+	"homepage-title": "Introdución",
+	"bugs": "informes de erros e solicitudes de funcionalidades",
+	"comments": "comentarios e preguntas",
+	"error-form-empty": "Algún dos campos obrigatorios quedou baleiro. Cómpre completalos antes de continuar."
+}

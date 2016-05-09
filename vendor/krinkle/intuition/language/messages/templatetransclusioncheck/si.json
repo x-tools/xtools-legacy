@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Susith Chandira Gts",
+			"SusithCM"
+		]
+	},
+	"form-label-language": "භාෂාව:",
+	"form-label-template": "සැකිලි නාමය:",
+	"form-label-complete": "සම්පූර්ණ වාර්තාව ජනනය කරන්න",
+	"feedback-template-missing": "$1 සැකිල්ල නොපවතියි.",
+	"feedback-result": "$1 සදහා ප්‍රතිඵල",
+	"feedback-total-count": "එකතුව: $1",
+	"link-edit": "සංස්කරණය",
+	"link-create": "තනන්න",
+	"link-complete": "සම්පූර්ණ වාර්තාව...",
+	"error-language": "නොදන්නා භාෂා කේතය."
+}

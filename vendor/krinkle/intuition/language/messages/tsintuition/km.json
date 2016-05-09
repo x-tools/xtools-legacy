@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"current-settings": "ការកំណត់បច្ចុប្បន្ន",
+	"current-language": "ភាសាដែលបានជ្រើសរើសបច្ចុប្បន្ននេះ",
+	"settings-legend": "ការកំណត់​ផ្សេងៗ",
+	"choose-language": "ជ្រើសរើសភាសា",
+	"clear-cookies": "ជំរះ cookies",
+	"tab-overview": "ខ្លឹមសារសង្ខេប",
+	"tab-settings": "ការកំណត់​នានា",
+	"tab-about": "អំពី",
+	"tab-demo": "Demo",
+	"bl-mysettings": "ការកំណត់ភាសារបស់ខ្ញុំ",
+	"bl-mysettings-new": "ផ្លាស់ប្ដូរភាសា!",
+	"bl-promo": "ការប្រែសម្រួល powered ដោយ $1 និង $2 ។",
+	"bl-changelanguage": "ចុចនៅទីនេះដើម្បីផ្លាស់ប្ដូរភាសានៃឧបករណ៍នេះ។",
+	"usage": "ឧបករណ៍ ត្រូវបានបកប្រែសម្រួលដោយ Intution ។",
+	"help-translate-tool": "ចូលរួមជួយបកប្រែឧបករណ៍នេះ!",
+	"help-translate-all": "ចូលរួមជួយបកប្រែឧបករណ៍!",
+	"help-translate-tooltip": "ជួយអ្នកដទៃដោយចូលរួមបកប្រែខ្លឹមសារទាំងនេះទៅជាភាសារបស់អ្នក។"
+}

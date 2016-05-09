@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"description": "Метаинформации за Викимедиините викија.",
+	"formats-heading": "Формати на изводот",
+	"input": "Внос",
+	"label-wikiids": "Викиназнаки",
+	"no-matches": "Ништо не одговара на „$1“",
+	"output": "Извод за „$1“"
+}

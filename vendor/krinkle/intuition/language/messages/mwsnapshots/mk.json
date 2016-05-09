@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"title-overview": "Снимки",
+	"title-error": "Грешка",
+	"title-updatelog": "Дневник на подновувања",
+	"updatelog-intro": "Скриптата врши поднова на секој час. Подолу е прикажан конзолниот извод од последната поднова.",
+	"updatelog-active": "Скриптата моментално врши поднова. Навратете се подоцна за целосниот дневник.",
+	"download-button": "Преземи снимка",
+	"download-directlink": "непосредна врска:",
+	"title-downloadpage": "Преземање",
+	"title-downloadpage-repo": "Преземање на $1",
+	"err-snapshotindex": "Индексот на снимки е привремено недостапен. Обидете се подоцна.",
+	"err-invalid-repo": "Непознато складиште: „$1“.",
+	"err-invalid-branch": "Непозната гранка: „$1“ во складиштето „$2“.",
+	"err-nosnapshot": "Снимките се создаваат на секои неколку часа. Се појави грешка при создавањето на снимка на „$1“. Обидете се подоцна.",
+	"err-noupdatelog": "Не пронајдов дневник на подновувања.",
+	"repo-site-link": "Мреж. место",
+	"repo-browse-link": "Прелистајте го складиштето",
+	"repo-branches-label": "Гранки:",
+	"repo-lastmoddate-label": "Датум:",
+	"branches-submit-button": "Преземи",
+	"updatelog-link": "дневник на подновувања",
+	"tablehead-repo": "Складиште",
+	"tablehead-snapshots": "Снимки",
+	"tablehead-branch": "Гранка",
+	"tablehead-filesize": "Големина",
+	"tablehead-hash": "Тараба"
+}

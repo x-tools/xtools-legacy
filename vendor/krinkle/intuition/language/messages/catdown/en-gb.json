@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"wget-info": "This file bundles a copy of wget $1 (for Windows platform). Wget is Free Software,\nunder the terms of the GNU GENERAL PUBLIC LICENCE version 3.\nThere is a copy of the licence below, and it is also available at http://www.gnu.org/licenses/gpl-3.0.txt\n\nIn case you are interested in getting the source code for this program, you can download it from\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\nor some other GNU Mirror, see\n http://www.gnu.org/prep/ftp.html"
+}

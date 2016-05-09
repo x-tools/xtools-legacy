@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"list": "Zerrenda",
+	"sample": "Adibidea",
+	"searchResults": "Bilaketaren emaitzak",
+	"help": "laguntza",
+	"today": "gaur",
+	"allLang": "Hizkuntza guztiak",
+	"interlang_proj": "nazioarteko proiektuak",
+	"other_lang": "beste hizkuntzak",
+	"closedWikis": "itxitako wikiak",
+	"language": "hizkuntza",
+	"myfavs": "Gogokoenak",
+	"mycontribs": "Ekarpenak",
+	"category": "Kategoria",
+	"template": "Txantiloia",
+	"helpPage": "Laguntza orrialdea",
+	"bureaucrats": "burokratak",
+	"sysops": "administratzaileak",
+	"articles": "artikuluak",
+	"good_articles": "artikulu onak",
+	"pages": "orrialdeak",
+	"noJavaScript": "JavaScript desgaituta dago",
+	"onlyOwnCreatedPages": "erakutsi bakarrik nik sortutako orrialdeak",
+	"furtherInformation": "Informazio gehiago",
+	"urlParameter": "URL parametroa",
+	"submit": "Bidali",
+	"save": "gorde",
+	"cancel": "utzi",
+	"resetAndDelete": "berrezarri eta cookie-ak garbitu",
+	"autofilter": "iragazki automatikoa",
+	"barchart": "barra-diagrama",
+	"linechart": "lerro-diagrama"
+}

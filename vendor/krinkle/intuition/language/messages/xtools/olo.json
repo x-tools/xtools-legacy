@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"username": "Käyttäitunnus",
+	"users": "{{PLURAL: $1|Käyttäi|Käyttäjät}}",
+	"show": "ozuta",
+	"hide": "peitä",
+	"all": "kai",
+	"or": "libo",
+	"added": "Ližätty",
+	"pages": "Sivut",
+	"translatelink": "Kiännä",
+	"login": "Kirjuttai",
+	"logout": "Kirjuttai ullos",
+	"start": "Algupäivymiäry",
+	"end": "Loppupäivymiäry",
+	"text": "Tekstu",
+	"more": "Enämbi",
+	"groups": "Käyttäijoukot",
+	"pages_created": "Luajitut sivut",
+	"pages_deleted": "Iäre otetut sivut",
+	"pages_moved": "Siirretyt sivut",
+	"block": "Estä",
+	"unblock": "Poista esto",
+	"import": "Tuo",
+	"page": "Sivun rubriekku",
+	"createdby": "Luadinuh",
+	"ips": "IP:t",
+	"minor": "Pienet muutokset",
+	"major": "Suuret muutokset",
+	"avgsize": "Keskimiäräine sivun kogo",
+	"pagesize": "Sivun kogo",
+	"pageviews": "Sivun kaččokerrat",
+	"pagewatchers": "Sivun valvojat",
+	"ip_list": "IP-listu",
+	"result": "Tulos",
+	"unknown": "Tundematoi"
+}

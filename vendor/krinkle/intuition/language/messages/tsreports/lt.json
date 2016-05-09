@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"select_report_go_back": "← Pakeisti viki",
+	"qvar_next": "Kitas →",
+	"prefs_submit": "Gerai",
+	"prefs_done": "Jūsų nustatymai buvo pakeisti.",
+	"prefs_langlabel": "Sąsajos kalba:"
+}

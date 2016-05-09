@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Metalhead64",
+			"Shirayuki"
+		]
+	},
+	"title": "Title heading of [[Special:WhatLeavesHere]] and link to it from [[Special:SpecialPages]].\n{{Identical|Whatleaveshere}}",
+	"title-leaveshere": "Title heading of [[Special:WhatLeavesHere]] when viewing results for a specific page.\n\nParameters:\n* $1 - the name of the associated page",
+	"sub-leaveshere": "Used below the heading on [[Special:WhatLeavesHere]]. Parameters:\n* $1 - the name of the associated page",
+	"label-page": "Label of input field for page name.\n{{Identical|Page}}",
+	"label-namespace": "Label of dropdown menu for namespace.\n{{Identical|Namespace}}",
+	"label-limit": "Label of dropdown menu for number of results.\n{{Identical|Limit}}",
+	"button-submit": "Submit button of form.\n{{Identical|Go}}",
+	"noleaveshere": "Used on [[Special:WhatLeavesHere]] when there are no outgoing links found.\n\nParameters:\n* $1 - page title (with link)",
+	"link-whatleaveshere": "Text of link to [[Special:WhatLeavesHere]] in the sidebar.\n{{Identical|Whatleaveshere}}",
+	"tooltip-whatleaveshere": "Tooltip of link to [[Special:WhatLeavesHere]] in the sidebar.",
+	"whatlinkshere": "Link to [[Special:WhatLinksHere]] from form legend of [[Special:WhatLeavesHere]].\n{{Identical|Whatlinkshere}}",
+	"whatlinkshere-whatleaveshere": "Link to [[Special:WhatLeavesHere]] from form legend of [[Special:WhatLinksHere]].\n{{Identical|Whatleaveshere}}",
+	"istemplate": "Used as indication that this outgoing link is a transclusion.\n{{Identical|Transclusion}}",
+	"isfile": "Used as indication that this outgoing link is embedding a file.\n{{Identical|File link}}",
+	"linksearch": "Link to [[Special:LinkSearch]] to find other pages with the same outgoing external link.\n\nSee also:\n* {{msg-mw|Linksearch}}",
+	"section-links": "Section header for page links, file links and tranclusions.\n{{Identical|Link}}",
+	"section-iwlinks": "Section header for interwiki links.\n{{Identical|Interwiki link}}",
+	"section-extlinks": "Section header for external links.\n{{Identical|External link}}",
+	"section-categories": "Section header for categories.\n{{Identical|Category}}"
+}

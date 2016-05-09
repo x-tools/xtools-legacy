@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Gianfranco",
+			"ZioNicco"
+		]
+	},
+	"title": "Scarica le immagini dalla categoria",
+	"subtitle": "Il modo più semplice per scaricare le immagini in una categoria",
+	"project": "Progetto:",
+	"category": "Categoria:",
+	"thumbnailing": "Miniaturizzazione",
+	"max-width": "Larghezza massima:",
+	"max-height": "Altezza massima:",
+	"invalid-width": "Larghezza non valida",
+	"invalid-height": "Altezza non valida",
+	"no-such-project": "Progetto inesistente",
+	"no-images": "Non c'è nessuna immagine nella categoria",
+	"category-is-url": "Il nome proposto per la categoria somiglia a un URL. Devi specificare il nome della categoria, non il suo URL.",
+	"category-contains-namespace": "Sembra che tu abbia incluso il namespace nel nome della categoria. Con il nome che hai proposto, la pagina sarebbe disponibile come [[Category:$1]].",
+	"zip-failed": "Creazione Zip fallita",
+	"image-area-too-big": "$1 è troppo grande per crearne una miniatura. Verrà usata la dimensione reale.",
+	"download-info": "{{plural: $1|C'è un'immagine|Ci sono $1 immagini}}, per una dimensione stimata di $2",
+	"download": "Download",
+	"readme-contents": "Il file di inclusione $4 elenca\nle immagini nella categoria $1 ( $2 )$3.\n\n== Istruzioni per il download di tutte le immagini elencate ==\nIl tempo di download può variare da pochi minuti a diverse ore.\n\nWindows:\n Estrai tutti i file nella stessa directory ed esegui $5\n $6\nSistemi operativi Linux/Mac:\n Estrai tutti i file ed apri una finestra di terminale in quella directory. Esegui sh $5",
+	"non-bundled-wget": "Nota: Questa versione non comprende wget per Windows. Dovrai decomprimere\nin una directory con wget.exe o altrimenti avere wget nel PATH",
+	"wget-info": "Questo file include una copia di wget $1 (per piattaforma Windows). Wget è Software Libero, nei\ntermini di cui alla GNU GENERAL PUBLIC LICENSE versione 3.\nC'è una copia della licenza più sotto, ed è anche disponibile a http://www.gnu.org/licenses/gpl-3.0.txt\n\nNel caso siate interessati ad ottenere il codice sorgente per questo programma, potete scaricarlo da\n http://toolserver.org/~platonides/catdown/wget-sources.php?version=$1\n http://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\n ftp://ftp.gnu.org/gnu/wget/wget-$1.tar.xz\no da altri Mirror GNU, vedi\n http://www.GNU.org/Prep/FTP.html",
+	"scaling-width": ", scalata ad una larghezza massima di $1 {{plural:$1|pixel|pixel}}",
+	"scaling-height": ", scalata ad una altezza massima di $1 {{plural:$1|pixel|pixel}}",
+	"scaling-both": ", scalata ad una dimensione massima di $1x$2 pixel"
+}

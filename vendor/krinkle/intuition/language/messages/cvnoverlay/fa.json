@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reza1615"
+		]
+	},
+	"adder": "اضافه‌کننده",
+	"adder-empty": "ناشناس",
+	"expiry": "انقضاء",
+	"globalwatched": "پیگیری‌های سراسری",
+	"reason": "دلیل",
+	"reason-empty": "هیچ دلیلی یافت نشد"
+}

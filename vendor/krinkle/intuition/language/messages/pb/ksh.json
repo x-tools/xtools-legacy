@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"pb-about-pb-navi": "Övver",
+	"pb-about-pb-tech": "Täschnesche Einzelheite",
+	"pb-about-pb-tech-text": "<p>Mer nämme <a href=\"https://de.wikipedia.org/wiki/Python_%28Programmiersprache%29\">Python</a> un <a href=\"https://de.wikipedia.org/wiki/MySQL\">MySQL</a> för dat Projramm heh. Der Kood schteihd onger dä lezänz <i lang=\"en\" xml:lang=\"en\"><a href=\"http://www.gnu.org/licenses/lgpl.html\" class=\"ext\">GNU Lesser General Public License 3</a> (LGPL 3)</i> un es <a href=\"https://github.com/tool-labs/pb\">op <i lang=\"en\" xml:lang=\"en\">GitHub</i></a> ze belohre. Fähler, Verbäßeronge, Wönsch un Klaaf kam_mer op <i lang=\"en\" xml:lang=\"en\"><a href=\"https://github.com/tool-labs/pb/issues/new\">GitHub</a> afflohße udder op di Klaafsigg <i lang=\"de\" xml:lang=\"de\"><a href=\"https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a></i> övver de päsöhnlesche Bekanntschafte en de Wikkipehdija op deutsch schriive.</p><p><a href=\"/pb/sql-dumps\">De neuste Sescheronge vun dä Dahtenbangk</a> kam_mer sesch eronger lahde.</p><p>Mer han e paa Minnibelldscher us däm <i lang=\"en\" xml:lang=\"en\"><a href=\"http://glyphicons.com/\" title=\"de Houpsigg vun de Glyphicons\">Glyphicons</a></i>-Projäk jenumme.</p>",
+	"pb-about-pb-text": "<p>Dat Projäk sull de Minsche henger de Wikkipehdija em reschtejje Levve zeije.</p><p>De eezde täschnesche Ömsäzong han der Ulli Purwin (Bedeenong) un der Euku (Automaht) jemaat. Aanfang 2011 han der Wiegels un der Ireas däm Ulli singe Paat övvernumme. Enzwische litt dat janze och nit mih obb enem prevahte ẞööver, sönders op <i lang=\"en\" xml:lang=\"en\">Wikimedia Labs</i>.</p><p>Mih övver dat Projäk fengk mer op dä Sigg <i lang=\"de\" xml:lang=\"de\"><a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\">Wikipedia:Persönliche Bekanntschaften</a></i> övver de päsöhnlesche Bekanntschafte en de Wikkipehdija op deutsch.</p>",
+	"pb-about-pb-title": "Övver dat Projäk",
+	"pb-change-language": "De Schprohch wääßele",
+	"pb-comment": "Aanmärkong",
+	"pb-confirmations-given": "Hät beschtähtesch",
+	"pb-confirmations-taken": "Es beschtähtesch woode vun",
+	"pb-current-confirmations": "Mer han ensjesamp {{PLURAL:$1|ein Beschtähtejong |$1 Beschtähtejonge|kein Beschtähtejong}}, dat <abbr title=\"$2\">{{PLURAL:$1|es ätwa ein Beschtähtejong|sinn_er em Schnett öm de $3 Beschtähtejonge|määt keine Beschtähtejong}} </abbr> aam Daach.",
+	"pb-current-figures": "Aktoälle Zahle",
+	"pb-current-users": "Em Momang {{PLURL:$1|es eine|sinn_er $1|es keine}} Metmaacher bei de „Päsöhnlesche Beschtähtejonge“ derbei.",
+	"pb-date": "Dattum",
+	"pb-footer": "<a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Päsöhnlesche Bekanntschafte en de Wikkipehdija op deutsch\">[[„Päsöhnlesche Beschtähtejonge“]]</a> op <i lang=\"en\" xml:lang=\"en\">Tool Labs</i>. <a href=\"$1\" title=\"Övver de päsöhnlesche Bekanntschafte en de Wikkipehdija\">Mieh lässe!</a>",
+	"pb-home": "Houpsigg",
+	"pb-home-welcome": "Wellkumme op de „Päsöhnlesche Beschtähtejonge“ ier Dahtenbangksigg. Mieh övver dat Projäk kammer op dä <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Persönliche_Bekanntschaften\" title=\"Wikipedia:Persönliche Bekanntschaften in der deutschsprachigen Wikipedia\">Projäksigg</a> en de Wikipehdija op Deutsch lässe.",
+	"pb-javascript-notice": "Mer ämfähle JavaSkrep aanzeschallde, öm för heh di Sigge de Bedeenong aanjenämmer ze maache.",
+	"pb-labs-name": "Wikkimeedija <i lang=\"en\" xml:lang=\"en\">Tool Labs</i>",
+	"pb-participates-since": "Määt med zigg:",
+	"pb-name": "Project: „Päsöhnlesche Beschtähtejonge“ vun Metmaacher",
+	"pb-powered-by-labs": "Jelivverd vum de Wikimeedija Schteftong iehrem <i lang=\"en\" xml:lang=\"en\">Tool Labs</i>",
+	"pb-recent-confirmations": "Köözlesch beschtähtesch",
+	"pb-reconfirmed": "Norrens beschtähtesch?",
+	"pb-user": "Metmaacher",
+	"pb-user-link-title": "Einzelheite för dä Metmaacher $1",
+	"pb-user-heading": "Aanjahbe för <a href=\"$2\" title=\"De Metmaachersigg för $1\">$1</a>",
+	"pb-user-title": "Aanjahbe för $1",
+	"pb-users-navi": "Metmaacher",
+	"pb-users-title": "Leß met de Metmaacher",
+	"pb-users-overview": "Heh di $1 Metmaacher sen bei de „Päsöhnlesche Beschtähtejonge“ derbei:",
+	"pb-verified-since": "Beschtäätesch zigg em"
+}

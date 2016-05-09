@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sahran"
+		]
+	},
+	"formats-heading": "چىقىرىش پىچىملىرى",
+	"input": "كىرگۈز",
+	"label-wikiids": "ۋىكى بەلگىلىرى",
+	"no-matches": "ھېچنېمە ماسلاشمىدى \"$1\"",
+	"output": "\"$1\" ئۈچۈن چىقار"
+}

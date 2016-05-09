@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas",
+			"Araceletorres"
+		]
+	},
+	"voiceintro-toolbar-record-label": "Gravar",
+	"voiceintro-toolbar-stop-label": "Parar",
+	"voiceintro-toolbar-clear-label": "Limpar",
+	"voiceintro-toolbar-upload-label": "Enviar",
+	"voiceintro-webaudio-not-supported": "A API do WebAudio não é suportada por este navegador.",
+	"voiceintro-upload-publish-succeeded": "Gravação enviada com sucesso:",
+	"voiceintro-upload-publish-failed": "A gravação não foi enviada.",
+	"voiceintro-information-label": "Informação",
+	"voiceintro-information-language-label": "Língua:",
+	"voiceintro-mic-access-notify": "Clique em \"Permitir\" para permitir que o navegador acesse ao seu microfone.",
+	"voiceintro-recording-notify": "Gravando..."
+}

@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Krinkle",
+			"Y-M D"
+		]
+	},
+	"hello": "Demat",
+	"welcome": "Degemer mat",
+	"toolversion": "Stumm $1",
+	"toolversionstamp": "Stumm $1 ($2)",
+	"etc": "h.a.",
+	"namespace": "Esaouenn anv",
+	"form-submit": "Mont",
+	"form-reset": "Adderaouekaat",
+	"years": "{{PLURAL: $1|bloavezh|bloavezh}}",
+	"months": "{{PLURAL: $1|miz}}",
+	"weeks": "{{PLURAL: $1|sizhunvezh|sizhunvezh}}",
+	"days": "{{PLURAL: $1|devezh|devezh}}",
+	"hours": "{{PLURAL: $1|eurvezh|eurvezh}}",
+	"minutes": "{{PLURAL: $1|munutenn|munutenn}}",
+	"seconds": "{{PLURAL: $1|eilenn|eilenn}}",
+	"last-modified-date": "Kemmet da ziwezhañ : $1",
+	"view-source": "Sellet ouzh tarzh an destenn",
+	"and": "&#32;ha(g)"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krinkle",
+			"Liuxinyu970226"
+		]
+	},
+	"title": "The title of the tool.",
+	"description": "Short caption that describes the tool, used in the primary heading on every page as tag line.",
+	"formats-heading": "This is the heading above the list of available formats to export/output to.",
+	"input": "This is the heading above the input form.\n{{Identical|Input}}",
+	"label-wikiids": "This form label is for the input field for the wiki identifiers. Users may type one or more identifiers here.\n\nIdentifiers can be a language code (e.g. 'de' will assume the German Wikipedia), or a database code (enwiki_p for English Wikipedia), hostname (fr.wiktionary, optionally including \".org\") and some others as well. Almost any form of identification or guessing is accepted.",
+	"no-matches": "Message to be displayed if nothing was found for the given id. $1 represents the user input.",
+	"output": "For each of the search results this heading is placed. $1 represents the user input."
+}

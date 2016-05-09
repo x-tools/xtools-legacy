@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"toolserver-status-ok": "Walang mga suliranin sa kumpol na $1 $2 ng kalipunan ng dato",
+	"toolserver-status-info": "Paunawa para sa mga tagagamit ng kumpol na $1: $2",
+	"toolserver-status-warn": "Babala para sa mga tagagamit ng kumpol na $1: $2",
+	"toolserver-status-down": "Pansamantalang itinigil at ipininid ang kumpol na $1 ng kalipunan ng dato. $2",
+	"toolserver-status-erro": "Nakatigil ang kumpol na $1 ng kalipunan ng dato. $2",
+	"toolserver-status-unknown": "Hindi napag-aalamang na katayuan ng kumpol na $1",
+	"toolserver-status-missing": "Hindi umiiral ang kumpol na $1",
+	"toolserver-status-short-ok": "$1: Okey",
+	"toolserver-status-short-info": "$1: Kabatiran",
+	"toolserver-status-short-warn": "$1: Babala",
+	"toolserver-status-short-down": "$1: Hindi gumagana",
+	"toolserver-status-short-erro": "$1: Kamalian",
+	"toolserver-status-short-unknown": "$1: Hindi alam",
+	"toolserver-status-short-missing": "$1: Nawawala"
+}

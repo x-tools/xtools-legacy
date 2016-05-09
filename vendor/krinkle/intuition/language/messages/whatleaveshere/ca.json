@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Macofe",
+			"F3RaN"
+		]
+	},
+	"title": "El que surt d'aquí",
+	"title-leaveshere": "Enllaços que surten de \"$1\"",
+	"sub-leaveshere": "Les pàgines següents enllacen a partir de $1",
+	"label-page": "Pàgina",
+	"label-namespace": "Espai de noms",
+	"label-limit": "Límit",
+	"button-submit": "Vés-hi",
+	"noleaveshere": "Cap enllaç a partir de $1",
+	"link-whatleaveshere": "El que surt d'aquí",
+	"tooltip-whatleaveshere": "Llistat de tot el que enllaça des d'aquí",
+	"whatlinkshere": "Què hi enllaça",
+	"whatlinkshere-whatleaveshere": "Què surt d'aquí?",
+	"istemplate": "inclusió",
+	"isfile": "enllaç a fitxer",
+	"linksearch": "LinkSearch",
+	"section-links": "Enllaços",
+	"section-iwlinks": "Enllaços Interwiki",
+	"section-extlinks": "Enllaços externs",
+	"section-categories": "Categories"
+}
