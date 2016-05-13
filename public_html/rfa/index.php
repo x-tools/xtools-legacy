@@ -165,6 +165,29 @@ function getRecentRfXs( $domain ){
 				Limit 100;
 			";
 	}
+	elseif ( $domain == "commons.wikimedia.org" ){
+		$dbr = $wt->loadDatabase( 'commons', 'wikimedia' );
+		$list = '<option value="" >Select from most recent RfA\'s / RfB\'s</option>';
+		$optproupLabel["rfas"] = "Requests for Adminship";
+		$optproupLabel["rfbs"] = "Requests for Bureaucratship";
+		$queryA ="
+				SELECT 'rfa' as type, page_title
+				FROM page 
+				WHERE page_namespace = '4'
+				AND page_title LIKE 'Administrators/Requests/%'
+				AND page_title NOT LIKE 'Commons:Administrators/Requests/%/Bureaucrat_discussion'
+				ORDER BY page_id DESC
+				LIMIT 100
+			";		
+		$queryB = "
+				SELECT 'rfb' as type, page_title
+				FROM page
+				WHERE page_namespace = '4'
+				AND page_title LIKE 'Commons:Bureaucrats/Requests/%'
+				ORDER BY page_id DESC
+				Limit 100;
+			";
+	}
 	else {
 		return;
 	}
