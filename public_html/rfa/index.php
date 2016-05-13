@@ -21,14 +21,23 @@
 			$optionsProject = "
 					<option selected value ='en.wikipedia'>en.wikipedia</option>
 					<option value ='de.wikipedia'>de.wikipedia</option>
+					<option value ='commons.wikimedia'>commons.wikimedia</option>
 					";
 			break;
 		case "de.wikipedia.org":
 			$optionsProject = "
 					<option value ='en.wikipedia'>en.wikipedia</option>
 					<option selected value ='de.wikipedia'>de.wikipedia</option>
+					<option value ='commons.wikimedia'>commons.wikimedia</option>
 					";
 			break;
+		case "commons.wikimedia.org":
+			$optionsProject = "
+					<option value ='en.wikipedia'>en.wikipedia</option>
+					<option value ='de.wikipedia'>de.wikipedia</option>
+					<option selected value ='commons.wikimedia'>commons.wikimedia</option>
+					";
+			break;			
 		
 		default:
 			$wt->toDie( 'nosupport', $domain );
@@ -36,15 +45,19 @@
 	
 	$msgOnDeWiki = "on the German Wikipedia";
 	$msgOnEnWiki = "on the English Wikipedia";
+	$msgOnCommonsWiki = "on Wikimedia Commons";
 	if ( $wt->uselang == "de" ){
 		$msgOnDeWiki = "in der deutschen Wikipedia";
 		$msgOnEnWiki = "in der englischen Wikipedia";
+		$msgOnCommonsWiki = "auf Wikimedia Commons";
 	}
 	$wt->assign( 'onEnWiki', $msgOnEnWiki );
 	$wt->assign( 'onDeWiki', $msgOnDeWiki );
+	$wt->assign( 'onCommonsWiki', $msgOnCommonsWiki );
 	
 	$defaultPage["en.wikipedia.org"] = 'Wikipedia:Requests for adminship/Name of user';
 	$defaultPage["de.wikipedia.org"] = 'Wikipedia:Adminkandidaturen/Name des Benutzers';
+	$defaultPage["commons.wikimedia.org"] = 'Commons:Administrators/Requests/Name of user';
 	
 	$wt->assign( 'optionsProject', $optionsProject );
 	$wt->assign( 'defaultPage', $defaultPage[ $domain ] );
@@ -76,6 +89,9 @@
 			break;
 		case "de.wikipedia.org":
 			$myRFA = new RFAde( $site, $page );
+			break;
+		case "commons.wikimedia.org":
+			$myRFA = new RFAcommons( $site, $page );
 			break;	
 		default:
 			$wt->toDie( 'something_went_wrong');
