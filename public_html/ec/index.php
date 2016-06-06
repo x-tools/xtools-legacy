@@ -226,7 +226,11 @@ function delayer(){
     $latestother = '';
     
     foreach ( $cnt->wikis as $sulwiki => $row ){
-        
+
+        if ($sulwiki  == "wikidatawiki") {
+            $sulwiki = "wikidata";
+        }
+
         $latest = @$cnt->mLatestEditsGlobal["latest"][ $sulwiki ];
         $diff = $wt->datediff( DateTime::createFromFormat('YmdHis', $latest ) );
         $diffspan = "<span style=\"color:$diff->diffcolor\" ><small>$diff->difftxt</small></span>";
