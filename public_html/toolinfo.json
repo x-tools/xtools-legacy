@@ -1,22 +1,12 @@
 [
-	{	
+	{
 		"type" : "web",
 	    "name" : "xtools-editcounter",
 	    "title" : "X! Edit Counter",
 	    "description" : "Legendary editcounter and analyser of user contributions. Fast and feature-rich.",
-	    "url" : "https://tools.wmflabs.org/xtools/ec/",
+	    "url" : "https://tools.wmflabs.org/xtools-ec/",
 	    "keywords" : "edit count, statistics, user analysis, user contributions, activity, xtools, i18n, multilingual, cross-wiki",
 	    "author" : "Hedonil, Cyberpower678, TParis, X!",
-	    "repository": "https://github.com/x-Tools/xtools"
-	},
-	{
-		"type" : "web",
-	    "name" : "xtools-echo",
-	    "title" : "XEcho",
-	    "description" : "Your global, cross-wiki echo notifications at a glance.",
-	    "url" : "https://tools.wmflabs.org/xtools/echo/", 
-	    "keywords" : "echo, cross-wiki, notification, xtools", 
-	    "author" : "Hedonil",
 	    "repository": "https://github.com/x-Tools/xtools"
 	},
 	{
@@ -24,8 +14,8 @@
 	    "name" : "xtools-adminstats",
 	    "title" : "AdminStats",
 	    "description" : "Show statistics on admin actions.",
-	    "url" : "https://tools.wmflabs.org/xtools/adminstats/", 
-	    "keywords" : "statistics, admin, global, activity, xtools, i18n, multilingual, cross-wiki", 
+	    "url" : "https://tools.wmflabs.org/xtools/adminstats/",
+	    "keywords" : "statistics, admin, global, activity, xtools, i18n, multilingual, cross-wiki",
 	    "author" : "Hedonil, Cyberpower678, TParis, X!",
 	    "repository": "https://github.com/x-Tools/xtools"
 	},
@@ -34,8 +24,8 @@
 	    "name" : "xtools-pagehistory",
 	    "title" : "Page History",
 	    "description" : "Get various statistics and author list of a page.",
-	    "url" : "https://tools.wmflabs.org/xtools/articleinfo/", 
-	    "keywords" : "statistics, article, page, authors, list, assessment, xtools, i18n, multilingual, cross-wiki", 
+	    "url" : "https://tools.wmflabs.org/xtools-articleinfo/",
+	    "keywords" : "statistics, article, page, authors, list, assessment, xtools, i18n, multilingual, cross-wiki",
 	    "author" : "Hedonil, Cyberpower678, TParis, X!",
 	    "repository": "https://github.com/x-Tools/xtools"
 	},
@@ -44,8 +34,8 @@
 	    "name" : "xtools-pagescreated",
 	    "title" : "Pages Created",
 	    "description" : "Get pages that have been created by a user",
-	    "url" : "https://tools.wmflabs.org/xtools/pages/", 
-	    "keywords" : "article, page, author, list, create, xtools, i18n, multilingual, cross-wiki", 
+	    "url" : "https://tools.wmflabs.org/xtools/pages/",
+	    "keywords" : "article, page, author, list, create, xtools, i18n, multilingual, cross-wiki",
 	    "author" : "Hedonil, Cyberpower678, TParis, X!",
 	    "repository": "https://github.com/x-Tools/xtools"
 	},
@@ -54,8 +44,8 @@
 	    "name" : "xtools-xagent",
 	    "title" : "XTools gadget (XAgent)",
 	    "description" : "Checks visited pages on-the-fly (~ 1 sec) for syntax-, grammar-, broken-link-problems and missing Wikidata properties. In addition, Agent for your cross-wiki Echo notifications.",
-	    "url" : "https://meta.wikimedia.org/wiki/User:Hedonil/XTools", 
-	    "keywords" : "gadget, javascript, xagent, xtools, i18n, multilingual, cross-wiki", 
+	    "url" : "https://meta.wikimedia.org/wiki/User:Hedonil/XTools",
+	    "keywords" : "gadget, javascript, xagent, xtools, i18n, multilingual, cross-wiki",
 	    "author" : "Hedonil",
 	    "repository": "https://meta.wikimedia.org/wiki/User:Hedonil/XTools/XTools.js"
 	},
@@ -64,8 +54,8 @@
 	    "name" : "directory-directory-ng",
 	    "title" : "Directory NG",
 	    "description" : "Directory service for MediaWiki related Bots, Tools, API's, Scripts & Stylesheets",
-	    "url" : "https://tools.wmflabs.org/directory/", 
-	    "keywords" : "directory, tools, scripts, css, api, bots, search, find, python", 
+	    "url" : "https://tools.wmflabs.org/directory/",
+	    "keywords" : "directory, tools, scripts, css, api, bots, search, find, python",
 	    "author" : "Hedonil"
-	}	
+	}
 ]
