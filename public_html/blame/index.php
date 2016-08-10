@@ -3,13 +3,13 @@
 //Requires
 	require_once( '/data/project/xtools/modules/WebTool.php' );
 	require_once( PEACHY_BASE_SYS_DIR . '/Peachy/Init.php' );
-	
+
 //Load WebTool class
 	$wt = new WebTool( 'blame' );
 	$wt->setLimits();
 	$wt->getPageTemplate( 'form' );
 
-//Get params from query string	
+//Get params from query string
 	$article = $wgRequest->getVal( 'article' );
 	$article = $wgRequest->getVal( 'page' , $article );
 	$nofollowredir = $wgRequest->getBool( 'nofollowredir' );
@@ -19,8 +19,8 @@
 		$lang = $wi->lang;
 		$wiki = $wi->wiki;
 		$domain = $wi->domain;
-	
-	
+
+
 //Show form if &article parameter is not set (or empty)
 	if( $lang == "" || $wiki == "" || $article == "" || $text == "" ) {
 		$wt->showPage();
@@ -31,9 +31,9 @@
 	$site = Peachy::newWiki( null, null, null, "http://$wi->domain/w/api.php" );
 	$pageClass = $site->initPage( $article, null, !$nofollowredir );
 	$title = $pageClass->get_title();
-	
+
 	$list = getBlameResult( $pageClass, $text);
-	
+
 	$wt->content = getPageTemplate( 'result' );
 	$wt->assign( 'list', $list );
 	$wt->assign( 'domain', $domain );
@@ -53,18 +53,18 @@ $wt->showPage();
 function getBlameResult( &$pageClass, $text ){
 
 	$history = $pageClass->history( null, 'older', true );
-	
+
 	$list = '';
 	$anz = count( $history );
 	foreach( $history as $id => $rev ) {
-		
+
 		if( in_string( $text, $rev['*'], true ) && ( ($id +1 == $anz) || !in_string( $text, $history[$id+1]['*'], true ) ) ){
 
 			$date = date('Y-m-d, H:i ', strtotime( $rev['timestamp']) );
 			$year = date('Y', strtotime( $rev['timestamp']) );
 			$month = date('m', strtotime( $rev['timestamp']) );
 			$minor = ( $row['rev_minor_edit'] == '1' ) ? '<span class="minor" >m</span>' : '';
-			
+
 			$list .= '
 				<tr>
 				<td style="font-size:95%; white-space:nowrap;">'.$date.' &middot; </td>
@@ -75,9 +75,9 @@ function getBlameResult( &$pageClass, $text ){
 				</tr>
 			';
 		}
-		
+
 	}
-	
+
 	return $list;
 }
 
@@ -87,21 +87,21 @@ function getBlameResult( &$pageClass, $text ){
 function getPageTemplate( $type ){
 
 	$templateForm = '..old..';
-	
+
 	$templateResult = '
 	<div class="panel panel-primary" style="text-align:center">
 		<div class="panel-heading">
 			<p class="xt-heading-top" >
 				<a href="http://{$domain}/wiki/{$urlencodedpage}">{$page}</a>
-				<small><span style="padding-left:10px;" > &bull;&nbsp; {$domain} </span></small> 
+				<small><span style="padding-left:10px;" > &bull;&nbsp; {$domain} </span></small>
 			</p>
 		</div>
 		<div class="panel-body xt-panel-body-top"  >
 			<p>
 				<a href="//{$domain}/w/index.php?title=Special:Log&type=&page={$urlencodedpage}" >Page log</a> &middot;
-				<a href="//{$xtoolsbasedir}/articleinfo/?lang={$lang}&wiki={$wiki}&page={$urlencodedpage}" >Page history</a> &middot;
+				<a href="//{$xtoolsbasedir}-articleinfo/?lang={$lang}&wiki={$wiki}&page={$urlencodedpage}" >Page history</a>
 			</p>
-			
+
 			<div class="panel panel-default">
 				<div class="panel-heading">
 					<h4  class="topcaption" >{#searchresult#} <span class="showhide" onclick="javascript:switchShow( \'generalstats\', this )">[{#hide#}]</span></h4>
@@ -127,7 +127,7 @@ function getPageTemplate( $type ){
 		</div>
 	</div>
 	';
-	
+
 	if( $type == "form" ) { return $templateForm; }
 	if( $type == "result" ) { return $templateResult; }
 }

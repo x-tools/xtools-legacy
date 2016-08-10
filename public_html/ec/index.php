@@ -25,7 +25,7 @@ function delayer(){
     require_once( '/data/project/xtools/modules/WebTool.php' );
     require_once( '/data/project/xtools/modules/Counter.php' );
 
-    
+
 //Load WebTool class
     $wt = new WebTool( 'ec' );
     $wt->setLimits( 650, 120 );
@@ -36,73 +36,73 @@ function delayer(){
         unset( $_SESSION["ec_purge"] );
         $purge = true;
     }
-    
+
     $extended = $wgRequest->getBool('extended', false);
-    
+
     $wi = $wt->wikiInfo;
         $lang = $wi->lang;
         $wiki = $wi->wiki;
         $domain = $wi->domain;
-    
+
     $ui = $wt->getUserInfo();
         $user = $ui->user;
-    
-    
-    
+
+
+
 //Show form if user is not set (or empty)
     if( !$user || !$lang || !$wiki ) {
         $wt->showPage();
     }
 
-        
+
 //Create new Counter object
 
     $ttl = 120;
     $hash = "xtoolsCNT".XTOOLS_REDIS_FLUSH_TOKEN.hash('crc32', $lang.$wiki.$user.$extended);
     $lc = $redis->get($hash);
-    
+
     if ($lc === false || $purge ){
         $dbr = $wt->loadDatabase( $lang, $wiki);
         $cnt = new Counter( $dbr, $user, $domain, false, $ui->editcount, $extended);
         if( $ui->editcount > 100000 ) { $ttl = 1800; }
         if( $ui->editcount > 300000 ) { $ttl = 86400; }
         if( !$cnt->error ) { $redis->setex( $hash, $ttl, serialize( $cnt ) ); }
-    
+
     }
     else{
         $cnt = unserialize( $lc );
         unset( $lc );
         $perflog->add('CNT', 0, 'from Redis');
     }
-    
+
     if ($cnt->error ){
         $perflog->stack[] = $cnt->error;
         $wt->toDie('error. ec::index::cnt -> '.$cnt->error );
     }
 
     require_once( 'Graph.php' );
-    
+
 //Output stuff
-    $wt->content = getPageTemplate( "result" );    
-    
+    $wt->content = getPageTemplate( "result" );
+
 //Make Graphs
     $graphNS = xGraph::makePieGoogle( $cnt->getNamespaceTotals() );
     $legendNS = xGraph::makeLegendTable(  $cnt->getNamespaceTotals(), $cnt->getNamespaces() );
-    
+
     $graphMonths = xGraph::makeHorizontalBar( "month", $cnt->getMonthTotals(), 800, $cnt->getNamespaces());
     $graphYears = xGraph::makeHorizontalBar( "year", $cnt->getMonthTotals(), 800, $cnt->getNamespaces());
-    
+
     $gcolor1 = '99CCFF';
     $gcolor2 = '99CC00';
     $msgBytes = $I18N->msg('bytes');
-    
+
     $gminorpct = ($cnt->mMinorEditsByte / $cnt->mLive) *100;
     $mdata = array( $cnt->mMinorEditsByte, $cnt->mLive - $cnt->mMinorEditsByte );
     $mlabels = array( "< 20 $msgBytes &middot; ". $wt->numFmt($gminorpct,1).'%', "≥ 20 $msgBytes &middot; ". $wt->numFmt(100 - $gminorpct,1).'%' );
     $mcolors = ( is_numeric($cnt->mMinorEditsByte) ) ? array( $gcolor1, $gcolor2 ) : array('cccccc', 'cccccc') ;
     $graphminorbyte = '<img alt="bla" src="'.xGraph::makeMiniPie( $mdata, $mlabels, $mcolors, $wi->lang ).'" />';
     $wt->assign( 'graphminorbyte', $graphminorbyte );
-    
+
     $gminorpct = ($cnt->mEditsSummary / $cnt->mLive) *100;
     $mdata = array(  $cnt->mLive - $cnt->mEditsSummary, $cnt->mEditsSummary);
     $mlabels = array( $I18N->msg('no_summary'). ' &middot; ' . $wt->numFmt(100 - $gminorpct,1).'%', $I18N->msg('with_summary'). ' &middot; '. $wt->numFmt($gminorpct,1).'%' );
@@ -113,10 +113,10 @@ function delayer(){
 
 //Make list of TopEdited Pages
     $wgNamespaces = $cnt->getNamespaces();
-    
+
     $uniqueEdits = $cnt->getUniqueArticles();
     ksort($uniqueEdits['namespace_specific']);
-    
+
     $num_to_show = 15;
 
     $out = '<table class="table-condensed table-striped xt-table">';
@@ -124,18 +124,18 @@ function delayer(){
     foreach( $uniqueEdits['namespace_specific'] as $namespace_id => $articles ) {
 
         $out .= '<tr><td colspan=22 ><h3>' . $wgNamespaces['names'][$namespace_id] . '</h3></td></tr>';
-    
+
         #asort( $articles );
         #$articles = array_reverse( $articles );
         #$perflog->stack[] = $articles; //$uniqueEdits['namespace_specific'][0];
-    
+
         $i = 0;
         foreach ( $articles as $article => $count ) {
             if( $i == $num_to_show ) {
                 $out .= "<tr><td colspan=22 style='padding-left:50px; padding-top:10px;'><a href=\"//".XTOOLS_BASE_WEB_DIR."/topedits/?lang=$lang&wiki=$wiki&user=$user&namespace=${namespace_id}\" >-".$I18N->msg('more')."-</a></td></tr>";
                 break;
             }
-            
+
             $nscolon = '';
             if( $namespace_id != 0 ) {
                 $nscolon = $wgNamespaces['names'][$namespace_id].":";
@@ -144,24 +144,24 @@ function delayer(){
             $articleencoded = rawurlencode( str_replace(" ", "_", $nscolon.$article ) );
             $articleencoded = str_replace( array('%2F', '%3A'), array('/', ':'), $articleencoded );
             $article = str_replace("_", " ", $nscolon.$article);
-            
+
             $out .= "
                 <tr>
                 <td class=tdnum >$count</td>
                 <td style=\"max-width:70%\"><a href=\"//$domain/wiki/$articleencoded\" >$article</a></td>
                 <td style=\"white-space:nowrap\">
                 <a href=\"//$domain/w/index.php?title=Special:Log&type=&page=$articleencoded\" ><small>log</small></a> &middot;
-                <a href=\"//".XTOOLS_BASE_WEB_DIR."/articleinfo/?lang=$lang&wiki=$wiki&page=$articleencoded\" ><small>page history</small></a> &middot;
+                <a href=\"//".XTOOLS_BASE_WEB_DIR."-articleinfo/?lang=$lang&wiki=$wiki&page=$articleencoded\" ><small>page history</small></a> &middot;
                 <a href=\"//".XTOOLS_BASE_WEB_DIR."/topedits/?lang=$lang&wiki=$wiki&user=${user}&page=$articleencoded\" ><small>topedits</small></a>
                 </td>
              ";
-                            
+
             $i++;
         }
-        
-    } 
+
+    }
     $out .= "</table><br />";
-    
+
 //Make list of automated edits tools
     $AEBs = $cnt->getAEBTypes();
     arsort( $cnt->mAutoEditTools );
@@ -175,10 +175,10 @@ function delayer(){
                 </tr>';
     }
     $list .= '</table>';
-    
+
     $wt->assign( 'autoeditslist', $list);
     unset( $list );
-    
+
 //Make latest global edits
     $list = '
             <table class="table-striped table-condensed sortable xt-table" >
@@ -193,7 +193,7 @@ function delayer(){
     foreach( $cnt->mLatestEditsGlobal["list"] as $i => $row ){
         $fdomain = $wt->metap[ $row["wiki"] ]["domain"];
         $fnamespace = $wt->getNamespaces( $fdomain, true );
-        $ns = ($row["page_namespace"] == 0 ) ? "" : $fnamespace["names"][ $row["page_namespace"] ].":"; 
+        $ns = ($row["page_namespace"] == 0 ) ? "" : $fnamespace["names"][ $row["page_namespace"] ].":";
         $title = str_replace('_', ' ', $ns . $row["page_title"]);
         $urltitle = rawurlencode( str_replace(' ', '_', $title) );
         $date = date('Y-m-d, H:i ', strtotime( $row['rev_timestamp']) );
@@ -213,9 +213,9 @@ function delayer(){
         ';
     }
     $list .= '</table>';
-    
+
 #    $list = '<table><tr><td colspan=20 >This feature is currently not available (database upgrade). Sorry. Back soon</td></tr></table>';
-    
+
     $wt->assign( 'latestglobal', $list );
     unset($list);
 
@@ -224,7 +224,7 @@ function delayer(){
     $i = 0;
     $listsum = 0;
     $latestother = '';
-    
+
     foreach ( $cnt->wikis as $sulwiki => $row ){
 
         if ($sulwiki  == "wikidatawiki") {
@@ -234,7 +234,7 @@ function delayer(){
         $latest = @$cnt->mLatestEditsGlobal["latest"][ $sulwiki ];
         $diff = $wt->datediff( DateTime::createFromFormat('YmdHis', $latest ) );
         $diffspan = "<span style=\"color:$diff->diffcolor\" ><small>$diff->difftxt</small></span>";
-        
+
         $trmarker = "";
         if ($sulwiki == $wi->database ){
             $trmarker = '►';
@@ -245,7 +245,7 @@ function delayer(){
             $blockmarker = 'red';
             $blocktext = 'The user is currently blocked on this wiki';
         }
-        
+
         if ( $row["editcount"] && $i <= 10 ){
             $list .= '
                 <tr>
@@ -264,10 +264,10 @@ function delayer(){
                 $latestotherwiki = $sulwiki;
             }
         }
-        
+
         $i++;
     }
-    
+
     $wt->assign( 'sulinfotop', $list);
     $wt->assign( 'sulother', ($cnt->mRegisteredWikis - count($listedwikis) ) );
     $wt->assign( 'sulothercount', $wt->numFmt( ($cnt->mTotalGlobal - $listsum) ) );
@@ -275,33 +275,33 @@ function delayer(){
     $wt->assign( 'latestotherwiki', $latestotherwiki );
     $wt->assign( 'sultotal', $wt->numFmt( $cnt->mTotalGlobal ) );
     unset( $list, $listedwikis );
-    
+
 //Make TimeCard graphics
     $imgTimecardBubble = '<img alt="Timecard" src="'.xGraph::makeTimecardBubble( $cnt->timeCard["matrix"], $lang ).'" />';
-    
-    
+
+
 //Output stuff
     $groupsGlobal = ($cnt->mGroupsGlobal) ? " &bull; global: ".implode(", ", $cnt->mGroupsGlobal) : "";
     $extendedLink = (true || $cnt->extended) ? '' : '<small><a href="//tools.wmflabs.org/xtools-ec/?'.$_SERVER['QUERY_STRING'].'&extended=1 " >Run extended</a></small>';
     $wt->assign('runextended', $extendedLink);
-    
+
     $msgDay = $I18N->msg('days', array("variables"=>array(1)));
     $msgDays = $I18N->msg('days', array("variables"=>array(2)));
     $wt->assign( 'avgeditsperdaytext', $I18N->msg('avg_edits_per_time_sign', array("variables" => array($msgDay))) ) ;
-    
+
     $wt->assign( 'xtoolsbase', XTOOLS_BASE_WEB_DIR );
     $wt->assign( "lang", $lang );
     $wt->assign( "wiki", $wiki );
     $wt->assign( "userid", $cnt->mUID );
-    $wt->assign( "username", $cnt->getName() ); 
+    $wt->assign( "username", $cnt->getName() );
     $wt->assign( "usernameurl", rawurlencode($cnt->getName()) );
-    $wt->assign( "userprefix", rawurlencode($cnt->mNamespaces["names"][2] ) ); 
+    $wt->assign( "userprefix", rawurlencode($cnt->mNamespaces["names"][2] ) );
     $wt->assign( "domain", $domain );
     $wt->assign( "loadwiki", "&wiki=$wiki&lang=$lang" );
-    
+
     $adminlink = '<a href="//'.XTOOLS_BASE_WEB_DIR.'/adminstats/?project='.$wi->domain.'" >sysop</a>';
     $wt->assign( "groups", str_replace('sysop', $adminlink, implode( ', ', $cnt->mGroups)) . $groupsGlobal );
-    
+
     $wt->assign( "firstedit",         $wt->dateFmt( $cnt->mFirstEdit) );
     $wt->assign( "latestedit",         $wt->dateFmt( $cnt->mLatestEdit) );
     $wt->assign( 'editdays',         $cnt->mEditDays." $msgDays" );
@@ -319,25 +319,25 @@ function delayer(){
     $wt->assign( "minor_edits",      $wt->numFmt( $cnt->mMinorEdits ) );
     $wt->assign( "minor_edits_byte",$wt->numFmt( $cnt->mMinorEditsByte ) );
     $wt->assign( "major_edits_byte",$wt->numFmt( $cnt->mMajorEditsByte ) );
-    
+
     $wt->assign( "blockednum",        $wt->numFmt( $cnt->mBlockedNum ) );
     $wt->assign( "blockedlongest",    $wt->numFmt( $cnt->mBlockedLongest ) );
-    
+
     $blockedmessage = '<span>Current block:&nbsp;</span><span style="float:right" >–</span>';
     if ($cnt->mBlockedCurrent){
         $blockedmessage = '<span style="color:red" >Current block:&nbsp;</span><span style="float:right;color:red" >'.$cnt->mBlockedCurrent.'</span>';
     }
     $wt->assign( "blockedcurrent",    $wt->numFmt( $blockedmessage ) );
-    
+
     $wt->assign( "live",               $wt->numFmt( $cnt->mLive ) );
     $wt->assign( "deleted",           $wt->numFmt( $cnt->mDeleted ) );
     $wt->assign( "total",               $wt->numFmt( $cnt->mTotal ) );
-    
+
     $wt->assign( "lastday",           $wt->numFmt( $cnt->mLastDay ) );
     $wt->assign( "lastweek",           $wt->numFmt( $cnt->mLastWeek ) );
     $wt->assign( "lastmonth",          $wt->numFmt( $cnt->mLastMonth ) );
     $wt->assign( "lastyear",           $wt->numFmt( $cnt->mLastYear ) );
-    
+
     $wt->assign( "thanked",           $wt->numFmt( $cnt->mLogActions["thanks/"] ) );  //["thanks/thank"]
     $wt->assign( "approve",           $wt->numFmt( $cnt->mLogActions["review/approve"] ) );
     $wt->assign( "unapprove",           $wt->numFmt( $cnt->mLogActions["review/unapprove"] ) );
@@ -350,13 +350,13 @@ function delayer(){
     $wt->assign( "delete_rev",           $wt->numFmt( $cnt->mLogActions["delete/revision"] ) );
     $wt->assign( "restore",              $wt->numFmt( $cnt->mLogActions["delete/restore"] ) );
     $wt->assign( "import_iw",           $wt->numFmt( $cnt->mLogActions["import/"] ) );  //["import/interwiki"]
-    
+
     $wt->assign( "namespace_legend", $legendNS );
     $wt->assign( "namespace_graph", '<img src="'.$graphNS.'"  />' );
-    
+
     $wt->assign( "yearcounts", $graphYears );
-    
-    
+
+
     if( $cnt->optin ) {
         $wt->assign( "monthcounts", $graphMonths );
         $wt->assign( "topedited", $out );
@@ -365,7 +365,7 @@ function delayer(){
     else {
         $nomessage = $I18N->msg( "nograph", array( "variables"=> array( $cnt->getOptinLinkLocal(), $cnt->getOptinLinkGlobal() ) ))
                 . "<br /> " . $I18N->msg('nograph2', array( "variables" => array($wt->linkOauthHelp) )  );
-        
+
         $wt->assign( "monthcounts", $nomessage);
         $wt->assign( "topedited", $nomessage );
         $wt->assign( 'timebubble', $nomessage );
@@ -385,7 +385,7 @@ function getPageTemplate( $type ){
     $templateForm = '..old..';
 
     $templateResult = '
-    
+
     <div class="panel panel-primary" style="text-align:center">
         <div class="panel-heading">
             <p class="xt-heading-top" >
@@ -393,16 +393,16 @@ function getPageTemplate( $type ){
                 <small><span style="padding-left:10px;" > &bull;&nbsp; {$domain} </span></small>
             </p>
         </div>
-        <div class="panel-body xt-panel-body-top" >    
+        <div class="panel-body xt-panel-body-top" >
             <p>
                 <a href="//{$domain}/w/index.php?title=Special%3ALog&type=block&user=&page=User%3A{$usernameurl}&year=&month=-1&tagfilter=" >Block log</a> &middot;
                 <a href="//tools.wmflabs.org/guc/?user={$usernameurl}" >Global user contributions</a> &middot;
                 <a href="//meta.wikimedia.org/w/index.php?title=Special%3ACentralAuth&target={$usernameurl}" >Global Account Manager</a> &middot;
                 <a href="//tools.wmflabs.org/quentinv57-tools/tools/sulinfo.php?username={$usernameurl}" >SUL Info</a> &middot;
-                <a href="//tools.wmflabs.org/wikiviewstats/?lang={$lang}&wiki={$wiki}&page={$userprefix}:{$usernameurl}*" >Pageviews in userspace</a> &middot;
+                <a href="//tools.wmflabs.org/pageviews/?project={$lang}.{$wiki}.org&pages={$userprefix}:{$usernameurl}" >Userpage pageviews</a>
             </p>
 
-            
+
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4  class="topcaption" >{#generalstats#} <span class="showhide" onclick="javascript:switchShow( \'generalstats\', this )">[{#hide#}]</span>
@@ -491,7 +491,7 @@ function getPageTemplate( $type ){
                         <tr><td colspan=2></td></tr><tr>
                         <tr><td>{#total#}</td><td><span class="tdgeneral" >{$sultotal}</span></td></tr>
                     </table>
-                </div> 
+                </div>
             </div>
             <br />
             <div class="row">
@@ -499,7 +499,7 @@ function getPageTemplate( $type ){
             </div>
         </div>
     </div>
-    
+
     <a name="nstotals"></a>
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -525,7 +525,7 @@ function getPageTemplate( $type ){
             <br />
         </div>
     </div>
-            
+
     <a name="timecard"></a>
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -536,7 +536,7 @@ function getPageTemplate( $type ){
             <br />
         </div>
     </div>
-            
+
     <a id="latestglobal2"></a>
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -547,7 +547,7 @@ function getPageTemplate( $type ){
             <br />
         </div>
     </div>
-            
+
     <a name="monthcounts"></a>
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -569,7 +569,7 @@ function getPageTemplate( $type ){
             <br />
         </div>
     </div>
-            
+
     <a name="autoeditslist"></a>
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -580,15 +580,15 @@ function getPageTemplate( $type ){
             <br />
         </div>
     </div>
-    
+
 </div>
 </div>
     ';
-    
-    
-    
+
+
+
     if( $type == "form" ) { return $templateForm; }
     if( $type == "result" ) { return $templateResult; }
-    
+
     }
 ?>
