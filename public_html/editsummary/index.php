@@ -29,7 +29,7 @@
 function getNamespaces() {
    global $http, $name, $lang, $wiki;
 
-   $namespaces = $http->get( 'http://'.$lang.'.'.$wiki.'.org/w/api.php?action=query&meta=siteinfo&siprop=namespaces&format=php', false );
+   $namespaces = $http->get( 'https://'.$lang.'.'.$wiki.'.org/w/api.php?action=query&meta=siteinfo&siprop=namespaces&format=php', false );
    $namespaces = unserialize( $namespaces );
    $namespaces = $namespaces['query']['namespaces'];
    if( !$namespaces[0] ) { toDie( 'Not a valid wiki.' ); };

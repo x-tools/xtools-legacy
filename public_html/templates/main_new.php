@@ -68,7 +68,7 @@
 	<div class="container-fluid" style="margin-top: -10px;margin-bottom:10px;">
 		<?php echo ($wt->sitenotice) ? "<p class='alert alert-info xt-alert'> $wt->sitenotice </p>" : "" ?>
 		<?php echo ($wt->toolnotice) ? "<p class='alert alert-warning xt-alert'> $wt->toolnotice </p>" : "" ?>
-		<?php //echo (strpos($_SERVER['SCRIPT_NAME'], 'xtools/ec') !== false) ? "<p class='alert alert-danger'>Edit counter is currently malfunctioning, apologies for the inconvenience. </p>" : "" ?>
+                <!-- <?php echo (strpos($_SERVER['SCRIPT_NAME'], 'xtools-ec') !== false) ? "<p class='alert alert-danger xt-alert'><b>Edit counter is currently malfunctioning, apologies for the inconvenience.</b></p>" : "" ?> -->
 		<?php echo ($wt->alert) ? "<p class='alert alert-warning xt-alert'> $wt->alert </p>" : "" ?>
 		<?php echo ($wt->error) ? "<p class='alert alert-danger xt-alert'> $wt->error </p>" : "" ?>
 		<?php echo ($wt->replag) ? "<p class='alert alert-danger xt-alert'> $wt->replag </p>" : "" ?>
@@ -85,8 +85,9 @@
 					<span>&copy; 2008-2015 &middot; </span>
                     <a href="//en.wikipedia.org/wiki/User:Cyberpower678"><b>Cyberpower678</b></a> &middot;
 					<a href="//de.wikipedia.org/wiki/User:Hedonil">Hedonil</a> &middot;
+                    <a href="//en.wikipedia.org/wiki/User:Matthewrbowker"><b>Matthewrbowker</b></a> &middot;
                     <a href="//en.wikipedia.org/wiki/User:MusikAnimal"><b>MusikAnimal</b></a> &middot;
-                    <a href="//en.wikipedia.org/wiki/User:Technical 13"><b>Technical 13</b></a> &middot;
+					<a href="//en.wikipedia.org/wiki/User:Technical_13">Technical 13</a> &middot;
 					<a href="//en.wikipedia.org/wiki/User:TParis">TParis</a> &middot;
 					<a href="//en.wikipedia.org/wiki/User:X!">X!</a> &bull;
 					<?php echo $wt->sourcecode ?>

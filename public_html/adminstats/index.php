@@ -189,7 +189,7 @@ function getAdminStats( $dbr, $wi, $datefrom, $dateto ){
 	
 // 	$lk = $dbr->query( $query );
 	
-	$perflog->add('admin_AfD', (microtime(true)-$stime), $lk );
+	// $perflog->add('admin_AfD', (microtime(true)-$stime), $lk );
 	
 	$list='
 			<tr>

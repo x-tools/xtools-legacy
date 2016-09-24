@@ -21,23 +21,14 @@
 			$optionsProject = "
 					<option selected value ='en.wikipedia'>en.wikipedia</option>
 					<option value ='de.wikipedia'>de.wikipedia</option>
-					<option value ='commons.wikimedia'>commons.wikimedia</option>
 					";
 			break;
 		case "de.wikipedia.org":
 			$optionsProject = "
 					<option value ='en.wikipedia'>en.wikipedia</option>
 					<option selected value ='de.wikipedia'>de.wikipedia</option>
-					<option value ='commons.wikimedia'>commons.wikimedia</option>
 					";
 			break;
-		case "commons.wikimedia.org":
-			$optionsProject = "
-					<option value ='en.wikipedia'>en.wikipedia</option>
-					<option value ='de.wikipedia'>de.wikipedia</option>
-					<option selected value ='commons.wikimedia'>commons.wikimedia</option>
-					";
-			break;			
 		
 		default:
 			$wt->toDie( 'nosupport', $domain );
@@ -45,19 +36,15 @@
 	
 	$msgOnDeWiki = "on the German Wikipedia";
 	$msgOnEnWiki = "on the English Wikipedia";
-	$msgOnCommonsWiki = "on Wikimedia Commons";
 	if ( $wt->uselang == "de" ){
 		$msgOnDeWiki = "in der deutschen Wikipedia";
 		$msgOnEnWiki = "in der englischen Wikipedia";
-		$msgOnCommonsWiki = "auf Wikimedia Commons";
 	}
 	$wt->assign( 'onEnWiki', $msgOnEnWiki );
 	$wt->assign( 'onDeWiki', $msgOnDeWiki );
-	$wt->assign( 'onCommonsWiki', $msgOnCommonsWiki );
 	
 	$defaultPage["en.wikipedia.org"] = 'Wikipedia:Requests for adminship/Name of user';
 	$defaultPage["de.wikipedia.org"] = 'Wikipedia:Adminkandidaturen/Name des Benutzers';
-	$defaultPage["commons.wikimedia.org"] = 'Commons:Administrators/Requests/Name of user';
 	
 	$wt->assign( 'optionsProject', $optionsProject );
 	$wt->assign( 'defaultPage', $defaultPage[ $domain ] );
@@ -89,9 +76,6 @@
 			break;
 		case "de.wikipedia.org":
 			$myRFA = new RFAde( $site, $page );
-			break;
-		case "commons.wikimedia.org":
-			$myRFA = new RFAcommons( $site, $page );
 			break;	
 		default:
 			$wt->toDie( 'something_went_wrong');
@@ -177,29 +161,6 @@ function getRecentRfXs( $domain ){
 				AND page_title LIKE 'Bürokratenkandidaturen/%'
 				AND page_title NOT LIKE 'Bürokratenkandidaturen/Archiv%'
 				AND page_title NOT LIKE 'Bürokratenkandidaturen/Februar_2011%'
-				ORDER BY page_id DESC
-				Limit 100;
-			";
-	}
-	elseif ( $domain == "commons.wikimedia.org" ){
-		$dbr = $wt->loadDatabase( 'commons', 'wikimedia' );
-		$list = '<option value="" >Select from most recent RfA\'s / RfB\'s</option>';
-		$optproupLabel["rfas"] = "Requests for Adminship";
-		$optproupLabel["rfbs"] = "Requests for Bureaucratship";
-		$queryA ="
-				SELECT 'rfa' as type, page_title
-				FROM page 
-				WHERE page_namespace = '4'
-				AND page_title LIKE 'Administrators/Requests/%'
-				AND page_title NOT LIKE 'Commons:Administrators/Requests/%/Bureaucrat_discussion'
-				ORDER BY page_id DESC
-				LIMIT 100
-			";		
-		$queryB = "
-				SELECT 'rfb' as type, page_title
-				FROM page
-				WHERE page_namespace = '4'
-				AND page_title LIKE 'Commons:Bureaucrats/Requests/%'
 				ORDER BY page_id DESC
 				Limit 100;
 			";
@@ -321,7 +282,7 @@ function getPageTemplate( $type ){
 		<div class="panel-body xt-panel-body-top" >
 			<p>
 				<a href="//{$domain}/w/index.php?title=Special%3ALog&type=block&user=&page=User%3A{$usernameurl}&year=&month=-1&tagfilter=" >Block log</a> &middot;
-				<a href="//tools.wmflabs.org/xtools-ec/?user={$usernameurl}&lang={$lang}&wiki={$wiki}" >Edit Counter</a> &middot;
+				<a href="//tools.wmflabs.org/xtools/ec/?user={$usernameurl}&lang={$lang}&wiki={$wiki}" >Edit Counter</a> &middot;
 				<a href="//tools.wmflabs.org/guc/?user={$usernameurl}" >Global user contributions</a> &middot;
 				<a href="//meta.wikimedia.org/w/index.php?title=Special%3ACentralAuth&target={$usernameurl}" >Global Account Manager</a> &middot;
 				<a href="//tools.wmflabs.org/wikiviewstats/?lang={$lang}&wiki={$wiki}&page={$userprefix}:{$usernameurl}*" >Pageviews in userspace</a> &middot;
