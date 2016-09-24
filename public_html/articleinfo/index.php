@@ -21,8 +21,9 @@ function delayer(){
 }
 
 //Requires
-    set_include_path( get_include_path() . PATH_SEPARATOR . '/data/project/xtools/public_html/articleinfo');
-    require_once( '/data/project/xtools/modules/WebTool.php' );
+    set_include_path( get_include_path() . PATH_SEPARATOR . dirname( dirname( dirname( __FILE__ ) ) ) . DIRECTORY_SEPARATOR );
+    require_once( 'modules/WebTool.php' );
+    $ini = php_ini_loaded_file();
 
 
 //Load WebTool class

@@ -202,7 +202,7 @@ function delayer(){
             <td class="tddate">'.$date.'</td>
             <td>'.$row["wiki"].'</td>
             <td style="white-space:nowrap">(
-                <a title="Current diff" href="//'.$fdomain.'/w/index.php?title='.$urltitle.'&amp;diff=prev&amp;oldid='.$row['rev_id'].'" title="'.$title.'">diff</a> &middot;
+                <a title="Current diff" href="//'.$fdomain.'/w/index.php?title='.$urltitle.'&amp;diff=prev&amp;oldid='.$row['rev_id'].'" title="'.$title.'">diff</a> &middot; 
                 <a title="Special:contributions" href="//'.$fdomain.'/w/index.php?title=Special:Contributions&tagfilter=&contribs=user&target='.$ui->userUrl.'" >log</a> &middot;
                 <a title="XTools topedits: useredits per page" href="//'.XTOOLS_BASE_WEB_DIR.'/topedits/index.php?project='.$fdomain.'&user='.$ui->userUrl.'&page='.$urltitle.'">top</a>
                 )
@@ -230,7 +230,7 @@ function delayer(){
         if ($sulwiki  == "wikidatawiki") {
             $sulwiki = "wikidata";
         }
-
+        
         $latest = @$cnt->mLatestEditsGlobal["latest"][ $sulwiki ];
         $diff = $wt->datediff( DateTime::createFromFormat('YmdHis', $latest ) );
         $diffspan = "<span style=\"color:$diff->diffcolor\" ><small>$diff->difftxt</small></span>";
@@ -250,7 +250,7 @@ function delayer(){
             $list .= '
                 <tr>
                 <td>'.$trmarker.' <span title="'.$blocktext.'" style="color:'.$blockmarker.'" >'.$sulwiki.'</span></td>
-                <td><span class="tdgeneral" ><a href="//'.XTOOLS_BASE_WEB_DIR."-ec/index.php?user=$ui->userUrl&project=$sulwiki".'" >'.$wt->numFmt($row["editcount"]).'</a></span></td>
+                <td><span class="tdgeneral" ><a href="//'.XTOOLS_BASE_WEB_DIR."-ec/?user=$ui->userUrl&project=$sulwiki".'" >'.$wt->numFmt($row["editcount"]).'</a></span></td>
                 <td class="tdnum">'.$diffspan.'</td>
                 </tr>
             ';
@@ -282,7 +282,7 @@ function delayer(){
     
 //Output stuff
     $groupsGlobal = ($cnt->mGroupsGlobal) ? " &bull; global: ".implode(", ", $cnt->mGroupsGlobal) : "";
-    $extendedLink = (true || $cnt->extended) ? '' : '<small><a href="//tools.wmflabs.org/xtools-ec/?'.$_SERVER['QUERY_STRING'].'&extended=1 " >Run extended</a></small>';
+    $extendedLink = (true || $cnt->extended) ? '' : '<small><a href="//tools.wmflabs.org/xtools/ec/?'.$_SERVER['QUERY_STRING'].'&extended=1 " >Run extended</a></small>';
     $wt->assign('runextended', $extendedLink);
     
     $msgDay = $I18N->msg('days', array("variables"=>array(1)));

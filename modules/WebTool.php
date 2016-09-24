@@ -153,9 +153,7 @@ class WebTool {
       
       mb_internal_encoding("utf-8");
       
-      $this->sitenotice = '
-            &#9733;&nbsp; Try: <a class="alert-link" href="//meta.wikimedia.org/wiki/User:Hedonil/XTools" >XTools gadget</a>. It\'s fast. Enjoy!&nbsp;&bull;&nbsp;
-         '; 
+      $this->sitenotice = ''; 
       $this->alert = '';
       #Now with cross-wiki notifications <sup style=color:green; font-style:italic">beta</sup>
       #$xnotice["adminstats"] = 'Please note: Default behaviour has changed. To autorun with default of 100 days, please set both parameters: <i>project</i> and <i>begin</i>. Eg.: ?project=enwiki<b>&begin=default</b>';
@@ -177,9 +175,9 @@ class WebTool {
       global $I18N, $wgRequest;
       
       $this->numberFormatter   = new NumberFormatter( $this->uselang, NumberFormatter::DECIMAL);
-      $this->dateFormatter     = new IntlDateFormatter( $this->uselang, IntlDateFormatter::MEDIUM, IntlDateFormatter::MEDIUM, "UTC", IntlDateFormatter::GREGORIAN);
-      $this->dateFormatterDate = new IntlDateFormatter( $this->uselang, IntlDateFormatter::MEDIUM, IntlDateFormatter::NONE, "UTC", IntlDateFormatter::GREGORIAN);
-      $this->dateFormatterTime = new IntlDateFormatter( $this->uselang, IntlDateFormatter::NONE, IntlDateFormatter::SHORT, "UTC", IntlDateFormatter::GREGORIAN);
+      $this->dateFormatter     = IntlDateFormatter::create( $this->uselang, IntlDateFormatter::MEDIUM, IntlDateFormatter::MEDIUM, "UTC", IntlDateFormatter::GREGORIAN);
+      $this->dateFormatterDate = IntlDateFormatter::create( $this->uselang, IntlDateFormatter::MEDIUM, IntlDateFormatter::NONE, "UTC", IntlDateFormatter::GREGORIAN);
+      $this->dateFormatterTime = IntlDateFormatter::create( $this->uselang, IntlDateFormatter::NONE, IntlDateFormatter::SHORT, "UTC", IntlDateFormatter::GREGORIAN);
    
       $this->sourcecode = '<a href="//github.com/x-Tools/xtools/" >'.$I18N->msg('source').'</a> &bull; ';
       $this->bugreport = '<a href="//github.com/x-Tools/xtools/issues" >'.$I18N->msg('bugs').'</a> &bull; ';
@@ -256,12 +254,12 @@ class WebTool {
          if ($setwiki) { $this->wikiInfo = $obj; }
          return $obj;
       }
-
+      
       $combo = ( $project ) ? $project : $lang.$wiki;
       $combo = str_replace( array('http:', 'https:', '//', '/', '.', 'org'), array('','','','','',''), $combo );
 
       if ( strpos( $project, '.org' ) !== false ) {
-         $domain = str_replace( array('http:', 'https:', '/'), array('','',''), $project );
+      	$domain = str_replace( array('http:', 'https:', '/'), array('','',''), $project );
       } elseif ( preg_match( '/(?:wiki$|wikipedia)/', $combo , $matches ) ){
          $domain = str_replace( $matches[0], '', $combo ) . '.wikipedia.org';
       } elseif ( preg_match( '/(?:wikisource|wikibooks|wiktionary|wikinews|wikiquote|wikiversity|wikivoyage)/', $combo , $matches )  ){
@@ -277,7 +275,7 @@ class WebTool {
       } elseif ( preg_match( '/foundation/', $combo) ) {
          $domain = 'wikimediafoundation.org';
       } elseif ( preg_match( '/outreach/', $combo) ) {
-         $domain = 'outreach.wikimedia.org';
+	 $domain = 'outreach.wikimedia.org';
       } elseif ( preg_match( '/incubator/', $combo) ) {
          $domain = 'incubator.wikimedia.org';
       }
@@ -286,30 +284,32 @@ class WebTool {
       $hash = "xtoolsWikiInfo".$domain.XTOOLS_REDIS_FLUSH_TOKEN;
       $res = $redis->get($hash);
       if ( $res === false ) {
-         $data = array(
-            'action' => 'query',
-            'meta' => 'siteinfo',
-            'format' => 'json',
-         );
-         $res = json_decode( $this->gethttp( "https://$domain/w/api.php?" . http_build_query( $data ) ) )->query->general;
-         if ( is_object( $res ) ) {
-            $redis->setex( $hash, $ttl, serialize( $res ) );
-         }
+	      $data = array(
+	       'action' => 'query',
+	       'meta' => 'siteinfo',
+	       'format' => 'json',
+	      );
+	      $res = json_decode( $this->gethttp( "https://$domain/w/api.php?" . http_build_query( $data ) ) )->query->general;
+              if ( is_object( $res ) ) {
+		      $redis->setex( $hash, $ttl, serialize( $res ) );
+	      }
       } else {
-         $res = unserialize( $res );
+              $res = unserialize( $res );
       }
+      // $obj->lang = $res->lang;
       $obj->lang = substr( $res->servername, 0, strcspn( $res->servername, '.' ) );
       $obj->domain = $res->servername;
       $obj->database = $res->wikiid;
-      $obj->imgwiki = $res->favicon;
-      $obj->imglang = $imgbase.$obj->lang.".png";
       preg_match( '/([^.]+)\.org$/', $domain, $matches );
       $obj->wiki = $matches[1];
-      if ( isset( $obj->rtl ) ) {
-         $obj->rlm = "&rlm;";
-         $obj->direction = 'rtl';
-      }
 
+      $obj->imgwiki = $res->favicon;
+      $obj->imglang = $imgbase.$obj->lang.".png";
+      if ( isset( $obj->rtl ) ) {
+	      $obj->rlm = "&rlm;";
+	      $obj->direction = 'rtl';
+      }
+      
       if ($setwiki) { $this->wikiInfo = $obj; }
       
       $this->getNamespaces( $obj->domain );
@@ -577,7 +577,7 @@ class WebTool {
       
       try{
          $inifile = XTOOLS_BASE_SYS_DIR_DB . "/replica.my.cnf";
-         if (strpos($_SERVER['SCRIPT_NAME'], 'xtools/ec') !== false) { $inifile = str_replace("xtools", "xtools-ec", $inifile); }
+         if (strpos($_SERVER['SCRIPT_NAME'], 'xtools-ec') !== false) { $inifile = str_replace("xtools", "xtools-ec", $inifile); }
          $iniVal = parse_ini_file($inifile);
          $dbUser = $iniVal["user"];
          $dbPwd  = $iniVal["password"];
@@ -609,7 +609,7 @@ class WebTool {
 //          $dbname = $dbnameIn."_p";
 //       }
       elseif ($dbnameIn){
-         $server = "c2.labsdb"; //$dbnameIn.".labsdb";
+         $server =  "c2.labsdb"; //$dbnameIn.".labsdb";
          $dbname = $dbnameIn."_p";
       }
       else{

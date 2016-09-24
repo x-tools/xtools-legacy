@@ -395,6 +395,7 @@ class WebRequest {
 	function getServer() {
 		/** URL of the server. It will be automatically built including https mode */
 		$wgServer = '';
+		$wgProto = 'https';
 		 
 		if( isset( $_SERVER['SERVER_NAME'] ) ) {
 			$wgServerName = $_SERVER['SERVER_NAME'];
@@ -407,9 +408,6 @@ class WebRequest {
 		} else {
 			$wgServerName = 'localhost';
 		}
-		 
-		# check if server use https:
-		$wgProto = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 'https' : 'http';
 		 
 		$wgServer = $wgProto.'://' . $wgServerName;
 		# If the port is a non-standard one, add it to the URL

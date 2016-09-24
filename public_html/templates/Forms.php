@@ -230,8 +230,8 @@ private static $templateForm = array(
 private static $tplNew = array(
 
 'pre' => '
-		<h3 style="margin-bottom: 0.4em">{$toolTitle}<small style="color:inherit"> &nbsp;&bull;&nbsp; {$toolDesc}</small></h3>
-		<form class="form-horizontal" style="width:80%" action="?" method="get" accept-charset="utf-8" >
+		<h3 style="width:80%; margin-bottom: 0.4em; margin-left:auto; margin-right:auto">{$toolTitle}<small style="color:inherit"> &nbsp;&bull;&nbsp; {$toolDesc}</small></h3>
+		<form class="form-horizontal" style="width:80%; margin: 0 auto" action="?" method="get" accept-charset="utf-8" >
 		<fieldset>
 		<legend></legend>
 	',

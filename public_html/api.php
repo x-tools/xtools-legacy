@@ -75,6 +75,8 @@ $ptime = microtime(true);
 
 	$dbr = $wt->loadDatabase( null, null, $db );
 	$ai = new ArticleInfo($dbr, $wi, $pagetitle, null, null, false, $pageid, $conf, $nsid, $wditemid );
+
+	$ai->parseHistory();
 	
 	if ( !$ai->data['editor_count']){
 		throw new Exception('nodata');
@@ -181,8 +183,11 @@ if ($lang = "de"){
 }
 }
 catch(Exception $e){
+	ob_start();
+	var_dump($data);
+	$result = ob_get_clean();
 	echo "xpagehistory.resultloaded('maintenance')";
-	file_put_contents('/data/project/xtools/api_test', session_id()."\t$pagetitle".json_encode($e)."\t$cookie\n\n", FILE_APPEND );
+	file_put_contents('/data/project/xtools/api_test', session_id()."\t$pagetitle".json_encode($e)."\t$cookie\n\t$result\n\n", FILE_APPEND );
 }
 
 unset($wt, $ai, $wi, $linkData, $checkcolor);
