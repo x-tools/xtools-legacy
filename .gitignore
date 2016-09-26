@@ -1,0 +1,15 @@
+.idea
+*.iml
+
+# Precompiled files
+/public_html/wikihistory/enwiki/core
+/public_html/rfap/core
+/public_html/rangecontribs/core
+/public_html/pcount/core
+/public_html/pages/core
+/public_html/editsummary/core
+/public_html/echo/core
+/public_html/ec/core
+/public_html/autoblock/core
+/public_html/core
+
