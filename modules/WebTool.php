@@ -94,8 +94,6 @@ class WebTool {
       //Init redis caching support
       $redis = $this->initRedis();
 
-      $this->checkSpider();
-
       //Start session
       session_save_path(XTOOLS_BASE_SYS_DIR_SESSION.'/tmp/session');
       ini_set('session.gc_probability', 1);
@@ -153,9 +151,7 @@ class WebTool {
 
       mb_internal_encoding("utf-8");
 
-      $this->sitenotice = '
-            &#9733;&nbsp; Try: <a class="alert-link" href="//meta.wikimedia.org/wiki/User:Hedonil/XTools" >XTools gadget</a>. It\'s fast. Enjoy!&nbsp;&bull;&nbsp;
-         ';
+      $this->sitenotice = '';
       $this->alert = '';
       #Now with cross-wiki notifications <sup style=color:green; font-style:italic">beta</sup>
       #$xnotice["adminstats"] = 'Please note: Default behaviour has changed. To autorun with default of 100 days, please set both parameters: <i>project</i> and <i>begin</i>. Eg.: ?project=enwiki<b>&begin=default</b>';
@@ -165,7 +161,9 @@ class WebTool {
       $this->OAuthObject = new OAuth2(( !empty($this->getWikiInfo()->domain) ? "https://".$this->getWikiInfo()->domain."/w/api.php" : "https://www.mediawiki.org/w/api.php") );
       $this->checkLoginMessagesStatus();
 
-
+      if ( !$this->loggedIn ) {
+         $this->checkSpider();
+      }
 
       if ( !$this->wikiInfo->error ){
          $_SESSION[ "wikiinfo_". $this->toolConfigTitle ] = $this->wikiInfo;
@@ -718,7 +716,7 @@ class WebTool {
        ){
          $redis->expire( $reqStr , 300 );
          header("HTTP/1.1 403 Forbidden");
-         echo "Forbidden: Possible spider crawl detected (timeout 10 min). If you are human, you are making too many requests during a short period of time. Please wait 5 minutes before using the tool again.";
+         echo "Forbidden: Possible spider crawl detected (timeout 10 min). If you are human, you are making too many requests during a short period of time.<br/>Please wait 5 minutes before reloading this tool. You can then login to prevent this from happening again.";
          file_put_contents('/data/project/xtools/spider.log', gethostname()."\t$reqUri\t$uagent\n", FILE_APPEND );
          $this->__destruct();
       }
