@@ -657,30 +657,16 @@ class WebTool {
    }
 
    function initI18N(){
-      global $redis;
-
-      $ttl = 86400;
-      $hash = "xtoolsI18N_".XTOOLS_REDIS_FLUSH_TOKEN.'35' ;
-
-      $lc = $redis->get( $hash );
-      if ( $lc === 'false' || $lc === false ) {
-         $initOpts = array(
-               'suppressfatal' => true,
-               'stayalive' => true,
-               //'domain' => 'xtools',
-            );
-         $I18N = new Intuition( $initOpts );
-         $I18N->loadTextdomainFromFile( XTOOLS_I18_TEXTFILE, 'xtools');
-         $I18N->setDomain('xtools');
-         $redis->setex( $hash, $ttl, serialize($I18N) );
-      }
-      else {
-         $I18N = unserialize($lc);
-         unset($lc);
-      }
+      $initOpts = array(
+         'suppressfatal' => true,
+         'stayalive' => true,
+         //'domain' => 'xtools',
+      );
+      $I18N = new Intuition( $initOpts );
+      $I18N->loadTextdomainFromFile( XTOOLS_I18_TEXTFILE, 'xtools');
+      $I18N->setDomain('xtools');
 
       //temp messages
-
       $this->i18Langs = $I18N->getAvailableLangs('xtools');
 
       return $I18N;
