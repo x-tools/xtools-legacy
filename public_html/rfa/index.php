@@ -142,6 +142,8 @@ function getRecentRfXs( $domain ){
 		$list = '<option value="" >Wähle aus den letzten Kandidaturen</option>';
 		$optproupLabel["rfas"] = "Adminkandidaturen";
 		$optproupLabel["rfbs"] = "Bürokratenkandidaturen";
+		$optproupLabel["os"] = "Oversightkandidaturen";
+		$optproupLabel["checkuser"] = "Checkuser";
 		$queryA ="
 				SELECT 'rfa' as type, page_title
 				FROM page
@@ -164,6 +166,24 @@ function getRecentRfXs( $domain ){
 				ORDER BY page_id DESC
 				Limit 100;
 			";
+                $queryC = "
+                                SELECT 'os' as type, page_title
+                                FROM page
+                                WHERE page_namespace = '4'
+                                AND page_title LIKE 'Oversightkandidaturen/%'
+                                AND page_title NOT LIKE 'Oversightkandidaturen/Archiv%'
+                                ORDER BY page_id DESC
+                                Limit 100;
+                        ";
+                $queryD = "
+                                SELECT 'rfb' as type, page_title
+                                FROM page
+                                WHERE page_namespace = '4'
+                                AND page_title LIKE 'Checkuser/Wahl/%'
+                                AND page_title NOT LIKE 'Checkuser/Wahl/Archiv%'
+                                ORDER BY page_id DESC
+                                Limit 100;
+                        ";
 	}
 	else {
 		return;
@@ -183,7 +203,27 @@ function getRecentRfXs( $domain ){
 		$list .= '<option value="'.$page["page_title"].'" >'.$page["page_title"].'</option>';
 	}
 	$list .= '</optgroup>';
-	
+
+        if (isset($queryC)) {
+            $res = $dbr->query( $queryC );
+
+            $list .= '<optgroup label="'.$optproupLabel["os"].'" >';
+            foreach ($res as $i => $page ){
+                    $list .= '<option value="'.$page["page_title"].'" >'.$page["page_title"].'</option>';
+            }
+            $list .= '</optgroup>';
+        }
+
+        if (isset($queryD)) {
+            $res = $dbr->query( $queryD );
+        
+            $list .= '<optgroup label="'.$optproupLabel["checkuser"].'" >';
+            foreach ($res as $i => $page ){
+                    $list .= '<option value="'.$page["page_title"].'" >'.$page["page_title"].'</option>';
+            }
+            $list .= '</optgroup>';
+        }
+
 	$dbr->close();
 	return $list;
 }
@@ -285,7 +325,7 @@ function getPageTemplate( $type ){
 				<a href="//tools.wmflabs.org/xtools-ec/?user={$usernameurl}&lang={$lang}&wiki={$wiki}" >Edit Counter</a> &middot;
 				<a href="//tools.wmflabs.org/guc/?user={$usernameurl}" >Global user contributions</a> &middot;
 				<a href="//meta.wikimedia.org/w/index.php?title=Special%3ACentralAuth&target={$usernameurl}" >Global Account Manager</a> &middot;
-				<a href="//tools.wmflabs.org/wikiviewstats/?lang={$lang}&wiki={$wiki}&page={$userprefix}:{$usernameurl}*" >Pageviews in userspace</a> &middot;
+				<a href="//tools.wmflabs.org/pageviews/?project={$lang}.{$wiki}.org&pages=User:{$usernameurl}" >Userpage pageviews</a>
 			</p>
 		
 			<div class="panel panel-default">
