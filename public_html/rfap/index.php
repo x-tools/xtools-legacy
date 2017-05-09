@@ -12,61 +12,61 @@
 	$wt->getPageTemplate( 'form' );
 
 	$wt->assign( 'optionsProject', '<option selected value ="en.wikipedia.org">en.wikipedia</option><option value = "de.wikipedia.org" >de.wikipedia</option>' );
-	
+
 	$wi = $wt->wikiInfo;
 		$lang = $wi->lang;
 		$wiki = $wi->wiki;
 		$domain = $wi->domain;
-	
+
 	$ui = $wt->getUserInfo( $lang, $wiki );
 		$user = $ui->user;
-		
-	
+
+
 
 //Show form if username is not set (or empty)
 	if( !$user || !$lang || !$domain ) {
 		$wt->showPage();
 	}
-	
+
 //Check if the user is an IP address
 	if( preg_match( '/^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$/', $name ) ) {
 		$wt->error = "User cannot be an IP.";
 		$wt->showPage();
 	}
-	
+
 	$rfa['en'] = 'Requests_for_adminship';
 	$rfa['de'] = 'Adminkandidaturen';
 	$rfb['en'] = 'Requests_for_bureaucratship';
 	$rfb['de'] = 'Bürokratenkandidaturen';
-	
 
-	
-// Calculate all the things	
+
+
+// Calculate all the things
 	$dbr = $wt->loadDatabase( $lang, 'wikipedia' );
 	$pgVerbose = array();
 	$site = Peachy::newWiki( null, null, null, "http://$wi->domain/w/api.php" );
-	
+
 	$votes = get_rfap( $dbr, $site, $domain, $user, $rfa[ $lang ] );
 	$listAdmin = makeList( $votes, $rfa[ $lang ]);
 
 	$votes = get_rfap( $dbr, $site, $domain, $user, $rfb[ $lang ] );
 	$listBureaucrat = makeList( $votes, $rfb[ $lang ] );
-	
+
 	$wt->content = getPageTemplate( 'result' );
 		$wt->assign( 'listadmin', $listAdmin );
 		$wt->assign( 'listbureaucrat', $listBureaucrat );
 		$wt->assign( 'rfa', str_replace('_', ' ', $rfa[$lang] ) );
 		$wt->assign( 'rfb', str_replace('_', ' ', $rfb[$lang] ) );
-		
+
 		$wt->assign( 'username', $user );
 		$wt->assign( 'usernameurl', rawurlencode($user) );
 		$wt->assign( 'domain', $domain );
-		$wt->assign( 'wiki', $lang );
-		$wt->assign( 'lang', $wiki );
-	
-	
+		$wt->assign( 'wiki', $wiki );
+		$wt->assign( 'lang', $lang );
+
+
 unset( $output, $site, $votes );
-$wt->showPage();	
+$wt->showPage();
 
 
 
@@ -74,45 +74,45 @@ $wt->showPage();
 // Generate the output
 function makeList( $votes, $aorb ){
 	global $I18N;
-	
+
 	$output = '<table><tr><td><p>{#considered_usernames#}:</p><ul style="padding-top:5px;">';
 	foreach ( $votes["altnames"] as $i => $altname ){
 		$output .= '<li><a href="//{$domain}/wiki/User:'.$altname.'" >'.$altname.'</a></li> ';
 	}
 	$output .= '</ul>';
-	
+
 	$total = count($votes["support"]) + count($votes["oppose"]) + count($votes["neutral"]) + count($votes["unknown"]);
 	$rfxpages = str_replace("_", " ", ucfirst($aorb) );
 	$output .= '
 		<span>'.$I18N->msg('vote_msg', array("variables" => array( $votes["altnames"][0], $total, $rfxpages ) ) ).'</span><br />
-		<span> 
-			{#support#}: '.count($votes["support"]).',  
-			{#oppose#}: '.count($votes["oppose"]).', 
-			{#neutral#}: '.count($votes["neutral"]).', 
+		<span>
+			{#support#}: '.count($votes["support"]).',
+			{#oppose#}: '.count($votes["oppose"]).',
+			{#neutral#}: '.count($votes["neutral"]).',
 			{#unknown#}: '.count($votes["unknown"]).'
 		</span></td>
 	  ';
-	
+
 	$chdata[] = count($votes["support"]);
 	$chdata[] = count($votes["oppose"]);
 	$chdata[] = count($votes["neutral"]);
 	$chdata[] = count($votes["unknown"]);
-	
+
 	$labels = array( $I18N->msg('support'), $I18N->msg('oppose'), $I18N->msg('neutral'), $I18N->msg('unknown') );
 	$colors = array( '55FF55', 'FF5555', 'CEC7C7', 'E6E68A' );
-	
+
 	$output .= '<td><img height="" src="'.xGraph::makeMiniPie($chdata, $labels, $colors).' " alt="chart" /></td>';
 	$output .= '</tr></table><br />';
-	
+
 	foreach ( $votes as $type => $voteresults ){
-		
+
 		if ( $type == "altnames" ){ continue; }
 
 		$output .= '
 				<h4>'.$I18N->msg( ucfirst($type) ).'</h4>
 				<table class="leantable tble-condensed, xt-table">
 			';
-		
+
 		foreach ( $voteresults as $i => $item ){
 			$pagetitle = str_replace('_', ' ', preg_replace( '/^.*\/(.*)$/', '\1', $item["page"] ));
 			$output .= '
@@ -129,8 +129,8 @@ function makeList( $votes, $aorb ){
 
 	return $output;
 }
-	
-	
+
+
 function get_rfap( &$dbr, $site, $domain, $name, $aorb){
 
 	$output = array(
@@ -144,10 +144,10 @@ function get_rfap( &$dbr, $site, $domain, $name, $aorb){
 
 	// Get alternative names
 	$output["altnames"][] = $name;
-	
+
 	$sql_aorb = $dbr->strencode($aorb);
 	$sql_name = $dbr->strencode($name);
-	
+
 	$query = "
 		SELECT pl_from , (select b.page_title from page as b where b.page_id = pl_from) as altname
 		FROM page
@@ -202,10 +202,10 @@ function get_rfap( &$dbr, $site, $domain, $name, $aorb){
 				AND page_title != 'Adminkandidaturen/Kandidaturvorlagenhinweis'
 				AND page_title != 'Adminkandidaturen/Intro'
 				AND page_title != 'Adminkandidaturen/Alt01'
-				AND page_title != 'Adminkandidaturen/Alt02' 
+				AND page_title != 'Adminkandidaturen/Alt02'
 				AND page_title NOT LIKE 'Adminkandidaturen/Archiv%'
 				AND page_title NOT LIKE 'Adminkandidaturen/Kommentare%'
-				
+
 				AND page_title NOT LIKE 'Bürokratenkandidaturen/Archiv%'
 				AND page_title NOT LIKE 'Bürokratenkandidaturen/Februar_2011%'
 			GROUP by page_title
@@ -215,21 +215,21 @@ function get_rfap( &$dbr, $site, $domain, $name, $aorb){
 	else {
 		return ;
 	}
-		
-		
+
+
 	$result = $dbr->query( $query );
 
-	
+
 	foreach ( $result as $u => $rfas ) {
 
 		unset($myRFA);
-		
+
 		$candidate = "";
 		$page_title = "Wikipedia:".$rfas["page_title"];
 		$timestamp = date("Y-m-d", strtotime( $rfas["rev_timestamp"] ) );
-		
+
 		$rawwikitext = fetchRawwikitext( $site, $domain, $page_title, $rfas["rev_timestamp"] );
-		
+
 		//Create an RFA object & analyze
 		if ( $domain == "en.wikipedia.org" ){
 			$myRFA = new RFA( $site, null, $rawwikitext );
@@ -237,8 +237,8 @@ function get_rfap( &$dbr, $site, $domain, $name, $aorb){
 		if ( $domain == "de.wikipedia.org" ){
 			$myRFA = new RFAde( $site, null, $rawwikitext );
 		}
-		
-		
+
+
 		$candidate = html_entity_decode( $myRFA->get_username() );
 		$subArr = array(
 				"candidate" => $candidate,
@@ -248,7 +248,7 @@ function get_rfap( &$dbr, $site, $domain, $name, $aorb){
 				"contra" => count( $myRFA->get_oppose() ),
 				"neutral" => count($myRFA->get_neutral() ),
 			);
-						
+
 		foreach ( $myRFA->get_support() as $support ){
 			if ( in_array( $support["name"], $output["altnames"] ) ){
 				$output["support"][] = $subArr;
@@ -276,9 +276,9 @@ function get_rfap( &$dbr, $site, $domain, $name, $aorb){
 				continue(2);
 			}
 		}
-		
+
 		$output["unknown"][] = $subArr;
-			
+
 	}
 
 	return $output;
@@ -294,12 +294,12 @@ function fetchRawwikitext( $site, $domain, $pageTitle, $pageTimestamp ){
 	$ttl = 604800;
 	$hash = "xtoolsrfap".$domain.hash("crc32", $pageTitle.$pageTimestamp);
 	$lc = $redis->get($hash);
-	
+
 	if ($lc === false){
 
 		$pageObj = $site->initPage( $pageTitle );
 		$rawwikitext = $pageObj->get_text();
-		
+
 		if ( $rawwikitext ){
 			$redis->setex( $hash, $ttl, serialize($rawwikitext) );
 		}
@@ -312,14 +312,14 @@ function fetchRawwikitext( $site, $domain, $pageTitle, $pageTimestamp ){
 
 	return $rawwikitext;
 }
-	
+
 /**************************************** templates ****************************************
  *
 */
 function getPageTemplate( $type ){
 
 	$templateForm = '..old..';
-	
+
 	$templateResult = '
 	<div class="panel panel-primary" style="text-align:center">
 		<div class="panel-heading">
@@ -334,7 +334,7 @@ function getPageTemplate( $type ){
 			<a href="//tools.wmflabs.org/xtools-ec/?user={$usernameurl}&lang={$lang}&wiki={$wiki}" >Edit Counter</a> &middot;
 			<a href="//tools.wmflabs.org/guc/?user={$usernameurl}" >Global user contributions</a> &middot;
 			<a href="//meta.wikimedia.org/w/index.php?title=Special%3ACentralAuth&target={$usernameurl}" >Global Account Manager</a> &middot;
-		<!--<a href="//tools.wmflabs.org/wikiviewstats/?lang={$lang}&wiki={$wiki}&page={$userprefix}:{$usernameurl}*" >Pageviews in userspace</a> &middot; -->
+			<a href="//tools.wmflabs.org/pageviews/?project={$lang}.{$wiki}.org&page=User:{$usernameurl}" >Userpage pageviews</a>
 		</p>
 
 		<div class="panel panel-default">
@@ -354,11 +354,11 @@ function getPageTemplate( $type ){
 				{$listbureaucrat}
 			</div>
 		</div>
-			
+
 	</div>
 	';
-	
+
 	if( $type == "form" ) { return $templateForm; }
 	if( $type == "result" ) { return $templateResult; }
-	
+
 }

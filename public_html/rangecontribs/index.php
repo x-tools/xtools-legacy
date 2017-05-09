@@ -8,58 +8,58 @@
 	$wt = new WebTool( 'rangecontribs' );
 	$wt->setLimits();
 	$wt->getPageTemplate( "form" );
-	
+
 	$wt->assign( 'defaultBegin', date('Y')."-01-01");
 	$wt->content = str_replace('{#tosearch#}', 'CIDR /<br />List', $wt->content );
-	
+
 //Checks for alternative requests for compatibility (ips = legacy)
 	$list  = $wgRequest->getText( 'ips' );
-	$list  = $wgRequest->getText( 'list', $list ); 
+	$list  = $wgRequest->getText( 'list', $list );
 	$list  = $wgRequest->getText( 'text', $list );
-	
+
 	$limit = $wgRequest->getVal( 'limit', '20');
 	$display = $wgRequest->getVal('display');
 	$begin = $wt->checkDate( $wgRequest->getVal('begin') );
 	$end   = $wt->checkDate( $wgRequest->getVal('end') );
 	$namespace = $wgRequest->getVal('namespace');
-	
-	
+
+
 	$wi = $wt->wikiInfo;
 		$lang  = $wi->lang;
 		$wiki  = $wi->wiki;
 		$domain = $wi->domain;
 
-		
+
 	if( !$list || !$wiki || !$lang ){
 		$wt->showPage();
 	}
-	
+
 	if( $begin == 'error' || $end == 'error'){
 		$wt->toDie( 'invalid_date' );
 	}
 
-	
+
 //Create exec object
 	$dbr = $wt->loadDatabase( $lang, $wiki );
 	$rc = new RangeContribs( $dbr, $wt, $list, $begin, $end, $limit, $namespace );
-	
+
 
 //Make output
-	
-	$listsum = makeListSum( $rc->getItems() ); 
+
+	$listsum = makeListSum( $rc->getItems() );
 	if ( $display != "bytime" ){
 		$listbyName = makeListRevs( "byname", $rc->getContribs(), $wt->namespaces, $limit );
 	}
 	$listbyTime = makeListRevs( "bytime", $rc->getContribs(), $wt->namespaces, $limit );
-	
-	
-//Output stuff	
+
+
+//Output stuff
 	$wt->content = getPageTemplate( "result" );
-	
+
 	$wt->assign( "listsum", $listsum );
 	$wt->assign( "listbyname", $listbyName );
 	$wt->assign( "listbytime", $listbyTime );
-	
+
 	$wt->assign( "begin", $begin );
 	$wt->assign( "end", $end );
 	$wt->assign( "namespace", $namespace );
@@ -67,7 +67,7 @@
 	$wt->assign( 'domain', $domain );
 	$wt->assign( 'lang', $lang );
 	$wt->assign( 'wiki', $wiki );
-	
+
 unset( $base, $ipList, $listbyName, $listbyTime, $site );
 $wt->showPage();
 
@@ -76,9 +76,9 @@ $wt->showPage();
 
 function makeListSum( $items ){
 	global $wt;
-	
+
 	$list = "";
-	
+
 	if( count($items["cidr"]) > 0 ){
 		$list = "<table><tr>";
 		foreach( $items["cidr"] as $i => $cidr ){
@@ -95,7 +95,7 @@ function makeListSum( $items ){
 		}
 		$list .= "</tr></table>";
 	}
-	
+
 	$list .= '
 			<table class="leantable table-condensed xt-table" >
 			<tr><td>{#wiki#}:</td><td>{$domain}</td></tr>
@@ -104,12 +104,12 @@ function makeListSum( $items ){
 			<tr><td>{#namespace#}:</td><td>{$namespace}</td></tr>
 			<table>
 		';
-	
-	
+
+
 	ksort( $items["byrange"] );
-	
+
 	foreach ( $items["byrange"] as $group => $item ){
-		
+
 		$header = '<p style="margin:0.5em 0.3em 0.2em 0.3em" ><b>'.ucfirst($group).':</b></p>';
 		if ( isset($item["rangeinfo"]) ) {
 			$range = $item["rangeinfo"];
@@ -118,39 +118,39 @@ function makeListSum( $items ){
 			";
 		}
 		$list .= $header;
-		
+
 		$list .= '<table class="leantable table-condensed xt-table" >';
 		foreach ( $item["list"] as $user => $count ){
-			
+
 			$usernameurl = rawurlencode( $user );
-			
+
 			$list .= '
 				<tr>
 				<td><a href="#'.$usernameurl.'" >'.$user.'</a></td>
 				<td class="tdnum" style="padding-left:1em; padding-right:1em" >'.$wt->numFmt( $count ).'</td>
 				<td><small>
-					<a href="//{$domain}/w/index.php?title=Special:Log&type=block&user=&page=User:'.$usernameurl.'&year=&month=-1&tagfilter=" >block log</a> &middot; 
-					<a href="//{$xtoolsbase}/ec/?lang={$lang}&wiki={$wiki}&user='.$usernameurl.'" >edit counter</a> &middot; 
-					<a href="//tools.wmflabs.org/guc/?user='.$usernameurl.'" >guc</a> &middot; 
+					<a href="//{$domain}/w/index.php?title=Special:Log&type=block&user=&page=User:'.$usernameurl.'&year=&month=-1&tagfilter=" >block log</a> &middot;
+					<a href="//{$xtoolsbase}-ec/?lang={$lang}&wiki={$wiki}&user='.$usernameurl.'" >edit counter</a> &middot;
+					<a href="//tools.wmflabs.org/guc/?user='.$usernameurl.'" >guc</a>
 				</td></small>
 				</tr>
 			';
 		}
 		$list .= "</table>";
 	}
-	
+
 	return $list;
 }
 
 function makeListRevs( $display, $contribs, $namespaces, $limit ){
 	global $perflog;
-	#$perflog->add('mlist', $contribs); 	
+	#$perflog->add('mlist', $contribs);
 
 #	if( count( $contribs ) == 0 ) { return "no results"; }
 
 	if( $display == "byname" ){
 		$res = $contribs["byname"];
-		$nameheader = true; 
+		$nameheader = true;
 	}
 	else {
 		$res = $contribs["bytime"];
@@ -164,7 +164,7 @@ function makeListRevs( $display, $contribs, $namespaces, $limit ){
 
 	foreach ( $res as $ds => $sortkey ){
 		$row = $contribs["data"][$ds];
-		
+
 		$ns = ($row['page_namespace'] == 0) ? "" : $namespaces['names'][ $row['page_namespace'] ].":";
 		$title = str_replace("_", " ", $ns.$row['page_title'] );
 		$urltitle = rawurlencode( str_replace(" ", "_", $title ) );
@@ -183,7 +183,7 @@ function makeListRevs( $display, $contribs, $namespaces, $limit ){
 			$oldip = $row['rev_user_text'];
 			$seccount = 0;
 		}
-			
+
 		$list .= "<tr>";
 		$list .= '<td style="vertical-align:top;" >'.($seccount +1).'.</td>';
 		$list .= '<td style="font-size:95%; white-space:nowrap; vertical-align:top;">'.$date.'</td> ';
@@ -204,20 +204,20 @@ function makeListRevs( $display, $contribs, $namespaces, $limit ){
 		$c++;
 	}
 
-	
+
 	return $list;
 }
 
 
 /**************************************** templates ****************************************
- * 
+ *
  */
 function getPageTemplate( $type ){
 
 	$templateForm = '..old..';
-	
+
 	$templateResult = '
-			
+
 	<div class="panel panel-primary" style="text-align:center">
 		<div class="panel-heading">
 			<p class="xt-heading-top" >
@@ -225,8 +225,8 @@ function getPageTemplate( $type ){
 				<small><span style="padding-left:10px;" > &bull;&nbsp; {$domain} </span></small>
 			</p>
 		</div>
-		<div class="panel-body xt-panel-body-top" >	
-			
+		<div class="panel-body xt-panel-body-top" >
+
 			<div class="panel panel-default">
 				<div class="panel-heading">
 					<h4  class="topcaption" >{#summary#} <span class="showhide" onclick="javascript:switchShow( \'generalstats\', this )">[{#hide#}]</span></h4>
@@ -236,7 +236,7 @@ function getPageTemplate( $type ){
 					<br />
 				</div>
 			</div>
-			
+
 			<div class="panel panel-default">
 				<div class="panel-heading">
 					<h4  class="topcaption" >{#resultbytime#} <span class="showhide" onclick="javascript:switchShow( \'resultbytime\', this )">[{#hide#}]</span></h4>
@@ -247,7 +247,7 @@ function getPageTemplate( $type ){
 					</table>
 				</div>
 			</div>
-			
+
 			<div class="panel panel-default">
 				<div class="panel-heading">
 					<h4  class="topcaption" >{#resultbyname#} <span class="showhide" onclick="javascript:switchShow( \'resultbyname\', this )">[{#hide#}]</span></h4>
@@ -258,12 +258,12 @@ function getPageTemplate( $type ){
 					</table>
 				</div>
 			</div>
-			
+
 		</div>
 	</div>
 	';
-	
+
 	if( $type == "form" ) { return $templateForm; }
-	if( $type == "result" ) { return $templateResult; } 
+	if( $type == "result" ) { return $templateResult; }
 
 }
