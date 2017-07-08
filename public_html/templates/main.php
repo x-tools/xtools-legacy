@@ -78,8 +78,8 @@
                 <a href="//en.wikipedia.org/wiki/User:X!">X!</a> &bull;  
 				<?php echo $wt->sourcecode ?>
 				<?php echo $wt->bugreport ?>
-				<a href="irc://irc.freenode.net/#wikimedia-labs" >#wikimedia-labs</a>
-				<sup><a  style="color:green" href="https://webchat.freenode.net/?channels=#wikimedia-labs">WebChat</a></sup>
+				<a href="irc://irc.freenode.net/#wikimedia-cloud" >#wikimedia-cloud</a>
+				<sup><a  style="color:green" href="https://webchat.freenode.net/?channels=#wikimedia-cloud">WebChat</a></sup>
 			</span>
 			<br />
 			<span><?php echo $wt->langLinks ?></span>
